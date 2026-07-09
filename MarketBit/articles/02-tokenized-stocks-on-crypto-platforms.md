@@ -8,15 +8,19 @@ A tokenized stock is a digital token that is designed to track or represent expo
 
 In practical terms, the token is usually one of three things:
 
-- a claim tied to real shares held by a custodian [needs source]
-- a synthetic instrument that mirrors price movements [needs source]
-- a product wrapper that routes users into a brokerage or settlement system [needs source]
+- a claim tied to real shares held by a custodian
+- a synthetic instrument that mirrors price movements
+- a product wrapper that routes users into a brokerage or settlement system
 
 The token itself is only the surface layer. The real question is the structure underneath.
+
+That three-part framing now matches the way regulators and platforms describe the market. In its January 28, 2026 [statement on tokenized securities](https://www.sec.gov/newsroom/speeches-statements/corp-fin-statement-tokenized-securities-012826-statement-tokenized-securities), SEC staff said third-party tokenization models vary and that the rights attached to a crypto asset "may or may not" differ materially from the underlying security. A later SEC submission on tokenized U.S. equities described both a custodial "digital receipt" model and a derivative or synthetic model in detail, including the fact that synthetic tokens do not represent actual ownership of the underlying shares: [Tokenized U.S. Equities, DeFi Trading, and the SEC's Exemptive Authority](https://www.sec.gov/files/ctf-written-james-overdahl-tokenized-us-equities-01-22-2026.pdf).
 
 ## Model 1: custodially backed tokenized stocks
 
 In this model, a company or platform holds real shares through a regulated or semi-regulated custody arrangement, and users receive tokens linked to those holdings. This is the version most likely to resemble actual stock ownership, but even here the rights can differ from direct brokerage ownership.
+
+Ondo's July 2, 2026 [launch of tokenized IVV and Micron securities](https://ondo.finance/blog/ondo-launches-tokenized-securities-in-usa) is the clearest current example. Ondo said the underlying shares remain in the traditional U.S. custody chain, the tokens are backed 1:1 by those shares, and token holders receive shareholder communications and proxy-voting support through Broadridge.
 
 Important questions include:
 
@@ -42,7 +46,9 @@ For many readers, this is where confusion starts. A stock-like token can behave 
 
 ## Model 3: exchange or brokerage-routed products
 
-Another version of the market is less about an onchain share wrapper and more about building a bridge between crypto platforms and traditional capital markets. In that model, the crypto product becomes an access layer, while the underlying execution, licensing, or custody may still sit inside more traditional financial rails [needs source].
+Another version of the market is less about an onchain share wrapper and more about building a bridge between crypto platforms and traditional capital markets. In that model, the crypto product becomes an access layer, while the underlying execution, licensing, or custody may still sit inside more traditional financial rails.
+
+Coinbase is an example of this blended approach. In its June 16, 2026 [System Update](https://www.coinbase.com/en-gb/blog/system-update-take-control-of-your-money-with-coinbase), Coinbase separated tokenized stocks for non-U.S. customers from direct stock trading on Coinbase Advanced in the U.S., showing that some platforms are combining tokenized-equity wrappers, brokerage-style trading, and traditional market access inside the same account ecosystem.
 
 This matters because some "tokenized stock" stories are really part of a bigger exchange-to-brokerage convergence story.
 
@@ -71,9 +77,11 @@ Even with structural complexity, tokenized stocks solve a real demand problem. C
 The appeal usually includes:
 
 - easier interface familiarity
-- potentially broader geographic reach [needs source]
-- more flexible trading formats [needs source]
+- access for users who may prefer a crypto-native venue, subject to country restrictions
+- more flexible trading formats, including longer trading hours on some venues
 - faster product integration with other onchain tools
+
+Those benefits are product-specific, not universal. Kraken says its [xStocks](https://www.kraken.com/pro/xstocks) are available only to non-U.S. clients in select countries and can trade 24/7 for some products and 24/5 for U.S. stocks and ETFs. Coinbase says its [stock perpetual futures](https://www.coinbase.com/en-gb/blog/coinbase-launches-stock-perpetual-futures) give eligible traders outside the U.S. 24/7 leveraged synthetic exposure to U.S. stocks.
 
 For platforms, the opportunity is even bigger. Tokenized equities can widen product breadth without forcing users to move into a separate financial app.
 
@@ -85,7 +93,7 @@ If the user cannot easily tell whether they own a real share claim, a synthetic 
 
 ### Jurisdiction risk
 
-Access rules may differ sharply across countries. A product available to one user group may not be legally available to another [needs source].
+Access rules do differ sharply across countries. Kraken explicitly says xStocks are not available in the U.S., Canada, the UK, or Australia and are limited to select non-U.S. jurisdictions, while Coinbase's tokenized-stock roadmap is framed around non-U.S. customers and separate local permissions.
 
 ### Custody and issuer risk
 
@@ -112,11 +120,20 @@ Not for assumed legal equivalence.
 
 Tokenized stocks matter because they sit at the intersection of crypto rails and traditional equity demand. But the category is only useful if readers understand the structure. Some products are backed by real shares. Some are synthetic. Some are really brokerage-access systems wearing tokenized language. The strongest articles in this category answer the ownership question first and the hype question second.
 
-## Editor Source Checklist
+## Sources Used In This Draft
 
-- verify current The Block and other coverage on tokenized stock launches [needs source]
-- verify examples of custodial models and synthetic models [needs source]
-- verify any claims about redemption, trading hours, and regional access [needs source]
+- SEC staff, [Statement on Tokenized Securities](https://www.sec.gov/newsroom/speeches-statements/corp-fin-statement-tokenized-securities-012826-statement-tokenized-securities)
+- SEC submission, [Tokenized U.S. Equities, DeFi Trading, and the SEC's Exemptive Authority](https://www.sec.gov/files/ctf-written-james-overdahl-tokenized-us-equities-01-22-2026.pdf)
+- Ondo Finance, [Ondo launches tokenized securities in the U.S.](https://ondo.finance/blog/ondo-launches-tokenized-securities-in-usa)
+- Coinbase, [System Update: Take Control of Your Money with Coinbase](https://www.coinbase.com/en-gb/blog/system-update-take-control-of-your-money-with-coinbase)
+- Coinbase, [Coinbase Launches Stock Perpetual Futures](https://www.coinbase.com/en-gb/blog/coinbase-launches-stock-perpetual-futures)
+- Kraken, [xStocks on Kraken Pro](https://www.kraken.com/pro/xstocks)
+
+## Final Pre-Publish Checks
+
+- confirm current country availability and trading-hour claims on each platform
+- verify whether the specific products discussed are live, waitlisted, or roadmap items on publication day
+- add one comparison table for custodial, synthetic, and brokerage-linked models
 
 ## Internal Link Targets
 

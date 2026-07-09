@@ -18,7 +18,7 @@ Ethereum adds other dimensions:
 
 - smart-contract ecosystem exposure
 - tokenization and settlement relevance
-- staking narrative [needs source]
+- staking and validator economics
 - closer ties to DeFi and onchain capital markets
 
 That extra complexity can be a strength, but it also means the pitch is harder to keep disciplined.
@@ -39,7 +39,7 @@ Some public-market investors do not only want "crypto beta." They want exposure 
 
 ## The current signal from the market
 
-Recent reporting around companies such as Bitmine and Sharplink suggests that ETH treasury activity is becoming more visible [needs source]. Even if final publication should verify dates and amounts, the editorial point is already clear: ETH balance-sheet accumulation is now a real narrative category, not a rare exception.
+Recent reporting and company filings show that ETH treasury activity is now visible enough to track as its own category. In an SEC filing dated June 30, 2026, Sharplink said it had acquired an additional 10,000 ETH and held 886,725 ETH as of June 28, 2026, with substantially all of those holdings deployed in staking. In a May 11, 2026 Bitmine filing, the company said it held 5,206,790 ETH as of May 10 and intended to hold and stake those assets: [Sharplink 8-K](https://www.sec.gov/Archives/edgar/data/1981535/000149315226031202/form8-k.htm), [Bitmine filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226022150/ex99-3.htm). That is enough to treat ETH balance-sheet accumulation as a real narrative category rather than a rare exception.
 
 ## Why ETH treasury companies may appeal to investors
 
@@ -47,7 +47,7 @@ They can appeal for reasons that differ from the Bitcoin case.
 
 ### Infrastructure exposure
 
-Investors may see ETH treasury firms as proxies for growth in tokenization, stablecoin settlement, and broader onchain finance [needs source].
+Investors may see ETH treasury firms as proxies for growth in tokenization, stablecoin settlement, and broader onchain finance because Ethereum remains the chain most often associated with those use cases in institutional crypto coverage. That is an interpretive market view, not a claim made by every treasury issuer.
 
 ### Ecosystem signaling
 
@@ -69,7 +69,7 @@ Bitcoin can be defended with a cleaner reserve argument. ETH usually depends mor
 
 ### Staking confusion
 
-If the treasury story starts depending on staking income, operational structure, or yield assumptions, the risk profile can shift quickly [needs source].
+If the treasury story starts depending on staking income, validator operations, or projected yield assumptions, the risk profile can shift quickly. Bitmine’s May 2026 filing explicitly discussed staking scale and projected staking rewards, while Sharplink said substantially all of its ETH holdings were deployed in staking as of June 28, 2026.
 
 ### Investor misunderstanding
 
@@ -82,7 +82,7 @@ When evaluating an ETH treasury company, ask:
 - Is ETH core to the business story, or just a market attention strategy?
 - Does management explain why ETH fits better than Bitcoin?
 - Is the company linking ETH to tokenization, settlement, or product infrastructure in a credible way?
-- Are there clear rules around treasury scale, custody, and possible staking activity [needs source]?
+- Are there clear rules around treasury scale, custody, and any staking activity?
 
 The stronger the answers, the more likely the strategy is real rather than decorative.
 
@@ -94,11 +94,18 @@ Ethereum treasury coverage should not be reduced to purchase headlines. The bett
 
 Ethereum treasury companies are not simply copying the Bitcoin treasury model. They are making a more specific institutional bet on infrastructure, network relevance, and ecosystem positioning. That can be compelling, but it also introduces more moving parts. The right way to cover the category is to separate genuine strategic fit from loose narrative packaging.
 
-## Editor Source Checklist
+## Sources Used In This Draft
 
-- verify recent ETH treasury company examples and dates [needs source]
-- verify Bitmine and Sharplink references [needs source]
-- verify any mention of staking, operational use, or product integration [needs source]
+- Sharplink, [June 30, 2026 Form 8-K](https://www.sec.gov/Archives/edgar/data/1981535/000149315226031202/form8-k.htm)
+- Sharplink, [June 22, 2026 Form 8-K](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029804/form8-k.htm)
+- Bitmine, [May 11, 2026 filing / Chairman's Message excerpt](https://www.sec.gov/Archives/edgar/data/1829311/000149315226022150/ex99-3.htm)
+- Bitmine, [2025 Annual Report](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024689/formars.pdf)
+
+## Final Pre-Publish Checks
+
+- confirm the latest ETH holdings figures before publication, because these treasury balances can change quickly
+- add one short comparison table for Sharplink versus Bitmine
+- if you mention staking yield numbers, source the exact filing language and date
 
 ## Internal Link Targets
 
