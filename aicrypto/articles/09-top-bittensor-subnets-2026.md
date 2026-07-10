@@ -36,6 +36,12 @@ The top Bittensor subnets in 2026 are τemplar (SN3), Chutes (SN64), Targon (SN4
 
 That lineup follows the leading market-cap table highlighted in CoinGecko's updated May 7, 2026 guide to the dTAO ecosystem. The exact order can move, but these names are central enough to define the conversation.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who already understand the broad TAO story and want a practical way to evaluate which subnets matter inside the current dTAO market.
+
+Because subnet leadership can rotate, the article should always show a visible review date and should avoid presenting the ranking as static. That alone improves trust and keeps the page useful over time.
+
 ## How we ranked the leading Bittensor subnets
 
 | Factor | What we checked | Why it matters |
@@ -126,13 +132,34 @@ Under dTAO, alpha tokens let market demand help determine which subnets attract 
 
 Usually yes, because subnet tokens tend to have thinner liquidity and more concentrated narratives.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
-- `/ai-infrastructure/ai-infrastructure-crypto-coins-2026/` with anchor `AI infrastructure crypto coins`
-- `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
-- `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals ecosystem coins`
-- `/ai-data/indexing/` with anchor `AI data indexing`
+- In the intro: link to `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
+- In the stack comparison: link to `/ai-infrastructure/ai-infrastructure-crypto-coins-2026/` with anchor `AI infrastructure crypto coins`
+- In the broader category discussion: link to `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
+- In the agent-economy comparison: link to `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals ecosystem coins`
+- In the data-layer discussion: link to `/ai-data/indexing/` with anchor `AI data indexing`
+
+## External links to cite in the body
+
+- [CoinGecko: Top Bittensor Subnets and dTAO guide](https://www.coingecko.com/learn/top-bittensor-subnets-dtao)
+- [Bittensor subnet explorer](https://www.bittensor.ai/subnets)
+- [Learn Bittensor subnets overview](https://learnbittensor.org/subnets)
+- [Understanding Bittensor subnets](https://docs.learnbittensor.org/subnets/understanding-subnets)
+
+## Suggested media package
+
+- Hero image: TAO ecosystem map with highlighted subnets
+- Main table: ranked subnets with `SN number`, `specialization`, `why it matters`, and `main risk`
+- Supporting visual: screenshot of the Bittensor subnet explorer
+- Supporting visual: simple diagram explaining `TAO -> subnets -> alpha tokens -> dTAO`
+- Alt-text example: `Ecosystem map showing Bittensor subnets and how alpha tokens fit into dTAO`
+
+## EEAT upgrades to add before publish
+
+- Add a visible review date above the fold
+- Cite the exact CoinGecko guide or official explorer when naming the current leaders
+- Add one sentence explaining that liquidity and ranking can change quickly
 
 ## Source notes
 

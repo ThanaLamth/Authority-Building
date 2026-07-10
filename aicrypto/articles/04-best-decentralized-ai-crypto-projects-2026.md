@@ -36,6 +36,12 @@ The best decentralized AI crypto projects in 2026 are Bittensor, Artificial Supe
 
 Purists may debate the final names on the list, especially Chainlink and Virtuals. That is fair. But both still matter if your definition of decentralized AI includes trusted execution, verified data, and agent-to-agent commerce.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who want a stricter filter than the generic `AI crypto` label and care about whether a project decentralizes a real part of the AI stack.
+
+Because the term `decentralized AI` is often stretched, the editor should keep the definition section prominent and verify any claim about decentralization against official project documentation before publication.
+
 ## How we ranked decentralized AI crypto projects
 
 | Factor | What we checked | Why it matters |
@@ -122,13 +128,33 @@ No. Many AI coins are simply category tags or application-layer tokens. A decent
 
 Because decentralized AI is increasingly about agent economies and machine-to-machine interaction, not only about raw compute.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-infrastructure/ai-infrastructure-crypto-coins-2026/` with anchor `AI infrastructure crypto coins`
-- `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
-- `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
-- `/ai-infrastructure/models/top-bittensor-subnets-2026/` with anchor `top Bittensor subnets`
-- `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals Protocol ecosystem coins`
+- In the intro: link to `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
+- In the infrastructure comparison: link to `/ai-infrastructure/ai-infrastructure-crypto-coins-2026/` with anchor `AI infrastructure crypto coins`
+- In the Bittensor section: link to `/ai-infrastructure/models/top-bittensor-subnets-2026/` with anchor `top Bittensor subnets`
+- In the agent-economy discussion: link to `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals Protocol ecosystem coins`
+- In the conclusion: link to `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
+
+## External links to cite in the body
+
+- [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
+- [Bittensor subnets](https://www.bittensor.ai/subnets)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+- [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
+
+## Suggested media package
+
+- Hero image: decentralized AI concept graphic with compute, models, data, and agents
+- Comparison table: ranked projects with columns for `decentralized layer`, `token role`, and `centralization risk`
+- Supporting visual: two-column chart `general AI coin` vs `decentralized AI project`
+- Alt-text example: `Comparison chart showing the difference between generic AI coins and decentralized AI projects`
+
+## EEAT upgrades to add before publish
+
+- Add a short boxed definition for `decentralized AI`
+- Cite official docs where the decentralization claim is strongest
+- Add an editor note stating why borderline names were still included
 
 ## Source notes
 

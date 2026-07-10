@@ -61,6 +61,12 @@ The best AI crypto projects in 2026 are Bittensor, Chainlink, Artificial Superin
 
 That does not mean all 10 are interchangeable. Bittensor and Virtuals are stronger as ecosystem narratives. Chainlink and OriginTrail are stronger as data and coordination rails. Akash, Aethir, io.net, and Render matter more if you think compute and inference demand keep expanding.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who already understand basic crypto market structure and want a cleaner way to separate durable AI-crypto infrastructure from short-lived narrative trades.
+
+It is not a price-prediction page and it is not investment advice. The ranking is editorial and thesis-based. Before publishing, the editor should verify category membership, token names, and any market-share or liquidity claims against current official or top-tier sources.
+
 ## How we ranked the best AI crypto projects
 
 We used a simple editorial model instead of pretending to have a perfect quant score:
@@ -157,13 +163,37 @@ No. AI crypto is the bigger category. AI agent coins are one subcategory inside 
 
 Because AI agents still need trusted data, automation, and cross-chain execution. In practice, those rails matter even if Chainlink is not marketed as a pure AI play.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-agents/` with anchor `best ai agent crypto coins`
-- `/ai-infrastructure/` with anchor `ai infrastructure crypto coins`
-- `/ai-infrastructure/decentralized-ai/` with anchor `best decentralized ai crypto projects`
-- `/ai-agents/economy/` with anchor `top Virtuals Protocol ecosystem coins`
-- `/ai-trading/bots/` with anchor `best AI crypto trading bots`
+- In the intro or first H2: link to `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
+- In the methodology section: link to `/ai-infrastructure/ai-infrastructure-crypto-coins-2026/` with anchor `AI infrastructure crypto coins`
+- In the Bittensor section: link to `/ai-infrastructure/models/top-bittensor-subnets-2026/` with anchor `top Bittensor subnets`
+- In the Virtuals section: link to `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `top Virtuals Protocol ecosystem coins`
+- In the conclusion: link to `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
+
+## External links to cite in the body
+
+- [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
+- [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
+- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+- [Bittensor subnets](https://www.bittensor.ai/subnets)
+- [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
+
+## Suggested media package
+
+- Hero image: AI x Crypto market map split into `agents`, `infrastructure`, `data`, and `economy`
+- Comparison table: the 10 ranked projects with columns for `core use case`, `token role`, `ecosystem strength`, and `main risk`
+- Supporting visual: screenshot or cropped chart from the CoinGecko AI category page
+- Supporting visual: simplified diagram showing how data rails, compute rails, and agent economies connect
+- Alt-text example: `Diagram showing the 2026 AI crypto stack split into infrastructure, data, agent, and economy layers`
+
+## EEAT upgrades to add before publish
+
+- Add a byline from a named crypto market analyst or editor with a short author bio
+- Add a dated methodology note such as `Reviewed on July 10, 2026`
+- Add one sentence explaining whether the ranking prioritizes utility, ecosystem activity, or investability
+- Add direct citations next to any token-ranking or category-size claim
 
 ## Source notes
 

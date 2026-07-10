@@ -36,6 +36,12 @@ The best onchain AI agents in 2026 are Virtuals Protocol, Autonolas, Griffain, W
 
 Some of these names are better understood as agent ecosystems or agent-launch economies rather than single autonomous systems. That still matters, because the best onchain agents usually need distribution, liquidity, and wallet-native infrastructure around them.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who want to understand whether an AI agent is actually doing something onchain or simply borrowing the language of autonomy.
+
+Before publication, keep the definition of `onchain agent` explicit. Readers should know whether each listed name is a direct agent product, an agent economy asset, or a supporting protocol.
+
 ## How we ranked onchain AI agents
 
 | Factor | What we looked for | Why it matters |
@@ -130,13 +136,33 @@ No. Trading bots are usually narrower and rule-based. Onchain AI agents aim to h
 
 Crypto gives agents open wallets, programmable payments, composable apps, and machine-readable settlement rails.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
-- `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
-- `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals ecosystem coins`
-- `/ai-trading/bots/best-ai-crypto-trading-bots-2026/` with anchor `AI crypto trading bots`
-- `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `decentralized AI projects`
+- In the intro: link to `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
+- In the Virtuals section: link to `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `Virtuals ecosystem coins`
+- In the DeFi-execution discussion: link to `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
+- In the bot comparison discussion: link to `/ai-trading/bots/best-ai-crypto-trading-bots-2026/` with anchor `AI crypto trading bots`
+- In the infrastructure comparison: link to `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `decentralized AI projects`
+
+## External links to cite in the body
+
+- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+- [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
+- [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
+
+## Suggested media package
+
+- Hero image: wallet UI plus autonomous task flow
+- Comparison table: the 10 ranked names with `onchain action type`, `wallet relevance`, `ecosystem`, and `main risk`
+- Supporting visual: diagram showing `instruction -> agent -> wallet -> onchain settlement`
+- Alt-text example: `Diagram showing how an onchain AI agent receives instructions and triggers blockchain actions`
+
+## EEAT upgrades to add before publish
+
+- Add a note separating fully autonomous behavior from supervised agent workflows
+- Add direct citations whenever a project is described as executing real onchain actions
+- Add a review date because this category changes fast
 
 ## Source notes
 

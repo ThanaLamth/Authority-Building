@@ -36,6 +36,12 @@ The best DeFAI projects in 2026 are Wayfinder, Griffain, Giza, Hey Anon, Autonol
 
 That list mixes pure DeFi agents with broader AI automation platforms that have real DeFi utility. That is intentional, because the DeFAI category is still early and fuzzy around the edges.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who want to understand whether DeFAI is solving a real DeFi workflow problem or simply rebranding normal trading and dashboard features with AI language.
+
+The article should be published with a clear note that DeFAI can simplify execution but cannot remove smart-contract, liquidity, market, or custody risk. That framing adds more trust than hype does.
+
 ## How we ranked the top DeFAI projects
 
 | Factor | What we checked | Why it matters |
@@ -122,13 +128,32 @@ No. AI trading is narrower. DeFAI includes broader DeFi tasks such as yield disc
 
 Because DeFi still has a complexity problem, and AI is being tested as a way to reduce that friction.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
-- `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
-- `/ai-trading/bots/best-ai-crypto-trading-bots-2026/` with anchor `best AI crypto trading bots`
-- `/ai-trading/signals/best-crypto-ai-signals-2026/` with anchor `best crypto AI signals`
-- `/ai-ecosystem/defi-ai/` with anchor `DeFi AI ecosystem`
+- In the intro: link to `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
+- In the onchain workflow section: link to `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
+- In the execution discussion: link to `/ai-trading/bots/best-ai-crypto-trading-bots-2026/` with anchor `best AI crypto trading bots`
+- In the research and alert discussion: link to `/ai-trading/signals/best-crypto-ai-signals-2026/` with anchor `best crypto AI signals`
+- In the conclusion: link to `/ai-ecosystem/defi-ai/` with anchor `DeFi AI ecosystem`
+
+## External links to cite in the body
+
+- [CoinGecko DeFAI category](https://www.coingecko.com/en/categories/defai)
+- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+
+## Suggested media package
+
+- Hero image: DeFi dashboard plus AI workflow overlay
+- Comparison table: the 10 projects with columns for `main DeFi task`, `agent role`, `execution depth`, and `main risk`
+- Supporting visual: step-by-step chart showing `research -> route -> execute -> monitor`
+- Alt-text example: `Workflow chart showing how DeFAI tools simplify DeFi research, routing, execution, and monitoring`
+
+## EEAT upgrades to add before publish
+
+- Add a short disclaimer that the article is not yield advice
+- Add direct citations for claims about live products or active workflows
+- Add one editor paragraph explaining where the category boundaries are still fuzzy
 
 ## Source notes
 

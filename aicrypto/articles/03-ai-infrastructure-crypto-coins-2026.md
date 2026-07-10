@@ -36,6 +36,12 @@ The AI infrastructure crypto coins that matter most in 2026 are Bittensor, Chain
 
 This list is intentionally broader than "GPU coins." AI infrastructure is not only about compute. It is also about verified knowledge, agent payments, data access, and machine-readable coordination.
 
+## Who this guide is for and how to use it
+
+This guide is for readers who want to understand the infrastructure layer of AI x Crypto instead of only chasing the most visible agent narrative.
+
+It should be read as a category explainer with a ranked watchlist. Before publication, verify that each listed project still fits the infrastructure framing used here and add direct citations for any technical or market-structure claims.
+
 ## How we ranked AI infrastructure crypto coins
 
 | Factor | What we asked | Why it matters |
@@ -126,13 +132,33 @@ Not automatically, but they are often easier to analyze because their value prop
 
 Because AI workflows still depend on storage and data availability. It is an adjacent infrastructure play, not a pure agent or model token.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
-- `/ai-infrastructure/models/top-bittensor-subnets-2026/` with anchor `top Bittensor subnets`
-- `/ai-data/analytics/` with anchor `AI crypto analytics`
-- `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
-- `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
+- In the intro: link to `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
+- In the compute section: link to `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
+- In the Bittensor section: link to `/ai-infrastructure/models/top-bittensor-subnets-2026/` with anchor `top Bittensor subnets`
+- In the data-rail section: link to `/ai-data/analytics/` with anchor `AI crypto analytics`
+- In the comparison or conclusion: link to `/ai-agents/best-ai-agent-crypto-coins-2026/` with anchor `best AI agent crypto coins`
+
+## External links to cite in the body
+
+- [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
+- [Bittensor subnets](https://www.bittensor.ai/subnets)
+
+## Suggested media package
+
+- Hero image: infrastructure map showing compute, data, verification, and agent-payment rails
+- Comparison table: ranked projects with columns for `stack layer`, `primary function`, `token role`, and `main risk`
+- Supporting visual: compute-focused stack diagram with arrows from GPU supply to AI agents
+- Alt-text example: `Diagram of AI crypto infrastructure showing compute, data, verification, and settlement layers`
+
+## EEAT upgrades to add before publish
+
+- Add one paragraph clarifying why some names are included as adjacent infrastructure rather than pure AI tokens
+- Add direct citations for compute-network or data-network claims
+- Add an author note clarifying that the article ranks category relevance, not guaranteed upside
 
 ## Source notes
 

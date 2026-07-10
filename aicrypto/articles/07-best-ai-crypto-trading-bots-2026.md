@@ -36,6 +36,12 @@ The best AI crypto trading bots in 2026 are 3Commas, Cryptohopper, Pionex, Coinr
 
 That list includes both AI-branded products and established automation platforms that now offer AI-assisted strategy creation, signal handling, or smarter execution layers.
 
+## Who this guide is for and how to use it
+
+This guide is for traders comparing automation platforms, not for readers looking for guaranteed returns. The ranking favors usable workflow, exchange support, and risk controls over the loudest performance claims.
+
+To strengthen trust, the final published version should clearly state that most products here are better described as automation platforms with AI-assisted features rather than fully autonomous AI funds.
+
 ## How we ranked AI crypto trading bots
 
 | Factor | What we checked | Why it matters |
@@ -130,13 +136,36 @@ Usually not. Most products are better described as automation platforms with AI-
 
 Only with small size, clear limits, and a strong understanding of the strategy the bot is running.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-trading/signals/best-crypto-ai-signals-2026/` with anchor `best crypto AI signals`
-- `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
-- `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
-- `/ai-data/analytics/` with anchor `AI crypto analytics`
-- `/ai-trading/execution/` with anchor `AI trading execution`
+- In the intro: link to `/ai-trading/signals/best-crypto-ai-signals-2026/` with anchor `best crypto AI signals`
+- In the execution comparison: link to `/ai-trading/execution/` with anchor `AI trading execution`
+- In the DeFi automation comparison: link to `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
+- In the autonomy comparison: link to `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
+- In the research discussion: link to `/ai-data/analytics/` with anchor `AI crypto analytics`
+
+## External links to cite in the body
+
+- [3Commas AI trading bot](https://3commas.io/ai-trading-bot)
+- [Cryptohopper trading bot docs](https://docs.cryptohopper.com/docs/trading-bot/introduction-to-cryptohoppers-trading-bot)
+- [Pionex bot center](https://www.pionex.com/en/bot)
+- [Pionex Signal Bot guide](https://support.pionex.com/hc/en-us/articles/52606266734105-Signal-Bot)
+- [Coinrule platform](https://coinrule.com/b/)
+- [WunderTrading docs](https://wundertrading.com/docs)
+
+## Suggested media package
+
+- Hero image: multi-exchange trading dashboard with bot automation panels
+- Comparison table: the 10 bots with `best for`, `exchange support`, `AI/automation depth`, `risk controls`, and `pricing tier`
+- Supporting visual: screenshot of a bot setup flow from one official platform
+- Supporting visual: risk checklist graphic for new bot users
+- Alt-text example: `Dashboard showing a crypto bot platform with strategy settings and exchange connections`
+
+## EEAT upgrades to add before publish
+
+- Add a disclosure note if the page later includes affiliate links
+- Cite official pricing and exchange-support pages directly in the product sections
+- Add one box titled `What this bot does not do` to avoid overstating AI capability
 
 ## Source notes
 

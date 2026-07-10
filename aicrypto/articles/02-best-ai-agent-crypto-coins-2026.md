@@ -36,6 +36,12 @@ The best AI agent crypto coins in 2026 are Virtuals Protocol, Autonolas, Venice,
 
 Some of these names are stronger as ecosystem assets than as standalone fundamental bets. That distinction matters, because a token can benefit from an agent narrative without being the best long-term product bet.
 
+## Who this guide is for and how to use it
+
+This guide is for readers trying to separate agent-economy assets from generic AI-branded tokens. It assumes the reader wants to understand function, token role, and ecosystem context before treating an agent coin as a serious thesis.
+
+Treat the list as an editorial map, not a trading signal. Before publication, verify token names, ecosystem status, and whether each project still has an active role in the current AI-agent market.
+
 ## How we ranked AI agent coins for 2026
 
 | Factor | Question | Why it matters |
@@ -124,13 +130,35 @@ Yes. Agent coins usually sit closer to product behavior, agent execution, or age
 
 Because ecosystems with creation tools, liquidity, and distribution tend to pull attention toward their own internal assets. That creates upside, but also concentration risk.
 
-## Internal link targets
+## Internal links to place in the body
 
-- `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
-- `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
-- `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `top Virtuals Protocol ecosystem coins`
-- `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
-- `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
+- In the intro: link to `/ai-ecosystem/best-ai-crypto-projects-2026/` with anchor `best AI crypto projects`
+- In the Virtuals discussion: link to `/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/` with anchor `top Virtuals Protocol ecosystem coins`
+- In the autonomy discussion: link to `/ai-agents/onchain-agents/best-onchain-ai-agents-2026/` with anchor `best onchain AI agents`
+- In the DeFi workflow discussion: link to `/ai-agents/defi-agents/best-defai-projects-2026/` with anchor `best DeFAI projects`
+- In the risk section: link to `/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/` with anchor `best decentralized AI crypto projects`
+
+## External links to cite in the body
+
+- [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
+- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
+- [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
+
+## Suggested media package
+
+- Hero image: montage of AI agent dashboards, wallets, and tokenized agent profiles
+- Main table: the 10 coins with columns for `agent function`, `ecosystem`, `token role`, and `main dependency risk`
+- Supporting visual: simple flowchart showing `AI model -> agent -> wallet -> onchain action`
+- Supporting visual: screenshot from the CoinGecko AI Agents category page
+- Alt-text example: `Flowchart showing how an AI agent reads information, routes a wallet action, and settles onchain`
+
+## EEAT upgrades to add before publish
+
+- Add a note that the article distinguishes between ecosystem assets and direct agent products
+- Add direct citations for any claim that a token is central to a specific ecosystem
+- Add an editor's note on how `agent` is defined in this article
+- Include an updated date near the title because agent rosters change quickly
 
 ## Source notes
 
