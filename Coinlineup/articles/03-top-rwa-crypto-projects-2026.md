@@ -10,6 +10,10 @@
 
 RWA means real-world assets on crypto rails: treasuries, private credit, funds, commodities, invoices, and the software layers that make tokenization work. In 2026, this is not a fringe theme anymore. It is one of the cleanest bridges between crypto infrastructure and traditional finance.
 
+## Why you can trust this guide
+
+This guide was prepared on `2026-07-10` using official project pages and category-level market references. It is educational content, not investment advice. Rankings focus on product relevance, infrastructure role, and explainability for beginners rather than short-term token upside.
+
 ## The top RWA crypto projects in 2026 are the ones building tokenized treasury access, credit rails, asset issuance infrastructure, and the data plumbing needed to make those markets work.
 
 For most readers, the clearest projects to know are `Ondo`, `Chainlink`, `Maker/Sky`, `Centrifuge`, `Maple`, `Plume`, `TokenFi`, `Pendle`, `Polymesh`, and `Hashnote`. Some are direct tokenization plays, some are yield-distribution layers, and some matter because they provide the oracle, issuance, or fund-wrapper infrastructure that tokenized assets depend on.
@@ -111,12 +115,29 @@ RWA stands for `real-world assets`. It usually refers to treasuries, funds, cred
 
 They are often easier to explain from a business point of view, but they still carry execution, liquidity, and regulatory risk.
 
-## Internal link targets
+## Suggested internal links
 
-- `/guides/blockchain/what-is-tokenization/`
-- `/guides/crypto-basics/what-are-rwa-tokens/`
-- `/markets/market-trends/rwa-crypto-market-trend-2026/`
-- `/projects/reviews/project-review-framework/`
+- [What Is Tokenization?](/guides/blockchain/what-is-tokenization/) Suggested anchor: `what tokenization means`
+- [What Are RWA Tokens?](/guides/crypto-basics/what-are-rwa-tokens/) Suggested anchor: `what are RWA tokens`
+- [RWA Crypto Market Trend 2026](/markets/market-trends/rwa-crypto-market-trend-2026/) Suggested anchor: `RWA market trend in 2026`
+- [Project Review Framework](/projects/reviews/project-review-framework/) Suggested anchor: `how we review crypto projects`
+
+## Suggested external references
+
+- [CoinGecko RWA Category](https://www.coingecko.com/en/categories/real-world-assets-rwa)
+- [Ondo Finance](https://ondo.finance/)
+- [Chainlink](https://chain.link/)
+- [Sky Money](https://sky.money)
+- [Centrifuge](https://centrifuge.io/)
+- [Maple](https://maple.finance/)
+- [Plume](https://plume.org/)
+- [Polymesh](https://polymesh.network/)
+
+## Suggested media
+
+- `Hero chart`: RWA category snapshot from [CoinGecko RWA Category](https://www.coingecko.com/en/categories/real-world-assets-rwa)
+- `Explainer graphic`: tokenized treasuries vs private credit vs infrastructure stack
+- `Screenshot block`: protocol homepage screenshots for Ondo, Centrifuge, and Plume
 
 ## Source set checked on 2026-07-10
 

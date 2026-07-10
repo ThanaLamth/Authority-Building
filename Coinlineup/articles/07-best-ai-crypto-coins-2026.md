@@ -10,6 +10,10 @@
 
 AI crypto is one of the hardest categories to rank honestly because the sector contains two very different things: projects that help supply compute, data, or coordination for AI systems, and projects that mainly borrow the AI narrative to attract attention.
 
+## Why you can trust this guide
+
+This guide was prepared on `2026-07-10` using official project pages and category-level market references. It is educational content, not investment advice. Rankings prioritize real AI-related utility, infrastructure relevance, and narrative durability over hype.
+
 ## The best AI crypto coins in 2026 are the projects with a clear product role in compute, data, model coordination, or AI-agent infrastructure rather than only a strong social-media story.
 
 The strongest names to know are `Bittensor`, `Render`, `Near`, `Akash`, `io.net`, `Aethir`, `Fetch.ai / ASI`, `Grass`, `Golem`, and `Oraichain`. They do not all solve the same problem, which is exactly why beginners should stop treating AI crypto as one single bucket.
@@ -109,12 +113,29 @@ No. Some overlap through compute and data infrastructure, but AI and DePIN are s
 
 Start with utility. Ask whether the project provides compute, data, coordination, or tooling that AI systems actually need.
 
-## Internal link targets
+## Suggested internal links
 
-- `/guides/crypto-basics/what-are-ai-tokens/`
-- `/markets/market-trends/ai-crypto-trend-2026/`
-- `/projects/new-projects/top-depin-crypto-projects-2026/`
-- `/guides/security/how-to-spot-hype-driven-crypto-projects/`
+- [What Are AI Tokens?](/guides/crypto-basics/what-are-ai-tokens/) Suggested anchor: `what AI tokens are`
+- [AI Crypto Trend 2026](/markets/market-trends/ai-crypto-trend-2026/) Suggested anchor: `AI crypto trend in 2026`
+- [Top DePIN Crypto Projects in 2026](/projects/new-projects/top-depin-crypto-projects-2026/) Suggested anchor: `compute-focused DePIN projects`
+- [How to Spot Hype-Driven Crypto Projects](/guides/security/how-to-spot-hype-driven-crypto-projects/) Suggested anchor: `spot hype-driven crypto projects`
+
+## Suggested external references
+
+- [CoinGecko AI Category](https://www.coingecko.com/en/categories/artificial-intelligence)
+- [Bittensor](https://bittensor.com/)
+- [Render Network](https://rendernetwork.com/)
+- [Near](https://near.org/)
+- [Akash Network](https://akash.network/)
+- [io.net](https://io.net/)
+- [Aethir](https://aethir.com/)
+- [Fetch.ai](https://fetch.ai/)
+
+## Suggested media
+
+- `Hero chart`: AI category overview from [CoinGecko AI Category](https://www.coingecko.com/en/categories/artificial-intelligence)
+- `Custom visual`: compute vs data vs orchestration map for AI crypto
+- `Screenshot block`: Bittensor, Render, and io.net homepages or network explainers
 
 ## Source set checked on 2026-07-10
 
