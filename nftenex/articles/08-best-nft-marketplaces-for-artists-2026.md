@@ -24,6 +24,10 @@ The best NFT marketplace for artists in 2026 is not the one with the most generi
 
 That is the main difference between an artist-focused NFT article and a generic marketplace roundup. Artists are not only asking where they can list. They are asking where their work makes sense.
 
+> Why you can trust this guide
+>
+> This draft compares artist-facing platforms using live marketplace references and current platform positioning reviewed on 2026-07-10. Because fee rules, curation models, and creator programs can change, the final version should verify platform specifics against current artist-facing help or onboarding pages.
+
 ## The best NFT marketplaces for artists in 2026 are the ones that balance audience reach, creator control, and brand positioning
 
 For many artists, the most relevant platforms in 2026 are Foundation, SuperRare, Zora, OpenSea, Objkt, Magic Eden, Rarible, and Manifold-powered storefront approaches. Not every artist should use the same venue. Fine-art creators, photographers, open-edition artists, and community-native creators have different needs. `[needs source]`
@@ -173,3 +177,35 @@ The best NFT marketplace for artists in 2026 is the one that helps the work find
 - link "creator royalties" to `/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026`
 - link "best NFT marketplaces" to `/nft-markets/marketplaces/best-nft-marketplaces-2026`
 - link "artist hub" to `/creator-economy/artists`
+
+## Add these internal links in-body
+
+- Link `creator royalties` to `/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026` when discussing artist income tradeoffs
+- Link `best NFT marketplaces` to `/nft-markets/marketplaces/best-nft-marketplaces-2026` when comparing broad reach versus artist fit
+- Link `artist hub` to `/creator-economy/artists` in the intro or conclusion
+- Link `how artists build NFT brands` to `/nft-culture/branding/how-artists-build-nft-brands-2026` when discussing long-term positioning
+
+## Recommended external links
+
+- [OpenSea](https://opensea.io/)
+- [Foundation](https://foundation.app/)
+- [SuperRare](https://superrare.com/)
+- [Zora](https://zora.co/)
+- [Objkt](https://objkt.com/)
+- [Magic Eden](https://magiceden.io/)
+- [Rarible](https://rarible.com/)
+- [Manifold](https://www.manifold.xyz/)
+
+## EEAT upgrades to add before publish
+
+- Add one small framework box: audience fit, presentation, control, and collector quality.
+- Add one artist-perspective note for each platform instead of only product descriptions.
+- Add a statement on whether the editorial team evaluated each platform as a curator, seller, or buyer.
+- Add one screenshot pair comparing a curated art listing versus a broad marketplace listing.
+
+## Media package
+
+- Hero image: digital art gallery layout spanning multiple marketplace interfaces
+- Comparison table: marketplace, best for, curation level, creator control, collector fit, royalty posture
+- Screenshot set: Foundation artwork page, Zora drop page, OpenSea collection view
+- Graphic: "artist-first vs trader-first marketplaces"

@@ -24,6 +24,10 @@ Creator royalties are still one of the most misunderstood parts of NFT infrastru
 
 That means the best NFT marketplace for creator royalties is not always the marketplace with the loudest creator messaging. It is the one whose fee model, policy logic, and audience fit your release strategy.
 
+> Why you can trust this guide
+>
+> This article is based on live marketplace help-center documentation and current platform references reviewed on 2026-07-10. Because creator earnings rules and fee settings can change, any marketplace-specific policy claim should be finalized against the latest official help article before publication.
+
 ## The best NFT marketplaces for creator royalties in 2026 are Magic Eden, OpenSea, Zora, Manifold-powered storefronts, and Rarible
 
 Magic Eden and OpenSea remain essential because they still shape the practical marketplace environment creators must navigate. Zora is more attractive when creators want a culture-first, creator-native distribution model. Manifold-powered storefronts are strong when the team wants more direct control over the selling environment and creator relationship. Rarible remains relevant for creators who want a simpler marketplace-linked workflow. `[needs source]`
@@ -178,3 +182,32 @@ The best marketplace for creator royalties in 2026 is the one whose incentives s
 - link "NFT royalties" to `/creator-economy/royalties`
 - link "NFT marketplaces for artists" to `/creator-economy/artists/best-nft-marketplaces-for-artists-2026`
 - link "best NFT marketplaces" to `/nft-markets/marketplaces/best-nft-marketplaces-2026`
+
+## Add these internal links in-body
+
+- Link `NFT royalties` to `/creator-economy/royalties` when defining creator earnings
+- Link `NFT marketplaces for artists` to `/creator-economy/artists/best-nft-marketplaces-for-artists-2026` in the artist-use-case section
+- Link `best NFT marketplaces` to `/nft-markets/marketplaces/best-nft-marketplaces-2026` when comparing broad-market reach
+- Link `artist marketplaces` to `/creator-economy/artists` in the conclusion
+
+## Recommended external links
+
+- [OpenSea: What fees do I pay on OpenSea?](https://support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea)
+- [Magic Eden: What fees will I pay to list or sell NFTs on Magic Eden?](https://help.magiceden.io/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden)
+- [Zora](https://zora.co/)
+- [Manifold](https://www.manifold.xyz/)
+- [Rarible](https://rarible.com/)
+
+## EEAT upgrades to add before publish
+
+- Add a short note that distinguishes enforced royalties, optional royalties, and storefront-controlled economics in plain English.
+- Add a comparison table sourced directly from current platform help pages.
+- Add one creator quote or firsthand operator example on how royalty policy affects marketplace choice.
+- Add a disclosure note that this is not legal advice and that fee rules can vary by chain or marketplace surface.
+
+## Media package
+
+- Hero image: split-screen marketplace fee and royalty settings UI
+- Comparison table: marketplace, platform fee, creator earnings model, enforcement posture, best for
+- Screenshot set: OpenSea fee article, Magic Eden fee article, creator settings page if available
+- Flowchart: "royalty set -> listing -> sale -> payout"
