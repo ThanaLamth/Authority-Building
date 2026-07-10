@@ -36,6 +36,24 @@ The best crypto exchanges in Indonesia in 2026 are Pintu for beginners, Indodax 
 
 This ranking was built from official platform materials, Indonesia market context, and public regulatory framing rather than from generic affiliate lists. The focus is on what actually matters for Indonesian users: IDR access, mobile usability, and confidence in using the product repeatedly.
 
+## What We Checked Ourselves Before Ranking These Exchanges
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted Indonesian exchanges and compared how they frame onboarding, investing, and trading behavior. That does not replace a full deposit, trade, and withdrawal test, but it does reveal which products are trying to feel simple, which are trying to feel established, and which are trying to balance both.
+
+![Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.](../media/pintu-home-2026-07-10.png)
+
+*Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.*
+
+![Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Indonesia.](../media/tokocrypto-home-2026-07-10.png)
+
+*Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Indonesia.*
+
+![Reku homepage captured during our July 2026 review of crypto exchanges in Indonesia.](../media/reku-home-2026-07-10.png)
+
+*Reku homepage captured during our July 2026 review of crypto exchanges in Indonesia.*
+
+What stood out immediately was not just branding. It was posture. Pintu presents itself like a mobile-first onboarding product, Tokocrypto leans more into active-market energy, and Reku signals a calmer portfolio-building experience. That difference matters more than generic claims about being "the best" for everyone.
+
 ## Quick Comparison of the Best Indonesia Crypto Exchanges
 
 | Exchange | Best for | Main strength | Main trade-off |

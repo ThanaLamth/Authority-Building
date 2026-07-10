@@ -36,6 +36,24 @@ The best stablecoins for Asia in 2026 are USDT for market liquidity, USDC for st
 
 This ranking was built from issuer pages, official token overviews, and regional context from the [ADB's Asian Economic Integration Report 2026](https://aric.adb.org/aeir2026) and the [OECD's Asia crypto-market review](https://www.oecd.org/en/publications/asia-capital-markets-report-2026_08f87bed-en/full-report/developments-in-crypto-asset-markets_193a8553.html). It ranks actual usefulness in Asia rather than treating every stablecoin as interchangeable.
 
+## What We Checked Ourselves Before Ranking These Stablecoins
+
+To write this comparison, we reviewed the live public issuer pages of the shortlisted stablecoins and compared how each project presents trust, utility, and geographic relevance. That direct review does not replace a reserve-quality audit or a corridor-by-corridor remittance test, but it does show which stablecoins are positioning themselves as liquidity tools, which are leaning into regulated global payments, and which are making a narrower regional claim.
+
+![Tether homepage captured during our July 2026 review of stablecoins relevant to Asia.](../media/tether-home-2026-07-10.png)
+
+*Tether homepage captured during our July 2026 review of stablecoins relevant to Asia.*
+
+![Circle USDC page captured during our July 2026 review of stablecoins relevant to Asia.](../media/usdc-circle-page-2026-07-10.png)
+
+*Circle USDC page captured during our July 2026 review of stablecoins relevant to Asia.*
+
+![StraitsX XSGD page captured during our July 2026 review of stablecoins relevant to Asia.](../media/xsgd-straitsx-page-2026-07-10.png)
+
+*StraitsX XSGD page captured during our July 2026 review of stablecoins relevant to Asia.*
+
+What stood out immediately was not only brand scale. It was framing. Tether still signals ubiquity and market usage, Circle leans into regulated-finance language, and XSGD makes a much narrower but more regionally grounded payments claim. That difference matters because users in Asia are not always solving the same problem with a stablecoin.
+
 ## Quick Comparison of the Best Stablecoins for Asia
 
 | Stablecoin | Best for | Main strength | Main trade-off |

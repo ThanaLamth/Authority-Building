@@ -36,6 +36,24 @@ The best crypto exchanges in Thailand in 2026 are Bitkub for mainstream local fa
 
 This comparison relies on Thai market context, the [Thailand SEC digital-asset licensing pages](https://market.sec.or.th/LicenseCheck/views/DABusiness/en), and official exchange materials. It is written to help Thai readers choose a usable platform, not to reward the biggest international marketing budget.
 
+## What We Checked Ourselves Before Ranking These Exchanges
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted Thailand-facing exchanges and compared them against the public licensing context shown by the Thai regulator. That direct review does not replace a full THB deposit and withdrawal test, but it does make one thing obvious very quickly: local trust signals are not just background context in Thailand. They are part of the product.
+
+![Binance TH homepage captured during our July 2026 review of crypto exchanges in Thailand.](../media/binance-th-home-2026-07-10.png)
+
+*Binance TH homepage captured during our July 2026 review of crypto exchanges in Thailand.*
+
+![Upbit Thailand homepage captured during our July 2026 review of crypto exchanges in Thailand.](../media/upbit-th-home-2026-07-10.png)
+
+*Upbit Thailand homepage captured during our July 2026 review of crypto exchanges in Thailand.*
+
+![Thailand SEC digital-asset exchange licensing page captured during our July 2026 review of crypto exchanges in Thailand.](../media/thailand-sec-digital-asset-license-2026-07-10.png)
+
+*Thailand SEC digital-asset exchange licensing page captured during our July 2026 review of crypto exchanges in Thailand.*
+
+What stood out immediately was not who looked biggest. It was how visible the local-regulation layer is in the Thai market. That is a strength if you care about domestic clarity, but it can be a weakness if you assume every local platform will also match the breadth of a large global exchange.
+
 ## Quick Comparison of the Best Thailand Crypto Exchanges
 
 | Exchange | Best for | Main strength | Main trade-off |

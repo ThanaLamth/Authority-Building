@@ -36,6 +36,24 @@ The best crypto wallets in Asia in 2026 are Trust Wallet for all-around mobile u
 
 This wallet guide uses official wallet documentation, product pages, and Asia-specific usage context rather than generic "most downloaded app" logic. The ranking gives extra weight to self-custody practicality, multichain use, and how Asian users actually move funds between exchanges, stablecoins, and onchain tools.
 
+## What We Checked Ourselves Before Ranking These Wallets
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted wallets and compared what they signal before a user even completes setup. That direct review does not replace a full seed-phrase flow, transfer test, or onchain-signing session, but it does reveal whether a wallet is trying to feel like a beginner product, a security-first device, or a Web3 control panel.
+
+![Ledger homepage captured during our July 2026 review of crypto wallets in Asia.](../media/ledger-home-2026-07-10.png)
+
+*Ledger homepage captured during our July 2026 review of crypto wallets in Asia.*
+
+![Tangem homepage captured during our July 2026 review of crypto wallets in Asia.](../media/tangem-home-2026-07-10.png)
+
+*Tangem homepage captured during our July 2026 review of crypto wallets in Asia.*
+
+![Bitget Wallet homepage captured during our July 2026 review of crypto wallets in Asia.](../media/bitget-wallet-home-2026-07-10.png)
+
+*Bitget Wallet homepage captured during our July 2026 review of crypto wallets in Asia.*
+
+What stood out immediately was not just feature count. It was posture. Ledger presents itself as a control-and-security product, Tangem pushes hardware simplicity, and Bitget Wallet signals mobile-first Web3 convenience. That difference is exactly why one wallet can feel excellent for one user and wrong for another.
+
 ## Quick Comparison of the Best Crypto Wallets in Asia
 
 | Wallet | Best for | Main strength | Main trade-off |

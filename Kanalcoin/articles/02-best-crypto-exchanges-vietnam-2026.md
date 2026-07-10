@@ -36,6 +36,24 @@ The best crypto exchanges in Vietnam in 2026 are Binance for overall liquidity a
 
 This ranking uses official exchange sites, public product materials, and market context from [Chainalysis's 2025 Global Crypto Adoption Index](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/) and Vietnam's [Law on Digital Technology Industry](https://english.mic.gov.vn/national-assembly-adopts-law-on-digital-technology-industry-197250616203643956.htm). It focuses on actual user workflows such as P2P, VND access, and trading fit rather than generic global-brand prestige.
 
+## What We Checked Ourselves Before Ranking These Exchanges
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted exchanges and compared how they present onboarding, trading posture, and mainstream-user entry points. That direct review does not replace a full VND deposit or withdrawal test, but it does show very quickly which platforms are signaling simplicity, which are signaling trader depth, and which are trying to do both at once.
+
+![Binance homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.](../media/binance-home-2026-07-10.png)
+
+*Binance homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.*
+
+![Bitget homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.](../media/bitget-home-2026-07-10.png)
+
+*Bitget homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.*
+
+![OKX homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.](../media/okx-home-2026-07-10.png)
+
+*OKX homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.*
+
+What stood out immediately was not who had the longest feature list. It was how differently these exchanges frame the first user decision. Some push brand trust and mainstream onboarding, while others push ecosystem depth or active-trader identity much earlier in the flow.
+
 ## Quick Comparison of the Best Vietnam Crypto Exchanges
 
 | Exchange | Best for | Main strength | Main trade-off |

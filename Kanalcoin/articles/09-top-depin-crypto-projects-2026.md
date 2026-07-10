@@ -36,6 +36,24 @@ The top DePIN crypto projects to watch in 2026 are Render for decentralized GPU 
 
 This DePIN list is built from official project materials and category logic rather than from price-action alone. It gives extra weight to real infrastructure use, demand quality, and whether the token story maps to something useful outside speculation.
 
+## What We Checked Ourselves Before Ranking These DePIN Projects
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted DePIN projects and compared how they frame compute, connectivity, and infrastructure utility. That direct review does not replace a full network-usage audit, but it does show very quickly whether a project is presenting itself like a real infrastructure business or mainly like a token narrative.
+
+![Render Network homepage captured during our July 2026 review of DePIN crypto projects.](../media/render-home-2026-07-10.png)
+
+*Render Network homepage captured during our July 2026 review of DePIN crypto projects.*
+
+![Helium homepage captured during our July 2026 review of DePIN crypto projects.](../media/helium-home-2026-07-10.png)
+
+*Helium homepage captured during our July 2026 review of DePIN crypto projects.*
+
+![Akash homepage captured during our July 2026 review of DePIN crypto projects.](../media/akash-home-2026-07-10.png)
+
+*Akash homepage captured during our July 2026 review of DePIN crypto projects.*
+
+What stood out immediately was not just which project used infrastructure language. It was the type of infrastructure each one tried to own in the reader's mind. Render leans into compute and creative power, Helium into wireless connectivity, and Akash into open cloud and AI compute. That difference matters because DePIN is not one market.
+
 ## Quick Comparison of the Top DePIN Crypto Projects
 
 | Project | Best for | Main strength | Main trade-off |

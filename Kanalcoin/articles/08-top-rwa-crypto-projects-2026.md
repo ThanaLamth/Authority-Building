@@ -36,6 +36,24 @@ The top RWA crypto projects to watch in 2026 are Ondo for broad tokenized-financ
 
 This comparison uses official project sites, product framing, and category context from [RWA.xyz](https://www.rwa.xyz/) rather than ranking projects by social-media noise alone. The focus is on adoption logic, infrastructure depth, and whether the story still works when hype cools down.
 
+## What We Checked Ourselves Before Ranking These RWA Projects
+
+To write this comparison, we reviewed the live public product surfaces of the shortlisted RWA projects and compared how they frame tokenization, asset management, and infrastructure utility. That direct review does not replace a full product, revenue, or token-value audit, but it does reveal which projects are positioning themselves like financial rails, which are positioning themselves like asset wrappers, and which are leaning into broader infrastructure language.
+
+![Centrifuge homepage captured during our July 2026 review of RWA crypto projects.](../media/centrifuge-home-2026-07-10.png)
+
+*Centrifuge homepage captured during our July 2026 review of RWA crypto projects.*
+
+![Chainlink homepage captured during our July 2026 review of RWA crypto projects.](../media/chainlink-home-2026-07-10.png)
+
+*Chainlink homepage captured during our July 2026 review of RWA crypto projects.*
+
+![Plume homepage captured during our July 2026 review of RWA crypto projects.](../media/plume-home-2026-07-10.png)
+
+*Plume homepage captured during our July 2026 review of RWA crypto projects.*
+
+What stood out immediately was not just which project used the word "RWA." It was what kind of role each project claims in the stack. That matters because a tokenized-asset platform, an infrastructure layer, and an RWA-focused chain should not be judged as if they are the same product.
+
 ## Quick Comparison of the Top RWA Crypto Projects
 
 | Project | Best for | Main strength | Main trade-off |
