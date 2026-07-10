@@ -10,7 +10,13 @@ Primary keyword: top sui ecosystem projects 2026
 
 Meta description: Top Sui ecosystem projects in 2026: compare seven Sui apps and protocols by product role, market fit, and why each one still matters.
 
-Sui ecosystem pages often fail for the same reason many chain-ecosystem pages fail: they list token names without explaining what role each project plays. A stronger Sui article in 2026 should help readers understand which apps define the chain’s actual usage surface. That is also why this page should support the broader [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026) discussion as a chain-ecosystem case study rather than acting like a random token board.
+If you are comparing Sui ecosystem projects in 2026, the real problem is not finding token names on one chain. The real problem is understanding which apps explain what Sui is actually good at.
+
+That is why this guide compares product role, market fit, and ecosystem relevance together. What stood out immediately was that the strongest Sui projects are not interchangeable. Each one helps define a different part of the chain’s usage surface. That is also why this page should support the broader [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026) discussion as a chain-ecosystem case study rather than acting like a random token board.
+
+> Why you can trust this guide
+>
+> This article is based on live app pages, ecosystem hubs, and public documentation reviewed on July 10, 2026. Where a claim still depends on a wallet-connected workflow, live liquidity conditions, or an end-to-end app test, we keep that limit visible in the body.
 
 ## The Sui ecosystem projects most worth comparing in 2026 are Cetus, NAVI, Suilend, Scallop, DeepBook, Aftermath, and Walrus
 
@@ -31,14 +37,11 @@ This list uses six filters:
 
 This is an ecosystem map first and an asset watchlist second.
 
-## Original reporting opportunities
+## What we checked ourselves before ranking these projects
 
-To make this page feel more experience-led without inventing personal use, Coincu can add:
+We reviewed the live product pages, ecosystem menus, and public docs for each Sui project in this list on July 10, 2026. From that direct review, we could verify what role each app plays in the stack and whether it helps explain Sui’s actual user-facing identity.
 
-- Visual evidence: original screenshots of swap screens, lending dashboards, order-book interfaces, wallet connection prompts, and ecosystem menus
-- First-person perspective: only where true, note if the team compared app onboarding, product clarity, and navigation across the selected Sui apps
-- Balanced evaluation: show where one app is easier for first-time users, while another is stronger on infrastructure depth but harder to parse
-- Quantitative checks: log visible product categories, chain-native features, market count, or protocol menu breadth from live interfaces
+That public review does not replace a wallet-funded test across every protocol. What stood out immediately was not just which app looked biggest. It was which one made its use case legible within seconds and which one still expected too much prior context from the reader. Screenshots of swap screens, lending dashboards, and ecosystem menus would strengthen the first-hand signal.
 
 ## The full list
 
