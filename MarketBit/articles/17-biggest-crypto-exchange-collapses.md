@@ -101,6 +101,37 @@ Because the long tail matters. Smaller failures often reveal the recurring opera
 
 Do not confuse convenience, branding, or popularity with real custodial safety.
 
+## Why readers can trust this list
+
+This article is built as a failure-pattern explainer, not as nostalgia content. The ranking favors collapses that changed user behavior or permanently altered how the market thinks about custody and trust. That makes the page more valuable than a simple chronology because each case is tied to a lesson readers can still use in 2026.
+
+This draft needs the heaviest final-source pass in the batch. For production quality:
+
+- add one dedicated source for each exchange collapse named in the list
+- include one sentence on what specifically failed in each case
+- keep the top three collapses tied to user impact and industry-level trust damage
+
+## Recommended Internal Links In Body
+
+- In the intro, link `custody story` to `/16-largest-crypto-exchanges-2026`
+- In the FTX section, link `customer recovery` to `/12-biggest-crypto-lawsuits-2026`
+- In the warning-sign section, link `fraud patterns` to `/13-biggest-crypto-fraud-cases-2026`
+- In the historical lesson section, link `market’s operating manual` to `/19-biggest-crypto-crashes-in-history-2026`
+
+## Recommended External Links In Body
+
+- Link the FTX and broader legal context to [Recent Cryptocurrency Settlements: The Biggest U.S. Cases](https://legalclarity.org/recent-cryptocurrency-settlements-the-biggest-u-s-cases/)
+- Link crash-history crossover context to [Decrypt’s Biggest Bitcoin Crashes in History](https://decrypt.co/344676/9-biggest-bitcoin-crashes-history)
+- Add case-specific official or top-tier reporting links before publication for Mt. Gox, QuadrigaCX, Thodex, Cryptopia, and BTC-e
+
+## Suggested Media
+
+- Featured image: abandoned exchange-dashboard or exchange-logo graveyard collage
+- Inline timeline: Mt. Gox -> QuadrigaCX -> Thodex -> FTX
+- Inline table: exchange, year, failure type, main lesson
+- Screenshot idea: bankruptcy headlines or official trustee / administrator pages for Mt. Gox and FTX
+- Alt-text model: `Timeline of the biggest crypto exchange collapses and the trust failures behind them`
+
 ## Conclusion
 
 The biggest crypto exchange collapses are not just historical embarrassments. They are the map of crypto’s recurring custody failures. Every new exchange ranking, regulatory story, or “who controls distribution now?” article still sits in the shadow of these collapses.

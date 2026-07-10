@@ -22,6 +22,8 @@ It also contains a second batch prepared on 2026-07-10 focused on crypto narrati
   - structure, slug, and priority sheet for the list batch
 - `marketbit-crypto-list-tracker-2026-07-10.md`
   - status tracker for the July 10 list batch
+- `marketbit-crypto-list-media-plan-2026-07-10.md`
+  - image, chart, table, and screenshot plan for the July 10 list batch
 - `articles/`
   - includes 10 additional list-style drafts added on 2026-07-10:
     - `11-crypto-regulators-to-watch-2026.md`

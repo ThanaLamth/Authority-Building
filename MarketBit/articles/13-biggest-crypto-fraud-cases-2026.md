@@ -109,6 +109,37 @@ Pig-butchering and related social-engineering scams are among the most damaging 
 
 In many ways, yes. The center of gravity has moved more clearly toward actual deception, misuse, and investor harm.
 
+## Why readers can trust this list
+
+This page is designed as a fraud-pattern explainer, not just a scandal roundup. It ranks cases by harm and teaching value, which means readers can use it both as a news page and as a framework for spotting similar red flags in the future. The strongest evidence base here comes from public enforcement reporting, the FBI’s fraud-loss reporting, and widely documented flagship cases like FTX and Terraform.
+
+To keep the page useful over time:
+
+- refresh fraud-loss numbers when the FBI or comparable agencies publish new annual totals
+- move new scam archetypes higher if they become more damaging than legacy cases
+- keep at least one “how the scam worked” sentence under every ranked item
+
+## Recommended Internal Links In Body
+
+- In the opening section, link `exchange misuse` to `/biggest-crypto-exchange-collapses`
+- In the FTX section, link `customer trust` to `/biggest-crypto-lawsuits-2026`
+- In the social-engineering discussion, link `biggest crypto hacks of 2026` to `/biggest-crypto-hacks-2026`
+- In the closing section, link `enforcement story` to `/crypto-regulators-to-watch-2026`
+
+## Recommended External Links In Body
+
+- Link the main overview to [Biggest Crypto Fraud Cases: FTX, Do Kwon, and Pig Butchering](https://legalclarity.org/biggest-crypto-fraud-cases-ftx-do-kwon-and-pig-butchering/)
+- Link the national-loss context to [FBI 2025 IC3 Annual Report](https://www.ic3.gov/Media/PDF/AnnualReport/2025_IC3Report.pdf)
+- Link the crossover legal context to [Recent Cryptocurrency Settlements: The Biggest U.S. Cases](https://legalclarity.org/recent-cryptocurrency-settlements-the-biggest-u-s-cases/)
+
+## Suggested Media
+
+- Featured image: scam-network map or warning-style fraud collage
+- Inline table: case, fraud type, approximate harm, key lesson
+- Visual explainer: `how pig-butchering scams escalate from trust-building to extraction`
+- Screenshot idea: FBI IC3 fraud report cover and official scam-reporting page
+- Alt-text model: `Diagram showing the main crypto fraud patterns still causing major damage in 2026`
+
 ## Conclusion
 
 The biggest crypto fraud cases of 2026 show that the market’s darkest patterns are not all the same. Some are corporate. Some are promotional. Some are deeply personal. The common thread is that every major fraud case combines opacity, misplaced trust, and a story that sounds easier than the underlying economics really are.

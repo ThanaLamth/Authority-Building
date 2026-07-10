@@ -106,6 +106,36 @@ Not really. It may be broader and more liquid in places, but it still reprices v
 
 Because crash history should stay current. Newer crashes show how much has changed and how much has not.
 
+## Why readers can trust this list
+
+This page does not try to force a fake-precise ranking out of incomparable crashes. Instead, it explains the criteria, distinguishes between percentage collapses and market-wide contagion, and focuses on what each event changed for the next cycle. That is the right EEAT posture for a history article because it favors interpretation with evidence over false certainty.
+
+To keep the article strong after publication:
+
+- keep the 2025 and 2026 entries updated if a newer crash changes the frame
+- make sure each crash has a one-line trigger explanation
+- refresh the lead if the newest crash becomes the main reader hook
+
+## Recommended Internal Links In Body
+
+- In the intro, link `trust collapses` to `/17-biggest-crypto-exchange-collapses`
+- In the 2022 section, link `FTX collapse` to `/12-biggest-crypto-lawsuits-2026`
+- In the contagion discussion, link `fraud and misuse` to `/13-biggest-crypto-fraud-cases-2026`
+- In the closing section, link `largest exchanges` to `/16-largest-crypto-exchanges-2026`
+
+## Recommended External Links In Body
+
+- Link the historical baseline to [Decrypt’s 9 Biggest Bitcoin Crashes in History](https://decrypt.co/344676/9-biggest-bitcoin-crashes-history)
+- Link the 2026 market wipeout reference to [CoinDesk’s February 1, 2026 crash report](https://www.coindesk.com/markets/2026/02/01/crypto-s-usd19-billion-10-10-nightmare-why-everyone-is-blaming-binance-for-the-bitcoin-crash-that-won-t-end)
+
+## Suggested Media
+
+- Featured image: bearish market chart collage with Mt. Gox, Terra, FTX, and 2026 references
+- Inline timeline: 2011, 2013, 2018, 2020, 2021, 2022, 2025, 2026
+- Inline table: crash, trigger, drawdown style, lesson
+- Screenshot idea: chart snapshots around the largest crash windows
+- Alt-text model: `Timeline of the biggest crypto crashes in history, updated with the 2026 market wipeout`
+
 ## Conclusion
 
 The biggest crypto crashes in history are not just records of pain. They are the market’s operating manual written backward. Each one shows where trust was weakest, where leverage was hidden, and where the story proved less durable than the price.
