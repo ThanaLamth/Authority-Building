@@ -41,6 +41,15 @@ This draft ranks charts by:
 - ability to support serious macro interpretation rather than social-media chartposting
 - usefulness for MarketBit editorial workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+This article needs stronger macro discipline than a normal crypto listicle:
+
+- define exactly which liquidity proxies are being used in the final version
+- distinguish global M2-style charts from broader dollar-liquidity or balance-sheet composites
+- explain where correlation is loose, delayed, or broken rather than overstating the relationship
+- include one methodology box that tells readers why the chosen charts were selected
+
 ## The 7 best global liquidity charts for Bitcoin in 2026
 
 ### 1. TradingView custom global liquidity overlays
@@ -128,11 +137,24 @@ The best global liquidity charts for Bitcoin are the ones that help a reader thi
 - confirm whether the article uses global M2, dollar liquidity, or a broader composite
 - add one chart-methodology box to avoid overclaiming
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/liquidity`
-- `/liquidity/global-liquidity`
-- `/liquidity/stablecoins`
-- `/liquidity/capital-flows`
-- `/etf-flows/bitcoin-etf`
-- `/market-structure/cycles`
+- `global liquidity and Bitcoin` -> `/liquidity/global-liquidity`
+- `stablecoin liquidity dashboards` -> `/liquidity/stablecoins`
+- `capital-flow indicators` -> `/liquidity/capital-flows`
+- `bitcoin ETF flows` -> `/etf-flows/bitcoin-etf`
+- `crypto market cycles` -> `/market-structure/cycles`
+
+## Recommended External Links
+
+- TradingView homepage -> https://www.tradingview.com/
+- FRED homepage -> https://fred.stlouisfed.org/
+- MacroMicro homepage -> https://en.macromicro.me/
+- Artemis homepage -> https://www.artemisanalytics.com/
+
+## Media Plan
+
+- hero image: BTC price versus liquidity overlay chart
+- main table: chart source, proxy used, update frequency, best use case, limitations
+- methodology graphic: `global liquidity proxy -> transmission to risk assets -> BTC response`
+- supporting visual: divergence example where BTC moved ahead of or behind liquidity

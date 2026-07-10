@@ -41,6 +41,15 @@ The ranking prioritizes:
 - historical visibility
 - usefulness for editorial workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+This article should publish with an explicit analyst note:
+
+- compare ETH tracker quality by daily reliability and BTC-versus-ETH context, not just by interface
+- cross-check one or more public tracker pages against fund issuer pages before publication
+- explain that ETH flows are often more useful in relative terms than in absolute-size terms
+- include one editorial caution against reading a single day of ETH flows as a regime shift
+
 ## The 6 best Ethereum ETF flow trackers in 2026
 
 ### 1. Farside Investors
@@ -121,11 +130,24 @@ Ethereum ETF flow tracking is a smaller niche than Bitcoin ETF tracking, but it 
 - add issuer-specific links for the main ETH funds covered
 - add one ETH-versus-BTC comparison table
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/etf-flows`
-- `/etf-flows/ethereum-etf`
-- `/etf-flows/inflows-outflows`
-- `/etf-flows/institutional-flows`
-- `/derivatives/open-interest`
-- `/on-chain/network-activity`
+- `ethereum ETF flows explained` -> `/etf-flows/ethereum-etf`
+- `ETF inflows and outflows` -> `/etf-flows/inflows-outflows`
+- `institutional crypto flows` -> `/etf-flows/institutional-flows`
+- `open interest dashboards` -> `/derivatives/open-interest`
+- `network activity metrics` -> `/on-chain/network-activity`
+
+## Recommended External Links
+
+- Farside Ethereum ETF flow page -> https://farside.co.uk/ethereum-etf-flow-all-data/
+- Coinglass homepage -> https://www.coinglass.com/
+- SoSoValue homepage -> https://www.sosovalue.com/
+- Grayscale Ethereum ETF page -> https://www.grayscale.com/crypto-products/grayscale-ethereum-trust
+
+## Media Plan
+
+- hero image: ETH issuer flow table screenshot
+- main table: tracker, update speed, issuer detail, BTC comparison, best use case
+- dual-line chart: ETH ETF flows versus BTC ETF flows over the same period
+- supporting visual: `ETH inflows + OI + network activity` confluence card

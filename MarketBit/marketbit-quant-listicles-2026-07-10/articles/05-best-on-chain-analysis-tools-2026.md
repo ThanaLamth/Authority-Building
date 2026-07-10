@@ -42,6 +42,15 @@ The ranking prioritizes:
 - custom workflow flexibility
 - usefulness for newsroom and analyst work
 
+## MarketBit methodology and E-E-A-T standard
+
+This article should be positioned as a practical analyst guide, not just a vendor roundup:
+
+- judge tools by the clarity of their metrics and workflows, not by the number of charts on the screen
+- separate wallet intelligence, exchange-flow analysis, and custom-query tools so readers are not comparing unlike categories
+- cite official product pages for chain coverage, labeled-address claims, and flagship features
+- add one editorial note explaining that on-chain signals become stronger when paired with derivatives and liquidity data
+
 ## The 12 best on-chain analysis tools in 2026
 
 ### 1. Glassnode
@@ -157,13 +166,26 @@ The best on-chain analysis tools are not the ones with the most charts. They are
 - verify whether listed tools support exchange-flow, whale, and active-address workflows equally
 - add a comparison table with best-for, pricing tier, and chain coverage
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/on-chain`
-- `/on-chain/exchange-flows`
-- `/on-chain/whales`
-- `/on-chain/active-addresses`
-- `/on-chain/network-activity`
-- `/on-chain/long-term-holders`
-- `/derivatives`
-- `/etf-flows`
+- `on-chain analysis explained` -> `/on-chain`
+- `bitcoin exchange flows` -> `/on-chain/exchange-flows`
+- `crypto whale trackers` -> `/on-chain/whales`
+- `active addresses metrics` -> `/on-chain/active-addresses`
+- `network activity indicators` -> `/on-chain/network-activity`
+- `long-term holder data` -> `/on-chain/long-term-holders`
+
+## Recommended External Links
+
+- Nansen homepage -> https://nansen.ai/
+- Arkham homepage -> https://www.arkhamintelligence.com/
+- Dune homepage -> https://dune.com/
+- Artemis homepage -> https://www.artemisanalytics.com/
+- Allium homepage -> https://www.allium.so/
+
+## Media Plan
+
+- hero image: collage of Nansen, Arkham, Dune, and one macro on-chain dashboard
+- main comparison table: tool, best for, chain coverage, wallet labeling, custom dashboards, free tier
+- framework diagram: `on-chain -> derivatives -> ETF flows -> market structure`
+- supporting visual: metric taxonomy card for exchange flows, whales, active addresses, and stablecoin supply

@@ -43,6 +43,15 @@ The ranking in this draft prioritizes:
 - chart usability for fast decision-making
 - whether the tool fits a quant or analyst workflow instead of pure hype
 
+## MarketBit methodology and E-E-A-T standard
+
+To make this article more useful than a generic affiliate roundup, MarketBit should keep four editorial rules visible in the final publish version:
+
+- rank tools by observable workflow value, not by sponsorship or brand familiarity
+- cross-check each tool's feature claims against official product pages before publication
+- explain where liquidation maps are probabilistic rather than exact
+- show readers how to pair heatmaps with open interest, funding, and support-resistance instead of pretending one screen is enough
+
 ## The 9 best crypto liquidation heatmaps in 2026
 
 ### 1. Coinglass
@@ -147,11 +156,24 @@ The best crypto liquidation heatmap is not the one with the hottest colors. It i
 - verify whether advanced heatmaps are paywalled or free
 - add one comparison table for visualization style, exchange count, and alerting
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/derivatives`
-- `/derivatives/liquidations`
-- `/derivatives/open-interest`
-- `/derivatives/funding-rate`
-- `/market-structure/volatility`
-- `/market-structure/momentum`
+- `crypto liquidations explained` -> `/derivatives/liquidations`
+- `open interest dashboards` -> `/derivatives/open-interest`
+- `funding rate trackers` -> `/derivatives/funding-rate`
+- `crypto volatility analysis` -> `/market-structure/volatility`
+- `crypto momentum indicators` -> `/market-structure/momentum`
+
+## Recommended External Links
+
+- Coinglass homepage -> https://www.coinglass.com/
+- CoinAnk homepage -> https://coinank.com/
+- TradingLite homepage -> https://tradinglite.com/
+- Bookmap homepage -> https://bookmap.com/
+
+## Media Plan
+
+- hero image: 2x2 collage of Coinglass, CoinAnk, TradingLite, and one specialist heatmap interface
+- primary comparison table: tool, best for, exchange coverage, free tier, standout feature
+- annotated chart: liquidation cluster example with notes on nearby OI and funding context
+- inline visual: simple diagram showing `price -> leverage crowding -> liquidation cascade -> volatility expansion`

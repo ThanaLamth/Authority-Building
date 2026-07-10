@@ -41,6 +41,15 @@ This draft ranks tools by:
 - integration with OI, liquidations, and sentiment metrics
 - usefulness for a quant newsroom workflow
 
+## MarketBit methodology and E-E-A-T standard
+
+The final publish version should make the evaluation process explicit:
+
+- compare live funding screens against official platform descriptions, not copied listicles
+- separate exchange-native data screens from aggregated cross-exchange trackers
+- explain that funding is a sentiment and positioning metric, not a standalone trading signal
+- include a short "how to avoid false funding signals" box for readers who are newer to derivatives
+
 ## The 11 best crypto funding rate trackers in 2026
 
 ### 1. Coinglass
@@ -148,11 +157,24 @@ The best funding-rate trackers do not just show the number. They help a trader d
 - verify whether aggregated funding includes all major exchanges or a curated subset
 - add a comparison table with exchange count, history depth, and free-tier availability
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/derivatives`
-- `/derivatives/funding-rate`
-- `/derivatives/open-interest`
-- `/derivatives/liquidations`
-- `/derivatives/long-short-ratio`
-- `/market-structure/momentum`
+- `crypto funding rates explained` -> `/derivatives/funding-rate`
+- `open interest dashboards` -> `/derivatives/open-interest`
+- `crypto liquidation heatmaps` -> `/derivatives/liquidations`
+- `long-short ratio indicators` -> `/derivatives/long-short-ratio`
+- `momentum signals in crypto` -> `/market-structure/momentum`
+
+## Recommended External Links
+
+- Coinglass homepage -> https://www.coinglass.com/
+- CoinAnk homepage -> https://coinank.com/
+- CME crypto markets -> https://www.cmegroup.com/markets/cryptocurrencies.html
+- CryptoQuant homepage -> https://cryptoquant.com/
+
+## Media Plan
+
+- hero image: funding heatmap or exchange-comparison dashboard screenshot
+- main table: tracker, exchange coverage, history depth, best use case, free tier
+- inline chart: example of rising funding with rising OI versus rising funding with flat price
+- sidebar visual: glossary card for positive funding, negative funding, annualized funding, and exchange dispersion

@@ -42,6 +42,15 @@ We ranked tools by:
 - ability to connect wallet moves to market structure
 - usefulness for newsroom workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+The final version should be explicit about what a "good" whale tracker actually does:
+
+- reward tools that label entities and explain transfer context, not just headline transfer size
+- separate alert bots from full investigation platforms
+- verify wallet-labeling and alerting claims on official product pages
+- include a short "signal versus noise" checklist so readers do not overreact to every large transfer
+
 ## The 9 best crypto whale trackers in 2026
 
 ### 1. Whale Alert
@@ -141,11 +150,24 @@ The best whale tracker is not the loudest one. It is the one that helps the read
 - verify which tools support exchange labeling versus generic address monitoring
 - add a comparison table for labeling depth, alerting, and DeFi coverage
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/on-chain`
-- `/on-chain/whales`
-- `/on-chain/exchange-flows`
-- `/on-chain/long-term-holders`
-- `/on-chain/network-activity`
-- `/market-structure/support-resistance`
+- `crypto whale tracking` -> `/on-chain/whales`
+- `bitcoin exchange flows` -> `/on-chain/exchange-flows`
+- `long-term holder behavior` -> `/on-chain/long-term-holders`
+- `network activity metrics` -> `/on-chain/network-activity`
+- `support and resistance context` -> `/market-structure/support-resistance`
+
+## Recommended External Links
+
+- Whale Alert homepage -> https://whale-alert.io/
+- Nansen homepage -> https://nansen.ai/
+- Arkham homepage -> https://www.arkhamintelligence.com/
+- DeBank homepage -> https://debank.com/
+
+## Media Plan
+
+- hero image: wallet-tracking dashboard collage
+- main table: tracker, best for, entity labels, alerting, DeFi coverage, free tier
+- annotated screenshot: example transfer with notes on exchange destination and likely meaning
+- simple visual: `large transfer -> label -> destination -> market implication`

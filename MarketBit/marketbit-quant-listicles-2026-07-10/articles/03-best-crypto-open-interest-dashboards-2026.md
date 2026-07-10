@@ -41,6 +41,15 @@ We ranked tools by:
 - ease of combining OI with funding, liquidations, or ETF flows
 - relevance for analyst and newsroom workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+This article should publish with a visible methodology note:
+
+- assess OI tools based on whether they help explain participation, not just display raw numbers
+- verify exchange-count and altcoin-coverage claims against official pages or current product docs
+- explain how OI changes should be interpreted differently in BTC, ETH, and altcoin environments
+- avoid calling rising OI bullish or bearish without paired funding and price context
+
 ## The 10 best crypto open interest dashboards in 2026
 
 ### 1. Coinglass
@@ -143,11 +152,24 @@ The strongest open-interest dashboards do not just report exposure. They help yo
 - verify historical OI access on free plans
 - add one table comparing BTC focus, altcoin depth, and institutional usefulness
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/derivatives`
-- `/derivatives/open-interest`
-- `/derivatives/funding-rate`
-- `/derivatives/liquidations`
-- `/etf-flows/bitcoin-etf`
-- `/market-structure/volatility`
+- `crypto open interest explained` -> `/derivatives/open-interest`
+- `funding rate trackers` -> `/derivatives/funding-rate`
+- `crypto liquidation heatmaps` -> `/derivatives/liquidations`
+- `bitcoin ETF flows` -> `/etf-flows/bitcoin-etf`
+- `volatility indicators` -> `/market-structure/volatility`
+
+## Recommended External Links
+
+- Coinglass homepage -> https://www.coinglass.com/
+- CoinAnk homepage -> https://coinank.com/
+- CME crypto markets -> https://www.cmegroup.com/markets/cryptocurrencies.html
+- Glassnode homepage -> https://glassnode.com/
+
+## Media Plan
+
+- hero image: aggregated OI dashboard screenshot
+- main table: dashboard, best for, BTC depth, altcoin depth, exchange comparison, free tier
+- annotated chart: price up + OI up versus price up + OI down
+- supplementary visual: OI plus funding plus liquidation confluence workflow

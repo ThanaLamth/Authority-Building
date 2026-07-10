@@ -42,6 +42,15 @@ This draft ranks tools by:
 - integration with wallet intelligence or market structure
 - usefulness for MarketBit editorial workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+The final article should make exchange-flow interpretation more disciplined than a typical crypto roundup:
+
+- evaluate tools by reserve and netflow usefulness, not by dashboard complexity alone
+- verify terminology such as `netflow`, `exchange reserve`, and `exchange balance` against official pages
+- explain that operational transfers can look bearish or bullish without actually changing market direction
+- include a short editorial box on how to confirm exchange-flow narratives with ETF flows and whale data
+
 ## The 7 best Bitcoin exchange flow trackers in 2026
 
 ### 1. CryptoQuant
@@ -128,11 +137,25 @@ Bitcoin exchange-flow tracking remains one of the most useful ways to connect on
 - confirm whether exchange coverage includes only major centralized venues or a broader set
 - add one table for netflow, reserve, and entity-label support
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/on-chain`
-- `/on-chain/exchange-flows`
-- `/on-chain/whales`
-- `/etf-flows/bitcoin-etf`
-- `/liquidity/exchange-liquidity`
-- `/market-structure/volatility`
+- `bitcoin exchange flows explained` -> `/on-chain/exchange-flows`
+- `crypto whale trackers` -> `/on-chain/whales`
+- `bitcoin ETF flows` -> `/etf-flows/bitcoin-etf`
+- `exchange liquidity indicators` -> `/liquidity/exchange-liquidity`
+- `crypto volatility analysis` -> `/market-structure/volatility`
+
+## Recommended External Links
+
+- Nansen homepage -> https://nansen.ai/
+- Arkham homepage -> https://www.arkhamintelligence.com/
+- Dune homepage -> https://dune.com/
+- Glassnode homepage -> https://glassnode.com/
+- CryptoQuant homepage -> https://cryptoquant.com/
+
+## Media Plan
+
+- hero image: exchange-flow dashboard or reserve chart screenshot
+- main comparison table: tool, netflow support, reserve metrics, entity labels, best use case
+- annotated chart: exchange inflow spike versus BTC price reaction
+- supporting visual: `wallet movement -> exchange balance change -> market interpretation`

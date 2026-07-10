@@ -41,6 +41,15 @@ The ranking prioritizes:
 - ease of historical comparison
 - usefulness for editorial and analyst workflows
 
+## MarketBit methodology and E-E-A-T standard
+
+To strengthen trust and usefulness, the final article should:
+
+- treat daily flow tables as market inputs, not as self-explanatory conclusions
+- cross-check at least one major tracker against issuer or sponsor pages before publication
+- explain the difference between daily net flows, AUM changes, and cumulative totals
+- include one explicit caution that ETF flows show one institutional channel, not total market demand
+
 ## The 8 best Bitcoin ETF flow trackers in 2026
 
 ### 1. Farside Investors
@@ -136,11 +145,24 @@ Bitcoin ETF flows now deserve their own dedicated workflow. The strongest tracke
 - verify whether totals are net creations, net assets, or a mixture
 - add issuer-page links for IBIT, FBTC, and other large funds
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/etf-flows`
-- `/etf-flows/bitcoin-etf`
-- `/etf-flows/inflows-outflows`
-- `/etf-flows/institutional-flows`
-- `/liquidity/global-liquidity`
-- `/on-chain/exchange-flows`
+- `bitcoin ETF flows explained` -> `/etf-flows/bitcoin-etf`
+- `ETF inflows and outflows` -> `/etf-flows/inflows-outflows`
+- `institutional crypto flows` -> `/etf-flows/institutional-flows`
+- `global liquidity and Bitcoin` -> `/liquidity/global-liquidity`
+- `bitcoin exchange flows` -> `/on-chain/exchange-flows`
+
+## Recommended External Links
+
+- Farside Bitcoin ETF flow page -> https://farside.co.uk/bitcoin-etf-flow-all-data/
+- Coinglass homepage -> https://www.coinglass.com/
+- SoSoValue ETF page -> https://www.sosovalue.com/assets/etf/us-btc-spot
+- BlackRock iShares Bitcoin Trust page -> https://www.ishares.com/us/products/333011/ishares-bitcoin-trust
+
+## Media Plan
+
+- hero image: issuer-by-issuer daily flow table screenshot
+- main table: tracker, update speed, issuer detail, historical depth, best use case
+- line chart: cumulative BTC ETF flows versus BTC price
+- callout graphic: `daily inflows` vs `AUM` vs `cumulative totals`

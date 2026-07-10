@@ -42,6 +42,15 @@ We ranked dashboards by:
 - institutional usefulness
 - editorial clarity
 
+## MarketBit methodology and E-E-A-T standard
+
+The final publish version should improve trust by making the scoring logic explicit:
+
+- distinguish supply dashboards from settlement or economic-activity dashboards
+- cross-check issuer, chain-share, and transfer-activity claims against official product pages or methodology notes
+- explain that raw transfer volume does not always equal real economic activity
+- include one short definitions box for supply, circulating supply, issuer share, and settlement volume
+
 ## The 7 best stablecoin dashboards in 2026
 
 ### 1. DefiLlama Stablecoins
@@ -132,11 +141,24 @@ Stablecoin dashboards are one of the best ways to track crypto liquidity with mo
 - clarify whether a dashboard measures supply, transfer volume, or economic activity
 - add one glossary box for supply, circulating supply, transfer volume, and issuer share
 
-## Internal Link Targets
+## Recommended Internal Links
 
-- `/liquidity`
-- `/liquidity/stablecoins`
-- `/liquidity/global-liquidity`
-- `/liquidity/exchange-liquidity`
-- `/liquidity/capital-flows`
-- `/market-structure/trends`
+- `stablecoin liquidity dashboards` -> `/liquidity/stablecoins`
+- `global liquidity and Bitcoin` -> `/liquidity/global-liquidity`
+- `exchange liquidity indicators` -> `/liquidity/exchange-liquidity`
+- `capital flow signals` -> `/liquidity/capital-flows`
+- `crypto market trends` -> `/market-structure/trends`
+
+## Recommended External Links
+
+- Dune homepage -> https://dune.com/
+- Artemis homepage -> https://www.artemisanalytics.com/
+- Allium homepage -> https://www.allium.so/
+- DefiLlama homepage -> https://defillama.com/
+
+## Media Plan
+
+- hero image: stablecoin supply dashboard screenshot
+- main table: dashboard, best for, issuer coverage, chain coverage, settlement metrics, free tier
+- stacked-area chart: stablecoin market share by issuer or chain
+- glossary visual: supply, transfer volume, active addresses, and economic activity
