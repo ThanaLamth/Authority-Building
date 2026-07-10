@@ -12,7 +12,7 @@ Meta description: Top tokenized treasury funds in 2026: compare six products by 
 
 Tokenized US Treasury products are one of the clearest bridges between crypto rails and traditional fixed-income exposure in 2026. But this category is already messy. Some products are tokenized money-market style vehicles. Some are short-duration Treasury strategies. Some are clearly aimed at institutions and accredited investors. Others are designed to travel more easily across onchain venues.
 
-That is why the useful question is not which tokenized treasury fund is simply biggest. The better question is which product structure fits the user, the venue, and the use case.
+That is why the useful question is not which tokenized treasury fund is simply biggest. The better question is which product structure fits the user, the venue, and the use case. Readers comparing this category should also keep [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) nearby, because stablecoin reserves and tokenized Treasury demand increasingly sit inside the same capital flow.
 
 ## The tokenized treasury funds most worth comparing in 2026 are BUIDL, OUSG, Franklin Benji, USTB, STBT, and OpenEden TBILL
 
@@ -33,6 +33,15 @@ This list uses six filters:
 
 This is a comparison page, not a promise page. Access limits, eligibility rules, redemptions, and jurisdictional availability matter more here than catchy yield numbers.
 
+## Original reporting opportunities
+
+If Coincu wants to strengthen first-hand experience signals on this page, the best path is not to fake product usage. It is to add direct editorial evidence:
+
+- Visual evidence: original screenshots of issuer onboarding, access restrictions, product dashboards, supported-chain pages, or redemption disclosures
+- First-person perspective: only if true, write lines such as "We reviewed the access flow and product pages for all six Treasury products on the same day"
+- Balanced evaluation: document where a product looks institutionally credible but less composable, or more crypto-native but less broadly trusted
+- Quantitative checks: note minimum entry size, visible chain support, settlement cadence, and whether the product publishes meaningful real-time or near-real-time information
+
 ## The full list
 
 ### 1. BlackRock BUIDL via Securitize
@@ -46,6 +55,8 @@ The main caveat is access. BUIDL is not a retail-friendly DeFi product in the br
 OUSG belongs near the top because Ondo has become one of the clearest names in the tokenized Treasury conversation. The official product page frames OUSG as the Ondo Short-Term US Treasuries Fund, and that makes it a natural comparison point for anyone mapping the onchain Treasury sector.
 
 OUSG also matters because the Ondo stack has helped connect tokenized Treasury exposure to a broader crypto-native audience. The caveat is that readers still need to separate the product itself from the market narrative around Ondo as a broader RWA brand.
+
+That is one reason this page should internally reinforce [top RWA crypto projects in 2026](/research/defi/top-rwa-crypto-projects-2026), where Ondo makes more sense as part of a bigger tokenization stack rather than as a single Treasury wrapper.
 
 ### 3. Franklin Templeton Benji
 
@@ -87,7 +98,7 @@ That is what separates a durable category from a one-cycle theme.
 
 Tokenized Treasury funds matter because they show where the market is becoming boring in the best possible way. This is not a pure speculation category. It is a market-plumbing category. The winners are likely to be the products that combine clear legal structure, trusted underlying assets, and enough onchain usefulness to become part of broader crypto capital flows.
 
-In other words, tokenized Treasuries are not just a yield story anymore. They are a distribution story.
+In other words, tokenized Treasuries are not just a yield story anymore. They are a distribution story. That same logic should also feed readers into [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026), because both pages are really comparing who wins wrapper trust and capital distribution.
 
 ## FAQ
 

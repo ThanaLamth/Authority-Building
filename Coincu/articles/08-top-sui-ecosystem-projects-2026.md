@@ -10,7 +10,7 @@ Primary keyword: top sui ecosystem projects 2026
 
 Meta description: Top Sui ecosystem projects in 2026: compare seven Sui apps and protocols by product role, market fit, and why each one still matters.
 
-Sui ecosystem pages often fail for the same reason many chain-ecosystem pages fail: they list token names without explaining what role each project plays. A stronger Sui article in 2026 should help readers understand which apps define the chain’s actual usage surface.
+Sui ecosystem pages often fail for the same reason many chain-ecosystem pages fail: they list token names without explaining what role each project plays. A stronger Sui article in 2026 should help readers understand which apps define the chain’s actual usage surface. That is also why this page should support the broader [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026) discussion as a chain-ecosystem case study rather than acting like a random token board.
 
 ## The Sui ecosystem projects most worth comparing in 2026 are Cetus, NAVI, Suilend, Scallop, DeepBook, Aftermath, and Walrus
 
@@ -30,6 +30,15 @@ This list uses six filters:
 - how much remains unproven
 
 This is an ecosystem map first and an asset watchlist second.
+
+## Original reporting opportunities
+
+To make this page feel more experience-led without inventing personal use, Coincu can add:
+
+- Visual evidence: original screenshots of swap screens, lending dashboards, order-book interfaces, wallet connection prompts, and ecosystem menus
+- First-person perspective: only where true, note if the team compared app onboarding, product clarity, and navigation across the selected Sui apps
+- Balanced evaluation: show where one app is easier for first-time users, while another is stronger on infrastructure depth but harder to parse
+- Quantitative checks: log visible product categories, chain-native features, market count, or protocol menu breadth from live interfaces
 
 ## The full list
 
@@ -52,6 +61,8 @@ Scallop remains a useful inclusion because it is one of the most recognizable De
 ### 5. DeepBook
 
 DeepBook matters because it broadens the page from front-end apps into infrastructure. The official site is explicit that it is a fully onchain order book on Sui, which makes it one of the most useful projects for explaining the chain’s market structure.
+
+That market-structure angle also makes [best perpetual DEXs in 2026](/analysis/derivatives/best-perpetual-dexs-2026) a useful internal follow-up for readers who want to compare how trading infrastructure translates into venue design on other chains.
 
 ### 6. Aftermath
 
@@ -76,7 +87,7 @@ These signals tell you whether Sui is becoming a fuller application stack or sta
 
 Sui’s ecosystem is becoming easier to read when you stop asking which token is hottest and start asking which apps define the chain’s real behavior. Trading, lending, liquidity, and infrastructure still dominate the map, but the ecosystem is more credible when it shows product diversity beyond a single DeFi loop.
 
-That is what separates a usable ecosystem page from a disposable one.
+That is what separates a usable ecosystem page from a disposable one. It also gives Coincu a cleaner bridge from chain research into the broader [top AI agent crypto projects in 2026](/research/ai-crypto/top-ai-agent-crypto-projects-2026) page, especially where Walrus or data-layer use cases broaden the Sui story beyond DeFi.
 
 ## FAQ
 

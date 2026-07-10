@@ -10,7 +10,7 @@ Primary keyword: best bitcoin layer 2 projects 2026
 
 Meta description: Best Bitcoin Layer 2 projects in 2026: compare seven networks and systems by design, use case, and what each one adds to Bitcoin.
 
-Bitcoin Layer 2 is one of those phrases that sounds simple until you try to compare the actual systems behind it. Some Bitcoin L2s are payment-oriented. Some focus on smart contracts. Some use sidechain logic. Some use rollup-like language. Some are more accurately Bitcoin-adjacent execution environments than classic L2s.
+Bitcoin Layer 2 is one of those phrases that sounds simple until you try to compare the actual systems behind it. Some Bitcoin L2s are payment-oriented. Some focus on smart contracts. Some use sidechain logic. Some use rollup-like language. Some are more accurately Bitcoin-adjacent execution environments than classic L2s. That is also why this article should connect directly to [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026), where readers can compare Bitcoin-linked scaling against the broader Ethereum L2 field.
 
 ## The Bitcoin Layer 2 projects most worth comparing in 2026 are Lightning, Stacks, Rootstock, BOB, Botanix, Citrea, and Merlin
 
@@ -31,6 +31,15 @@ This list uses six filters:
 
 This is a research page, not a token recommendation page.
 
+## Original reporting opportunities
+
+To add stronger first-hand signals, Coincu can use:
+
+- Visual evidence: original screenshots of wallets, app menus, ecosystem pages, payment flow, or BTCfi dashboards reviewed by your team
+- First-person perspective: only where true, note if the team compared onboarding or ecosystem navigation across Lightning, Stacks, Rootstock, and the newer systems
+- Balanced evaluation: show where one system is conceptually cleaner but narrower in utility, or where another is more ambitious but harder to verify
+- Quantitative checks: log supported app count, visible bridges, wallet support, and whether the system is payment-first, DeFi-first, or execution-first
+
 ## The full list
 
 ### 1. Lightning Network
@@ -44,6 +53,8 @@ Its strength is clarity. Its limitation is that readers looking for DeFi, smart 
 Stacks belongs near the top because it remains one of the most recognizable paths for building application and smart-contract activity around Bitcoin. The official site still centers Bitcoin yield and self-custodial growth, which makes the platform easy to position in the broader BTC utility conversation.
 
 Its risk is that Bitcoin application expansion remains harder to explain and evaluate than straightforward payment scaling.
+
+That is also why this page should support [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026), since one audience wants listed Bitcoin exposure while another wants more utility built around Bitcoin itself.
 
 ### 3. Rootstock
 
@@ -91,7 +102,7 @@ Those signals matter more than short-term token rotation.
 
 Bitcoin Layer 2 in 2026 is a live argument about what Bitcoin should become without losing what made it important in the first place. Some builders want better payments. Some want BTC-native DeFi. Some want programmable ecosystems around Bitcoin. Some want zero-knowledge scaling and more advanced execution.
 
-The strongest projects are the ones that make their answer legible.
+The strongest projects are the ones that make their answer legible. If Coincu later builds a stronger BTCfi cluster, this page should become one of the main hubs feeding both infrastructure and market-structure explainers.
 
 ## FAQ
 
