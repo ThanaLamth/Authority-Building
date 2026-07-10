@@ -44,21 +44,21 @@ Quick picks:
 
 ## What we checked ourselves before ranking these tools
 
-For this version of the article, we did not want to rely only on roundups and vendor copy, so we opened the live public product surfaces ourselves and captured the current creator-facing pages for Thirdweb, Crossmint, and Zora on 2026-07-10 using CloakBrowser.
+For this version of the article, we did not want to rely only on roundups and vendor copy, so we reviewed the live public product surfaces ourselves and captured the current creator-facing pages for Thirdweb, Crossmint, and Zora on 2026-07-10.
 
 That direct review does not replace a full logged-in mint test, and I do not want to blur that line. What it does give us is a real look at how each platform currently presents its launch flow, what kind of user it is speaking to, and how much complexity is visible before a team even creates a test collection. Any claim that depends on dashboard-only behavior, live checkout inside a mint, or post-mint asset handling is still marked `[needs source]` until the team runs a full collection test.
 
-![Screenshot: our CloakBrowser capture of the live Thirdweb public product surface on 2026-07-10](../media/thirdweb-home.png)
+![Thirdweb minting platform homepage and creator infrastructure overview in 2026](../media/thirdweb-home.png)
 
-*Screenshot: our direct CloakBrowser capture of Thirdweb on 2026-07-10.*
+*Thirdweb homepage captured during our July 2026 review of NFT minting platforms.*
 
-![Screenshot: our CloakBrowser capture of the live Crossmint public product surface on 2026-07-10](../media/crossmint-home.png)
+![Crossmint platform homepage showing enterprise checkout and blockchain ownership tools](../media/crossmint-home.png)
 
-*Screenshot: our direct CloakBrowser capture of Crossmint on 2026-07-10.*
+*Crossmint homepage captured during our July 2026 review of NFT minting and checkout tools.*
 
-![Screenshot: our CloakBrowser capture of the live Zora public product surface on 2026-07-10](../media/zora-home.png)
+![Zora creator publishing homepage for NFT drops and onchain distribution](../media/zora-home.png)
 
-*Screenshot: our direct CloakBrowser capture of Zora on 2026-07-10.*
+*Zora homepage captured during our July 2026 review of creator-first NFT publishing tools.*
 
 The biggest difference we saw immediately was not feature count. It was posture. Thirdweb presented itself like infrastructure for teams that may grow into a broader stack. Crossmint looked more like a payments and onboarding bridge for mainstream users. Zora felt the most like a creator-publishing environment rather than a generic NFT vending machine. That difference matters because teams often choose a minting tool before they decide whether they are really launching a creator drop, a branded campaign, or a product layer.
 
@@ -275,12 +275,6 @@ The key point is that the final publish version should replace vague adjectives 
 - [Sequence](https://sequence.xyz/)
 - [Rarible](https://rarible.com/)
 
-## Media used in this draft
+## What visual proof should be added in the final publish version
 
-This version already uses original CloakBrowser captures stored in:
-
-- `nftenex/media/thirdweb-home.png`
-- `nftenex/media/crossmint-home.png`
-- `nftenex/media/zora-home.png`
-
-For the final publish version, the team should add one more layer of original evidence from the real test run: a logged-in dashboard screenshot, one mint setup screen, one checkout or mint confirmation screen, and one screenshot showing the minted asset inside a wallet or marketplace `[needs source]`.
+This draft already includes original screenshots from our July 2026 review of the public product flows. For the final publish version, the team should add one more layer of original evidence from the real test run: a logged-in dashboard screenshot, one mint setup screen, one checkout or mint confirmation screen, and one screenshot showing the minted asset inside a wallet or marketplace `[needs source]`.
