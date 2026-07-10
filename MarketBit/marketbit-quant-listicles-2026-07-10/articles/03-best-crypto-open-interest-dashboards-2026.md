@@ -121,6 +121,14 @@ Rising OI is usually most constructive when:
 
 Rising OI becomes dangerous when it appears late in a move with stretched funding and obvious crowding. Falling OI is not automatically bearish. It often means leverage is being cleared out, which can improve the next setup.
 
+## First-hand notes from our live review
+
+Coinglass felt like the most balanced all-around OI environment in this group because its homepage already mixes derivatives data with broader market context. That is a real workflow advantage for OI readers who need immediate access to funding and liquidation confirmation.
+
+CoinAnk felt more specialized from the outset. Even before deeper page exploration, the product framing centered on OI change and futures-style market signals, which is why it ranks well for traders who want open interest in a more terminal-like setting.
+
+These notes reflect public-page review, not a full hands-on audit of every paid feature.
+
 ## FAQ
 
 ### What is the best crypto open interest dashboard?

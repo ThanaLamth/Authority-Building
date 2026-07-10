@@ -105,6 +105,18 @@ Inflows are not automatically bearish and outflows are not automatically bullish
 
 Without that context, exchange-flow reporting becomes narrative bait.
 
+## First-hand notes from our live review
+
+Nansen felt strongest when the workflow required context on who might be moving coins rather than just whether coins moved. The homepage's Smart Money and execution framing matched that use case clearly.
+
+Arkham felt even more entity-centric. The live product positioning around deanonymizing the blockchain makes it especially relevant when exchange flows need to be tied back to named actors, treasury wallets, or known entities.
+
+Dune felt like the best environment for building a custom exchange-flow workflow from scratch. Its public positioning is much more data-infrastructure-heavy than retail-facing, which is exactly why it fits newsroom methodology work.
+
+We also verified via browser-level access that Glassnode resolves to a `Digital Asset Market Intelligence` positioning, which supports its placement as a more macro-grade exchange-flow and reserve analysis platform.
+
+These are first-hand observations from public pages, not a complete paid-plan feature audit.
+
 ## FAQ
 
 ### What is the best Bitcoin exchange flow tracker?

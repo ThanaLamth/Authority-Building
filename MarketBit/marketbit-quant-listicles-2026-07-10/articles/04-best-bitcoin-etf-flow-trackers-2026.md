@@ -114,6 +114,16 @@ Large inflows usually strengthen the institutional demand narrative, but not eve
 
 That is where the tracker stops being a scoreboard and starts becoming an analysis tool.
 
+## First-hand notes from our live review
+
+Farside was the most stripped-down tool in this batch by a wide margin. The live page resolved directly to `Bitcoin ETF Flow - All Data (US$m)` with a table-first layout and almost no marketing clutter, which explains why so many analysts use it as a daily citation source.
+
+Coinglass felt more like an analytics companion than a pure reference sheet. On first load, ETF flow data sat inside a broader market screen, which makes it better for interpretation than for the fastest single-number check.
+
+Using CloakBrowser, we also confirmed that SoSoValue resolves to a dedicated `Bitcoin ETF Dashboard` page focused on daily data and charts of inflow and outflow. That supports its placement as a more visual, dashboard-style option.
+
+These are first-hand workflow impressions from public pages, not a full vendor-feature audit.
+
 ## FAQ
 
 ### What is the best Bitcoin ETF flow tracker?

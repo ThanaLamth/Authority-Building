@@ -105,6 +105,14 @@ The biggest mistake in this niche is forcing every BTC move into a liquidity nar
 
 That is why MarketBit should always present liquidity as a framework, not a law.
 
+## First-hand notes from our live review
+
+TradingView felt like the strongest practical home for this workflow because the live homepage still centers on charting, indicators, and market monitoring rather than prepackaged macro narratives. For liquidity work, that flexibility matters more than a single branded liquidity view.
+
+Artemis was also useful to review because its public positioning is explicitly institutional and stablecoin-aware. Even from the homepage alone, it was clear that the product is better for comparative digital-finance analysis than for one-off macro chart posting.
+
+These are first-hand observations from public pages and chart workflows, not a claim that every premium macro feature has been tested.
+
 ## FAQ
 
 ### Does Bitcoin always follow global liquidity?

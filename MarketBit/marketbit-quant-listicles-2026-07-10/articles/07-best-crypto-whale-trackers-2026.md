@@ -119,6 +119,16 @@ The safest way to read whale moves is to ask:
 
 That approach filters out most false narratives.
 
+## First-hand notes from our live review
+
+Whale Alert still behaves like an alert-first product. On first load, the page pushed `Latest Whale Alerts` and visible pricing tiers quickly, which makes it useful as a monitoring layer but less like a deep research terminal.
+
+Nansen felt much more like a decision-support environment. The first-screen messaging around Smart Money and executing onchain made it obvious that the product is designed to move beyond raw transfer alerts into behavior analysis.
+
+Arkham felt the most investigation-oriented of the three. Its public positioning is built around identity resolution, which matches the kind of whale tracking that asks `who moved?` rather than only `how much moved?`
+
+These notes are based on live public-page review, not on full paid-account testing.
+
 ## FAQ
 
 ### What is the best crypto whale tracker?

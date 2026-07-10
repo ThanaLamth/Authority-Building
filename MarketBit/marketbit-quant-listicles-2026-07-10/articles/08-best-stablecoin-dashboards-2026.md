@@ -110,6 +110,16 @@ The most useful metrics are:
 
 These are usually more actionable than generic headline market-cap commentary.
 
+## First-hand notes from our live review
+
+Using CloakBrowser, we confirmed that DefiLlama's stablecoin page resolves directly to a `Stablecoin Market Cap Chart, Supply & Peg Data` workflow. That supports its role as the fastest broad-reference option in this category.
+
+Artemis felt more institutional from the start. Its homepage puts crypto, stablecoins, and fintech equities into one investing-terminal frame, which makes it better suited to comparative analysis than to quick headline checks.
+
+Dune felt like the most flexible research environment but also the least turnkey. The live homepage is organized around structured blockchain data and asset-class workflows, which is ideal for custom editorial dashboards.
+
+These are first-hand observations from public pages, not a full audit of every subscription tier.
+
 ## FAQ
 
 ### What is the best stablecoin dashboard?

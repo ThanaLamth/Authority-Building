@@ -132,6 +132,16 @@ The most useful metrics remain the ones closest to capital behavior:
 
 Those metrics are more durable than novelty indicators that look clever but rarely improve decisions.
 
+## First-hand notes from our live review
+
+Nansen's homepage immediately pushed `Trade Everything Onchain With AI` and Smart Money tracking, which made its positioning very clear: it is built around labeled behavior and actionability rather than just warehousing metrics.
+
+Arkham's live page felt more identity- and entity-driven. Even the homepage framing around deanonymizing the blockchain points toward investigation and named-actor tracking, which is why it belongs in a different bucket from macro on-chain dashboards.
+
+Dune felt the most customizable but least plug-and-play. The live homepage emphasized stablecoins, prediction markets, RWA, and data delivery, which is exactly what a newsroom needs when it wants to build its own repeatable dashboards instead of relying entirely on packaged vendor views.
+
+These are first-hand observations from public-page review, not exhaustive paid-tier testing.
+
 ## FAQ
 
 ### What is the best on-chain analysis tool?

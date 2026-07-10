@@ -99,6 +99,16 @@ The most useful questions are:
 
 Those questions turn ETF flow data into relative-market analysis instead of isolated reporting.
 
+## First-hand notes from our live review
+
+Farside again stood out for pure speed and simplicity. The direct page structure works especially well for ETH flow monitoring because the reader can move from raw table data to comparison work without much interface friction.
+
+Coinglass felt more useful once the question moved beyond `what were flows today?` and into `what does that mean beside positioning and broader market conditions?` That is why it ranks higher for analysis than for pure table reading.
+
+Using browser-level access, we also confirmed that SoSoValue presents a dedicated ETF dashboard workflow rather than only generic market pages, which supports its role as a visual comparison layer.
+
+These are first-hand public-page observations, not a claim of full premium-feature testing.
+
 ## FAQ
 
 ### What is the best Ethereum ETF flow tracker?

@@ -124,6 +124,14 @@ The safest workflow is to combine heatmaps with:
 - spot-led or futures-led order flow
 - nearby support and resistance
 
+## First-hand notes from our live review
+
+During our live page review, Coinglass loaded as a broad market terminal rather than a narrow liquidation-only page. On first load, it surfaced modules like `Gainers & Losers` and `Total Bitcoin Spot ETF Net Inflow`, which reinforces the idea that it works best when liquidations are read beside broader market context.
+
+CoinAnk also presented itself as a derivatives-heavy workflow from the first screen. Its public homepage language and structure emphasized liquidation maps, OI change, and long-versus-short context more aggressively than general market commentary, which fits the ranking logic in this article.
+
+These are first-hand interface observations from public pages, not a full paid-plan product test.
+
 ## FAQ
 
 ### Are liquidation heatmaps accurate?
