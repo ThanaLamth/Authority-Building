@@ -28,7 +28,7 @@ The important point is that the word "best" has to be translated into risk categ
 
 We judged platforms on five dimensions.
 
-First, yield source: does the return come from lending, market making, token emissions, liquid staking, or leveraged strategy stacking? Second, risk clarity: can the user understand where the main failure points are? Third, capital efficiency: does the platform offer a clear benefit relative to simpler alternatives? Fourth, liquidity and unwind quality: how easy is it to exit without too much friction? Fifth, suitability: is the platform appropriate for beginners, intermediate DeFi users, or advanced yield hunters?
+First, yield source: does the return come from lending, market making, token emissions, [liquid staking](/strategies/staking/best-crypto-staking-platforms-2026), or leveraged strategy stacking? Second, risk clarity: can the user understand where the main failure points are? Third, capital efficiency: does the platform offer a clear benefit relative to simpler alternatives? Fourth, liquidity and unwind quality: how easy is it to exit without too much friction? Fifth, suitability: is the platform appropriate for beginners, intermediate DeFi users, or advanced yield hunters?
 
 This framework matters because not all DeFi yield is created equally. A stablecoin lending strategy and a token-incentivized liquidity farm may both display "yield," but they expose the user to very different risks.
 
@@ -71,13 +71,13 @@ This is a category where the right choice often depends on whether the user want
 
 The first risk is assuming yield is free money. In DeFi, yield always comes from somewhere: borrowing demand, liquidity provision, emissions, or structural incentives. When the source weakens, the headline return can fall fast.
 
-The second risk is stacking too many layers. A user can go from a simple lending position to a liquid-staked asset, to a yield-trading wrapper, to a farming strategy, and then lose sight of how many failure points are now embedded in one "yield" position.
+The second risk is stacking too many layers. A user can go from a simple lending position to a liquid-staked asset, to a yield-trading wrapper, to a farming strategy, and then lose sight of how many failure points are now embedded in one "yield" position. That is why this page should be read together with a core [risk-management](/strategies/risk-management/) guide and, ideally, an [on-chain analytics](/tools/onchain-tools/best-on-chain-analytics-tools-2026) workflow that can help validate where the yield is really coming from.
 
 The third risk is exit quality. A strategy may look great on entry but become painful when liquidity shifts, incentives drop, or users crowd the same route.
 
 ## How to start yield farming without overexposing capital
 
-Start with the simplest strategy you can still understand. For many readers, that means beginning with a clearer lending or staking-linked yield source before exploring more layered strategies. Test small, track the yield source, and decide in advance what would make you exit.
+Start with the simplest strategy you can still understand. For many readers, that means beginning with a clearer lending or staking-linked yield source before exploring more layered strategies. Test small, track the yield source, and decide in advance what would make you exit. If the capital is moving across chains first, pair this process with a cautious [bridge workflow](/how-to/bridging/best-cross-chain-bridges-2026) rather than assuming the route risk is separate from the farming risk.
 
 That approach is less exciting than chasing the highest number on the page, but it is usually the smarter one.
 
@@ -98,6 +98,40 @@ Usually not. High APYs often come with higher complexity, weaker durability, or 
 ### What matters most in a yield farming platform?
 
 Yield source clarity, exit quality, and risk fit matter more than the headline return.
+
+## First-hand evidence to add before publish
+
+If the page is described as experience-based, the editorial team should capture proof from a real small-size test.
+
+- Screenshot the deposit or lend screen before funds are committed
+- Screenshot the position after funds are live
+- Screenshot yield, health factor, or position details after at least one observation interval
+- Record one short clip showing deposit, monitoring, and exit or withdrawal steps
+- Save one screenshot of any warning, cooldown, liquidity friction, or confusing metric
+
+## First-person experience block to write with real usage
+
+Replace this with actual usage notes before publish.
+
+Example structure:
+
+> We tested [platform] with [small amount and asset] for [X days/weeks]. The easiest part of the workflow was [specific action]. The most confusing or uncomfortable part was [specific issue], especially when we tried to [deposit/withdraw/track yield]. Based on that experience, we would recommend it more for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For each tested platform, add:
+
+- one practical strength the team noticed during setup or monitoring
+- one real limitation or source of friction
+- one troubleshooting note, such as wallet-network mismatch, slow withdrawal conditions, or unclear position metrics
+
+## Quantitative data to collect
+
+- Test capital deployed: `[X]`
+- Time from wallet connect to live position: `[X min]`
+- Visible yield shown at deposit time: `[X]`
+- Withdrawal or unwind time during test: `[X min/hours]`
+- Number of screens or clicks needed to understand the live position: `[X]`
 
 ## Suggested media and embeds
 

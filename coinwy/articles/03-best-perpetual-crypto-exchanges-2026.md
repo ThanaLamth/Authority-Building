@@ -30,13 +30,13 @@ We looked at five things.
 
 First, liquidity depth: can a trader enter and exit without excessive slippage? Second, product breadth: are there enough pairs and market structures for the trader's strategy? Third, execution environment: does the platform feel optimized for serious use, not only for marketing screenshots? Fourth, risk posture: what does custody, platform model, or counterparty design imply? Fifth, user fit: is the product built for beginners, active altcoin traders, or power users?
 
-CoinGecko's 2026 crypto perpetuals research confirms that both centralized and decentralized perp markets remain materially important. That makes platform choice less about ideology and more about the kind of risk a user wants to carry.
+CoinGecko's 2026 crypto perpetuals research confirms that both centralized and decentralized perp markets remain materially important. That makes platform choice less about ideology and more about the kind of risk a user wants to carry. Readers comparing this page with [best crypto exchanges](/exchanges/centralized/best-crypto-exchanges-2026) and [best decentralized exchanges](/exchanges/dex/best-decentralized-exchanges-2026) should notice that perp selection is a narrower and more leverage-sensitive decision.
 
 ## Best perp exchange for beginners
 
 For beginners, a large centralized exchange is usually still the more practical entry point.
 
-That does not mean it is automatically safer. It means the workflow is usually easier to understand. Account structure, collateral management, charting, order types, and support materials are often more familiar on large CEX platforms than on newer on-chain perp venues. Binance, Bybit, and OKX usually enter this conversation because they combine broad market access with mature interfaces `[needs source]`.
+That does not mean it is automatically safer. It means the workflow is usually easier to understand. Account structure, collateral management, charting, order types, and support materials are often more familiar on large CEX platforms than on newer on-chain perp venues. Binance, Bybit, and OKX usually enter this conversation because they combine broad market access with mature interfaces `[needs source]`, while users who care more about self-custody should also compare them against [hot-wallet workflows](/wallets/hot-wallets/best-hot-wallets-2026).
 
 The tradeoff is clear: easier access comes with custodial risk and jurisdiction questions.
 
@@ -82,7 +82,44 @@ The first risk is leverage itself. Traders often obsess over venue choice while 
 
 The second risk is venue model mismatch. A trader who wants self-custody may still choose a custodial exchange because of convenience, while a trader who mainly needs simple execution may force themselves onto an on-chain venue for ideological reasons. Both can lead to worse outcomes.
 
-The third risk is false confidence from interface polish. A good dashboard does not make a strategy good. Perp exchanges can offer a clean experience while still exposing users to high liquidation pressure in volatile markets.
+The third risk is false confidence from interface polish. A good dashboard does not make a strategy good. Perp exchanges can offer a clean experience while still exposing users to high liquidation pressure in volatile markets, which is why this page should sit next to a visible [risk-management](/strategies/risk-management/) guide instead of functioning as a standalone "best app" roundup.
+
+## First-hand evidence to add before publish
+
+Do not claim hands-on testing unless the team captures real trading-environment proof.
+
+- Screenshot one live order-entry screen for a centralized perp venue
+- Screenshot one live order-entry or market screen for a decentralized perp venue
+- Capture one short video of switching leverage, setting a stop, and reviewing margin information
+- Save at least one screenshot showing fee breakdown, funding information, or liquidation details
+
+If no real screenshots or recordings are available, this piece should stay positioned as an editorial market guide rather than an experiential review.
+
+## First-person experience block to write with real usage
+
+Replace this block with a true account from actual testing.
+
+Example structure:
+
+> We used [platform] for [X sessions/days] and compared it with [other platform] while placing [small test trade size] on [market names]. The strongest part of the experience was [specific execution or UI strength]. The weakest part was [specific friction], especially when we tried to [real action]. That is why we think the platform suits [user type] more than [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For each venue you want to present as tested, include:
+
+- one strength discovered during order placement or account setup
+- one weakness discovered during deposit, charting, execution, or withdrawal
+- one troubleshooting detail, such as collateral confusion, network mismatch, or stop-order setup friction
+
+This is especially important for perp content, because a page that only lists advantages reads like exchange marketing.
+
+## Quantitative data to collect
+
+- Time from signup or wallet connect to first perp market view: `[X min]`
+- Number of steps to place a basic market or limit order: `[X]`
+- Visible taker/maker fee shown during testing: `[X]`
+- Number of supported perp pairs checked during review: `[X]`
+- Time needed to locate funding rate, liquidation price, and margin mode: `[X min]`
 
 ## FAQ about perpetual crypto exchanges
 

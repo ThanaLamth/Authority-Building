@@ -28,7 +28,7 @@ The right choice depends on whether the user wants simplicity, liquidity, self-c
 
 We used five questions.
 
-First, what custody model does the platform impose? Second, how liquid is the staked position once the user enters? Third, how easy is the workflow for the intended user? Fourth, what extra protocol or platform risks are added on top of base staking? Fifth, how flexible is the position if the user wants to pivot later?
+First, what custody model does the platform impose? Second, how liquid is the staked position once the user enters? Third, how easy is the workflow for the intended user? Fourth, what extra protocol or platform risks are added on top of base staking? Fifth, how flexible is the position if the user wants to pivot later? For many readers, those answers only make sense after they also consider [wallet choice](/wallets/hot-wallets/best-hot-wallets-2026) and whether the staked position might later be used in a [yield strategy](/strategies/yield-farming/best-defi-yield-farming-platforms-2026).
 
 This matters because staking is not one product. Custodial staking, liquid staking, and validator-linked staking solve different problems and expose users to different frictions.
 
@@ -79,7 +79,7 @@ The first risk is custody mismatch. Users often choose a convenient custodial op
 
 The second risk is liquidity illusion. A liquid-staked asset is more flexible than a locked staked position, but it is not risk-free. The user is still exposed to smart-contract risk, protocol risk, and broader market behavior around that representation.
 
-The third risk is treating staking as passive when it may still require monitoring. Platform rules, asset support, and strategy relevance can all change over time.
+The third risk is treating staking as passive when it may still require monitoring. Platform rules, asset support, and strategy relevance can all change over time, especially when the staked position becomes part of a larger [portfolio-tracking](/tools/portfolio/best-crypto-portfolio-trackers-2026) or [yield-farming](/strategies/yield-farming/best-defi-yield-farming-platforms-2026) workflow.
 
 ## FAQ about crypto staking platforms
 
@@ -98,6 +98,40 @@ It is simpler, not automatically better. The better choice depends on whether th
 ### What matters most in a staking platform?
 
 Custody model, liquidity, and strategy fit matter more than a headline reward number on its own.
+
+## First-hand evidence to add before publish
+
+If the article claims real platform experience, the team should capture original staking proof.
+
+- Screenshot staking entry screen before confirming
+- Screenshot position or staked-balance screen after funds are live
+- Screenshot reward, APY, or unstaking detail screen
+- One short video showing the stake flow or the unstake flow
+- One screenshot of any lockup warning, cooldown notice, or confusing rewards display
+
+## First-person experience block to write with real usage
+
+Replace this with a real editorial note before publish.
+
+Example structure:
+
+> We tested [platform] by staking [asset] for [X days/weeks]. The easiest part of the flow was [specific action]. The least intuitive part was [specific issue], especially when we tried to [unstake, review rewards, or move the position]. That experience made the platform feel better for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For any platform presented as tested, include:
+
+- one practical strength found during deposit or monitoring
+- one weakness around custody, flexibility, or clarity
+- one troubleshooting note, such as unstaking delay, missing reward details, or wallet-network mismatch
+
+## Quantitative data to collect
+
+- Time from funding to active staked position: `[X min]`
+- Lockup or cooldown period shown during testing: `[X]`
+- Number of clicks to locate reward details or unstake path: `[X]`
+- Test position size used during review: `[X]`
+- Time required to understand whether the position is liquid or illiquid: `[X min]`
 
 ## Suggested media and embeds
 

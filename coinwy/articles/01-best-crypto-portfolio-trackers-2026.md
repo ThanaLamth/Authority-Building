@@ -38,9 +38,9 @@ The mistake is assuming the "best" tracker is the one with the most integrations
 
 We used five practical criteria rather than a generic star-rating model.
 
-First, account coverage: can the tool reconcile centralized exchanges, self-custody wallets, and multiple chains in one view? Second, portfolio clarity: does it separate token balances, NFT exposure, staking positions, and DeFi positions cleanly? Third, workflow fit: is it built for beginners, active traders, or onchain-native users? Fourth, reporting usefulness: can it help users understand performance instead of just showing raw balances? Fifth, maintenance friction: how often does the user need to fix labels, reconnect accounts, or manually edit transactions?
+First, account coverage: can the tool reconcile centralized exchanges, self-custody wallets, and multiple chains in one view? Second, portfolio clarity: does it separate token balances, NFT exposure, [staking positions](/strategies/staking/best-crypto-staking-platforms-2026), and [DeFi yield positions](/strategies/yield-farming/best-defi-yield-farming-platforms-2026) cleanly? Third, workflow fit: is it built for beginners, active traders, or onchain-native users? Fourth, reporting usefulness: can it help users understand performance instead of just showing raw balances? Fifth, maintenance friction: how often does the user need to fix labels, reconnect accounts, or manually edit transactions?
 
-That framework matters because crypto portfolios are messier than stock portfolios. One user may only need Binance plus a cold wallet. Another may have a Phantom wallet, a MetaMask wallet, a lending position, and three exchange subaccounts. A tracker that looks good in a marketing screenshot can still fail the real-world test if the data layer breaks when the portfolio gets more complex.
+That framework matters because crypto portfolios are messier than stock portfolios. One user may only need Binance plus a [cold wallet](/wallets/cold-wallets/best-cold-crypto-wallets-2026). Another may have a Phantom wallet, a MetaMask wallet, a lending position, and three exchange subaccounts. A tracker that looks good in a marketing screenshot can still fail the real-world test if the data layer breaks when the portfolio gets more complex.
 
 ## Best crypto portfolio tracker for beginners
 
@@ -62,7 +62,7 @@ DeBank is the more power-user option. It is often faster for users who care abou
 
 If the main problem is scattered exchange balances, the best tracker is usually the one that handles syncing without constant repair work.
 
-CoinStats remains the broad all-around candidate here, but active traders should also test whether a tracker handles subaccounts, perpetual positions, and transfer histories cleanly `[needs source]`. Some trackers look strong on spot balances but become less reliable once users move between centralized exchanges, self-custody wallets, and strategy accounts.
+CoinStats remains the broad all-around candidate here, but active traders should also test whether a tracker handles subaccounts, [perpetual positions](/exchanges/perp/best-perpetual-crypto-exchanges-2026), and transfer histories cleanly `[needs source]`. Some trackers look strong on spot balances but become less reliable once users move between centralized exchanges, self-custody wallets, and strategy accounts.
 
 This is also where a split stack can be smarter than one app. Many traders end up using one tracker for clean performance monitoring and another layer for tax or reporting. That is not a failure. It is often the realistic setup in crypto.
 
@@ -70,7 +70,7 @@ This is also where a split stack can be smarter than one app. Many traders end u
 
 If the main goal is reporting, a pure tracker may not be enough.
 
-Portfolio apps are getting better at performance views, but tax reporting still has its own complexity. Users with frequent transfers, staking rewards, DeFi activity, or cross-chain histories may still need a reporting-first tool on top of a dashboard-first product `[needs source]`. In practice, many readers will want a tracker for day-to-day visibility and a separate layer for tax normalization, realized gains, and export formatting.
+Portfolio apps are getting better at performance views, but tax reporting still has its own complexity. Users with frequent transfers, [staking rewards](/strategies/staking/best-crypto-staking-platforms-2026), DeFi activity, or [cross-chain histories](/how-to/bridging/best-cross-chain-bridges-2026) may still need a reporting-first tool on top of a dashboard-first product `[needs source]`. In practice, many readers will want a tracker for day-to-day visibility and a separate layer for tax normalization, realized gains, and export formatting.
 
 That is why this category should not be scored only on aesthetics. A tracker that looks elegant but leaves cost basis messy can create bigger problems than a more boring app that reconciles activity cleanly.
 
@@ -95,6 +95,49 @@ The first risk is overconnecting everything. Just because a tracker can connect 
 The second risk is false precision. Crypto portfolios can look exact in the interface while still hiding stale pricing, incomplete cost basis, or missing protocol data. A neat dashboard does not guarantee fully accurate accounting.
 
 The third risk is workflow mismatch. Readers often blame the tool when the real issue is that they chose a dashboard built for a different kind of user. A DeFi-native wallet tracker will not necessarily satisfy a tax-heavy exchange trader. A mainstream portfolio tracker may not satisfy an onchain-native researcher.
+
+## First-hand evidence to add before publish
+
+Do not publish this page as a "tested" roundup unless the editorial team captures original evidence from a real setup.
+
+- Screenshot the dashboard after connecting at least:
+  - 1 centralized exchange account
+  - 1 EVM wallet
+  - 1 Solana wallet
+  - 1 DeFi position if the tool claims DeFi coverage
+- Capture one short screen recording that shows:
+  - adding an account
+  - waiting for sync
+  - reviewing profit and loss or portfolio allocation
+- Save one screenshot of any sync error, token-mapping issue, or missing balance. That kind of friction is part of the real review, not something to hide.
+
+## First-person experience block to write with real usage
+
+Replace this section with real editorial experience before publish. Do not leave it as fiction.
+
+Example structure:
+
+> After [X days/weeks] of using [tool] across [exchange names] and [wallet names], our team found that the strongest part of the product was [specific strength]. The biggest annoyance was [specific friction], especially when we tried to [real workflow]. In practice, this made the tool feel better for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+To make the review feel earned rather than promotional, add all three of these:
+
+- One thing the tool did better than expected
+- One thing it handled badly or inconsistently
+- One troubleshooting note, such as reconnecting an API key, refreshing a stuck balance, or remapping a mislabeled token
+
+If the team tests tax exports or PnL history, document one failed import or confusing field as well. That is often more useful than repeating product copy.
+
+## Quantitative data to collect
+
+Replace generic adjectives with measurements wherever possible.
+
+- Sync time for first portfolio import: `[X min Y sec]`
+- Number of exchanges connected successfully on first attempt: `[X/Y]`
+- Number of wallets recognized without manual fixes: `[X/Y]`
+- Number of missing or mislabeled assets found during testing: `[X]`
+- Time required to fix one broken sync or relink an account: `[X min]`
 
 ## FAQ about crypto portfolio trackers
 

@@ -28,7 +28,7 @@ The important thing is that these tools do not solve the same problem. Readers w
 
 The first test is not how many charts a product has. It is whether the data structure fits the decision you want to make.
 
-Glassnode is useful when the user wants macro market structure, behavioral signals, and higher-level readouts around flows, supply, or market regime. Dune is useful when the user wants to build or inspect a custom query and trace exactly how a dashboard is constructed. Dune's own documentation emphasizes query, visualization, and multi-chain data access as the core value of the platform. Nansen is useful when the user wants labeled wallets, tracked entities, and the ability to move from narrative to wallet behavior quickly. Arkham is useful when the user wants investigation-style tracking of entities and wallet activity. Messari is useful when the user wants research framing layered on top of data.
+Glassnode is useful when the user wants macro market structure, behavioral signals, and higher-level readouts around flows, supply, or market regime. Dune is useful when the user wants to build or inspect a custom query and trace exactly how a dashboard is constructed. Dune's own documentation emphasizes query, visualization, and multi-chain data access as the core value of the platform. Nansen is useful when the user wants labeled wallets, tracked entities, and the ability to move from narrative to wallet behavior quickly. Arkham is useful when the user wants investigation-style tracking of entities and wallet activity. Messari is useful when the user wants research framing layered on top of data, especially when paired with [portfolio tracking](/tools/portfolio/best-crypto-portfolio-trackers-2026) or a more explicit [risk-management](/strategies/risk-management/) workflow.
 
 A good tool reduces interpretation work. A weaker tool may still show interesting charts, but force the user to guess what those charts mean.
 
@@ -38,7 +38,7 @@ For smart-money tracking, Nansen is still the clearest starting point.
 
 The reason is not magic. It is labeling, segmentation, and workflow. When a tool can map addresses into recognizable cohorts and make wallet activity easier to interpret, it becomes far more useful than a raw charting layer. That is the core reason many traders still treat Nansen as the premium shortcut for narrative validation.
 
-The tradeoff is that smart-money tracking can become a crutch. Watching copied wallet behavior without understanding time horizon, risk management, or thesis context can lead users into shallow imitation rather than better research.
+The tradeoff is that smart-money tracking can become a crutch. Watching copied wallet behavior without understanding time horizon, [risk management](/strategies/risk-management/), or thesis context can lead users into shallow imitation rather than better research.
 
 ## Best tool for macro on-chain signals
 
@@ -80,9 +80,46 @@ The right stack is often two tools, not one. A user may rely on Glassnode for re
 
 The first mistake is confusing visibility with edge. If a dashboard is public and widely cited, the signal may already be fully absorbed into the market narrative.
 
-The second mistake is reading cross-chain activity without understanding what is native, bridged, synthetic, or exchange-related. On-chain data is powerful, but chain movement alone is not always enough to describe economic meaning.
+The second mistake is reading cross-chain activity without understanding what is native, [bridged](/how-to/bridging/best-cross-chain-bridges-2026), synthetic, or exchange-related. On-chain data is powerful, but chain movement alone is not always enough to describe economic meaning.
 
 The third mistake is importing traditional finance thinking too literally. Wallets are not always institutions, flows are not always directional bets, and a burst of activity can reflect infrastructure behavior rather than conviction.
+
+## First-hand evidence to add before publish
+
+If this article is positioned as tested or experience-based, the newsroom should capture original evidence from at least three real workflows.
+
+- Screenshot one public Dune dashboard used in the review
+- Screenshot one macro chart view from a premium or trial product
+- Screenshot one wallet-investigation workflow, including labels or entity views
+- Record one short clip showing how long it takes to go from a market narrative to a usable chart or dashboard
+
+If the team cannot capture original interface evidence, the article should be framed as an editorial comparison, not as a hands-on review.
+
+## First-person experience block to write with real usage
+
+Replace this with true experience before publish.
+
+Example structure:
+
+> We used [tool] over [X days/weeks] to answer three real questions: [question 1], [question 2], and [question 3]. The product felt strongest when we needed [specific workflow]. It felt weakest when we tried to [specific limitation]. That difference is why we would recommend it to [user type] but not to [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For each tool highlighted, add:
+
+- one real advantage discovered during use
+- one limitation not obvious from the landing page
+- one troubleshooting note, such as query confusion, label ambiguity, or dashboard interpretation friction
+
+The article will feel more trustworthy if it includes the moment where the data was less clear than expected.
+
+## Quantitative data to collect
+
+- Time from opening the product to first useful dashboard: `[X min]`
+- Number of clicks or steps to inspect a wallet deeply: `[X]`
+- Number of chains or datasets visibly accessible in the tested plan: `[X]`
+- Number of customizations needed before the chart became useful: `[X]`
+- Time required to export, save, or share the analysis result: `[X min]`
 
 ## FAQ about on-chain analytics tools
 

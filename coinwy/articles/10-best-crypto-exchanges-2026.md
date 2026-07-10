@@ -28,7 +28,7 @@ There is no single best exchange for everyone. The useful answer is always segme
 
 We evaluated exchanges through five filters.
 
-First, ease of use: how quickly can a normal user understand funding, trading, and withdrawals? Second, product breadth: does the exchange support the trading style or asset access the user actually wants? Third, fee posture: not whether the fee is "low" in marketing terms, but whether the platform feels efficient for the intended user `[needs source]`. Fourth, trust posture: what does the exchange's brand, operating model, and user reputation imply? Fifth, exit logic: how easy is it to move assets out and not stay stuck inside the exchange as a permanent home?
+First, ease of use: how quickly can a normal user understand funding, trading, and withdrawals? Second, product breadth: does the exchange support the trading style or asset access the user actually wants? Third, fee posture: not whether the fee is "low" in marketing terms, but whether the platform feels efficient for the intended user `[needs source]`. Fourth, trust posture: what does the exchange's brand, operating model, and user reputation imply? Fifth, exit logic: how easy is it to move assets out and not stay stuck inside the exchange as a permanent home? That last point is especially important if the user plans to withdraw into a [hot wallet](/wallets/hot-wallets/best-hot-wallets-2026) or move onward into a [DEX](/exchanges/dex/best-decentralized-exchanges-2026).
 
 That last point matters because many exchange comparisons quietly assume users will keep too much on-platform for too long.
 
@@ -80,7 +80,7 @@ The reason to compare exchanges this way is to stop readers from using the wrong
 
 The first risk is custody complacency. Even the best exchange should not be treated as the permanent storage layer for a user's full portfolio.
 
-The second risk is category confusion. Users often choose an exchange because it is "big" without asking whether it is actually a good fit for their behavior. A large exchange can still be the wrong home for a user who needs simpler onboarding or a user who wants more self-custody control.
+The second risk is category confusion. Users often choose an exchange because it is "big" without asking whether it is actually a good fit for their behavior. A large exchange can still be the wrong home for a user who needs simpler onboarding or a user who wants more self-custody control. That is why this page should naturally connect readers to [perpetual-exchange decisions](/exchanges/perp/best-perpetual-crypto-exchanges-2026), [DEX decisions](/exchanges/dex/best-decentralized-exchanges-2026), and wallet custody decisions rather than presenting the CEX as the end of the workflow.
 
 The third risk is jurisdiction blindness. Availability, product access, and even feature stability can vary by region, so a global list should always be read with a local-market check in mind.
 
@@ -101,6 +101,40 @@ Only to the extent needed for active trading or convenience. Strategic long-term
 ### What matters most when choosing an exchange?
 
 Fit matters most: beginner ease, product breadth, trading depth, and trust posture should be weighted differently depending on the user.
+
+## First-hand evidence to add before publish
+
+If the page will claim direct platform experience, the team should capture actual account or workflow evidence.
+
+- Screenshot signup or onboarding flow
+- Screenshot deposit, market view, or order-entry screen
+- Screenshot withdrawal or transfer screen
+- One short video showing how long it takes to go from login to a placed order or a completed withdrawal setup
+- One screenshot of any fee disclosure, warning prompt, or confusing UX element
+
+## First-person experience block to write with real usage
+
+Replace this with a real editorial note before publish.
+
+Example structure:
+
+> We used [exchange] for [X sessions/days] to test onboarding, order placement, and withdrawal flow. The strongest part of the experience was [specific strength]. The weakest part was [specific friction], especially when we tried to [real task]. Based on that hands-on use, we would recommend it more for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For each exchange presented as tested, add:
+
+- one strength found during real funding, trading, or withdrawal flow
+- one weakness that would matter to a user, such as unclear fees, cluttered UI, or regional friction
+- one troubleshooting tip, such as network selection, withdrawal-whitelist setup, or account-verification delay
+
+## Quantitative data to collect
+
+- Time from login to first trade screen: `[X min]`
+- Number of steps to deposit or buy a major asset: `[X]`
+- Number of steps to reach the withdrawal screen: `[X]`
+- Fee displayed for a test trade or transfer: `[X]`
+- Time required to complete a small withdrawal setup: `[X min]`
 
 ## Suggested media and embeds
 

@@ -28,7 +28,7 @@ The best cold wallet is not always the most feature-rich one. It is the one the 
 
 The first thing that matters is not the metal finish or app design. It is the custody model.
 
-Users should ask whether they want Bitcoin-only simplicity or broad-asset flexibility, whether they care more about open-source culture or mainstream convenience, and whether their backup habits are strong enough to handle a more self-directed setup. The right cold wallet is the one whose security model the user will actually maintain.
+Users should ask whether they want Bitcoin-only simplicity or broad-asset flexibility, whether they care more about open-source culture or mainstream convenience, and whether their backup habits are strong enough to handle a more self-directed setup. The right cold wallet is the one whose security model the user will actually maintain, not just the one that looks impressive next to a [hot-wallet workflow](/wallets/hot-wallets/best-hot-wallets-2026) or exchange account.
 
 Usability matters because user error is still one of the biggest threats in self-custody. A theoretically excellent device can still be the wrong choice if the owner will not use it consistently or back it up properly.
 
@@ -72,7 +72,7 @@ The main point is that hardware wallets are not a single category with one winne
 
 The biggest cold-wallet risk is not always hacking. It is poor recovery planning. A user can buy a reputable device and still create a fragile setup if seed storage, inheritance planning, or device redundancy is sloppy.
 
-The second risk is buying a device that does not fit actual behavior. A user who needs weekly interaction may end up bypassing the hardware wallet too often. A user who wants long-term Bitcoin storage may buy a broad consumer device when a more focused tool would have matched the goal better.
+The second risk is buying a device that does not fit actual behavior. A user who needs weekly interaction may end up bypassing the hardware wallet too often. A user who wants long-term Bitcoin storage may buy a broad consumer device when a more focused tool would have matched the goal better. In practice, that often happens when the reader never maps the cold wallet to their actual [buy](/how-to/buy-crypto/), [transfer](/how-to/transfer/), and custody routine.
 
 The third risk is confusing product reputation with personal discipline. No hardware wallet can rescue weak backup practices.
 
@@ -97,6 +97,40 @@ No. The backup, recovery, and storage practices around the device matter just as
 ### When should I buy a cold wallet?
 
 Once a portfolio becomes meaningful enough that long-term storage deserves a stronger custody setup than a phone or browser wallet.
+
+## First-hand evidence to add before publish
+
+If this article is positioned as hands-on, the team should capture real ownership or setup evidence instead of relying only on manufacturer media.
+
+- Photo of the device box or setup environment
+- Screenshot or photo of the setup flow without exposing sensitive recovery data
+- Photo of the device during connection or confirmation
+- One short video showing a harmless step such as navigating menus or confirming a receive address
+- One screenshot or photo of any confusing setup step, firmware prompt, or pairing friction
+
+## First-person experience block to write with real usage
+
+Replace this with true usage notes before publish.
+
+Example structure:
+
+> We set up [device] over [X minutes/hours] and used it for [specific tasks]. The part that felt strongest was [specific strength], especially when we needed to [real action]. The weakest part was [specific friction], which became obvious when we tried to [real workflow]. Based on that experience, we would recommend it more for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+For any wallet described as tested, add:
+
+- one setup or usability detail that was better than expected
+- one point of friction, such as pairing, firmware, backup flow, or app navigation
+- one troubleshooting note, such as reconnecting the device, updating firmware, or verifying address display
+
+## Quantitative data to collect
+
+- Time from unboxing to ready-to-receive status: `[X min]`
+- Number of setup steps before first receive address is shown: `[X]`
+- Time required to complete firmware or app update: `[X min]`
+- Number of confirmations needed for a simple send or receive test: `[X]`
+- Number of assets or chains actually supported in the tested workflow: `[X]`
 
 ## Suggested media and embeds
 

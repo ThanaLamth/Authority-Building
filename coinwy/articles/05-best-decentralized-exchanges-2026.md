@@ -28,7 +28,7 @@ The best DEX depends on whether the user needs a spot swap, a perp venue, a rout
 
 A better DEX is not just the one with the most famous brand.
 
-The first question is route quality. Can it get the user a better executed trade than the obvious alternative? The second is liquidity depth in the exact market the user cares about. The third is ecosystem fit. A Solana-native user and an Ethereum L2 user may be solving different problems with different tools. The fourth is product design. Some DEXs are really swap venues, while others are better understood as routing layers or perp exchanges. The fifth is risk surface: smart contracts, MEV exposure, router complexity, and chain-specific failure points all matter.
+The first question is route quality. Can it get the user a better executed trade than the obvious alternative? The second is liquidity depth in the exact market the user cares about. The third is ecosystem fit. A Solana-native user and an Ethereum L2 user may be solving different problems with different tools. The fourth is product design. Some DEXs are really swap venues, while others are better understood as routing layers or [perp exchanges](/exchanges/perp/best-perpetual-crypto-exchanges-2026). The fifth is risk surface: smart contracts, MEV exposure, router complexity, and chain-specific failure points all matter.
 
 That is why a single "best DEX" answer is usually too shallow.
 
@@ -46,7 +46,7 @@ For Solana users, Jupiter is usually the core answer because it behaves more lik
 
 That distinction matters. A Solana user often cares less about the brand of the venue than about the best route across a fast ecosystem with fragmented liquidity. Jupiter fits that behavior better than a more traditional single-DEX mental model.
 
-The tradeoff is that route optimization adds abstraction. Users should still understand the output token, slippage assumptions, and transaction conditions.
+The tradeoff is that route optimization adds abstraction. Users should still understand the output token, slippage assumptions, and transaction conditions, especially if the swap is only the first step before a [bridge transfer](/how-to/bridging/best-cross-chain-bridges-2026) or a [yield strategy](/strategies/yield-farming/best-defi-yield-farming-platforms-2026).
 
 ## Best DEX for perpetual trading
 
@@ -80,7 +80,7 @@ The comparison only makes sense once the user names their real job to be done.
 
 The first risk is thinking decentralization removes execution risk. It does not. Slippage, failed transactions, and front-running or MEV-style execution effects can still make a trade worse than expected.
 
-The second risk is using a route the user does not understand. A venue or aggregator can optimize an output, but the user still needs to understand what asset is arriving and what assumptions the transaction is making.
+The second risk is using a route the user does not understand. A venue or aggregator can optimize an output, but the user still needs to understand what asset is arriving and what assumptions the transaction is making. That is also why DEX usage should be tied closely to [wallet choice](/wallets/hot-wallets/best-hot-wallets-2026), not treated as a separate decision.
 
 The third risk is treating every DEX as equally battle-tested. Some are infrastructure-level venues with long usage histories. Others are newer or more concentrated around specific narratives.
 
@@ -101,6 +101,40 @@ No. It depends on what the user values: custody, route flexibility, liquidity ac
 ### What matters most when choosing a DEX?
 
 Execution quality, liquidity fit, and risk awareness matter more than branding alone.
+
+## First-hand evidence to add before publish
+
+If the page is framed as hands-on, capture real swap evidence instead of relying on protocol art or stock UI.
+
+- Screenshot one EVM swap flow
+- Screenshot one Solana route or quote flow
+- Screenshot one confirmation screen that clearly shows slippage or route details
+- Record one short screen video comparing a direct swap versus an aggregated route
+- Save one example where the route or output was more confusing than expected
+
+## First-person experience block to write with real usage
+
+Replace this with a genuine testing note before publish.
+
+Example structure:
+
+> We tested [DEX names] by swapping [token pair] with small amounts on [chain names]. The fastest experience was [specific DEX/workflow], but the clearest route explanation came from [other DEX or aggregator]. The biggest friction we encountered was [specific issue], which is why we think this option is better for [user type] than for [other user type].
+
+## Balanced evaluation and troubleshooting notes
+
+To make this a trustworthy page, include:
+
+- one trade that executed cleanly
+- one point where the route, gas estimate, or slippage was less intuitive than expected
+- one troubleshooting note, such as resetting slippage, switching wallets, or retrying on a quieter route
+
+## Quantitative data to collect
+
+- Number of steps from wallet connect to completed swap: `[X]`
+- Quoted slippage versus realized output difference: `[X]`
+- Network fee shown during testing: `[X]`
+- Swap completion time: `[X sec/min]`
+- Number of route options surfaced for the same pair: `[X]`
 
 ## Suggested media and embeds
 
