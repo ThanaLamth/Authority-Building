@@ -13,16 +13,16 @@ Date: 2026-07-10
 
 | # | File | Keyword | Status | Notes |
 |---|---|---|---|---|
-| 1 | `articles/01-best-crypto-portfolio-trackers-2026.md` | `best crypto portfolio trackers 2026` | Drafted | Needs final product verification for features and integrations |
-| 2 | `articles/02-best-onchain-analytics-tools-2026.md` | `best on-chain analytics tools 2026` | Drafted | Needs pricing and chain-coverage verification |
-| 3 | `articles/03-best-perpetual-crypto-exchanges-2026.md` | `best perpetual crypto exchanges 2026` | Drafted | Needs jurisdiction and product-availability check |
-| 4 | `articles/04-best-cross-chain-bridges-2026.md` | `best cross-chain bridges 2026` | Drafted | Needs bridge support matrix verification |
-| 5 | `articles/05-best-decentralized-exchanges-2026.md` | `best decentralized exchanges 2026` | Drafted | Needs liquidity-positioning spot check |
-| 6 | `articles/06-best-defi-yield-farming-platforms-2026.md` | `best defi yield farming platforms 2026` | Drafted | Pending final risk and token-emission sourcing |
-| 7 | `articles/07-best-hot-wallets-2026.md` | `best hot wallets 2026` | Drafted | Needs current security and chain-support checks |
-| 8 | `articles/08-best-cold-crypto-wallets-2026.md` | `best cold crypto wallets 2026` | Drafted | Needs hardware feature and pricing check |
-| 9 | `articles/09-best-crypto-staking-platforms-2026.md` | `best crypto staking platforms 2026` | Drafted | Needs staking availability and reward-model checks |
-| 10 | `articles/10-best-crypto-exchanges-2026.md` | `best crypto exchanges 2026` | Drafted | Needs compliance and market-availability verification |
+| 1 | `articles/01-best-crypto-portfolio-trackers-2026.md` | `best crypto portfolio trackers 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 2 | `articles/02-best-onchain-analytics-tools-2026.md` | `best on-chain analytics tools 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 3 | `articles/03-best-perpetual-crypto-exchanges-2026.md` | `best perpetual crypto exchanges 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 4 | `articles/04-best-cross-chain-bridges-2026.md` | `best cross-chain bridges 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 5 | `articles/05-best-decentralized-exchanges-2026.md` | `best decentralized exchanges 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 6 | `articles/06-best-defi-yield-farming-platforms-2026.md` | `best defi yield farming platforms 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 7 | `articles/07-best-hot-wallets-2026.md` | `best hot wallets 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 8 | `articles/08-best-cold-crypto-wallets-2026.md` | `best cold crypto wallets 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 9 | `articles/09-best-crypto-staking-platforms-2026.md` | `best crypto staking platforms 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
+| 10 | `articles/10-best-crypto-exchanges-2026.md` | `best crypto exchanges 2026` | Needs sourcing pass | Internal links, external links, EEAT cues, and media brief added |
 
 ## QA checklist for every article
 
