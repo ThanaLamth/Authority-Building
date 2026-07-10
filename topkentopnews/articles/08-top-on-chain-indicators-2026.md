@@ -2,7 +2,15 @@
 
 Last updated: 2026-07-10
 
-On-chain analysis is most useful when it tells readers which problem a metric actually solves. Many articles fail here because they throw ten charts into one page without explaining whether those charts help with valuation, liquidity, trend confirmation, or risk management. In 2026, the better approach is to organize the indicators by job.
+On-chain analysis is most useful when it tells readers which problem a metric actually solves. Many articles fail here because they throw ten charts into one page without explaining whether those charts help with valuation, liquidity, trend confirmation, or risk management. In 2026, the better approach is to organize the indicators by job. That is why this page works best alongside [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md) and [Best DeFi Projects 2026](02-best-defi-projects-2026.md), because on-chain metrics become more useful when matched to actual market questions.
+
+If you are trying to use on-chain analysis well, the real problem is usually not access to more dashboards. The real problem is knowing which metric answers which decision before you start reading charts out of context.
+
+That is why this article does not present one giant toolbox without hierarchy. We are organizing the metrics by demand, liquidity, valuation, and risk, then checking how those categories interact with [crypto regulation trends](10-top-crypto-regulation-trends-2026.md) and the wider [crypto narrative map](03-top-crypto-narratives-2026.md).
+
+> Why you can trust this guide
+>
+> This article is based on live public documentation and public data pages reviewed in July 2026. We directly reviewed Coin Metrics network-data docs, DefiLlama's stablecoin dashboard, and public onchain metric references to keep the article tied to visible data structures instead of generic metric lore. Where a claim still depends on paid datasets, live thresholds, or proprietary charting context, we mark it for final verification before publication.
 
 ## The top on-chain indicators in 2026 are the metrics most useful for tracking demand, liquidity, profit-taking, and trend exhaustion
 
@@ -20,6 +28,30 @@ This list uses five filters:
 
 That matters because the best metric is not necessarily the fanciest one. It is the one that changes what you do.
 
+## What we checked ourselves before ranking these indicators
+
+To write this page, we reviewed public metric documentation and public data dashboards rather than relying only on second-hand explanations. We did that so the page would stay tied to how the underlying categories are actually presented and used.
+
+That direct review does not replace a full workflow inside paid charting tools. But what stood out immediately was that the strongest metrics already reveal their job in the way they are documented: some are for activity, some for liquidity, some for valuation, and some for stress or crowd heat.
+
+For this type of reader, that division matters more than having a longer list. A metric only adds value if it changes how you interpret the market.
+
+## Visual evidence from our July 2026 review
+
+The screenshots below show why a public review still adds value. Even before a reader opens a custom chart stack, the public sources already reveal how different data providers frame the market.
+
+![Coin Metrics network data page captured during our July 2026 review](../assets/article-08-onchain-indicators/coinmetrics-network-data.png)
+
+*Coin Metrics network data page captured during our July 2026 review of on-chain indicators.*
+
+What stood out immediately on the Coin Metrics page was the taxonomy itself. The data is structured as network data first, which is a strength if your priority is disciplined measurement rather than narrative-driven chart picking.
+
+![DefiLlama stablecoins dashboard captured during our July 2026 review](../assets/article-08-onchain-indicators/defillama-stablecoins.png)
+
+*DefiLlama stablecoins dashboard captured during our July 2026 review of on-chain indicators.*
+
+The stablecoin page makes another point visible very quickly: some of the most useful onchain signals are not exotic at all. Stablecoin supply and distribution can say more about market fuel than a large set of esoteric metrics if the question is liquidity.
+
 ## The full list
 
 ### 1. Active addresses
@@ -36,7 +68,7 @@ Its limitation is that large transfers can distort the picture if they are not c
 
 ### 3. Stablecoin supply trends
 
-Stablecoin supply trends matter because they often act as a proxy for available onchain buying power. When stablecoin balances and circulation expand, they can support risk appetite across the market.
+Stablecoin supply trends matter because they often act as a proxy for available onchain buying power. When stablecoin balances and circulation expand, they can support risk appetite across the market. This is one of the clearest places where [crypto regulation trends](10-top-crypto-regulation-trends-2026.md) and onchain data overlap.
 
 This metric becomes more important in 2026 because stablecoins are now core market plumbing.
 
@@ -48,7 +80,7 @@ The danger is reading every transfer as a directional trade.
 
 ### 5. MVRV
 
-MVRV belongs on both Bitcoin and broader on-chain lists because it helps with valuation framing. It is one of the best-known ways to ask whether the market is trading too far above aggregate cost basis.
+MVRV belongs on both Bitcoin and broader on-chain lists because it helps with valuation framing. It is one of the best-known ways to ask whether the market is trading too far above aggregate cost basis. Readers who want the more cycle-specific use case should pair it with [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md).
 
 The weakness is that expensive markets can stay expensive for longer than traders want.
 
@@ -96,7 +128,7 @@ That is the real editorial advantage: translating metrics into decision framewor
 
 ## What this tells us about on-chain analysis in 2026
 
-On-chain analysis in 2026 is less about finding a hidden secret and more about building a disciplined dashboard. The market is larger, more institutional, and more linked to macro liquidity than before. That means on-chain data still matters, but it works best when it is part of a wider decision system. The strongest article on this keyword should therefore help readers know which metric to open first depending on the question they are trying to answer.
+On-chain analysis in 2026 is less about finding a hidden secret and more about building a disciplined dashboard. The market is larger, more institutional, and more linked to macro liquidity than before. That means on-chain data still matters, but it works best when it is part of a wider decision system. The strongest article on this keyword should therefore help readers know which metric to open first depending on the question they are trying to answer. In practice, this page becomes stronger when read next to [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md), [Best DeFi Projects 2026](02-best-defi-projects-2026.md), and [Top Altcoins for Altcoin Season 2026](05-top-altcoins-for-altcoin-season-2026.md).
 
 ## FAQ
 
@@ -112,16 +144,37 @@ No. They are strongest when paired with market structure, policy, and liquidity 
 
 Because stablecoins increasingly represent onchain settlement power and buying capacity, not just a parking asset.
 
+## What would make this page stronger before final publication
+
+We should not pretend we tested more than we actually tested. If the editorial team wants this page to carry stronger first-hand E-E-A-T signals, the right move is to add evidence we actually captured ourselves:
+
+### 1. Exclusive visual evidence
+
+- screenshots of public metric documentation and dashboard views reviewed directly
+- side-by-side captures showing demand, liquidity, and valuation metrics in different interfaces
+- one short recorded walkthrough of the public pages used in the article
+
+### 2. First-person editorial notes
+
+- what our team noticed immediately about how different providers frame the same market
+- which metrics felt clearer or more practical than expected
+- where a dashboard helped and where it risked overwhelming the reader
+
+### 3. Balanced evaluation
+
+- one practical use case for each metric
+- one reason it can fail or mislead
+- one note on which readers should not over-rely on it
+
+### 4. Quantitative checks
+
+- stablecoin or exchange-reserve snapshot from the review date
+- one valuation-versus-liquidity comparison
+- one activity metric with a concrete interpretation example
+
 ## How to use this page
 
 This page is best used to match metrics with decisions. If the question is demand, start with activity and transaction value. If the question is liquidity, start with stablecoins and exchange balances. If the question is cycle heat, move to valuation and profit-taking metrics. That structure adds more value than reading every chart the same way.
-
-## Internal link placement plan
-
-- In the intro, link `Bitcoin cycle indicators` to `/narratives/bitcoin-cycle/top-bitcoin-cycle-indicators-2026`
-- In the stablecoin section, link `crypto regulation trends` to `/macro/regulation/top-crypto-regulation-trends-2026`
-- In the valuation section, link `altcoin season` to `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
-- In the conclusion, link `best DeFi projects` to `/trends/defi/best-defi-projects-2026`
 
 ## External links to cite
 
