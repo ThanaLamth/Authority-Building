@@ -113,6 +113,32 @@ Because ETH often acts as the bridge between Bitcoin-led moves and broader alt p
 
 Because they can benefit from peak risk appetite, but they are usually the weakest names structurally.
 
+## How to use this page
+
+This page is best used as a rotation checklist. Readers should ask whether Bitcoin dominance, Ethereum strength, stablecoin liquidity, and sector leadership are all pointing in the same direction before treating any altcoin rally as a full alt season. If those conditions are missing, the list becomes a watchlist for setups, not confirmation of regime change.
+
+## Internal link placement plan
+
+- In the intro, link `Bitcoin cycle indicators` to `/narratives/bitcoin-cycle/top-bitcoin-cycle-indicators-2026`
+- In the ETH or SOL sections, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+- In the TAO or RNDR sections, link `AI crypto coins` to `/trends/ai-crypto/top-ai-crypto-coins-2026`
+- In the meme-beta section, link `best memecoins 2026` to `/trends/memecoins/best-memecoins-2026`
+
+## External links to cite
+
+- [BlockchainCenter Altcoin Season Index](https://www.blockchaincenter.net/altcoin-season-index/) for the classic alt-season gauge
+- [CoinGecko Categories Market Cap Charts](https://www.coingecko.com/en/charts/categories) for sector rotation context
+- [CoinGecko Categories Guide](https://www.coingecko.com/learn/coingecko-categories) for how category-level flows are tracked
+- [New York Fed AMEC](https://www.newyorkfed.org/research/AMEC) for macro-liquidity context
+- [New York Fed Staff Nowcast](https://www.newyorkfed.org/research/policy/nowcast) for current macro-growth context
+
+## Media plan
+
+- Hero chart: Bitcoin dominance plus altcoin-season index overlay
+- Comparison table near the top: asset, sector, trigger, risk, what confirms the move
+- One inline chart: category rotation heat map by sector
+- One support graphic: `How altcoin season usually unfolds` flowchart
+
 ## Editor Source Checklist
 
 - verify current alt season indicators and market regime conditions at publish time [needs source]

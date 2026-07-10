@@ -111,6 +111,32 @@ Yes. In DeFi that happens often, especially when governance rights or fee linkag
 
 Because stablecoins are not just a side product anymore. They are a core settlement layer for trading, lending, and onchain payments.
 
+## How to use this page
+
+This page is most useful for readers comparing DeFi sectors rather than chasing one token chart. The ranking should change only when a protocol clearly loses category relevance, real liquidity, or fee quality. If a protocol keeps its narrative but loses sticky usage, that is usually a sign to downgrade it.
+
+## Internal link placement plan
+
+- In the intro, link `onchain finance` to `/insights/on-chain/top-on-chain-indicators-2026`
+- In the Aave or Maker sections, link `crypto regulation trends` to `/macro/regulation/top-crypto-regulation-trends-2026`
+- In the Ethereum-heavy protocol sections, link `Ethereum ecosystem coins` to `/narratives/ethereum-ecosystem/top-ethereum-ecosystem-coins-2026`
+- In the conclusion, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+
+## External links to cite
+
+- [DefiLlama Dashboard](https://defillama.com/?fees=true&volume=true) for TVL, fees, revenue, and volume comparisons
+- [Aave Help and Docs Hub](https://aave.com/help) for protocol structure and feature references
+- [Uniswap Developer Docs](https://developers.uniswap.org/docs) for DEX mechanics and protocol concepts
+- [Maker Protocol Technical Docs](https://docs.makerdao.com/) for Dai, collateral, and governance references
+- [Ethena Docs](https://docs.ethena.fi/) for USDe structure and risk framing
+
+## Media plan
+
+- Hero chart: top DeFi sectors by TVL or fees with source note
+- Comparison table near the top: protocol, category, why it matters, main risk
+- Inline chart: DeFiLlama screenshot comparing fees or TVL leaders
+- Supporting graphic: simple map of DeFi sectors covering lending, DEXs, stablecoins, yield, and perps
+
 ## Editor Source Checklist
 
 - verify current category leadership with live TVL, fee, and activity references [needs source]

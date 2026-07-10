@@ -113,6 +113,32 @@ Because category leadership in memes is partly about recognition, not just about
 
 Because memecoin leadership changes faster than most other crypto categories, and pretending otherwise leads to stale pages.
 
+## How to use this page
+
+This page is designed as a sentiment and liquidity watchlist, not a conviction portfolio guide. The ranking should move when a memecoin loses exchange access, shows weaker community persistence, or gets displaced by a stronger and more liquid meme in the same attention lane. The final slot is intentionally flexible because the memecoin category changes faster than most other sectors.
+
+## Internal link placement plan
+
+- In the intro, link `altcoin season` to `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
+- In the liquidity discussion, link `on-chain indicators` to `/insights/on-chain/top-on-chain-indicators-2026`
+- In the BONK or BRETT sections, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+- In the conclusion, link `AI crypto coins` only once if comparing meme attention with theme-driven attention
+
+## External links to cite
+
+- [CoinGecko Memecoins Category](https://www.coingecko.com/en/categories/meme-token) for market-cap and category tracking
+- [Dogecoin Foundation](https://dogecoin.com/) for DOGE background
+- [Shiba Inu Ecosystem Hub](https://www.shib.io/) for SHIB references
+- [BONK official site](https://bonkcoin.com/) for current project references
+- [FLOKI official site](https://floki.com/) for project-positioning verification
+
+## Media plan
+
+- Hero visual: memecoin watchlist card grid with category warning label
+- Comparison table near the top: token, chain, liquidity profile, why it matters, main red flag
+- One inline chart: top memecoin category market-cap trend from CoinGecko
+- One support graphic: `How to tell a liquid meme from a fragile meme`
+
 ## Editor Source Checklist
 
 - verify current memecoin liquidity leaders and exchange coverage [needs source]

@@ -100,6 +100,32 @@ Because it provides one of the clearest formal regional frameworks and therefore
 
 Stablecoins, exchanges, custody, tokenized securities, and yield products all remain highly exposed.
 
+## How to use this page
+
+This page works best as a market-impact map rather than a legal memo. Readers should use it to identify which policy areas most directly change distribution, trust, and product scope. The ranking should shift only when a rule meaningfully changes what exchanges, issuers, custodians, or users can do in practice.
+
+## Internal link placement plan
+
+- In the intro, link `institutional crypto trends` to `/insights/institutional/top-institutional-crypto-trends-2026`
+- In the stablecoin section, link `best DeFi projects` if discussing settlement and onchain liquidity dependence
+- In the tokenized-securities section, link `Ethereum ecosystem coins` if discussing settlement layers
+- In the conclusion, link `crypto narratives in 2026` to show how regulation becomes a capital-allocation story
+
+## External links to cite
+
+- [European Commission Crypto-Assets / MiCA page](https://finance.ec.europa.eu/digital-finance/crypto-assets_en) for policy framework and review context
+- [ESMA MiCA page](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) for supervisory and implementation references
+- [SEC statement on certain protocol staking activities](https://www.sec.gov/newsroom/speeches-statements/peirce-statement-protocol-staking-052925) for current US policy tone
+- [SEC interpretive release on crypto asset activities](https://www.sec.gov/rules-regulations/2026/03/s7-2026-09) for US interpretive direction
+- [FCA cryptoassets information page](https://www.fca.org.uk/consumers/cryptoassets) for UK-facing user and regulatory context
+
+## Media plan
+
+- Hero visual: regulation map split into stablecoins, exchanges, custody, tokenized securities, and yield products
+- Comparison table near the top: trend, affected entities, likely market effect, region
+- One inline timeline: policy milestones for Europe, US, and UK in 2026
+- One support graphic: `How regulation changes who gets distribution and trust`
+
 ## Editor Source Checklist
 
 - verify live MiCA implementation and review developments using European Commission or ESMA material [needs source]

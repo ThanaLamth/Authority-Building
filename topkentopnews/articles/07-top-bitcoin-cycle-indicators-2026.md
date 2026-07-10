@@ -99,6 +99,32 @@ Because Bitcoin now responds more directly to institutional and policy-sensitive
 
 Yes. They reduce uncertainty; they do not remove it.
 
+## How to use this page
+
+This page should be used as a dashboard guide, not a promise that one indicator will call tops and bottoms precisely. The strongest workflow is to combine one valuation metric, one holder-behavior metric, and one macro-liquidity signal before making a strong cycle claim. If those signals disagree sharply, the responsible interpretation is usually uncertainty, not forced conviction.
+
+## Internal link placement plan
+
+- In the intro, link `on-chain analysis` to `/insights/on-chain/top-on-chain-indicators-2026`
+- In the macro-liquidity section, link `institutional crypto trends` to `/insights/institutional/top-institutional-crypto-trends-2026`
+- In the conclusion, link `altcoin season` to `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
+- In one early paragraph, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+
+## External links to cite
+
+- [Glassnode Guide to MVRV Ratio](https://docs.glassnode.com/guides-and-tutorials/metric-guides/mvrv/mvrv-ratio) for valuation framing
+- [Glassnode Guide to SOPR](https://docs.glassnode.com/guides-and-tutorials/metric-guides/sopr/sopr-spent-output-profit-ratio) for realized-profit interpretation
+- [LookIntoBitcoin Charts](https://www.lookintobitcoin.com/charts/) for Reserve Risk and other long-cycle tools
+- [New York Fed AMEC](https://www.newyorkfed.org/research/AMEC) for macro-liquidity inputs
+- [Bitcoin Treasuries](https://bitcointreasuries.net/) for corporate-holding context
+
+## Media plan
+
+- Hero chart: small dashboard panel showing MVRV, SOPR, realized price, and liquidity context
+- Comparison table near the top: indicator, what it measures, best use, main limitation
+- One inline chart: MVRV or realized price reference chart with source note
+- One support graphic: `How to combine on-chain and macro indicators`
+
 ## Editor Source Checklist
 
 - verify current definitions and chart interpretations for MVRV, SOPR, Reserve Risk, RHODL, and Puell Multiple [needs source]

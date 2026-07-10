@@ -125,6 +125,32 @@ Usually one of three things: a clear network role, visible developer or user act
 
 Because the market often prices the AI story faster than adoption can verify it. That gap creates sharp upside and sharp disappointment.
 
+## How to use this page
+
+This page works best as a category map, not as a one-click buy list. Readers should use it to separate AI infrastructure, data, compute, and agent plays before comparing tokens. The ranking should be reviewed whenever one of three things changes materially: actual network usage, exchange liquidity concentration, or the market's definition of what counts as a real AI-crypto product.
+
+## Internal link placement plan
+
+- In the intro, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+- In the methodology section, link `on-chain indicators` to `/insights/on-chain/top-on-chain-indicators-2026`
+- In the Bittensor or Render sections, link `institutional crypto trends` to `/insights/institutional/top-institutional-crypto-trends-2026`
+- In the risk section, link `crypto regulation trends` to `/macro/regulation/top-crypto-regulation-trends-2026`
+
+## External links to cite
+
+- [Bittensor Docs](https://docs.bittensor.com/) for network design and validator/subnet references
+- [Render Network Overview](https://rendernetwork.com/about) for Render's GPU and compute positioning
+- [Akash Documentation](https://akash.network/docs/) for decentralized cloud and deployment mechanics
+- [Artificial Superintelligence Alliance Community](https://community.superintelligence.io/) for current alliance references
+- [AIOZ Docs](https://docs.aioz.network/) for AI, storage, and streaming infrastructure references
+
+## Media plan
+
+- Hero image: AI crypto sector map split into `compute`, `data`, `agents`, and `distribution`
+- Comparison table near the top: token, role, primary chain, main bull case, main risk
+- One inline chart: CoinGecko AI category market-cap trend or AI category screenshot with source note
+- One explainer graphic: how decentralized compute differs from AI-agent tokens
+
 ## Editor Source Checklist
 
 - verify current AI-token category leaders and category definitions from live market data [needs source]

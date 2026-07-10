@@ -100,6 +100,32 @@ Because they bring a familiar low-risk product structure onchain and help connec
 
 Fragmentation. Products may grow quickly in one region or wrapper while remaining restricted or awkward elsewhere.
 
+## How to use this page
+
+This page is designed to help readers track infrastructure capture, not to celebrate every institutional headline equally. A trend should move up only if it changes market access, distribution, custody quality, settlement behavior, or product legitimacy in a durable way. If a headline sounds impressive but does not change market plumbing, it should stay lower.
+
+## Internal link placement plan
+
+- In the intro, link `crypto regulation trends` to `/macro/regulation/top-crypto-regulation-trends-2026`
+- In the tokenized-assets section, link `Ethereum ecosystem coins` where settlement relevance is discussed
+- In the treasury section, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+- In the conclusion, link `AI crypto coins` only if comparing infrastructure narratives with institutional distribution narratives
+
+## External links to cite
+
+- [BlackRock BUIDL Fund page](https://www.blackrock.com/cash/en-us/products/blackrock-usd-institutional-digital-liquidity-fund) for tokenized treasury context
+- [Securitize tokenization platform overview](https://own.securitize.io/) for tokenized-fund structure references
+- [Coinbase 2026 Institutional Investor Survey](https://www.coinbase.com/institutional/research-insights/research/insights-reports/2026-institutional-investor-survey-e-and-y) for institutional demand framing
+- [Visa and Bridge stablecoin announcement](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.21256.html) for payment-rail context
+- [Robinhood launches stock tokens and a Layer 2 blockchain](https://robinhood.com/us/en/newsroom/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking/) for tokenized equities references
+
+## Media plan
+
+- Hero chart: institutional trend stack covering ETFs, tokenization, stablecoins, custody, and broker convergence
+- Comparison table near the top: trend, why it matters, who benefits, main constraint
+- One inline chart: tokenized treasury asset growth or stablecoin-settlement growth with source note
+- One support graphic: `How institutional crypto adoption changes market plumbing`
+
 ## Editor Source Checklist
 
 - verify current product and asset references around tokenized treasury funds, including BUIDL or similar vehicles [needs source]

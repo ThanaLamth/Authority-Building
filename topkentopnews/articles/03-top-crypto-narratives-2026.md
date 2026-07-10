@@ -104,6 +104,32 @@ Yes. In fact, the market often performs best when several narratives reinforce e
 
 Because it changes behavior, distribution, and trust. In crypto that often moves markets as much as technology does.
 
+## How to use this page
+
+This page is a market map, not a daily signal feed. It is designed to help readers understand which themes are drawing repeated attention across products, policy, and capital flows. A narrative should move down the list if it loses catalysts, stops attracting real capital, or remains loud only on social media while activity fades elsewhere.
+
+## Internal link placement plan
+
+- In the intro, link `AI crypto coins` to `/trends/ai-crypto/top-ai-crypto-coins-2026`
+- In the Ethereum narrative section, link `Ethereum ecosystem coins` to `/narratives/ethereum-ecosystem/top-ethereum-ecosystem-coins-2026`
+- In the institutional and regulation sections, link `institutional crypto trends` and `crypto regulation trends` to their corresponding pages
+- In the altcoin rotation section, link `altcoins for altcoin season` to `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
+
+## External links to cite
+
+- [European Commission Crypto-Assets / MiCA page](https://finance.ec.europa.eu/digital-finance/crypto-assets_en) for regulatory developments
+- [Ethereum Roadmap](https://ethereum.org/roadmap/) for scaling and rollup references
+- [Coinbase 2026 Institutional Investor Survey](https://www.coinbase.com/institutional/research-insights/research/insights-reports/2026-institutional-investor-survey-e-and-y) for institutional appetite references
+- [Coinbase Research: Major Trends in Tokenization](https://www.coinbase.com/en-gb/institutional/research-insights/research/market-intelligence/major-trends-in-tokenization) for tokenized-assets context
+- [CoinGecko Categories Guide](https://www.coingecko.com/learn/coingecko-categories) for category and narrative tracking references
+
+## Media plan
+
+- Hero visual: narrative wheel showing AI, tokenization, stablecoins, Ethereum, Bitcoin, and regulation
+- Comparison table near the top: narrative, catalyst, likely beneficiaries, invalidation risk
+- Inline timeline: 2026 catalysts by quarter for the top five narratives
+- One screenshot or chart: CoinGecko categories or sector-market-cap comparison
+
 ## Editor Source Checklist
 
 - verify current live catalysts behind AI, tokenization, stablecoin, and treasury narratives [needs source]

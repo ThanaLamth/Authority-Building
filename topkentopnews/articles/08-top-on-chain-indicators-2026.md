@@ -112,6 +112,32 @@ No. They are strongest when paired with market structure, policy, and liquidity 
 
 Because stablecoins increasingly represent onchain settlement power and buying capacity, not just a parking asset.
 
+## How to use this page
+
+This page is best used to match metrics with decisions. If the question is demand, start with activity and transaction value. If the question is liquidity, start with stablecoins and exchange balances. If the question is cycle heat, move to valuation and profit-taking metrics. That structure adds more value than reading every chart the same way.
+
+## Internal link placement plan
+
+- In the intro, link `Bitcoin cycle indicators` to `/narratives/bitcoin-cycle/top-bitcoin-cycle-indicators-2026`
+- In the stablecoin section, link `crypto regulation trends` to `/macro/regulation/top-crypto-regulation-trends-2026`
+- In the valuation section, link `altcoin season` to `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
+- In the conclusion, link `best DeFi projects` to `/trends/defi/best-defi-projects-2026`
+
+## External links to cite
+
+- [Glassnode Metric Guides](https://docs.glassnode.com/guides-and-tutorials/metric-guides) for MVRV, NUPL, realized price, and related metrics
+- [Coin Metrics Network Data Pro Docs](https://gitbook-docs.coinmetrics.io/network-data/network-data-overview) for on-chain metric definitions
+- [New York Fed AMEC](https://www.newyorkfed.org/research/AMEC) for macro-liquidity context
+- [DefiLlama Stablecoins Dashboard](https://defillama.com/stablecoins) for stablecoin supply tracking
+- [CryptoQuant Quicktake](https://cryptoquant.com/) for exchange reserve and flow framing
+
+## Media plan
+
+- Hero visual: dashboard-style metric matrix split into demand, liquidity, valuation, and risk
+- Comparison table near the top: metric, what it shows, when to use it, where it fails
+- One inline chart: stablecoin supply or exchange-balance trend with source note
+- One support graphic: `Which on-chain metric to open first depending on the question`
+
 ## Editor Source Checklist
 
 - verify current definitions and preferred chart sources for each metric [needs source]

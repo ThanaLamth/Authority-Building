@@ -123,6 +123,32 @@ Yes. If Ethereum scales through rollups, those networks are part of the ecosyste
 
 Because ETH capital efficiency remains one of the key ways value moves through the ecosystem.
 
+## How to use this page
+
+This page should be read as an Ethereum stack map, not just as a ranked ticker page. The most useful way to use it is to compare how much of the list is tied to settlement, staking, data, scaling, and liquidity. If Ethereum's role in high-value onchain activity changes materially, the ranking should change with it.
+
+## Internal link placement plan
+
+- In the intro, link `DeFi leaders` to `/trends/defi/best-defi-projects-2026`
+- In the rollup sections, link `crypto narratives in 2026` to `/narratives/cross-market/top-crypto-narratives-2026`
+- In the ETH and Lido sections, link `institutional crypto trends` to `/insights/institutional/top-institutional-crypto-trends-2026`
+- In the conclusion, link `on-chain indicators` to `/insights/on-chain/top-on-chain-indicators-2026`
+
+## External links to cite
+
+- [Ethereum Roadmap](https://ethereum.org/roadmap/) for protocol direction
+- [Scaling Ethereum](https://ethereum.org/roadmap/scaling) for rollups and user-cost context
+- [Chainlink Docs](https://docs.chain.link/) for oracle and data-layer references
+- [Lido Docs](https://docs.lido.fi/) for liquid staking mechanics
+- [How L1 and L2s can build the strongest possible Ethereum](https://blog.ethereum.org/2026/03/23/l1-l2-ethereum) for current ecosystem framing
+
+## Media plan
+
+- Hero visual: Ethereum stack diagram covering L1, rollups, staking, oracles, and DeFi
+- Comparison table near the top: token, role, why it matters to Ethereum, main risk
+- One inline chart: rollup cost or scaling snapshot with source note
+- One supporting graphic: where each token sits inside the Ethereum economy
+
 ## Editor Source Checklist
 
 - verify Ethereum scaling, blob, and rollup progress claims with current Ethereum Foundation or ethereum.org references [needs source]
