@@ -16,7 +16,7 @@ That is why this guide compares design model, ecosystem role, and Bitcoin fit to
 
 > Why you can trust this guide
 >
-> This article is based on live project pages, official documentation, and public ecosystem references reviewed on July 10, 2026. Where a claim still depends on a full wallet setup, a live bridge flow, or an end-to-end app test, we say that directly.
+> This guide is based on live public project surfaces and official references reviewed on July 10, 2026. We directly checked network positioning, ecosystem framing, and public descriptions of what each system claims to add to Bitcoin. Anything that depends on a full wallet setup, a live bridge flow, or an end-to-end app test still needs final verification before publication.
 
 ## The Bitcoin Layer 2 projects most worth comparing in 2026 are Lightning, Stacks, Rootstock, BOB, Botanix, Citrea, and Merlin
 
@@ -41,7 +41,9 @@ This is a research page, not a token recommendation page.
 
 To build this list, we reviewed the current homepages, docs, ecosystem pages, and public product descriptions for all seven systems on July 10, 2026. From that direct review, we could verify whether each project is presenting itself as payment-first, smart-contract-first, BTCfi-first, or infrastructure-first.
 
-That public review does not replace a live wallet setup or a working bridge test. What stood out immediately was not who claimed to be a Bitcoin L2. It was how differently each project interprets that claim in practice. Some are clearly optimizing for payments, while others are trying to expand Bitcoin into application or DeFi territory. That makes wallet flows, ecosystem pages, and app dashboards the clearest screenshots to include.
+That public review does not replace a live wallet setup or a working bridge test. But it does show something important very quickly: which systems are trying to scale payments, which are trying to expand Bitcoin into applications, and which expect the reader to think more like an infrastructure researcher than a simple user. What stood out immediately was not who claimed to be a Bitcoin L2. It was how differently each project interprets that claim in practice.
+
+The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a system is built for payments, smart contracts, BTCfi, or experimental execution layers around Bitcoin.
 
 ### Image insertion labels for publishing
 
@@ -64,47 +66,119 @@ Screenshot 2
 
 ### 1. Lightning Network
 
-Lightning remains the most important comparison point because it is still the clearest Bitcoin scaling system for fast payments. It is not trying to be everything. It is trying to make Bitcoin move more efficiently in payment contexts, and that focus gives it lasting relevance.
+Lightning Network is a strong choice for readers who want the clearest Bitcoin scaling system for fast payments. From the public surface we reviewed, it immediately felt more like focused payment infrastructure than a broad application platform. That is a strength if you care about clarity and durable use case fit, but it becomes a weakness if your priority is DeFi, smart contracts, or broader programmability.
 
-Its strength is clarity. Its limitation is that readers looking for DeFi, smart contracts, or broader application layers need to look elsewhere.
+Best for:
+- readers focused on payment scaling
+- understanding the clearest Bitcoin utility extension
+- comparing narrow but durable design models
+
+Tradeoffs:
+- the system is not trying to be a broad app layer
+- DeFi and smart-contract readers need to look elsewhere
+- clarity comes from focus, not from feature breadth
 
 ### 2. Stacks
 
-Stacks belongs near the top because it remains one of the most recognizable paths for building application and smart-contract activity around Bitcoin. The official site still centers Bitcoin yield and self-custodial growth, which makes the platform easy to position in the broader BTC utility conversation.
+Stacks is a strong choice for readers who want one of the clearest application and smart-contract paths around Bitcoin. From the public surface we reviewed, it immediately felt more like a Bitcoin application ecosystem than a pure transaction-scaling system. That is a strength if you care about broader utility around BTC, but it becomes a weakness if your benchmark is simple payment efficiency.
 
-Its risk is that Bitcoin application expansion remains harder to explain and evaluate than straightforward payment scaling.
+Best for:
+- readers comparing Bitcoin application ecosystems
+- understanding smart-contract expansion around BTC
+- mapping utility beyond payments alone
+
+Tradeoffs:
+- the app-layer story is harder to explain than payment scaling
+- broader utility can be less intuitive for conservative Bitcoin readers
+- the comparison depends on ecosystem depth, not only technical claims
 
 That is also why this page should support [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026), since one audience wants listed Bitcoin exposure while another wants more utility built around Bitcoin itself.
 
 ### 3. Rootstock
 
-Rootstock matters because it remains one of the cleanest EVM-compatible smart-contract approaches linked to Bitcoin. For readers who want to compare Bitcoin utility against Ethereum-style contract environments, Rootstock is still one of the oldest and clearest examples.
+Rootstock is a strong choice for readers who want one of the clearest EVM-compatible smart-contract approaches linked to Bitcoin. From the public surface we reviewed, it immediately felt more like an Ethereum-style contract environment anchored to Bitcoin than a pure Bitcoin-native payment layer. That is a strength if you want easier comparison with familiar EVM logic, but it becomes a weakness if your priority is newer momentum instead of long-running infrastructure.
 
-Its main challenge is attention. Long-running infrastructure can remain important while newer narratives capture more market mindshare.
+Best for:
+- readers comparing EVM-compatible Bitcoin environments
+- understanding older but still relevant infrastructure
+- mapping how Bitcoin utility can resemble broader smart-contract ecosystems
+
+Tradeoffs:
+- newer narratives can capture more attention
+- long-running infrastructure does not always dominate mindshare
+- the system can feel less exciting than newer experimental brands
 
 ### 4. BOB
 
-BOB makes the list because it frames itself around Bitcoin DeFi with a consumer-friendly product identity. The official site’s language about swapping, saving, earning, and borrowing on Bitcoin rails helps show why the project keeps appearing in BTCfi discussions.
+BOB is a strong choice for readers who want a more consumer-friendly Bitcoin DeFi identity. From the public surface we reviewed, it immediately felt more like a BTCfi access layer than a pure infrastructure research project. That is a strength if you want an easier product story, but it becomes a weakness if your main filter is whether the category has already proven broad user adoption.
 
-The caveat is that Bitcoin DeFi still needs to prove how broad and sticky its user base can become.
+Best for:
+- readers comparing BTCfi-facing product identities
+- understanding consumer-friendly Bitcoin DeFi framing
+- mapping how Bitcoin utility gets packaged for broader users
+
+Tradeoffs:
+- Bitcoin DeFi still needs stronger proof of sticky demand
+- consumer-friendly framing does not guarantee deep adoption
+- the product story may outrun ecosystem maturity
 
 ### 5. Botanix
 
-Botanix matters because it pushes the argument that Bitcoin can host a more fully decentralized EVM-like economy while staying anchored to BTC as money. That makes it one of the bolder infrastructure bets in the category.
+Botanix is a strong choice for readers who want to compare one of the bolder infrastructure bets in the Bitcoin ecosystem. From the public surface we reviewed, it immediately felt more like a serious attempt to build an EVM-like economy around BTC than a lightweight utility extension. That is a strength if you care about ambitious infrastructure design, but it becomes a weakness if your threshold for execution risk is low.
 
-Its main risk is execution. Big infrastructure claims always need more than branding to hold.
+Best for:
+- readers comparing ambitious infrastructure-first designs
+- understanding how far Bitcoin ecosystems want to expand
+- mapping higher-conviction execution bets
+
+Tradeoffs:
+- the execution burden is high
+- ambitious claims need more than branding to hold
+- infrastructure expansion can take longer to prove than simpler payment use cases
 
 ### 6. Citrea
 
-Citrea belongs in the list because it pushes the zero-knowledge path into Bitcoin scaling and application design. The official positioning around being Bitcoin’s first ZK rollup makes it one of the clearest research topics in the sector.
+Citrea is a strong choice for readers who want to compare the zero-knowledge path in Bitcoin scaling and application design. From the public surface we reviewed, it immediately felt more like a frontier research thesis than a mature user layer. That is a strength if you care about where Bitcoin scaling research is heading, but it becomes a weakness if your priority is established habit and proven usage.
 
-That also means it carries more frontier risk than established systems.
+Best for:
+- readers comparing frontier ZK Bitcoin designs
+- understanding where the research edge of the category sits
+- mapping experimental execution approaches
+
+Tradeoffs:
+- frontier design carries higher uncertainty
+- research clarity does not equal mature user adoption
+- established systems still offer more practical grounding
 
 ### 7. Merlin Chain
 
-Merlin makes the list because it helps represent the more recent wave of Bitcoin ecosystem expansion that is trying to capture user activity beyond classic store-of-value positioning.
+Merlin Chain is a strong choice for readers who want to track the more recent wave of Bitcoin ecosystem expansion beyond classic store-of-value positioning. From the public surface we reviewed, it immediately felt more like a growth-oriented ecosystem push than a narrow technical answer to one Bitcoin bottleneck. That is a strength if you want to map newer expansion attempts, but it becomes a weakness if your priority is long-term durability over short-cycle attention.
 
-Its main caveat is durability. In fast-moving Bitcoin-adjacent ecosystems, not every burst of attention becomes a lasting platform.
+Best for:
+- readers tracking newer Bitcoin ecosystem expansion
+- understanding attempts to broaden activity around BTC
+- comparing attention-driven growth with older infrastructure models
+
+Tradeoffs:
+- durability is still a real question
+- fast-moving ecosystem attention can fade quickly
+- newer expansion stories often need more time to prove staying power
+
+## How to choose between these Bitcoin Layer 2 projects
+
+Choose Lightning if your priority is fast payment scaling and the clearest use case in the category.
+
+Choose Stacks if your priority is application and smart-contract utility around Bitcoin.
+
+Choose Rootstock if your priority is an EVM-compatible smart-contract environment linked to BTC.
+
+Choose BOB if your priority is a more consumer-friendly BTCfi product story.
+
+Choose Botanix if your priority is a more ambitious infrastructure expansion around Bitcoin.
+
+Choose Citrea if your priority is the zero-knowledge research frontier inside Bitcoin scaling.
+
+Choose Merlin Chain if your priority is mapping newer ecosystem expansion beyond the oldest flagship names.
 
 ## Key data and structural signals to track through H2 2026
 

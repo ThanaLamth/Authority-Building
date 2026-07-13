@@ -16,7 +16,7 @@ That is why this guide compares product role, market fit, and ecosystem relevanc
 
 > Why you can trust this guide
 >
-> This article is based on live app pages, ecosystem hubs, and public documentation reviewed on July 10, 2026. Where a claim still depends on a wallet-connected workflow, live liquidity conditions, or an end-to-end app test, we keep that limit visible in the body.
+> This guide is based on live public app surfaces and official references reviewed on July 10, 2026. We directly checked product menus, ecosystem positioning, and how each app explains its role inside Sui. Anything that depends on a wallet-connected workflow, live liquidity conditions, or an end-to-end app test still needs final verification before publication.
 
 ## The Sui ecosystem projects most worth comparing in 2026 are Cetus, NAVI, Suilend, Scallop, DeepBook, Aftermath, and Walrus
 
@@ -41,7 +41,9 @@ This is an ecosystem map first and an asset watchlist second.
 
 To build this list, we reviewed the live product pages, ecosystem menus, and public docs for each Sui project in this list on July 10, 2026. From that direct review, we could verify what role each app plays in the stack and whether it helps explain Sui’s actual user-facing identity.
 
-That public review does not replace a wallet-funded test across every protocol. What stood out immediately was not just which app looked biggest. It was which one made its use case legible within seconds and which one still expected too much prior context from the reader. Some products are strong because they explain themselves clearly, while others are stronger for deeper users than for first-time visitors. That makes swap screens, lending dashboards, and ecosystem menus the best screenshots to include.
+That public review does not replace a wallet-funded test across every protocol. But it does show something important very quickly: which apps define the chain’s visible behavior, which ones explain themselves clearly to new users, and which ones assume deeper prior context. What stood out immediately was not just which app looked biggest. It was which one made its use case legible within seconds and which one still expected too much prior context from the reader.
+
+The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a project is built around trading, lending, infrastructure, or broader application identity.
 
 ### Image insertion labels for publishing
 
@@ -64,33 +66,115 @@ Screenshot 2
 
 ### 1. Cetus
 
-Cetus belongs near the top because it remains one of the clearest trading and liquidity references inside the Sui ecosystem. When readers want to understand where onchain trading happens on Sui, Cetus is still one of the first names that comes up.
+Cetus is a strong choice for readers who want the clearest trading and liquidity reference point inside the Sui ecosystem. From the public surface we reviewed, it immediately felt more like a default trading venue than a peripheral ecosystem app. That is a strength if you want to understand where visible market activity happens on Sui, but it becomes a weakness if your priority is broader application diversity beyond trading.
+
+Best for:
+- readers mapping Sui’s trading layer
+- understanding default liquidity venues on the chain
+- comparing the most visible market-facing app identity
+
+Tradeoffs:
+- the app is more useful for market structure than for showing ecosystem breadth
+- trading-first products can overshadow other categories
+- readers looking beyond DeFi need more than one anchor app
 
 ### 2. NAVI
 
-NAVI matters because it gives the chain a clear liquidity-protocol and lending identity. The official site’s language about being a one-stop liquidity protocol built on Move makes its role easy to explain.
+NAVI is a strong choice for readers who want a clear liquidity-protocol and lending identity on Sui. From the public surface we reviewed, it immediately felt more like a one-stop DeFi access layer than a narrow single-feature product. That is a strength if you want the chain’s lending and liquidity story explained quickly, but it becomes a weakness if your priority is deeper specialization over broad utility framing.
+
+Best for:
+- readers comparing Sui lending and liquidity products
+- understanding broad DeFi access on the chain
+- mapping general-purpose financial surfaces inside the ecosystem
+
+Tradeoffs:
+- broad utility framing can blur deeper specialization
+- one-stop positioning does not answer every product-detail question
+- some readers may still want a narrower lending-only comparison
 
 ### 3. Suilend
 
-Suilend belongs here because it gives the ecosystem another strong lending and DeFi-suite comparison point. That matters because ecosystem pages get weak when they rely on only one lending product.
+Suilend is a strong choice for readers who want a second meaningful lending and DeFi-suite comparison point in the Sui ecosystem. From the public surface we reviewed, it immediately felt more like a serious supporting financial app than a disposable long-tail inclusion. That is a strength if you want the ecosystem map to show real category depth, but it becomes a weakness if you only want the single most obvious lending brand.
+
+Best for:
+- readers comparing multiple serious lending options on Sui
+- understanding category depth beyond one flagship app
+- mapping how DeFi-suite products compete inside one chain ecosystem
+
+Tradeoffs:
+- the value is strongest in comparison, not singular dominance
+- some readers may still default to the better-known lending name
+- product depth matters more here than simple headline recognition
 
 ### 4. Scallop
 
-Scallop remains a useful inclusion because it is one of the most recognizable DeFi lending and borrowing names on Sui, which makes it part of the chain’s core financial surface.
+Scallop is a strong choice for readers who want another recognizable DeFi lending and borrowing name on Sui’s core financial surface. From the public surface we reviewed, it immediately felt more like a chain-native financial utility than a novelty app. That is a strength if you care about the completeness of the DeFi map, but it becomes a weakness if your priority is a shorter ecosystem list with only one lending representative.
+
+Best for:
+- readers mapping the full lending surface on Sui
+- understanding how multiple financial apps define one chain
+- comparing recognizable DeFi utilities inside the ecosystem
+
+Tradeoffs:
+- the inclusion is strongest in category completeness
+- some readers may see overlap with other lending names
+- a shorter list could underrepresent how the ecosystem actually works
 
 ### 5. DeepBook
 
-DeepBook matters because it broadens the page from front-end apps into infrastructure. The official site is explicit that it is a fully onchain order book on Sui, which makes it one of the most useful projects for explaining the chain’s market structure.
+DeepBook is a strong choice for readers who want the page to include infrastructure, not only front-end apps. From the public surface we reviewed, it immediately felt more like market structure infrastructure than a consumer-facing DeFi app. That is a strength if you want the ecosystem explained at a deeper level, but it becomes a weakness if your priority is only end-user ease of understanding.
 
 That market-structure angle also makes [best perpetual DEXs in 2026](/analysis/derivatives/best-perpetual-dexs-2026) a useful internal follow-up for readers who want to compare how trading infrastructure translates into venue design on other chains.
 
+Best for:
+- readers comparing infrastructure instead of only front-end products
+- understanding how Sui organizes onchain trading under the hood
+- mapping why market structure matters to ecosystem identity
+
+Tradeoffs:
+- infrastructure can be less intuitive to casual readers
+- the value is clearer in ecosystem analysis than in mainstream product marketing
+- some users will care more about front ends than rails
+
 ### 6. Aftermath
 
-Aftermath belongs in the list because it helps represent user-facing decentralized trading with stronger emphasis on usability and self-custody.
+Aftermath is a strong choice for readers who want a user-facing decentralized trading product with more emphasis on usability and self-custody. From the public surface we reviewed, it immediately felt more like a guided user product than a pure infrastructure layer. That is a strength if you care about how approachable Sui can feel to traders, but it becomes a weakness if your main goal is to analyze the deepest backend structure.
+
+Best for:
+- readers comparing approachable trading products on Sui
+- understanding user-facing design inside the ecosystem
+- mapping self-custody trading experiences beyond infrastructure layers
+
+Tradeoffs:
+- user-facing clarity can mean less infrastructure depth in the story
+- the comparison value is strongest for accessibility-focused readers
+- backend structure matters less here than product feel
 
 ### 7. Walrus
 
-Walrus makes the list because it expands the ecosystem frame beyond classic DeFi. Its positioning around verifiable data for developers and AI-linked use cases gives Sui a broader application identity than lending and swaps alone.
+Walrus is a strong choice for readers who want the ecosystem frame to extend beyond classic DeFi. From the public surface we reviewed, it immediately felt more like a broader application and data-layer identity than a standard financial protocol. That is a strength if you want to show that Sui can support more than swaps and lending, but it becomes a weakness if your only interest is immediate DeFi activity.
+
+Best for:
+- readers mapping broader application identity on Sui
+- understanding data-layer and AI-adjacent expansion
+- comparing ecosystem breadth beyond financial primitives
+
+Tradeoffs:
+- the product sits farther from the most obvious DeFi behavior
+- some readers may treat it as less central than trading or lending apps
+- the value is strongest in ecosystem breadth, not in DeFi dominance
+
+## How to choose between these Sui ecosystem projects
+
+Choose Cetus if your priority is understanding where visible trading and liquidity activity happens on Sui.
+
+Choose NAVI, Suilend, or Scallop if your priority is mapping the chain’s lending and broader DeFi surface instead of one isolated product.
+
+Choose DeepBook if your priority is understanding Sui’s trading infrastructure rather than only user-facing apps.
+
+Choose Aftermath if your priority is a more approachable user-facing trading product on Sui.
+
+Choose Walrus if your priority is understanding how the ecosystem expands beyond classic DeFi into broader application and data-layer use cases.
 
 ## Key data and structural signals to track through H2 2026
 

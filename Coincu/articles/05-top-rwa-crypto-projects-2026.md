@@ -16,7 +16,7 @@ That is why this guide maps each project to a distinct role inside the stack. Wh
 
 > Why you can trust this guide
 >
-> This article is based on live project pages, current documentation, and public market references reviewed on July 10, 2026. Where a claim still depends on private client flows, jurisdiction-specific access, or a deeper product test, we say that directly.
+> This guide is based on live public project surfaces and official references reviewed on July 10, 2026. We directly checked product positioning, stack role, and visible ecosystem or issuance framing where available. Anything that depends on private client flows, jurisdiction-specific access, or a deeper product test still needs final verification before publication.
 
 ## The RWA crypto projects most worth comparing in 2026 are Ondo, Ethena, Centrifuge, Maple, Plume, OpenEden, and Securitize
 
@@ -41,7 +41,9 @@ This page compares category importance, not guaranteed token upside.
 
 To build this list, we reviewed the live product pages, docs, ecosystem materials, and public market references for every project in this list on July 10, 2026. From that direct review, we could verify where each name sits in the stack: issuance, collateral, structured credit, or distribution.
 
-That public review does not replace a full institutional onboarding or tokenization workflow. What stood out immediately was not who used the broadest RWA language. It was which projects had a clear functional role and which still leaned more on category halo. Some are much easier to place in the stack within minutes, while others still depend on category momentum to explain themselves. That makes product dashboards, tokenization pages, and ecosystem maps the most useful screenshots to show.
+That public review does not replace a full institutional onboarding or tokenization workflow. But it does show something important very quickly: which projects have a clear job in the RWA stack, which ones expect institutional context from the reader, and which ones still lean on category halo. What stood out immediately was not who used the broadest RWA language. It was which projects had a clear functional role and which still leaned more on category halo.
+
+The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a project is built for issuance, collateral, credit, or broader tokenization infrastructure.
 
 ### Image insertion labels for publishing
 
@@ -64,39 +66,117 @@ Screenshot 2
 
 ### 1. Ondo
 
-Ondo sits near the top because it is one of the cleanest names for readers trying to understand how tokenized Treasury exposure became part of crypto market structure. OUSG and related product lines give the project a legible entry point into the sector.
+Ondo is a strong choice for readers who want the clearest bridge between tokenized Treasury exposure and crypto-native distribution. From the public surface we reviewed, it immediately felt more like a distribution layer for tokenized assets than a vague all-purpose RWA label. That is a strength if you want the category explained through a legible use case, but it becomes a weakness if you compress the entire RWA stack into one Ondo story.
 
-Its strength is clarity and distribution. Its main risk is that readers often compress the entire RWA story into one Ondo narrative.
+Best for:
+- readers mapping the clearest tokenized Treasury entry point
+- understanding distribution-led RWA growth
+- comparing the most legible brand in the category
 
 That is exactly why this page should also route readers toward [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026), where the dollar-liquidity layer behind RWAs becomes easier to compare directly.
 
+Tradeoffs:
+- readers can overcompress the category into one narrative
+- the brand story can overshadow the broader stack
+- distribution clarity does not make every RWA lane identical
+
 ### 2. Ethena
 
-Ethena belongs here because even though many traders first file it as a synthetic-dollar story, it has become part of the broader tokenized-dollar and collateral conversation that shapes the RWA sector’s real-world relevance.
+Ethena is a strong choice for readers who want to understand why tokenized-dollar and collateral structures belong inside the RWA conversation. From the public surface we reviewed, it immediately felt more like a structural market product than a classic tokenization platform. That is a strength if you want the category widened beyond Treasury wrappers, but it becomes a weakness if you only want simple issuer-led narratives.
 
-Its main strength is structural ambition. Its risk is that complexity raises the bar for market trust.
+Best for:
+- readers comparing collateral and synthetic-dollar structures
+- understanding how RWA relevance extends beyond fund wrappers
+- mapping ambitious market-structure products inside the category
+
+Tradeoffs:
+- complexity raises the trust threshold
+- the product is less intuitive than a plain Treasury wrapper
+- category fit needs more interpretation than the clearest names
 
 ### 3. Centrifuge
 
-Centrifuge remains one of the foundational names in the RWA conversation because it has long tried to connect real-world credit and asset financing to onchain capital. That gives it a deeper historical claim on the category than many newer brands.
+Centrifuge is a strong choice for readers who want to understand the credit and real-world financing side of RWAs rather than only the Treasury narrative. From the public surface we reviewed, it immediately felt more like foundational credit infrastructure than a fast-cycle tokenization brand. That is a strength if you care about category depth and history, but it becomes a weakness if your main filter is immediate simplicity.
 
-The main caveat is that legacy in the category does not automatically mean simple token capture.
+Best for:
+- readers mapping real-world credit inside RWAs
+- understanding historical infrastructure in the category
+- comparing depth and longevity over short-cycle attention
+
+Tradeoffs:
+- legacy does not automatically create simple token capture
+- the credit story is harder to explain quickly
+- category depth can feel less legible than Treasury-led narratives
 
 ### 4. Maple
 
-Maple matters because it represents the credit and institutional-lending side of tokenized finance more clearly than many consumer-facing names do. It is useful when the goal is to understand how RWAs intersect with borrower quality and structured credit rather than with pure Treasury wrappers.
+Maple is a strong choice for readers who want to compare RWAs through the lens of institutional credit and borrower quality instead of only fund wrappers. From the public surface we reviewed, it immediately felt more like structured lending infrastructure than a broad tokenization umbrella. That is a strength if you care about credit-market relevance, but it becomes a weakness if you want the simplest gateway into the category.
+
+Best for:
+- readers focused on institutional lending and structured credit
+- understanding how RWAs intersect with borrower quality
+- comparing credit-oriented infrastructure against Treasury-led names
+
+Tradeoffs:
+- the category entry point is less intuitive for newer readers
+- structured credit carries more conceptual overhead
+- the clearest comparison value depends on credit-market context
 
 ### 5. Plume
 
-Plume belongs in the list because it represents the infrastructure layer that wants to make real-world asset tokenization easier to launch and compose. That makes it relevant as a platform thesis rather than only an asset thesis.
+Plume is a strong choice for readers who want to compare platform-layer infrastructure rather than only asset-layer products. From the public surface we reviewed, it immediately felt more like tokenization-enablement infrastructure than a single product wrapped in RWA language. That is a strength if you care about launch and composition layers, but it becomes a weakness if your priority is already-proven end-user distribution.
+
+Best for:
+- readers comparing tokenization infrastructure
+- understanding platform-layer RWA theses
+- mapping how new projects want to simplify asset launch and composition
+
+Tradeoffs:
+- infrastructure positioning can feel less concrete than a live end product
+- distribution proof matters more than category framing
+- platform ambition does not always equal immediate adoption
 
 ### 6. OpenEden
 
-OpenEden matters because tokenized Treasury distribution is one of the strongest live use cases inside the RWA sector, and OpenEden gives readers another concrete example beyond the biggest brand names.
+OpenEden is a strong choice for readers who want another concrete Treasury-linked RWA example outside the most obvious brand names. From the public surface we reviewed, it immediately felt more like a blockchain-native Treasury product than a legacy asset-manager extension. That is a strength if you want a clearer view of crypto-native RWA distribution, but it becomes a weakness if you only trust the largest institutional wrappers.
+
+Best for:
+- readers comparing blockchain-native Treasury distribution
+- understanding concrete live RWA use cases
+- mapping alternatives beyond the most famous names
+
+Tradeoffs:
+- the brand is less instantly familiar than category leaders
+- trust depends more on product review than on legacy reputation
+- distribution relevance still needs to be weighed against bigger wrappers
 
 ### 7. Securitize
 
-Securitize earns a place because it has become one of the key issuance and distribution rails behind institutional tokenized products. Even when readers focus on tokens, they should not ignore the infrastructure companies shaping where the category actually settles.
+Securitize is a strong choice for readers who want to understand the infrastructure companies that make institutional tokenized products possible. From the public surface we reviewed, it immediately felt more like an issuance and distribution rail than a token-first brand. That is a strength if you want the real plumbing of the category, but it becomes a weakness if you only want names that map cleanly to a public token story.
+
+Best for:
+- readers comparing issuance and distribution rails
+- understanding institutional RWA plumbing
+- mapping infrastructure that shapes where tokenized products actually settle
+
+Tradeoffs:
+- infrastructure names can feel less exciting than token-led brands
+- the story is stronger in market structure than in simple token exposure
+- some readers may underweight the rails that make distribution possible
+
+## How to choose between these RWA crypto projects
+
+Choose Ondo if your priority is the clearest bridge between tokenized Treasuries and crypto-native distribution.
+
+Choose Ethena if your priority is understanding collateral and synthetic-dollar structures inside the broader RWA conversation.
+
+Choose Centrifuge or Maple if your priority is real-world credit and institutional lending rather than Treasury wrappers.
+
+Choose Plume if your priority is platform-layer infrastructure for launching and composing tokenized assets.
+
+Choose OpenEden if your priority is a more blockchain-native Treasury product beyond the most familiar names.
+
+Choose Securitize if your priority is the issuance and distribution rails behind institutional tokenized products.
 
 ## Key evidence and signals to track through H2 2026
 
