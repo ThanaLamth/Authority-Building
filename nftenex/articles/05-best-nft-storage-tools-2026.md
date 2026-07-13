@@ -26,7 +26,7 @@ That is why NFT storage has moved back to the center of the conversation. OpenSe
 
 > Why you can trust this guide
 >
-> This guide uses official storage and marketplace references reviewed on 2026-07-10, including IPFS documentation and OpenSea's metadata-storage labels. Because storage providers and plans can change, readers should confirm vendor-specific details on the official documentation before choosing a workflow.
+> This guide uses official storage and marketplace references reviewed on 2026-07-10, including IPFS documentation and OpenSea's metadata-storage labels. We directly checked the public documentation and visible storage surfaces shown below. Anything that depends on real uploads, pinning policy, or long-term retrieval behavior still needs final verification before publication.
 
 ## The best NFT storage tools in 2026 are Pinata, Arweave-based options, Filebase, Lighthouse, self-managed IPFS pinning workflows, and selected NFT.Storage alternatives
 
@@ -45,19 +45,36 @@ For this article, we reviewed the live [IPFS documentation for NFT data](https:/
 
 That direct review does not replace a full storage implementation test with uploads, pinned content, retrieval failures, and multi-gateway fallback checks. But it is enough to surface the most important distinction that many weak articles miss: NFT storage is not a branding question. It is an operational trust question.
 
+**Featured Image**
+File: `../media/ipfs-nft-data.png`
+Alt text: `IPFS documentation page covering best practices for storing NFT data`
+Caption: `IPFS documentation captured during our July 2026 review of NFT storage practices.`
+
 ![IPFS documentation page covering best practices for storing NFT data](../media/ipfs-nft-data.png)
 
 *IPFS documentation captured during our July 2026 review of NFT storage practices.*
 
+**Screenshot 1**
+File: `../media/opensea-metadata.png`
+Alt text: `OpenSea Help Center page explaining the metadata field on NFT pages`
+Caption: `OpenSea metadata documentation captured during our July 2026 review of NFT storage and retrieval signals.`
+
 ![OpenSea Help Center page explaining the metadata field on NFT pages](../media/opensea-metadata.png)
 
 *OpenSea metadata documentation captured during our July 2026 review of NFT storage and retrieval signals.*
+
+**Screenshot 2**
+File: `../media/pinata-home.png`
+Alt text: `Pinata homepage showing managed file storage for decentralized workflows`
+Caption: `Pinata homepage captured during our July 2026 review of NFT storage platforms.`
 
 ![Pinata homepage showing managed file storage for decentralized workflows](../media/pinata-home.png)
 
 *Pinata homepage captured during our July 2026 review of NFT storage platforms.*
 
 What stood out immediately was that the storage conversation becomes much clearer once you look at the places where storage actually shows up in practice. IPFS docs frame the protocol side. OpenSea's metadata page shows how marketplaces surface storage context to users. Pinata shows how managed storage tools package that complexity into a workflow normal teams can actually use.
+
+The screenshots above show the same storage problem from three angles: protocol guidance, marketplace visibility, and managed workflow packaging. That visual difference is not cosmetic. It tells you where responsibility really sits.
 
 ## The safest way to store NFT metadata in 2026
 

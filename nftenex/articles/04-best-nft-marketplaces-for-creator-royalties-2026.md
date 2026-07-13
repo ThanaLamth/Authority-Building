@@ -26,7 +26,7 @@ That means the best NFT marketplace for creator royalties is not always the mark
 
 > Why you can trust this guide
 >
-> This guide is based on live marketplace help-center documentation and current platform references reviewed on 2026-07-10. Because creator-earnings rules and fee settings can change, readers should verify any workflow-critical policy detail against the latest official help article before acting.
+> This guide is based on live marketplace help-center documentation and current platform references reviewed on 2026-07-10. We directly checked the public fee and policy surfaces shown below. Anything that depends on chain-specific setup, logged-in collection settings, or a real resale-path test still needs final verification before publication.
 
 ## The best NFT marketplaces for creator royalties in 2026 are Magic Eden, OpenSea, Zora, Manifold-powered storefronts, and Rarible
 
@@ -48,15 +48,27 @@ For this article, we reviewed the live fee and help documentation that [OpenSea]
 
 That direct review does not answer every question a creator might have. It does not replace a live collection test across multiple chains or a full resale-path audit. But it does give us a much cleaner basis for judgment, because we can compare the way the major marketplaces currently explain fees, creator earnings, and selling conditions in their own language.
 
+**Featured Image**
+File: `../media/opensea-fees.png`
+Alt text: `OpenSea Help Center page explaining current OpenSea fees for NFT transactions`
+Caption: `OpenSea fee documentation captured during our July 2026 review of creator-royalty marketplaces.`
+
 ![OpenSea Help Center page explaining current OpenSea fees for NFT transactions](../media/opensea-fees.png)
 
 *OpenSea fee documentation captured during our July 2026 review of creator-royalty marketplaces.*
+
+**Screenshot 1**
+File: `../media/magiceden-fees.png`
+Alt text: `Magic Eden Help Center page explaining listing and selling fees for NFTs`
+Caption: `Magic Eden fee documentation captured during our July 2026 review of creator-royalty marketplaces.`
 
 ![Magic Eden Help Center page explaining listing and selling fees for NFTs](../media/magiceden-fees.png)
 
 *Magic Eden fee documentation captured during our July 2026 review of creator-royalty marketplaces.*
 
 What stood out immediately was that a creator-royalty comparison should never start with ideology. It should start with the practical surfaces creators actually depend on: fee pages, help documentation, collection setup rules, and where the marketplace puts the burden of clarity. If a platform cannot explain its economics cleanly, it is already creating friction for the people it claims to help.
+
+The screenshots above show why this matters. Before a creator even configures a collection, the public documentation already signals how much clarity the marketplace is willing to provide.
 
 ## What creator royalties actually mean in 2026
 

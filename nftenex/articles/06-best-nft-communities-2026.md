@@ -26,7 +26,7 @@ That matters because community is one of the few durable reasons NFT ownership c
 
 > Why you can trust this guide
 >
-> This guide evaluates communities through visible cultural output, ecosystem relevance, and ongoing public activity reviewed on 2026-07-10. Because community strength is partly interpretive, this ranking gives more weight to visible public artifacts than to price history alone.
+> This guide evaluates communities through visible cultural output, ecosystem relevance, and ongoing public activity reviewed on 2026-07-10. We directly checked public community-facing surfaces rather than private chats or holder-only spaces. Anything that depends on internal participation quality, event attendance, or private member behavior still needs deeper verification before publication.
 
 ## The best NFT communities in 2026 are the ones that still create culture, utility, and identity beyond price
 
@@ -47,15 +47,27 @@ For this article, we reviewed live public community surfaces rather than relying
 
 That does not replace a deep ethnographic review of each community, nor does it prove the internal health of every holder group. What it does do is help separate communities with visible public presence, ecosystem participation, and repeatable identity from collections that only survive as market memory.
 
+**Featured Image**
+File: `../media/hiveindex-nft.png`
+Alt text: `Hive Index page listing active NFT communities and social ecosystem groups`
+Caption: `Hive Index NFT communities page captured during our July 2026 review of active Web3 communities.`
+
 ![Hive Index page listing active NFT communities and social ecosystem groups](../media/hiveindex-nft.png)
 
 *Hive Index NFT communities page captured during our July 2026 review of active Web3 communities.*
+
+**Screenshot 1**
+File: `../media/sandbox-home.png`
+Alt text: `The Sandbox homepage showing a live virtual ownership and creator ecosystem`
+Caption: `The Sandbox ecosystem homepage captured during our July 2026 review of NFT-led digital communities.`
 
 ![The Sandbox homepage showing a live virtual ownership and creator ecosystem](../media/sandbox-home.png)
 
 *The Sandbox ecosystem homepage captured during our July 2026 review of NFT-led digital communities.*
 
 What stood out immediately was that community quality becomes much easier to discuss once you stop asking which collection is most famous and start asking which communities still produce visible culture, products, events, or identity signals in public.
+
+The screenshots above show why public artifacts matter. One surface maps the category, and the other shows what a live ecosystem actually looks like when community extends into products and virtual spaces.
 
 ## How to tell whether an NFT community is actually alive
 

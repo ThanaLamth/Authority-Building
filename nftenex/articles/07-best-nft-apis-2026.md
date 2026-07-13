@@ -26,7 +26,7 @@ That matters because NFT products now need more than token reads. Teams want own
 
 > Why you can trust this guide
 >
-> This guide is based on live documentation and current ecosystem references reviewed on 2026-07-10. Because API products evolve quickly, readers should verify endpoint scope, multichain support, rate limits, and pricing-tier assumptions on the official documentation before building around them.
+> This guide is based on live documentation and current ecosystem references reviewed on 2026-07-10. We directly checked the public product positioning and visible developer-facing surfaces shown below. Anything that depends on live endpoints, rate-limit behavior, or a full developer implementation still needs final verification before publication.
 
 ## The best NFT APIs in 2026 are Alchemy, Reservoir, SimpleHash, Moralis, QuickNode, Zerion, and Blockdaemon
 
@@ -46,19 +46,36 @@ For this article, we reviewed the current public product surfaces for [Alchemy](
 
 That distinction matters. A serious API article should not pretend that every inclusion was verified the same way. What we could verify directly from live public surfaces was enough to confirm three things: some products are builder ecosystems, some are infrastructure platforms with NFT support inside a wider stack, and some are portfolio or ownership environments rather than pure NFT API brands.
 
+**Featured Image**
+File: `../media/alchemy-analytics-tools.png`
+Alt text: `Alchemy page listing NFT analytics and related tooling across the ecosystem`
+Caption: `Alchemy ecosystem page captured during our July 2026 review of NFT developer tooling.`
+
 ![Alchemy page listing NFT analytics and related tooling across the ecosystem](../media/alchemy-analytics-tools.png)
 
 *Alchemy ecosystem page captured during our July 2026 review of NFT developer tooling.*
 
+**Screenshot 1**
+File: `../media/zerion-home.png`
+Alt text: `Zerion homepage showing wallet and ownership-focused crypto product infrastructure`
+Caption: `Zerion homepage captured during our July 2026 review of NFT API and ownership-data platforms.`
+
 ![Zerion homepage showing wallet and ownership-focused crypto product infrastructure](../media/zerion-home.png)
 
 *Zerion homepage captured during our July 2026 review of NFT API and ownership-data platforms.*
+
+**Screenshot 2**
+File: `../media/quicknode-home.png`
+Alt text: `QuickNode homepage showing high-performance blockchain infrastructure for developers`
+Caption: `QuickNode homepage captured during our July 2026 review of NFT and blockchain infrastructure providers.`
 
 ![QuickNode homepage showing high-performance blockchain infrastructure for developers](../media/quicknode-home.png)
 
 *QuickNode homepage captured during our July 2026 review of NFT and blockchain infrastructure providers.*
 
 What stood out immediately was that API products frame the NFT problem very differently. Alchemy looks like an ecosystem layer. QuickNode looks like broader infrastructure with NFT capability inside it. Zerion looks closer to an ownership-and-portfolio product environment than a classic standalone NFT developer console.
+
+The screenshots above show why the comparison cannot be reduced to endpoint count. Even before a live implementation test, the public product surface already tells you whether the company is selling an ecosystem, an infrastructure layer, or an ownership view.
 
 ## What a good NFT API must do in 2026
 

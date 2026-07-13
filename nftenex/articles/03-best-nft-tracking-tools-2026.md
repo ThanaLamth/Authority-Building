@@ -26,7 +26,7 @@ That makes tracking different from analytics. Analytics helps you understand a m
 
 > Why you can trust this guide
 >
-> This guide was built from live product references, marketplace tools, and ecosystem tracking pages reviewed on 2026-07-10. Because alerts, watchlists, and wallet-monitoring features can change quickly, readers should confirm workflow-critical details on the official product page before choosing a tracker.
+> This guide was built from live public product surfaces, marketplace tools, and ecosystem tracking pages reviewed on 2026-07-10. We directly checked how these products frame tracking, discovery, and trader behavior in the public experience. Anything that depends on logged-in alerts, saved watchlists, or live notification delivery still needs final verification before publication.
 
 ## The best NFT tracking tools in 2026 are DappRadar, NFTGo, Nansen, Zerion, OpenSea watchlists, Blur-native monitoring, Discord alert bots, and custom dashboard setups
 
@@ -46,19 +46,36 @@ For this article, we reviewed the live public surfaces of [DappRadar](https://da
 
 That direct review does not replace a full alert test across logged-in watchlists, wallet tracking, or real notification workflows. What it does show very clearly is which products are built for broad orientation, which ones are shaped by marketplace behavior, and which ones are better understood as part of a bigger portfolio workflow.
 
+**Featured Image**
+File: `../media/dappradar-home.png`
+Alt text: `DappRadar homepage showing category-level onchain tracking and market visibility`
+Caption: `DappRadar homepage captured during our July 2026 review of NFT tracking platforms.`
+
 ![DappRadar homepage showing category-level onchain tracking and market visibility](../media/dappradar-home.png)
 
 *DappRadar homepage captured during our July 2026 review of NFT tracking platforms.*
 
+**Screenshot 1**
+File: `../media/opensea-home.png`
+Alt text: `OpenSea homepage showing marketplace-led NFT discovery and collection browsing`
+Caption: `OpenSea homepage captured during our July 2026 review of NFT tracking and marketplace tools.`
+
 ![OpenSea homepage showing marketplace-led NFT discovery and collection browsing](../media/opensea-home.png)
 
 *OpenSea homepage captured during our July 2026 review of NFT tracking and marketplace tools.*
+
+**Screenshot 2**
+File: `../media/blur-home.png`
+Alt text: `Blur homepage showing a pro-trader NFT marketplace environment`
+Caption: `Blur homepage captured during our July 2026 review of trader-focused NFT monitoring tools.`
 
 ![Blur homepage showing a pro-trader NFT marketplace environment](../media/blur-home.png)
 
 *Blur homepage captured during our July 2026 review of trader-focused NFT monitoring tools.*
 
 What stood out immediately was that tracking products do not all define "signal" the same way. DappRadar treats signal more like category-level orientation. OpenSea treats it through listing and marketplace visibility. Blur frames it through fast market behavior for active traders. Zerion, in contrast, fits better when NFT tracking sits inside a broader wallet or portfolio view.
+
+The screenshots above make that difference easier to see. The interfaces are not just visually different. They reveal whether the product expects a general researcher, a marketplace watcher, or an active trader.
 
 ## What to track if you want an edge in NFTs
 

@@ -26,7 +26,7 @@ That is why the right marketplace depends on what you want to own, sell, or buil
 
 > Why you can trust this guide
 >
-> This guide uses live marketplace references and current fee or platform documentation reviewed on 2026-07-10. Because NFT marketplaces can change fees, chain support, and creator-facing features quickly, readers should recheck workflow-critical details on the official platform documentation before acting.
+> This guide uses live marketplace references and current fee or platform documentation reviewed on 2026-07-10. We directly checked the public marketplace surfaces shown below and the visible fee context available at review time. Anything that depends on logged-in trading, listing flow, or chain-specific creator settings still needs final verification before publication.
 
 ## The best NFT marketplaces in 2026 are OpenSea, Magic Eden, Blur, Zora, Foundation, Objkt, and Rarible
 
@@ -47,19 +47,36 @@ For this article, we reviewed the live public surfaces of [OpenSea](https://open
 
 That direct review does not replace a logged-in trading or listing test across all platforms. But it does reveal something that weak top-list pages often hide: these marketplaces are not really competing to be the same product. Some are discovery-led, some are trader-led, and some are closer to publishing environments than generic NFT stores.
 
+**Featured Image**
+File: `../media/opensea-home.png`
+Alt text: `OpenSea homepage showing mainstream NFT discovery and marketplace browsing`
+Caption: `OpenSea homepage captured during our July 2026 review of leading NFT marketplaces.`
+
 ![OpenSea homepage showing mainstream NFT discovery and marketplace browsing](../media/opensea-home.png)
 
 *OpenSea homepage captured during our July 2026 review of leading NFT marketplaces.*
 
+**Screenshot 1**
+File: `../media/magiceden-home.png`
+Alt text: `Magic Eden homepage showing a live NFT marketplace and collection environment`
+Caption: `Magic Eden homepage captured during our July 2026 review of leading NFT marketplaces.`
+
 ![Magic Eden homepage showing a live NFT marketplace and collection environment](../media/magiceden-home.png)
 
 *Magic Eden homepage captured during our July 2026 review of leading NFT marketplaces.*
+
+**Screenshot 2**
+File: `../media/blur-home.png`
+Alt text: `Blur homepage showing a pro-trader NFT marketplace interface`
+Caption: `Blur homepage captured during our July 2026 review of trader-focused NFT marketplaces.`
 
 ![Blur homepage showing a pro-trader NFT marketplace interface](../media/blur-home.png)
 
 *Blur homepage captured during our July 2026 review of trader-focused NFT marketplaces.*
 
 What stood out immediately was not just aesthetic difference. It was user intent. OpenSea feels like the most legible mainstream marketplace. Magic Eden feels like a serious alternative that still wants broad relevance. Blur feels built for people who already think in terms of active market behavior rather than casual discovery.
+
+The screenshots above show why one marketplace does not fit every reader. The visual posture already tells you whether the platform is trying to help you discover, trade, or publish.
 
 ## How we judged the top NFT marketplaces
 

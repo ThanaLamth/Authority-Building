@@ -26,7 +26,7 @@ That is the main difference between an artist-focused NFT article and a generic 
 
 > Why you can trust this guide
 >
-> This guide compares artist-facing platforms using live marketplace references and current platform positioning reviewed on 2026-07-10. Because fee rules, curation models, and creator programs can change, readers should verify platform specifics against current artist-facing help or onboarding pages before choosing a venue.
+> This guide compares artist-facing platforms using live marketplace references and current platform positioning reviewed on 2026-07-10. We directly checked the public artist-facing surfaces shown below. Anything that depends on live onboarding, curation access, or logged-in creator settings still needs final verification before publication.
 
 ## The best NFT marketplaces for artists in 2026 are the ones that balance audience reach, creator control, and brand positioning
 
@@ -46,19 +46,36 @@ For this article, we reviewed the live public surfaces of [SuperRare](https://su
 
 That matters because artist-marketplace comparisons often become too abstract. Once you actually look at the current public surfaces, you can see very quickly which platforms signal curation, which ones signal breadth, and which ones signal creator-led publishing.
 
+**Featured Image**
+File: `../media/superrare-home.png`
+Alt text: `SuperRare homepage presenting itself as a premium digital art gallery and auction house`
+Caption: `SuperRare homepage captured during our July 2026 review of artist-focused NFT marketplaces.`
+
 ![SuperRare homepage presenting itself as a premium digital art gallery and auction house](../media/superrare-home.png)
 
 *SuperRare homepage captured during our July 2026 review of artist-focused NFT marketplaces.*
 
+**Screenshot 1**
+File: `../media/objkt-home.png`
+Alt text: `Objkt homepage showing a digital art marketplace with ecosystem-specific culture`
+Caption: `Objkt homepage captured during our July 2026 review of artist-focused NFT marketplaces.`
+
 ![Objkt homepage showing a digital art marketplace with ecosystem-specific culture](../media/objkt-home.png)
 
 *Objkt homepage captured during our July 2026 review of artist-focused NFT marketplaces.*
+
+**Screenshot 2**
+File: `../media/zora-home.png`
+Alt text: `Zora creator publishing homepage for NFT drops and onchain distribution`
+Caption: `Zora homepage captured during our July 2026 review of creator-first publishing platforms.`
 
 ![Zora creator publishing homepage for NFT drops and onchain distribution](../media/zora-home.png)
 
 *Zora homepage captured during our July 2026 review of creator-first publishing platforms.*
 
 What stood out immediately was that artist marketplaces do not just compete on traffic. They compete on taste, framing, and the kind of collector relationship they imply before the artist ever uploads a work.
+
+The screenshots above show why audience fit matters more than generic scale. Even before a listing goes live, the public surface already tells you whether the platform is optimizing for prestige framing, ecosystem culture, or creator-led publishing.
 
 ## What artists should look for before choosing a marketplace
 

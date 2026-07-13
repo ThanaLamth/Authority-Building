@@ -26,7 +26,7 @@ A good NFT game now has to survive two tests at once: would people play it if th
 
 > Why you can trust this guide
 >
-> This guide ranks games by gameplay utility, ownership design, and category relevance using current public project visibility reviewed on 2026-07-10. Because launch status, activity, and platform availability can change quickly, readers should confirm current access and live status on the official game site before acting on any title here.
+> This guide ranks games by gameplay utility, ownership design, and category relevance using current public project visibility reviewed on 2026-07-10. We directly checked the public game-facing surfaces shown below. Anything that depends on live gameplay, onboarding friction, retention, or current access rules still needs final verification before publication.
 
 ## The best NFT games in 2026 are the ones where gameplay matters more than token hype
 
@@ -45,19 +45,36 @@ For this article, we reviewed the live public surfaces of [Parallel](https://par
 
 That direct review does not replace real gameplay sessions, retention analysis, or economy stress testing. But it does give a much stronger starting point for editorial judgment than simply recycling the same old "top NFT games" list.
 
+**Featured Image**
+File: `../media/parallel-home.png`
+Alt text: `Parallel homepage showing a gameplay-first Web3 game environment`
+Caption: `Parallel homepage captured during our July 2026 review of NFT games.`
+
 ![Parallel homepage showing a gameplay-first Web3 game environment](../media/parallel-home.png)
 
 *Parallel homepage captured during our July 2026 review of NFT games.*
 
+**Screenshot 1**
+File: `../media/pixels-home.png`
+Alt text: `Pixels homepage showing a social and progression-led Web3 game environment`
+Caption: `Pixels homepage captured during our July 2026 review of NFT games.`
+
 ![Pixels homepage showing a social and progression-led Web3 game environment](../media/pixels-home.png)
 
 *Pixels homepage captured during our July 2026 review of NFT games.*
+
+**Screenshot 2**
+File: `../media/sandbox-home.png`
+Alt text: `The Sandbox homepage showing a creator and virtual-world ecosystem`
+Caption: `The Sandbox homepage captured during our July 2026 review of NFT gaming ecosystems.`
 
 ![The Sandbox homepage showing a creator and virtual-world ecosystem](../media/sandbox-home.png)
 
 *The Sandbox homepage captured during our July 2026 review of NFT gaming ecosystems.*
 
 What stood out immediately was that the strongest candidates in this category no longer want to be read as simple play-to-earn products. They want to be read as games, worlds, or ecosystems where ownership is one layer of the experience rather than the entire product.
+
+The screenshots above show why that distinction matters. Even before a live play session, the public surface already tells you whether the project is trying to lead with gameplay identity, social progression, or virtual-world ownership.
 
 ## What separates a good NFT game from a speculative one
 

@@ -26,7 +26,7 @@ That is why the best NFT analytics tools in 2026 are not just the ones with the 
 
 > Why you can trust this guide
 >
-> This guide compares tools using live platform positioning, current ecosystem directories, and official product references reviewed on 2026-07-10. Because data scope, chain coverage, and premium access can shift, readers should confirm workflow-critical features on the official product page before choosing a tool.
+> This guide compares tools using live public product surfaces, current ecosystem directories, and official product references reviewed on 2026-07-10. We directly checked the public positioning and visible workflow framing of the platforms shown below. Anything that depends on premium access, wallet-linked behavior, or a full collection-level workflow still needs final verification before publication.
 
 ## The best NFT analytics tools in 2026 are DappRadar, NFTGo, Nansen, Zerion, bitsCrunch, Trait Sniper, Blur-native tooling, and OpenSea analytics
 
@@ -47,19 +47,36 @@ For this article, we did not want to rely only on list pages and vendor position
 
 That direct review does not replace a premium account test, a wallet-linked workflow test, or a full collection-tracking exercise inside every platform. But it does show something important very quickly: some products are clearly built to orient users at the market level, some are better at portfolio context, and some are really ecosystem maps for builders rather than end-user dashboards.
 
+**Featured Image**
+File: `../media/dappradar-home.png`
+Alt text: `DappRadar homepage showing NFT and onchain market intelligence categories`
+Caption: `DappRadar homepage captured during our July 2026 review of NFT analytics platforms.`
+
 ![DappRadar homepage showing NFT and onchain market intelligence categories](../media/dappradar-home.png)
 
 *DappRadar homepage captured during our July 2026 review of NFT analytics platforms.*
 
+**Screenshot 1**
+File: `../media/zerion-home.png`
+Alt text: `Zerion homepage showing portfolio and multi-chain wallet tracking features`
+Caption: `Zerion homepage captured during our July 2026 review of NFT analytics and portfolio tools.`
+
 ![Zerion homepage showing portfolio and multi-chain wallet tracking features](../media/zerion-home.png)
 
 *Zerion homepage captured during our July 2026 review of NFT analytics and portfolio tools.*
+
+**Screenshot 2**
+File: `../media/alchemy-analytics-tools.png`
+Alt text: `Alchemy page listing NFT analytics tools in 2026`
+Caption: `Alchemy ecosystem page captured during our July 2026 review of NFT analytics tooling.`
 
 ![Alchemy page listing NFT analytics tools in 2026](../media/alchemy-analytics-tools.png)
 
 *Alchemy ecosystem page captured during our July 2026 review of NFT analytics tooling.*
 
 What stood out immediately was not who had the flashiest charts. It was product posture. DappRadar looked like a broad market intelligence layer. Zerion looked like a portfolio-first environment where NFTs are one part of a wider ownership picture. Alchemy's analytics page made the ecosystem itself look more fragmented than many top-list articles admit, which is useful because it reminds readers that "NFT analytics" is not one job.
+
+The screenshots above show why that matters. Even before a logged-in workflow test, the public surfaces already signal whether a product is built for orientation, portfolio context, or builder discovery.
 
 ## What makes an NFT analytics tool worth using in 2026
 
