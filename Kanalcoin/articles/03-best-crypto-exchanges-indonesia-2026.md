@@ -34,7 +34,9 @@ The best crypto exchanges in Indonesia in 2026 are Pintu for beginners, Indodax 
 
 ## Why You Can Trust This Comparison
 
-This ranking was built from official platform materials, Indonesia market context, and public regulatory framing rather than from generic affiliate lists. The focus is on what actually matters for Indonesian users: IDR access, mobile usability, and confidence in using the product repeatedly.
+> Why you can trust this guide
+>
+> This guide is based on live public exchange surfaces, official platform materials, and Indonesia market references reviewed on July 10, 2026. We directly checked public onboarding framing, visible product posture, and how each shortlisted exchange presents investing and trading behavior on its public surface. Anything that depends on a logged-in IDR funding workflow, live spreads, withdrawals, or a full end-to-end trade still needs final verification before publication.
 
 ## What We Checked Ourselves Before Ranking These Exchanges
 
@@ -52,7 +54,7 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 
 *Reku homepage captured during our July 2026 review of crypto exchanges in Indonesia.*
 
-What stood out immediately was not just branding. It was posture. Pintu presents itself like a mobile-first onboarding product, Tokocrypto leans more into active-market energy, and Reku signals a calmer portfolio-building experience. That difference matters more than generic claims about being "the best" for everyone.
+What stood out immediately was not just branding. It was posture. Pintu presents itself like a mobile-first onboarding product, Tokocrypto leans more into active-market energy, and Reku signals a calmer portfolio-building experience. That difference matters more than generic claims about being "the best" for everyone. It makes Pintu and Reku stronger for users who want a cleaner first experience, but weaker for readers who already know they want a more active trading environment.
 
 ## Quick Comparison of the Best Indonesia Crypto Exchanges
 
@@ -236,35 +238,31 @@ Pintu and Reku are usually the easiest beginner options because they focus on us
 - Reku, [official site](https://reku.id/)
 - Luno Indonesia, [official site](https://www.luno.com/en/id)
 
-## Image Publishing Plan
+## Publishing Image Workflow
 
-### Featured Image
+**Featured Image**
+File: `../media/pintu-home-2026-07-10.png`
+Alt text: `Pintu homepage reviewed for an Indonesia crypto exchange guide in July 2026.`
+Caption: `Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.`
 
-- File: `../media/pintu-home-2026-07-10.png`
-- Placement: top of article above the introduction
-- Caption: Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.
-- Alt text: Pintu homepage reviewed for an Indonesia crypto exchange guide in July 2026.
+![Pintu homepage reviewed for an Indonesia crypto exchange guide in July 2026.](../media/pintu-home-2026-07-10.png)
 
-### Screenshot 1
+*Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.*
 
-- File: `../media/pintu-home-2026-07-10.png`
-- Placement: under `## What We Checked Ourselves Before Ranking These Exchanges`
-- Caption: Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.
-- Alt text: Pintu exchange homepage reviewed for Indonesia in July 2026.
+**Screenshot 1**
+File: `../media/pintu-home-2026-07-10.png`
+Alt text: `Pintu exchange homepage reviewed for Indonesia in July 2026.`
+Caption: `Pintu homepage captured during our July 2026 review of crypto exchanges in Indonesia.`
 
-### Screenshot 2
+**Screenshot 2**
+File: `../media/tokocrypto-home-2026-07-10.png`
+Alt text: `Tokocrypto homepage reviewed for Indonesia in July 2026.`
+Caption: `Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Indonesia.`
 
-- File: `../media/tokocrypto-home-2026-07-10.png`
-- Placement: directly below Screenshot 1 in the first-hand review section
-- Caption: Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Indonesia.
-- Alt text: Tokocrypto homepage reviewed for Indonesia in July 2026.
-
-### Screenshot 3
-
-- File: `../media/reku-home-2026-07-10.png`
-- Placement: directly below Screenshot 2 in the first-hand review section
-- Caption: Reku homepage captured during our July 2026 review of crypto exchanges in Indonesia.
-- Alt text: Reku homepage reviewed for Indonesia in July 2026.
+**Screenshot 3**
+File: `../media/reku-home-2026-07-10.png`
+Alt text: `Reku homepage reviewed for Indonesia in July 2026.`
+Caption: `Reku homepage captured during our July 2026 review of crypto exchanges in Indonesia.`
 
 ## Final Pre-Publish Checks
 

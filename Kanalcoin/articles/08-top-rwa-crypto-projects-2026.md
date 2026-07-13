@@ -34,7 +34,9 @@ The top RWA crypto projects to watch in 2026 are Ondo for broad tokenized-financ
 
 ## Why You Can Trust This Comparison
 
-This comparison uses official project sites, product framing, and category context from [RWA.xyz](https://www.rwa.xyz/) rather than ranking projects by social-media noise alone. The focus is on adoption logic, infrastructure depth, and whether the story still works when hype cools down.
+> Why you can trust this guide
+>
+> This guide is based on live public project surfaces, official project materials, and category references reviewed on July 10, 2026, including [RWA.xyz](https://www.rwa.xyz/). We directly checked public product framing, visible infrastructure posture, and how each shortlisted project positions its role in the tokenized-asset stack. Anything that depends on live adoption metrics, revenue quality, token-value capture, or a deeper product audit still needs final verification before publication.
 
 ## What We Checked Ourselves Before Ranking These RWA Projects
 
@@ -52,7 +54,7 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 
 *Plume homepage captured during our July 2026 review of RWA crypto projects.*
 
-What stood out immediately was not just which project used the word "RWA." It was what kind of role each project claims in the stack. That matters because a tokenized-asset platform, an infrastructure layer, and an RWA-focused chain should not be judged as if they are the same product.
+What stood out immediately was not just which project used the word "RWA." It was what kind of role each project claims in the stack. That matters because a tokenized-asset platform, an infrastructure layer, and an RWA-focused chain should not be judged as if they are the same product. That makes this category stronger for readers willing to separate issuer, credit, and infrastructure roles, but weaker for anyone looking for a one-line answer that treats every RWA project as the same bet.
 
 ## Quick Comparison of the Top RWA Crypto Projects
 
@@ -228,35 +230,31 @@ Not automatically. They may be closer to real financial products, but they still
 - Plume, [official site](https://plumenetwork.xyz/)
 - Chainlink, [official site](https://chain.link/)
 
-## Image Publishing Plan
+## Publishing Image Workflow
 
-### Featured Image
+**Featured Image**
+File: `../media/centrifuge-home-2026-07-10.png`
+Alt text: `Centrifuge homepage reviewed for a 2026 RWA crypto project comparison.`
+Caption: `Centrifuge homepage captured during our July 2026 review of RWA crypto projects.`
 
-- File: `../media/centrifuge-home-2026-07-10.png`
-- Placement: top of article above the introduction
-- Caption: Centrifuge homepage captured during our July 2026 review of RWA crypto projects.
-- Alt text: Centrifuge homepage reviewed for a 2026 RWA crypto project comparison.
+![Centrifuge homepage reviewed for a 2026 RWA crypto project comparison.](../media/centrifuge-home-2026-07-10.png)
 
-### Screenshot 1
+*Centrifuge homepage captured during our July 2026 review of RWA crypto projects.*
 
-- File: `../media/centrifuge-home-2026-07-10.png`
-- Placement: under `## What We Checked Ourselves Before Ranking These RWA Projects`
-- Caption: Centrifuge homepage captured during our July 2026 review of RWA crypto projects.
-- Alt text: Centrifuge homepage reviewed for RWA crypto project research in July 2026.
+**Screenshot 1**
+File: `../media/centrifuge-home-2026-07-10.png`
+Alt text: `Centrifuge homepage reviewed for RWA crypto project research in July 2026.`
+Caption: `Centrifuge homepage captured during our July 2026 review of RWA crypto projects.`
 
-### Screenshot 2
+**Screenshot 2**
+File: `../media/chainlink-home-2026-07-10.png`
+Alt text: `Chainlink homepage reviewed for RWA crypto project research in July 2026.`
+Caption: `Chainlink homepage captured during our July 2026 review of RWA crypto projects.`
 
-- File: `../media/chainlink-home-2026-07-10.png`
-- Placement: directly below Screenshot 1 in the first-hand review section
-- Caption: Chainlink homepage captured during our July 2026 review of RWA crypto projects.
-- Alt text: Chainlink homepage reviewed for RWA crypto project research in July 2026.
-
-### Screenshot 3
-
-- File: `../media/plume-home-2026-07-10.png`
-- Placement: directly below Screenshot 2 in the first-hand review section
-- Caption: Plume homepage captured during our July 2026 review of RWA crypto projects.
-- Alt text: Plume homepage reviewed for RWA crypto project research in July 2026.
+**Screenshot 3**
+File: `../media/plume-home-2026-07-10.png`
+Alt text: `Plume homepage reviewed for RWA crypto project research in July 2026.`
+Caption: `Plume homepage captured during our July 2026 review of RWA crypto projects.`
 
 ## Final Pre-Publish Checks
 
