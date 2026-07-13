@@ -45,22 +45,32 @@ That public review does not replace a live bridge or app-level test on every net
 
 The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a network is winning through DeFi gravity, exchange distribution, infrastructure identity, or zero-knowledge positioning.
 
-### Image insertion labels for publishing
+**Featured Image**
+File: `../media/top-layer-2-networks-featured.png`
+Alt text: `Comparison of Layer 2 network ranking data and Base ecosystem positioning in 2026`
+Caption: `Layer 2 category scale and ecosystem identity reviewed side by side during our July 2026 comparison.`
 
-Featured Image
-- Suggested visual: Layer 2 comparison image combining L2BEAT ranking data with major network homepages
-- Caption: Ethereum Layer 2 networks reviewed through public scaling data and official chain pages in July 2026.
-- Alt text: Comparison of major Ethereum Layer 2 networks using public scaling data and official chain positioning.
+![Comparison of Layer 2 network ranking data and Base ecosystem positioning in 2026](../media/top-layer-2-networks-featured.png)
 
-Screenshot 1
-- Suggested visual: L2BEAT ranking or total value secured page
-- Caption: Public Layer 2 ranking data reviewed as part of our July 2026 network comparison workflow.
-- Alt text: Public Layer 2 ranking page showing total value secured across leading networks.
+*Layer 2 category scale and ecosystem identity reviewed side by side during our July 2026 comparison.*
 
-Screenshot 2
-- Suggested visual: Arbitrum, Base, or OP Mainnet ecosystem page
-- Caption: Official Layer 2 ecosystem page captured during our review of network identity and user fit.
-- Alt text: Layer 2 ecosystem page showing how a major network presents apps and user categories.
+**Screenshot 1**
+File: `../media/l2beat-layer2-rankings.png`
+Alt text: `L2BEAT rankings page showing value secured across major Ethereum Layer 2 networks`
+Caption: `L2BEAT rankings page captured during our July 2026 review of Layer 2 scale and value secured.`
+
+![L2BEAT rankings page showing value secured across major Ethereum Layer 2 networks](../media/l2beat-layer2-rankings.png)
+
+*L2BEAT rankings page captured during our July 2026 review of Layer 2 scale and value secured.*
+
+**Screenshot 2**
+File: `../media/base-ecosystem-page.png`
+Alt text: `Base ecosystem page showing app categories and network positioning`
+Caption: `Base ecosystem page reviewed as part of our comparison of Layer 2 product identity and user fit in 2026.`
+
+![Base ecosystem page showing app categories and network positioning](../media/base-ecosystem-page.png)
+
+*Base ecosystem page reviewed as part of our comparison of Layer 2 product identity and user fit in 2026.*
 
 ## The full list
 

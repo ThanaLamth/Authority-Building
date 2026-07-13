@@ -45,22 +45,32 @@ That public review does not replace a wallet-funded test across every protocol. 
 
 The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a project is built around trading, lending, infrastructure, or broader application identity.
 
-### Image insertion labels for publishing
+**Featured Image**
+File: `../media/top-sui-ecosystem-projects-featured.png`
+Alt text: `Comparison of Sui ecosystem trading and lending product surfaces in 2026`
+Caption: `Sui ecosystem trading and lending product surfaces reviewed during our July 2026 comparison.`
 
-Featured Image
-- Suggested visual: Sui ecosystem collage showing trading, lending, and infrastructure apps
-- Caption: Sui ecosystem product surfaces reviewed during our July 2026 comparison of leading apps.
-- Alt text: Comparison of leading Sui ecosystem apps covering trading, lending, and infrastructure.
+![Comparison of Sui ecosystem trading and lending product surfaces in 2026](../media/top-sui-ecosystem-projects-featured.png)
 
-Screenshot 1
-- Suggested visual: Cetus, Aftermath, or DeepBook interface
-- Caption: Sui trading interface reviewed as part of our July 2026 ecosystem comparison.
-- Alt text: Sui ecosystem trading screen showing how a leading app presents liquidity or market structure.
+*Sui ecosystem trading and lending product surfaces reviewed during our July 2026 comparison.*
 
-Screenshot 2
-- Suggested visual: NAVI, Suilend, or Scallop lending dashboard
-- Caption: Sui lending dashboard captured during our review of major ecosystem products in 2026.
-- Alt text: Sui lending protocol interface showing borrowing or liquidity features.
+**Screenshot 1**
+File: `../media/cetus-trading-interface.png`
+Alt text: `Cetus trading interface on Sui showing swap workflow and liquidity-focused design`
+Caption: `Cetus trading surface captured during our July 2026 review of Sui ecosystem products.`
+
+![Cetus trading interface on Sui showing swap workflow and liquidity-focused design](../media/cetus-trading-interface.png)
+
+*Cetus trading surface captured during our July 2026 review of Sui ecosystem products.*
+
+**Screenshot 2**
+File: `../media/navi-lending-dashboard.png`
+Alt text: `NAVI lending dashboard on Sui showing borrow and liquidity features`
+Caption: `NAVI dashboard reviewed as part of our comparison of Sui lending and liquidity products in 2026.`
+
+![NAVI lending dashboard on Sui showing borrow and liquidity features](../media/navi-lending-dashboard.png)
+
+*NAVI dashboard reviewed as part of our comparison of Sui lending and liquidity products in 2026.*
 
 ## The full list
 

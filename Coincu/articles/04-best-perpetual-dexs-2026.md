@@ -45,22 +45,32 @@ That direct review does not replace a live funded trading session. But it does s
 
 The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a platform is built for order-book precision, simplified vault exposure, or broader consumer-style distribution.
 
-### Image insertion labels for publishing
+**Featured Image**
+File: `../media/best-perpetual-dexs-featured.png`
+Alt text: `Comparison of perpetual decentralized exchange interfaces showing different trading models`
+Caption: `Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.`
 
-Featured Image
-- Suggested visual: comparison montage of perpetual DEX trading interfaces
-- Caption: Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.
-- Alt text: Comparison of perpetual decentralized exchange interfaces showing different trading models.
+![Comparison of perpetual decentralized exchange interfaces showing different trading models](../media/best-perpetual-dexs-featured.png)
 
-Screenshot 1
-- Suggested visual: Hyperliquid trading interface or market screen
-- Caption: Hyperliquid market interface captured during our July 2026 perpetual DEX review.
-- Alt text: Hyperliquid trading screen showing order-book style perpetual markets.
+*Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.*
 
-Screenshot 2
-- Suggested visual: GMX, dYdX, or Jupiter fee or market-selection panel
-- Caption: Public trading or fee surface reviewed as part of our comparison of perpetual DEX product models.
-- Alt text: Public perpetual DEX screen showing market selection or fee structure for comparison.
+**Screenshot 1**
+File: `../media/hyperliquid-trading-interface.png`
+Alt text: `Hyperliquid trading screen showing order-book style perpetual markets`
+Caption: `Hyperliquid market interface captured during our July 2026 perpetual DEX review.`
+
+![Hyperliquid trading screen showing order-book style perpetual markets](../media/hyperliquid-trading-interface.png)
+
+*Hyperliquid market interface captured during our July 2026 perpetual DEX review.*
+
+**Screenshot 2**
+File: `../media/gmx-home-interface.png`
+Alt text: `GMX interface showing wallet-first perpetual trading product positioning`
+Caption: `GMX public interface reviewed as part of our comparison of perpetual DEX product models in 2026.`
+
+![GMX interface showing wallet-first perpetual trading product positioning](../media/gmx-home-interface.png)
+
+*GMX public interface reviewed as part of our comparison of perpetual DEX product models in 2026.*
 
 ## The full list
 
