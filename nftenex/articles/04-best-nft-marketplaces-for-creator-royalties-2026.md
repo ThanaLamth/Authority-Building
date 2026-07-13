@@ -11,10 +11,8 @@ schema_types:
   - "Article"
   - "ItemList"
 internal_link_targets:
-  - "/creator-economy/royalties"
   - "/creator-economy/artists/best-nft-marketplaces-for-artists-2026"
   - "/nft-markets/marketplaces/best-nft-marketplaces-2026"
-  - "/nft-ecosystem/reviews/opensea-vs-magic-eden-royalties-2026"
 status: "Drafted"
 ---
 
@@ -22,12 +20,12 @@ status: "Drafted"
 
 Creator royalties are still one of the most misunderstood parts of NFT infrastructure. In 2026, the question is not just whether a marketplace "supports royalties." The real question is how creator earnings are configured, when they are enforced, and what tradeoffs creators accept in exchange for liquidity and distribution.
 
-That means the best NFT marketplace for creator royalties is not always the marketplace with the loudest creator messaging. It is the one whose fee model, policy logic, and audience fit your release strategy. This article also needs to work as a cluster bridge into [NFT royalties](/creator-economy/royalties), [NFT marketplaces for artists](/creator-economy/artists/best-nft-marketplaces-for-artists-2026), and the broader [best NFT marketplaces](/nft-markets/marketplaces/best-nft-marketplaces-2026) conversation.
+That means the best NFT marketplace for creator royalties is not always the marketplace with the loudest creator messaging. It is the one whose fee model, policy logic, and audience fit your release strategy. This article also needs to work as a cluster bridge into NFT creator-royalty coverage, [NFT marketplaces for artists](/creator-economy/artists/best-nft-marketplaces-for-artists-2026), and the broader [best NFT marketplaces](/nft-markets/marketplaces/best-nft-marketplaces-2026) conversation.
 
 > Reviewed by NFTEnex Editorial Team
 > Last reviewed: 2026-07-13
 > Review type: No-budget editorial comparison
-> Editorial policy: [NFTEnex Editorial Policy](/editorial-policy)
+> Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >
@@ -50,14 +48,14 @@ The key point is that no creator should assume royalties behave the same way eve
 Quick picks:
 
 - Best mainstream marketplace to compare against: `OpenSea`
-- Best alternative with strong creator attention: `Magic Eden`
+- Best Solana-native alternative to compare: `Magic Eden`
 - Best for creator-native distribution logic: `Zora`
 - Best for greater direct control: `Manifold-powered storefronts`
 - Best simpler marketplace workflow: `Rarible`
 
 ## What we checked ourselves before ranking these marketplaces
 
-For this article, we reviewed the live fee and help documentation that [OpenSea](https://support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea) and [Magic Eden](https://help.magiceden.io/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden) publish publicly, because royalty discussions become vague very quickly when they are built only from old Twitter arguments and secondhand summaries.
+For this article, we reviewed the live fee and help documentation that [OpenSea](https://support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea) and [Magic Eden](https://help.magiceden.io/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden) publish publicly, and we rechecked Magic Eden's [service-change notice](https://help.magiceden.io/en/articles/13885504-magic-eden-marketplace-updates-service-changes) on 2026-07-13 because royalty discussions become vague very quickly when they are built only from old Twitter arguments and secondhand summaries.
 
 That direct review does not answer every question a creator might have. It does not replace a live collection test across multiple chains or a full resale-path audit. But it does give us a much cleaner basis for judgment, because we can compare the way the major marketplaces currently explain fees, creator earnings, and selling conditions in their own language.
 
@@ -101,7 +99,7 @@ That is why a royalty conversation is really a marketplace design conversation. 
 
 After reviewing the public fee documentation directly, the clearest difference was not just price. It was how much operational confidence each marketplace gives a creator before the creator ever launches.
 
-OpenSea still feels like the baseline reference because creators, collectors, and media already understand it as the mainstream comparison point. Magic Eden feels more like the marketplace you have to measure against if active trading conditions and alternative ecosystem reach matter to the project. Neither one automatically "wins" the royalty conversation, because the right choice depends on whether the creator values reach, clarity, control, or enforceability most.
+OpenSea still feels like the baseline reference because creators, collectors, and media already understand it as the mainstream comparison point. Magic Eden feels more like the marketplace you have to measure against if Solana trading conditions and alternative marketplace reach matter to the project. Neither one automatically "wins" the royalty conversation, because the right choice depends on whether the creator values reach, clarity, control, or enforceability most.
 
 That is why I would not frame this article as "which marketplace is most creator-friendly" in a generic sense. The better framing is: which marketplace creates the least mismatch between your royalty expectations and the market behavior you are likely to face.
 
@@ -117,21 +115,21 @@ Collection teams care about audience size, liquidity, and long-term trading beha
 
 ### Magic Eden
 
-Magic Eden matters because creators still have to take it seriously when thinking about secondary trading reach. It has enough market relevance that its fee and royalty behavior can shape launch strategy, not just optimization.
+Magic Eden matters because creators still have to take it seriously when thinking about secondary trading reach on Solana. Its fee and royalty behavior can still shape launch strategy there, even though Magic Eden's help center says EVM-chain and Bitcoin marketplace support ended on 2026-03-09.
 
 From the help-center surface we reviewed directly, Magic Eden feels like a marketplace that has to be read operationally, not emotionally. That is a strength because creators can inspect how the platform describes fees and selling conditions in concrete terms. It is also a reminder that creator economics have to be checked in the exact environment where users will actually trade.
 
 Best for:
 
-- teams that want a major marketplace in the decision set
-- projects that care about active trading environments
-- creators who need to compare royalty posture against liquidity realities
+- Solana-native teams that want a major marketplace in the decision set
+- projects that care about active trading environments on Solana
+- creators who need to compare royalty posture against liquidity realities in a narrower marketplace footprint
 
 Watch for:
 
 - exact current fee structure
 - how creator settings are described in current help-center language
-- whether policy differences vary by chain or product surface
+- whether policy differences changed after the 2026-03-09 marketplace update
 
 ### OpenSea
 
@@ -219,7 +217,7 @@ If royalties are your top priority, start by deciding whether you want:
 
 Then choose the marketplace that aligns with that strategy.
 
-For broad-market relevance, you still need OpenSea and Magic Eden in the comparison.
+For broad-market relevance, start with OpenSea, then compare Magic Eden specifically where Solana audience and trading behavior matter.
 
 For creator-native positioning, Zora is stronger.
 

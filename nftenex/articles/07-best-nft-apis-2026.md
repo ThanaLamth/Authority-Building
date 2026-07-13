@@ -27,7 +27,7 @@ That matters because NFT products now need more than token reads. Teams want own
 > Reviewed by NFTEnex Editorial Team
 > Last reviewed: 2026-07-13
 > Review type: No-budget editorial comparison
-> Editorial policy: [NFTEnex Editorial Policy](/editorial-policy)
+> Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >

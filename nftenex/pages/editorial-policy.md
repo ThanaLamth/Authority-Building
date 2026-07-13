@@ -1,6 +1,6 @@
 ---
 title: "NFTEnex Editorial Policy"
-slug: "/editorial-policy"
+slug: "/info/editorial-policy"
 meta_description: "Learn how NFTEnex reviews NFT tools, marketplaces, APIs, communities, and digital ownership topics, including our sourcing standards, evidence rules, and correction policy."
 primary_keyword: "nft editorial policy"
 secondary_keywords:

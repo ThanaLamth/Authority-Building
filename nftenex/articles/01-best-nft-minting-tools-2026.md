@@ -11,7 +11,6 @@ schema_types:
   - "Article"
   - "ItemList"
 internal_link_targets:
-  - "/nft-infrastructure/minting"
   - "/nft-infrastructure/metadata/best-nft-apis-2026"
   - "/nft-infrastructure/storage/best-nft-storage-tools-2026"
   - "/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026"
@@ -27,7 +26,7 @@ The shortlist that makes the most sense in 2026 is Thirdweb, Crossmint, Manifold
 > Reviewed by NFTEnex Editorial Team
 > Last reviewed: 2026-07-13
 > Review type: No-budget editorial comparison
-> Editorial policy: [NFTEnex Editorial Policy](/editorial-policy)
+> Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >
@@ -269,4 +268,4 @@ Choose an Alchemy-backed stack if you are building infrastructure, not just a dr
 
 Choose Rarible if you want a simpler creator workflow and can live with less architectural control.
 
-If you are building a full topic cluster, this page should also feed readers into your broader [minting hub](/nft-infrastructure/minting), your guide to [NFT storage tools](/nft-infrastructure/storage/best-nft-storage-tools-2026), and your comparison of [creator-royalty marketplaces](/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026).
+If you are building a full topic cluster, this page should also feed readers into broader minting coverage, your guide to [NFT storage tools](/nft-infrastructure/storage/best-nft-storage-tools-2026), and your comparison of [creator-royalty marketplaces](/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026).
