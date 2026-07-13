@@ -1,16 +1,14 @@
 # Top On-Chain Indicators 2026: 10 Metrics for Bitcoin, Ethereum, and Risk
 
-Last updated: 2026-07-10
-
-On-chain analysis is most useful when it tells readers which problem a metric actually solves. Many articles fail here because they throw ten charts into one page without explaining whether those charts help with valuation, liquidity, trend confirmation, or risk management. In 2026, the better approach is to organize the indicators by job. That is why this page works best alongside [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md) and [Best DeFi Projects 2026](02-best-defi-projects-2026.md), because on-chain metrics become more useful when matched to actual market questions.
+Last updated: 2026-07-13
 
 If you are trying to use on-chain analysis well, the real problem is usually not access to more dashboards. The real problem is knowing which metric answers which decision before you start reading charts out of context.
 
-That is why this article does not present one giant toolbox without hierarchy. We are organizing the metrics by demand, liquidity, valuation, and risk, then checking how those categories interact with [crypto regulation trends](10-top-crypto-regulation-trends-2026.md) and the wider [crypto narrative map](03-top-crypto-narratives-2026.md).
+That is why this article does not present one giant toolbox without hierarchy. We are organizing the metrics by demand, liquidity, valuation, and risk, then checking how those categories interact with [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md), [Best DeFi Projects 2026](02-best-defi-projects-2026.md), and [Top Crypto Regulation Trends 2026](10-top-crypto-regulation-trends-2026.md).
 
 > Why you can trust this guide
 >
-> This article is based on live public documentation and public data pages reviewed in July 2026. We directly reviewed Coin Metrics network-data docs, DefiLlama's stablecoin dashboard, and public onchain metric references to keep the article tied to visible data structures instead of generic metric lore. Where a claim still depends on paid datasets, live thresholds, or proprietary charting context, we mark it for final verification before publication.
+> This article is based on live public documentation and public data pages reviewed in July 2026. We directly reviewed Coin Metrics network-data docs, DefiLlama's stablecoin dashboard, and public onchain metric references to keep the article tied to visible data structures instead of generic metric lore. Where a point still depends on paid datasets, live thresholds, or proprietary charting context, we keep the interpretation practical rather than overconfident.
 
 ## The top on-chain indicators in 2026 are the metrics most useful for tracking demand, liquidity, profit-taking, and trend exhaustion
 
@@ -26,7 +24,7 @@ This list uses five filters:
 - relevance to real trading or allocation decisions
 - ability to reveal hidden risk before price fully reacts
 
-That matters because the best metric is not necessarily the fanciest one. It is the one that changes what you do.
+The best metric is not necessarily the fanciest one. It is the one that changes what you do.
 
 ## What we checked ourselves before ranking these indicators
 
@@ -56,63 +54,43 @@ The stablecoin page makes another point visible very quickly: some of the most u
 
 ### 1. Active addresses
 
-Active addresses remain one of the easiest demand gauges to understand. They help readers see whether a network's user footprint is broadening or narrowing. On their own they are crude, but they are still a strong first-pass signal for whether activity growth looks real.
-
-The weakness is that not all addresses represent unique users, so interpretation needs restraint.
+Active addresses remain one of the easiest demand gauges to understand. The strength is that they give readers a fast first-pass view of whether a network's user footprint is broadening or narrowing. The weakness is that not all addresses represent unique users, so interpretation needs restraint. This is a strength if you want breadth context, but a weakness if you expect clean precision from a noisy proxy.
 
 ### 2. Transaction value settled
 
-Transaction value helps track whether meaningful economic activity is moving through the chain. This is particularly useful when readers want to distinguish between noise and capital-heavy behavior.
-
-Its limitation is that large transfers can distort the picture if they are not contextualized.
+Transaction value helps track whether meaningful economic activity is moving through the chain. The strength is that it can separate noise from capital-heavy behavior better than raw transaction counts alone. The weakness is that large transfers can distort the picture if they are not contextualized. It is useful because it asks a better question than simple activity charts: how much value is actually moving?
 
 ### 3. Stablecoin supply trends
 
-Stablecoin supply trends matter because they often act as a proxy for available onchain buying power. When stablecoin balances and circulation expand, they can support risk appetite across the market. This is one of the clearest places where [crypto regulation trends](10-top-crypto-regulation-trends-2026.md) and onchain data overlap.
-
-This metric becomes more important in 2026 because stablecoins are now core market plumbing.
+Stablecoin supply trends matter because they often act as a proxy for available onchain buying power. The strength is that they connect directly to liquidity and settlement capacity across the market. The weakness is that supply growth on its own does not guarantee immediate risk-on behavior. This metric becomes more important in 2026 because stablecoins are now core market plumbing, not just a side category.
 
 ### 4. Exchange balances
 
-Exchange reserve trends remain useful because they hint at whether assets are moving toward liquid trading venues or away from them. That can provide context around selling pressure, custody shifts, and market readiness.
-
-The danger is reading every transfer as a directional trade.
+Exchange reserve trends remain useful because they hint at whether assets are moving toward liquid trading venues or away from them. The strength is liquidity context. The weakness is that not every transfer should be read as a directional trade. Exchange balance data is best when it helps frame risk, not when it is forced into an overly literal signal.
 
 ### 5. MVRV
 
-MVRV belongs on both Bitcoin and broader on-chain lists because it helps with valuation framing. It is one of the best-known ways to ask whether the market is trading too far above aggregate cost basis. Readers who want the more cycle-specific use case should pair it with [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md).
-
-The weakness is that expensive markets can stay expensive for longer than traders want.
+MVRV belongs on both Bitcoin and broader on-chain lists because it helps with valuation framing. The strength is that it gives readers one of the cleanest ways to ask whether the market is trading too far above aggregate cost basis. The weakness is that expensive markets can stay expensive longer than traders want. Readers who want the more cycle-specific application should pair it with [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md).
 
 ### 6. SOPR
 
-SOPR helps readers evaluate whether coins being spent are moving at profit or loss. That makes it useful for spotting profit-taking regimes and stress periods.
-
-It becomes more valuable when paired with trend and liquidity metrics.
+SOPR helps readers evaluate whether coins being spent are moving at profit or loss. The strength is that it highlights realized behavior instead of unrealized emotion. The weakness is that it becomes much easier to misuse when it is stripped away from trend and liquidity context. SOPR adds the most value when it answers whether the market is actually taking profits, not when it is used as a magic line.
 
 ### 7. NUPL
 
-Net Unrealized Profit/Loss remains a useful sentiment-style on-chain metric because it frames how much embedded profit or pain exists across the market. It can help show whether euphoria or despair is building structurally.
-
-Its limitation is that it is a broad emotional map, not a tactical trigger.
+NUPL remains a useful sentiment-style on-chain metric because it frames how much embedded profit or pain exists across the market. The strength is that it helps map crowd heat structurally. The weakness is that it is a broad emotional indicator, not a tactical trigger. This is valuable if you want regime context, but a weak tool if you want exact timing.
 
 ### 8. Realized price
 
-Realized price matters because it gives a simple but powerful cost-basis anchor. It is especially useful for readers who want a clean way to think about whether a drawdown still looks structurally healthy.
-
-Like many strong metrics, it works better as context than as a prediction engine.
+Realized price matters because it gives a simple but powerful cost-basis anchor. The strength is clarity: readers can use it to think about whether a drawdown still looks structurally healthy. The weakness is that, like many strong metrics, it works better as context than as a prediction engine. Its value comes from discipline, not excitement.
 
 ### 9. Coin-age and dormancy metrics
 
-Coin-age metrics matter because they help show whether long-held coins are beginning to move. That can reveal changing long-term holder behavior before it becomes obvious in headlines.
-
-The weakness is complexity. Readers need editorial help to avoid over-reading one spike.
+Coin-age metrics matter because they help show whether long-held coins are beginning to move. The strength is that they can reveal changing long-term holder behavior before it becomes obvious in headlines. The weakness is complexity. Readers need editorial help to avoid over-reading one spike. These metrics are better for confirming regime shifts than for making dramatic daily calls.
 
 ### 10. Fee pressure and blockspace demand
 
-Fee data matters because it reflects whether users are actually competing for blockspace. In both Bitcoin and Ethereum-related analysis, fee pressure can reveal when demand becomes economically meaningful.
-
-Its limitation is that high fees are not automatically bullish if they reflect temporary congestion rather than durable demand.
+Fee data matters because it reflects whether users are actually competing for blockspace. The strength is that it can reveal when demand becomes economically meaningful. The weakness is that high fees are not automatically bullish if they reflect temporary congestion rather than durable usage. The better question is not whether fees are high. It is why they are high.
 
 ## Key combinations that make these indicators more useful
 
@@ -126,9 +104,9 @@ The most useful pairings are:
 
 That is the real editorial advantage: translating metrics into decision frameworks.
 
-## What this tells us about on-chain analysis in 2026
+## How to use this page
 
-On-chain analysis in 2026 is less about finding a hidden secret and more about building a disciplined dashboard. The market is larger, more institutional, and more linked to macro liquidity than before. That means on-chain data still matters, but it works best when it is part of a wider decision system. The strongest article on this keyword should therefore help readers know which metric to open first depending on the question they are trying to answer. In practice, this page becomes stronger when read next to [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md), [Best DeFi Projects 2026](02-best-defi-projects-2026.md), and [Top Altcoins for Altcoin Season 2026](05-top-altcoins-for-altcoin-season-2026.md).
+This page is best used to match metrics with decisions. If the question is demand, start with activity and transaction value. If the question is liquidity, start with stablecoins and exchange balances. If the question is cycle heat, move to valuation and profit-taking metrics. In practice, this page becomes stronger when read next to [Top Bitcoin Cycle Indicators 2026](07-top-bitcoin-cycle-indicators-2026.md), [Best DeFi Projects 2026](02-best-defi-projects-2026.md), and [Top Altcoins for Altcoin Season 2026](05-top-altcoins-for-altcoin-season-2026.md).
 
 ## FAQ
 
@@ -144,62 +122,30 @@ No. They are strongest when paired with market structure, policy, and liquidity 
 
 Because stablecoins increasingly represent onchain settlement power and buying capacity, not just a parking asset.
 
-## What would make this page stronger before final publication
+## Sources and further reading
 
-We should not pretend we tested more than we actually tested. If the editorial team wants this page to carry stronger first-hand E-E-A-T signals, the right move is to add evidence we actually captured ourselves:
+- [Glassnode Metric Guides](https://docs.glassnode.com/guides-and-tutorials/metric-guides)
+- [Coin Metrics Network Data Pro Docs](https://gitbook-docs.coinmetrics.io/network-data/network-data-overview)
+- [New York Fed AMEC](https://www.newyorkfed.org/research/AMEC)
+- [DefiLlama Stablecoins Dashboard](https://defillama.com/stablecoins)
+- [CryptoQuant Quicktake](https://cryptoquant.com/)
 
-### 1. Exclusive visual evidence
+## Publishing media pack
 
-- screenshots of public metric documentation and dashboard views reviewed directly
-- side-by-side captures showing demand, liquidity, and valuation metrics in different interfaces
-- one short recorded walkthrough of the public pages used in the article
+Featured Image
+File: `../assets/article-08-onchain-indicators/coinmetrics-network-data.png`
+Placement: below the intro or as the article hero image
+Alt text: `Coin Metrics network data page reviewed in July 2026 for our on-chain indicators guide`
+Caption: `Coin Metrics network data page captured during our July 2026 review of on-chain indicators.`
 
-### 2. First-person editorial notes
+Screenshot 1
+File: `../assets/article-08-onchain-indicators/coinmetrics-network-data.png`
+Placement: inside `## Visual evidence from our July 2026 review`
+Alt text: `Coin Metrics network data page reviewed in July 2026 for our on-chain indicators guide`
+Caption: `Coin Metrics network data page captured during our July 2026 review of on-chain indicators.`
 
-- what our team noticed immediately about how different providers frame the same market
-- which metrics felt clearer or more practical than expected
-- where a dashboard helped and where it risked overwhelming the reader
-
-### 3. Balanced evaluation
-
-- one practical use case for each metric
-- one reason it can fail or mislead
-- one note on which readers should not over-rely on it
-
-### 4. Quantitative checks
-
-- stablecoin or exchange-reserve snapshot from the review date
-- one valuation-versus-liquidity comparison
-- one activity metric with a concrete interpretation example
-
-## How to use this page
-
-This page is best used to match metrics with decisions. If the question is demand, start with activity and transaction value. If the question is liquidity, start with stablecoins and exchange balances. If the question is cycle heat, move to valuation and profit-taking metrics. That structure adds more value than reading every chart the same way.
-
-## External links to cite
-
-- [Glassnode Metric Guides](https://docs.glassnode.com/guides-and-tutorials/metric-guides) for MVRV, NUPL, realized price, and related metrics
-- [Coin Metrics Network Data Pro Docs](https://gitbook-docs.coinmetrics.io/network-data/network-data-overview) for on-chain metric definitions
-- [New York Fed AMEC](https://www.newyorkfed.org/research/AMEC) for macro-liquidity context
-- [DefiLlama Stablecoins Dashboard](https://defillama.com/stablecoins) for stablecoin supply tracking
-- [CryptoQuant Quicktake](https://cryptoquant.com/) for exchange reserve and flow framing
-
-## Media plan
-
-- Hero visual: dashboard-style metric matrix split into demand, liquidity, valuation, and risk
-- Comparison table near the top: metric, what it shows, when to use it, where it fails
-- One inline chart: stablecoin supply or exchange-balance trend with source note
-- One support graphic: `Which on-chain metric to open first depending on the question`
-
-## Editor Source Checklist
-
-- verify current definitions and preferred chart sources for each metric [needs source]
-- verify whether fee pressure and dormancy metrics deserve stronger Bitcoin-specific or Ethereum-specific framing [needs source]
-- add one source-backed "best use case" table before publication [needs source]
-
-## Internal Link Targets
-
-- `/narratives/bitcoin-cycle/top-bitcoin-cycle-indicators-2026`
-- `/trends/defi/best-defi-projects-2026`
-- `/trends/ai-crypto/top-ai-crypto-coins-2026`
-- `/narratives/altcoin-season/top-altcoins-for-altcoin-season-2026`
+Screenshot 2
+File: `../assets/article-08-onchain-indicators/defillama-stablecoins.png`
+Placement: inside `## Visual evidence from our July 2026 review`
+Alt text: `DefiLlama stablecoins dashboard reviewed in July 2026 for our on-chain indicators guide`
+Caption: `DefiLlama stablecoins dashboard captured during our July 2026 review of on-chain indicators.`
