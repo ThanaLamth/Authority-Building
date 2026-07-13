@@ -81,6 +81,14 @@ That direct review does not replace a full end-to-end product test of every prot
 
 What stood out immediately was not the number of AI-labeled tokens in the market. It was how uneven the category still is once you compare real stack function, ecosystem posture, and token role side by side.
 
+![Bittensor subnets page captured during our July 2026 review of leading AI crypto ecosystems.](../media/bittensor-subnets-2026-07-13.png)
+
+*Bittensor subnets page captured during our July 2026 review of leading AI crypto ecosystems.*
+
+![Chainlink homepage captured during our July 2026 review of AI-crypto infrastructure and coordination rails.](../media/chainlink-home-2026-07-10.png)
+
+*Chainlink homepage captured during our July 2026 review of AI-crypto infrastructure and coordination rails.*
+
 ## How we ranked the best AI crypto projects
 
 We used a simple editorial model instead of pretending to have a perfect quant score:
@@ -206,18 +214,6 @@ Because AI agents still need trusted data, automation, and cross-chain execution
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## Media insertion labels for publishing
-
-- Featured Image: AI x Crypto market map split into `agents`, `infrastructure`, `data`, and `economy`
-- Caption: AI x Crypto stack map reviewed while ranking the strongest category leaders in July 2026.
-- Alt text: Diagram showing the 2026 AI crypto stack split into infrastructure, data, agent, and economy layers.
-- Screenshot 1: CoinGecko Artificial Intelligence category page captured during editorial review
-- Caption: CoinGecko AI category reviewed while comparing broad AI x Crypto market leaders in July 2026.
-- Alt text: Screenshot of CoinGecko's Artificial Intelligence token category page.
-- Screenshot 2: Bittensor subnet explorer or Virtuals ecosystem map used to separate infrastructure and agent-economy narratives
-- Caption: Public ecosystem surfaces used to distinguish infrastructure-heavy AI projects from agent-economy-heavy projects.
-- Alt text: Screenshot showing a Bittensor subnet page or Virtuals ecosystem view used in the July 2026 editorial review.
 
 ## First-hand experience package to add before publish
 

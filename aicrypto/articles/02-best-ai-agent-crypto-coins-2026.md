@@ -56,6 +56,14 @@ That direct review does not replace a full wallet-level test of every agent prod
 
 What stood out immediately was not the number of agent tokens. It was how often the strongest names still depend on one broader ecosystem, especially around Virtuals. That is a strength if the ecosystem keeps compounding, but a weakness if the reader wants lower narrative concentration.
 
+![Virtuals Protocol whitepaper page captured during our July 2026 review of AI agent crypto coins.](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper page captured during our July 2026 review of AI agent crypto coins.*
+
+![Ethereum AI agents explainer page captured during our July 2026 review of agent-economy workflows and onchain coordination.](../media/ethereum-ai-agents-2026-07-13.png)
+
+*Ethereum AI agents explainer page captured during our July 2026 review of agent-economy workflows and onchain coordination.*
+
 ## How we ranked AI agent coins for 2026
 
 | Factor | Question | Why it matters |
@@ -167,18 +175,6 @@ Because ecosystems with creation tools, liquidity, and distribution tend to pull
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## Media insertion labels for publishing
-
-- Featured Image: montage of AI agent dashboards, wallets, and tokenized agent profiles
-- Caption: AI agent economy overview reviewed while ranking the strongest agent-linked tokens in July 2026.
-- Alt text: Collage showing AI agent dashboards, wallets, and tokenized agent profiles.
-- Screenshot 1: CoinGecko AI Agents category page captured during editorial review
-- Caption: CoinGecko AI Agents category reviewed while separating real agent workflows from narrative-heavy tokens.
-- Alt text: Screenshot of CoinGecko's AI Agents token category page.
-- Screenshot 2: Virtuals ecosystem page or Autonolas public documentation showing how agent coordination is framed
-- Caption: Public ecosystem and documentation surfaces used to compare agent-economy assets with more infrastructure-like agent projects.
-- Alt text: Screenshot of a Virtuals ecosystem page or Autonolas documentation reviewed for the July 2026 agent-token ranking.
 
 ## First-hand experience package to add before publish
 

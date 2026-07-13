@@ -56,6 +56,14 @@ That direct review does not replace a full technical audit of every compute netw
 
 What stood out immediately was not just how many AI projects talk about compute. It was how few names still look defensible once you ask whether the token has a real role in supply, demand, routing, or verification.
 
+![Chainlink homepage captured during our July 2026 review of AI infrastructure crypto coins.](../media/chainlink-home-2026-07-10.png)
+
+*Chainlink homepage captured during our July 2026 review of AI infrastructure crypto coins.*
+
+![Akash homepage captured during our July 2026 review of decentralized compute networks for AI workloads.](../media/akash-home-2026-07-10.png)
+
+*Akash homepage captured during our July 2026 review of decentralized compute networks for AI workloads.*
+
 ## How we ranked AI infrastructure crypto coins
 
 | Factor | What we asked | Why it matters |
@@ -161,18 +169,6 @@ Because AI workflows still depend on storage and data availability. It is an adj
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
-
-## Media insertion labels for publishing
-
-- Featured Image: infrastructure map showing compute, data, verification, and agent-payment rails
-- Caption: AI infrastructure map reviewed while comparing compute, data, and coordination projects in July 2026.
-- Alt text: Diagram of AI crypto infrastructure showing compute, data, verification, and settlement layers.
-- Screenshot 1: CoinGecko Artificial Intelligence category page captured during editorial review
-- Caption: CoinGecko AI category used as the first pass for narrowing the infrastructure shortlist.
-- Alt text: Screenshot of CoinGecko's Artificial Intelligence token category page used during the July 2026 infrastructure review.
-- Screenshot 2: Bittensor explorer, Chainlink docs, or another public infrastructure surface used to compare stack roles
-- Caption: Public product and documentation surfaces used to separate compute rails, data rails, and coordination rails.
-- Alt text: Screenshot from a public AI-crypto infrastructure product or documentation page reviewed for stack-role comparison.
 
 ## First-hand experience package to add before publish
 

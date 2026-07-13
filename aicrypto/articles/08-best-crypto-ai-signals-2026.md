@@ -56,6 +56,14 @@ That direct review does not replace a longer live-trading validation pass across
 
 What stood out immediately was not which platform promised the smartest signal. It was which platform gave enough context for a trader to judge the signal independently.
 
+![altFINS signals overview page captured during our July 2026 review of crypto AI signal tools.](../media/altfins-overview-2026-07-13.png)
+
+*altFINS signals overview page captured during our July 2026 review of crypto AI signal tools.*
+
+![CryptoQuant alerts page captured during our July 2026 review of crypto alert workflows and signal delivery.](../media/cryptoquant-alerts-2026-07-13.png)
+
+*CryptoQuant alerts page captured during our July 2026 review of crypto alert workflows and signal delivery.*
+
 ## How we ranked crypto AI signal tools
 
 | Factor | What we checked | Why it matters |
@@ -163,18 +171,6 @@ Only if they understand the source conditions, time horizon, and risk controls t
 - [CryptoQuant alerts guide](https://userguide.cryptoquant.com/quickstart/5-minute-feature-guide/2.-set-alerts)
 - [Glassnode custom alerts](https://studio.glassnode.com/alerts)
 - [Nansen AI Smart Alerts](https://academy.nansen.ai/help/articles/6239622-ai-smart-alerts-101)
-
-## Media insertion labels for publishing
-
-- Featured Image: alert dashboard showing onchain, technical, and AI-driven signals
-- Caption: Crypto signal workflow map reviewed while comparing alert context, delivery, and trader usability in July 2026.
-- Alt text: Alert dashboard displaying crypto signals from onchain, technical, and AI-based inputs.
-- Screenshot 1: altFINS, CryptoQuant, or another public alert interface captured during editorial review
-- Caption: Public alert surfaces reviewed to compare how clearly each product explains what triggered a signal.
-- Alt text: Screenshot of a crypto alert interface showing signal conditions or screening tools.
-- Screenshot 2: Glassnode, Nansen, or another public documentation page showing alert creation or delivery logic
-- Caption: Public alert documentation used to compare data depth, delivery methods, and workflow clarity.
-- Alt text: Screenshot from a crypto signal tool documentation page showing alert setup or delivery options.
 
 ## First-hand experience package to add before publish
 

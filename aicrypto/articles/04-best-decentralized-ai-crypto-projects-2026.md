@@ -56,6 +56,14 @@ That direct review does not replace a full technical audit of every network in t
 
 What stood out immediately was not that the category is small. It was that the category is uneven. Some projects make the decentralization logic easy to explain. Others need a more generous interpretation to fit.
 
+![Bittensor subnets page captured during our July 2026 review of decentralized AI market structures.](../media/bittensor-subnets-2026-07-13.png)
+
+*Bittensor subnets page captured during our July 2026 review of decentralized AI market structures.*
+
+![Akash homepage captured during our July 2026 review of decentralized compute projects for AI.](../media/akash-home-2026-07-10.png)
+
+*Akash homepage captured during our July 2026 review of decentralized compute projects for AI.*
+
 ## How we ranked decentralized AI crypto projects
 
 | Factor | What we checked | Why it matters |
@@ -156,18 +164,6 @@ Because decentralized AI is increasingly about agent economies and machine-to-ma
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## Media insertion labels for publishing
-
-- Featured Image: decentralized AI concept graphic with compute, models, data, and agents
-- Caption: Decentralized AI stack map reviewed while separating true open-market structures from softer decentralization claims in July 2026.
-- Alt text: Comparison chart showing the difference between generic AI coins and decentralized AI projects.
-- Screenshot 1: Bittensor subnet explorer captured during editorial review
-- Caption: Bittensor ecosystem surface reviewed as the clearest reference point for decentralized AI market structure.
-- Alt text: Screenshot of the Bittensor subnet explorer used in the July 2026 decentralized AI review.
-- Screenshot 2: Public protocol docs from Akash, Aethir, or another compute-network project used to test decentralization claims
-- Caption: Public documentation used to compare which projects decentralize real supply, coordination, or data layers.
-- Alt text: Screenshot from a decentralized AI protocol documentation page reviewed for the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

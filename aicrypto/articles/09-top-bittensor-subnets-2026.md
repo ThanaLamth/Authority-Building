@@ -56,6 +56,14 @@ That direct review does not replace a full onchain or liquidity analysis of ever
 
 What stood out immediately was not just how many subnets exist. It was how different the reasons are for why people care about them.
 
+![Bittensor subnets page captured during our July 2026 review of leading dTAO markets.](../media/bittensor-subnets-2026-07-13.png)
+
+*Bittensor subnets page captured during our July 2026 review of leading dTAO markets.*
+
+![Bittensor documentation page captured during our July 2026 review of subnet structure and market framing.](../media/learnbittensor-subnets-2026-07-13.png)
+
+*Bittensor documentation page captured during our July 2026 review of subnet structure and market framing.*
+
 ## How we ranked the leading Bittensor subnets
 
 | Factor | What we checked | Why it matters |
@@ -160,18 +168,6 @@ Usually yes, because subnet tokens tend to have thinner liquidity and more conce
 - [Bittensor subnet explorer](https://www.bittensor.ai/subnets)
 - [Learn Bittensor subnets overview](https://learnbittensor.org/subnets)
 - [Understanding Bittensor subnets](https://docs.learnbittensor.org/subnets/understanding-subnets)
-
-## Media insertion labels for publishing
-
-- Featured Image: TAO ecosystem map with highlighted subnets
-- Caption: Bittensor ecosystem map reviewed while comparing the most important dTAO subnets in July 2026.
-- Alt text: Ecosystem map showing Bittensor subnets and how alpha tokens fit into dTAO.
-- Screenshot 1: Bittensor subnet explorer captured during editorial review
-- Caption: Public subnet explorer reviewed while comparing specialization, visibility, and market importance across leading subnets.
-- Alt text: Screenshot of the Bittensor subnet explorer used in the July 2026 editorial review.
-- Screenshot 2: CoinGecko dTAO or top-subnets guide page used to confirm the current reference lineup
-- Caption: CoinGecko's dTAO guide reviewed as a dated market snapshot while building the shortlist of leading subnets.
-- Alt text: Screenshot of CoinGecko's Bittensor subnet guide or dTAO page used in the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

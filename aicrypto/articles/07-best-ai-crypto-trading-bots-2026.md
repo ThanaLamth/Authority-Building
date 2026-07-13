@@ -56,6 +56,14 @@ That direct review does not replace a full funded trading test on every platform
 
 What stood out immediately was not the number of features. It was where each product puts friction in the workflow. That matters more than most readers realize.
 
+![3Commas AI trading bot page captured during our July 2026 review of crypto automation platforms.](../media/3commas-ai-trading-bot-2026-07-13.png)
+
+*3Commas AI trading bot page captured during our July 2026 review of crypto automation platforms.*
+
+![Cryptohopper trading-bot documentation captured during our July 2026 review of crypto bot workflows.](../media/cryptohopper-trading-bot-2026-07-13.png)
+
+*Cryptohopper trading-bot documentation captured during our July 2026 review of crypto bot workflows.*
+
 ## How we ranked AI crypto trading bots
 
 | Factor | What we checked | Why it matters |
@@ -166,18 +174,6 @@ Only with small size, clear limits, and a strong understanding of the strategy t
 - [Pionex Signal Bot guide](https://support.pionex.com/hc/en-us/articles/52606266734105-Signal-Bot)
 - [Coinrule platform](https://coinrule.com/b/)
 - [WunderTrading docs](https://wundertrading.com/docs)
-
-## Media insertion labels for publishing
-
-- Featured Image: multi-exchange trading dashboard with bot automation panels
-- Caption: Trading-bot workflow collage reviewed while comparing automation depth, exchange coverage, and control in July 2026.
-- Alt text: Dashboard showing a crypto bot platform with strategy settings and exchange connections.
-- Screenshot 1: 3Commas, Cryptohopper, or another public bot setup page captured during editorial review
-- Caption: Public setup surfaces reviewed to compare how quickly each platform moves a trader from idea to activation.
-- Alt text: Screenshot of a crypto trading bot setup page showing strategy options and exchange connections.
-- Screenshot 2: Public documentation or pricing page showing risk controls, exchange support, or signal import logic
-- Caption: Public documentation used to compare guardrails, exchange coverage, and strategy depth across bot platforms.
-- Alt text: Screenshot from a bot platform documentation or pricing page reviewed for exchange support and risk-control details.
 
 ## First-hand experience package to add before publish
 

@@ -56,6 +56,14 @@ That direct review does not replace a full wallet-connected execution test of ev
 
 What stood out immediately was not the ambition of the category. It was how often the strongest names still depend on surrounding rails like wallets, liquidity, and ecosystem tooling to make the agent story believable.
 
+![Ethereum AI agents explainer page captured during our July 2026 review of onchain-agent workflows.](../media/ethereum-ai-agents-2026-07-13.png)
+
+*Ethereum AI agents explainer page captured during our July 2026 review of onchain-agent workflows.*
+
+![Virtuals Protocol whitepaper page captured during our July 2026 review of onchain AI agent infrastructure and economy design.](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper page captured during our July 2026 review of onchain AI agent infrastructure and economy design.*
+
 ## How we ranked onchain AI agents
 
 | Factor | What we looked for | Why it matters |
@@ -164,18 +172,6 @@ Crypto gives agents open wallets, programmable payments, composable apps, and ma
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## Media insertion labels for publishing
-
-- Featured Image: wallet UI plus autonomous task flow
-- Caption: Onchain agent workflow map reviewed while comparing which projects are closest to real wallet-linked action in July 2026.
-- Alt text: Diagram showing how an onchain AI agent receives instructions and triggers blockchain actions.
-- Screenshot 1: CoinGecko AI Agents category page captured during editorial review
-- Caption: CoinGecko AI Agents category reviewed as the starting point for the onchain-agent shortlist.
-- Alt text: Screenshot of CoinGecko's AI Agents category page used in the July 2026 onchain-agent review.
-- Screenshot 2: Public agent dashboard, Virtuals ecosystem page, or Autonolas documentation showing wallet and execution framing
-- Caption: Public workflow and documentation surfaces used to compare direct onchain action with broader ecosystem exposure.
-- Alt text: Screenshot of a public onchain-agent dashboard or documentation page reviewed for the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

@@ -56,6 +56,14 @@ That direct review does not replace a full wallet-connected test of every routin
 
 What stood out immediately was not the volume of AI language. It was where the products put friction. The clearest names try to reduce it. The weaker names mostly rename it.
 
+![Ethereum AI agents explainer page captured during our July 2026 review of DeFAI workflows and agent coordination.](../media/ethereum-ai-agents-2026-07-13.png)
+
+*Ethereum AI agents explainer page captured during our July 2026 review of DeFAI workflows and agent coordination.*
+
+![Virtuals Protocol whitepaper page captured during our July 2026 review of agent-economy design relevant to DeFAI.](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper page captured during our July 2026 review of agent-economy design relevant to DeFAI.*
+
 ## How we ranked the top DeFAI projects
 
 | Factor | What we checked | Why it matters |
@@ -155,18 +163,6 @@ Because DeFi still has a complexity problem, and AI is being tested as a way to 
 - [CoinGecko DeFAI category](https://www.coingecko.com/en/categories/defai)
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
-
-## Media insertion labels for publishing
-
-- Featured Image: DeFi dashboard plus AI workflow overlay
-- Caption: DeFAI workflow map reviewed while comparing which products actually reduce DeFi friction in July 2026.
-- Alt text: Workflow chart showing how DeFAI tools simplify DeFi research, routing, execution, and monitoring.
-- Screenshot 1: CoinGecko DeFAI category page captured during editorial review
-- Caption: CoinGecko DeFAI category reviewed while narrowing the shortlist of AI-assisted DeFi projects.
-- Alt text: Screenshot of CoinGecko's DeFAI token category page.
-- Screenshot 2: Public product surface from Wayfinder, Griffain, or another shortlisted project showing the research-to-execution flow
-- Caption: Public workflow surfaces used to judge whether the AI layer changes the DeFi experience or only rebrands it.
-- Alt text: Screenshot of a DeFAI product surface showing research, routing, or execution steps.
 
 ## First-hand experience package to add before publish
 
