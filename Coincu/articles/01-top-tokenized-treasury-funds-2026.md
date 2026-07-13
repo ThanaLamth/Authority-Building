@@ -16,7 +16,7 @@ That is why this guide compares structure, investor access, and onchain distribu
 
 > Why you can trust this guide
 >
-> This article is based on live product pages, current documentation, and public market references reviewed on July 10, 2026. Where a claim still depends on a logged-in workflow, live subscription terms, or a full end-to-end redemption test, we say so instead of pretending we verified more than we did.
+> This guide is based on live public product surfaces and official references reviewed on July 10, 2026. We directly checked public positioning, visible access framing, structural disclosures, and chain or distribution references where available. Anything that depends on a logged-in workflow, live subscription terms, or a full end-to-end redemption test still needs final verification before publication.
 
 ## The tokenized treasury funds most worth comparing in 2026 are BUIDL, OUSG, Franklin Benji, USTB, STBT, and OpenEden TBILL
 
@@ -41,47 +41,138 @@ This is a comparison page, not a promise page. Access limits, eligibility rules,
 
 To build this list, we reviewed the live product pages, issuer documentation, and public market directories for all six funds on July 10, 2026. From that public surface, we could verify how each product describes access, legal structure, chain availability, and distribution posture.
 
-That direct review does not replace a live subscription, onboarding approval, or redemption workflow. What stood out immediately was not the yield framing. It was how differently these products present themselves: some are clearly built for institutional wrappers first, while others are trying to become usable onchain building blocks. Screenshots of onboarding pages, supported-chain panels, and disclosure sections would make that difference even clearer to readers.
+That direct review does not replace a live subscription, onboarding approval, or redemption workflow. But it does show something important very quickly: where each fund puts friction, who it is built for, and what kind of user it expects. What stood out immediately was not the yield framing. It was how differently these products present themselves: some are clearly built for institutional wrappers first, while others are trying to become usable onchain building blocks.
+
+The screenshots below show why this matters. That visual difference is not cosmetic. It signals whether a product expects a fund-style investor, a crypto-native allocator, or a platform user looking for programmable collateral.
+
+**Featured Image**
+File: `../media/tokenized-treasury-funds-featured.png`
+Alt text: `Comparison of tokenized Treasury fund product surfaces and issuer types in 2026`
+Caption: `Tokenized Treasury fund product surfaces reviewed during our July 2026 comparison.`
+
+![Comparison of tokenized Treasury fund product surfaces and issuer types in 2026](../media/tokenized-treasury-funds-featured.png)
+
+*Tokenized Treasury fund product surfaces reviewed during our July 2026 comparison.*
+
+**Screenshot 1**
+File: `../media/securitize-buidl-product-page.png`
+Alt text: `BlackRock BUIDL via Securitize product page showing institutional framing and fund access`
+Caption: `BlackRock BUIDL via Securitize product page captured during our July 2026 review of tokenized Treasury funds.`
+
+![BlackRock BUIDL via Securitize product page showing institutional framing and fund access](../media/securitize-buidl-product-page.png)
+
+*BlackRock BUIDL via Securitize product page captured during our July 2026 review of tokenized Treasury funds.*
+
+**Screenshot 2**
+File: `../media/ondo-ousg-product-page.png`
+Alt text: `Ondo OUSG product page showing tokenized Treasury access and crypto-native distribution framing`
+Caption: `Ondo OUSG product page reviewed as part of our comparison of tokenized Treasury products in 2026.`
+
+![Ondo OUSG product page showing tokenized Treasury access and crypto-native distribution framing](../media/ondo-ousg-product-page.png)
+
+*Ondo OUSG product page reviewed as part of our comparison of tokenized Treasury products in 2026.*
 
 ## The full list
 
 ### 1. BlackRock BUIDL via Securitize
 
-BUIDL sits at the top because it is the cleanest signal that major asset managers now treat tokenized short-duration products as real distribution channels rather than side experiments. Securitize describes BUIDL as the world’s largest and fastest-growing tokenized fund, which is exactly why it matters editorially: it is both a product and a market-structure signal.
+BUIDL is a strong choice for readers who want the clearest institutional reference point in tokenized Treasuries. From the public surface we reviewed, it immediately felt more like a regulated fund wrapper than a crypto-native yield product. That is a strength if you care most about issuer trust and category leadership, but it becomes a weakness if your priority is open composability or retail-style accessibility.
 
-The main caveat is access. BUIDL is not a retail-friendly DeFi product in the broad sense. It works better as a benchmark for how institutional tokenized funds are being packaged than as a universal product for every reader.
+Best for:
+- institutional benchmark comparison
+- readers tracking category leadership
+- understanding how major asset managers package tokenized funds
+
+Tradeoffs:
+- access is not broadly retail-friendly
+- the product feels more like fund infrastructure than DeFi tooling
+- composability matters less here than trust and structure
 
 ### 2. Ondo OUSG
 
-OUSG belongs near the top because Ondo has become one of the clearest names in the tokenized Treasury conversation. The official product page frames OUSG as the Ondo Short-Term US Treasuries Fund, and that makes it a natural comparison point for anyone mapping the onchain Treasury sector.
+OUSG is a strong choice for readers who want to understand the bridge between tokenized Treasuries and crypto-native distribution. From the public flow we reviewed, it immediately felt more like an onchain access layer for Treasuries than a traditional fund page translated onto blockchain rails. That is a strength if you want the RWA story to connect naturally into DeFi, but it becomes a weakness if you want the cleanest possible separation between product structure and broader brand narrative.
 
-OUSG also matters because the Ondo stack has helped connect tokenized Treasury exposure to a broader crypto-native audience. The caveat is that readers still need to separate the product itself from the market narrative around Ondo as a broader RWA brand.
+Best for:
+- readers mapping the crypto-native Treasury thesis
+- users comparing distribution models inside RWAs
+- understanding how tokenized Treasuries connect into broader onchain finance
+
+Tradeoffs:
+- the product story can blur into the larger Ondo brand narrative
+- readers still need to separate wrapper design from token narrative
+- access and usability still need verification at the workflow level
 
 That is one reason this page should internally reinforce [top RWA crypto projects in 2026](/research/defi/top-rwa-crypto-projects-2026), where Ondo makes more sense as part of a bigger tokenization stack rather than as a single Treasury wrapper.
 
 ### 3. Franklin Templeton Benji
 
-Franklin Templeton Benji matters because it represents the traditional-asset-manager path into tokenized fund distribution. The Franklin OnChain US Government Money Fund has been one of the most cited examples of how regulated fund structures can move onto blockchain rails without pretending to be something else.
+Franklin Templeton Benji is a strong choice for readers who want to compare how established asset managers moved regulated fund structures onto blockchain rails. From the public surface we reviewed, it immediately felt more like a legacy fund product extending into onchain distribution than a crypto-native product trying to reinvent the category. That is a strength if you care about continuity and legibility, but it becomes a weakness if your priority is fast composability across onchain venues.
 
-Its strength is credibility and continuity. Its limitation is that many crypto-native readers want seamless composability, while traditional fund wrappers still carry onboarding and access friction.
+Best for:
+- traditional-finance comparison
+- readers who value brand credibility over experimentation
+- understanding regulated fund migration onto blockchain rails
+
+Tradeoffs:
+- onboarding and access can still feel more traditional than crypto-native
+- composability is less central than institutional continuity
+- the user experience may feel slower for readers expecting DeFi-style flows
 
 ### 4. Superstate USTB
 
-USTB matters because Superstate has positioned itself directly inside the tokenized Treasury category rather than treating blockchain as a secondary marketing layer. The official page emphasizes short-duration US government securities exposure and qualified-investor access, which makes it useful as a clean structural comparison.
+USTB is a strong choice for readers who want a cleaner structural comparison inside the tokenized Treasury category. From the public surface we reviewed, it immediately felt more like a product designed around modern fund packaging than around a legacy brand translating old infrastructure online. That is a strength if you want category clarity, but it becomes a weakness if your main decision depends on proven distribution scale.
 
-The risk is category crowding. As more Treasury products look institutionally credible, the winning edge may come down less to concept and more to distribution, integrations, and liquidity.
+Best for:
+- structural comparison across newer Treasury wrappers
+- readers focused on fund design rather than only brand size
+- understanding how newer issuers position short-duration exposure
+
+Tradeoffs:
+- category crowding is rising fast
+- distribution scale matters as much as concept
+- integrations and liquidity still decide long-term usefulness
 
 ### 5. Matrixdock STBT
 
-STBT is useful because it gives the list a product that shows tokenized Treasury exposure developing outside the same US asset-manager and DeFi-native brand cluster. Matrixdock has kept STBT in the conversation as a blockchain-based short-term Treasury product, and that matters for readers comparing global distribution paths.
+STBT is a strong choice for readers who want the list to include a Treasury product outside the main US asset-manager and DeFi-native brand cluster. From the public surface we reviewed, it immediately felt more like a globally distributed blockchain Treasury product than a default institutional benchmark. That is a strength if you want to compare regional distribution paths, but it becomes a weakness if your priority is instant familiarity and default trust.
 
-Its main caveat is familiarity. For many readers, STBT is less instantly legible than BlackRock, Franklin, or Ondo-branded products, so trust and due diligence standards need to be higher.
+Best for:
+- comparing non-US distribution paths
+- readers tracking tokenized Treasury expansion beyond the biggest names
+- understanding alternative issuance clusters in the category
+
+Tradeoffs:
+- the brand is less instantly legible to mainstream readers
+- due diligence standards need to be higher
+- trust may depend more on documentation than on brand recognition
 
 ### 6. OpenEden TBILL
 
-OpenEden TBILL belongs here because it helps show that tokenized Treasury infrastructure is no longer only a race between giant incumbents and one or two DeFi-native names. It is part of the broader effort to make short-duration government securities work as programmable collateral and yield-bearing onchain instruments.
+OpenEden TBILL is a strong choice for readers who want to see how blockchain-native Treasury infrastructure competes outside the largest incumbents. From the public surface we reviewed, it immediately felt more like a product built around onchain collateral utility than around asset-manager brand gravity. That is a strength if you care about programmable use cases, but it becomes a weakness if you want the most familiar wrapper in the category.
 
-The caveat is that the sector is moving fast. Readers should verify current access, supported chains, and redemption structure at publish time.
+Best for:
+- readers focused on programmable collateral and onchain utility
+- comparing blockchain-native Treasury infrastructure
+- understanding how the category expands beyond the most famous issuers
+
+Tradeoffs:
+- the sector is moving quickly and details can change
+- access and supported chains still need final verification
+- the wrapper may feel less familiar than the biggest institutional names
+
+## How to choose between these tokenized Treasury funds
+
+Choose BUIDL if your priority is the clearest institutional benchmark and the strongest asset-manager trust signal.
+
+Choose OUSG if your priority is crypto-native distribution and a more obvious bridge between Treasury exposure and onchain finance.
+
+Choose Franklin Benji if your priority is regulated fund continuity from a traditional asset-management brand.
+
+Choose USTB if your priority is comparing newer product structures rather than defaulting to the biggest issuer.
+
+Choose STBT if your priority is understanding how tokenized Treasury distribution looks outside the most familiar US-centered brand cluster.
+
+Choose OpenEden TBILL if your priority is programmable collateral utility and a more blockchain-native Treasury posture.
 
 ## Key data and structural signals to track through H2 2026
 
