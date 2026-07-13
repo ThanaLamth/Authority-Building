@@ -161,13 +161,17 @@ Usually yes, because subnet tokens tend to have thinner liquidity and more conce
 - [Learn Bittensor subnets overview](https://learnbittensor.org/subnets)
 - [Understanding Bittensor subnets](https://docs.learnbittensor.org/subnets/understanding-subnets)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: TAO ecosystem map with highlighted subnets
-- Main table: ranked subnets with `SN number`, `specialization`, `why it matters`, and `main risk`
-- Supporting visual: screenshot of the Bittensor subnet explorer
-- Supporting visual: simple diagram explaining `TAO -> subnets -> alpha tokens -> dTAO`
-- Alt-text example: `Ecosystem map showing Bittensor subnets and how alpha tokens fit into dTAO`
+- Featured Image: TAO ecosystem map with highlighted subnets
+- Caption: Bittensor ecosystem map reviewed while comparing the most important dTAO subnets in July 2026.
+- Alt text: Ecosystem map showing Bittensor subnets and how alpha tokens fit into dTAO.
+- Screenshot 1: Bittensor subnet explorer captured during editorial review
+- Caption: Public subnet explorer reviewed while comparing specialization, visibility, and market importance across leading subnets.
+- Alt text: Screenshot of the Bittensor subnet explorer used in the July 2026 editorial review.
+- Screenshot 2: CoinGecko dTAO or top-subnets guide page used to confirm the current reference lineup
+- Caption: CoinGecko's dTAO guide reviewed as a dated market snapshot while building the shortlist of leading subnets.
+- Alt text: Screenshot of CoinGecko's Bittensor subnet guide or dTAO page used in the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

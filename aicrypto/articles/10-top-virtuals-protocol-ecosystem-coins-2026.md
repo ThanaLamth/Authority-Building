@@ -160,12 +160,17 @@ Because ecosystem coins often move together, depend on one narrative center, and
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: ecosystem map centered on Virtuals Protocol and surrounding agent assets
-- Main table: the 10 ranked coins with `ecosystem role`, `agent relevance`, `category position`, and `main risk`
-- Supporting visual: screenshot from the CoinGecko Virtuals category page
-- Alt-text example: `Category map showing the leading tokens in the Virtuals Protocol ecosystem`
+- Featured Image: ecosystem map centered on Virtuals Protocol and surrounding agent assets
+- Caption: Virtuals ecosystem map reviewed while separating base-layer exposure from ecosystem-correlation trades in July 2026.
+- Alt text: Category map showing the leading tokens in the Virtuals Protocol ecosystem.
+- Screenshot 1: CoinGecko Virtuals Protocol Ecosystem category page captured during editorial review
+- Caption: CoinGecko Virtuals ecosystem category reviewed while narrowing the current top ecosystem roster.
+- Alt text: Screenshot of CoinGecko's Virtuals Protocol Ecosystem token category page.
+- Screenshot 2: Virtuals whitepaper diagram or public ecosystem map showing base-layer and agent-linked roles
+- Caption: Public ecosystem surfaces used to compare which assets anchor the Virtuals stack and which mainly follow its attention cycle.
+- Alt text: Screenshot of a Virtuals ecosystem map or whitepaper diagram reviewed for the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

@@ -162,12 +162,17 @@ Because AI workflows still depend on storage and data availability. It is an adj
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: infrastructure map showing compute, data, verification, and agent-payment rails
-- Comparison table: ranked projects with columns for `stack layer`, `primary function`, `token role`, and `main risk`
-- Supporting visual: compute-focused stack diagram with arrows from GPU supply to AI agents
-- Alt-text example: `Diagram of AI crypto infrastructure showing compute, data, verification, and settlement layers`
+- Featured Image: infrastructure map showing compute, data, verification, and agent-payment rails
+- Caption: AI infrastructure map reviewed while comparing compute, data, and coordination projects in July 2026.
+- Alt text: Diagram of AI crypto infrastructure showing compute, data, verification, and settlement layers.
+- Screenshot 1: CoinGecko Artificial Intelligence category page captured during editorial review
+- Caption: CoinGecko AI category used as the first pass for narrowing the infrastructure shortlist.
+- Alt text: Screenshot of CoinGecko's Artificial Intelligence token category page used during the July 2026 infrastructure review.
+- Screenshot 2: Bittensor explorer, Chainlink docs, or another public infrastructure surface used to compare stack roles
+- Caption: Public product and documentation surfaces used to separate compute rails, data rails, and coordination rails.
+- Alt text: Screenshot from a public AI-crypto infrastructure product or documentation page reviewed for stack-role comparison.
 
 ## First-hand experience package to add before publish
 

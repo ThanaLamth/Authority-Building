@@ -156,12 +156,17 @@ Because DeFi still has a complexity problem, and AI is being tested as a way to 
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: DeFi dashboard plus AI workflow overlay
-- Comparison table: the 10 projects with columns for `main DeFi task`, `agent role`, `execution depth`, and `main risk`
-- Supporting visual: step-by-step chart showing `research -> route -> execute -> monitor`
-- Alt-text example: `Workflow chart showing how DeFAI tools simplify DeFi research, routing, execution, and monitoring`
+- Featured Image: DeFi dashboard plus AI workflow overlay
+- Caption: DeFAI workflow map reviewed while comparing which products actually reduce DeFi friction in July 2026.
+- Alt text: Workflow chart showing how DeFAI tools simplify DeFi research, routing, execution, and monitoring.
+- Screenshot 1: CoinGecko DeFAI category page captured during editorial review
+- Caption: CoinGecko DeFAI category reviewed while narrowing the shortlist of AI-assisted DeFi projects.
+- Alt text: Screenshot of CoinGecko's DeFAI token category page.
+- Screenshot 2: Public product surface from Wayfinder, Griffain, or another shortlisted project showing the research-to-execution flow
+- Caption: Public workflow surfaces used to judge whether the AI layer changes the DeFi experience or only rebrands it.
+- Alt text: Screenshot of a DeFAI product surface showing research, routing, or execution steps.
 
 ## First-hand experience package to add before publish
 

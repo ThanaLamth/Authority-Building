@@ -165,12 +165,17 @@ Crypto gives agents open wallets, programmable payments, composable apps, and ma
 - [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: wallet UI plus autonomous task flow
-- Comparison table: the 10 ranked names with `onchain action type`, `wallet relevance`, `ecosystem`, and `main risk`
-- Supporting visual: diagram showing `instruction -> agent -> wallet -> onchain settlement`
-- Alt-text example: `Diagram showing how an onchain AI agent receives instructions and triggers blockchain actions`
+- Featured Image: wallet UI plus autonomous task flow
+- Caption: Onchain agent workflow map reviewed while comparing which projects are closest to real wallet-linked action in July 2026.
+- Alt text: Diagram showing how an onchain AI agent receives instructions and triggers blockchain actions.
+- Screenshot 1: CoinGecko AI Agents category page captured during editorial review
+- Caption: CoinGecko AI Agents category reviewed as the starting point for the onchain-agent shortlist.
+- Alt text: Screenshot of CoinGecko's AI Agents category page used in the July 2026 onchain-agent review.
+- Screenshot 2: Public agent dashboard, Virtuals ecosystem page, or Autonolas documentation showing wallet and execution framing
+- Caption: Public workflow and documentation surfaces used to compare direct onchain action with broader ecosystem exposure.
+- Alt text: Screenshot of a public onchain-agent dashboard or documentation page reviewed for the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 

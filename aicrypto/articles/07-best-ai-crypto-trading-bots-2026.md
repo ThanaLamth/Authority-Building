@@ -167,13 +167,17 @@ Only with small size, clear limits, and a strong understanding of the strategy t
 - [Coinrule platform](https://coinrule.com/b/)
 - [WunderTrading docs](https://wundertrading.com/docs)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: multi-exchange trading dashboard with bot automation panels
-- Comparison table: the 10 bots with `best for`, `exchange support`, `AI/automation depth`, `risk controls`, and `pricing tier`
-- Supporting visual: screenshot of a bot setup flow from one official platform
-- Supporting visual: risk checklist graphic for new bot users
-- Alt-text example: `Dashboard showing a crypto bot platform with strategy settings and exchange connections`
+- Featured Image: multi-exchange trading dashboard with bot automation panels
+- Caption: Trading-bot workflow collage reviewed while comparing automation depth, exchange coverage, and control in July 2026.
+- Alt text: Dashboard showing a crypto bot platform with strategy settings and exchange connections.
+- Screenshot 1: 3Commas, Cryptohopper, or another public bot setup page captured during editorial review
+- Caption: Public setup surfaces reviewed to compare how quickly each platform moves a trader from idea to activation.
+- Alt text: Screenshot of a crypto trading bot setup page showing strategy options and exchange connections.
+- Screenshot 2: Public documentation or pricing page showing risk controls, exchange support, or signal import logic
+- Caption: Public documentation used to compare guardrails, exchange coverage, and strategy depth across bot platforms.
+- Alt text: Screenshot from a bot platform documentation or pricing page reviewed for exchange support and risk-control details.
 
 ## First-hand experience package to add before publish
 

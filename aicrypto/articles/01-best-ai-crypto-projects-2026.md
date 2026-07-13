@@ -207,13 +207,17 @@ Because AI agents still need trusted data, automation, and cross-chain execution
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: AI x Crypto market map split into `agents`, `infrastructure`, `data`, and `economy`
-- Comparison table: the 10 ranked projects with columns for `core use case`, `token role`, `ecosystem strength`, and `main risk`
-- Supporting visual: screenshot or cropped chart from the CoinGecko AI category page
-- Supporting visual: simplified diagram showing how data rails, compute rails, and agent economies connect
-- Alt-text example: `Diagram showing the 2026 AI crypto stack split into infrastructure, data, agent, and economy layers`
+- Featured Image: AI x Crypto market map split into `agents`, `infrastructure`, `data`, and `economy`
+- Caption: AI x Crypto stack map reviewed while ranking the strongest category leaders in July 2026.
+- Alt text: Diagram showing the 2026 AI crypto stack split into infrastructure, data, agent, and economy layers.
+- Screenshot 1: CoinGecko Artificial Intelligence category page captured during editorial review
+- Caption: CoinGecko AI category reviewed while comparing broad AI x Crypto market leaders in July 2026.
+- Alt text: Screenshot of CoinGecko's Artificial Intelligence token category page.
+- Screenshot 2: Bittensor subnet explorer or Virtuals ecosystem map used to separate infrastructure and agent-economy narratives
+- Caption: Public ecosystem surfaces used to distinguish infrastructure-heavy AI projects from agent-economy-heavy projects.
+- Alt text: Screenshot showing a Bittensor subnet page or Virtuals ecosystem view used in the July 2026 editorial review.
 
 ## First-hand experience package to add before publish
 

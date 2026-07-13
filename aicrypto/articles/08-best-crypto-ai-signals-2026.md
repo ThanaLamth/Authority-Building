@@ -164,12 +164,17 @@ Only if they understand the source conditions, time horizon, and risk controls t
 - [Glassnode custom alerts](https://studio.glassnode.com/alerts)
 - [Nansen AI Smart Alerts](https://academy.nansen.ai/help/articles/6239622-ai-smart-alerts-101)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: alert dashboard showing onchain, technical, and AI-driven signals
-- Comparison table: the 10 tools with `signal type`, `best for`, `alert delivery`, and `main limitation`
-- Supporting visual: screenshot collage of alert interfaces from official platforms
-- Alt-text example: `Alert dashboard displaying crypto signals from onchain, technical, and AI-based inputs`
+- Featured Image: alert dashboard showing onchain, technical, and AI-driven signals
+- Caption: Crypto signal workflow map reviewed while comparing alert context, delivery, and trader usability in July 2026.
+- Alt text: Alert dashboard displaying crypto signals from onchain, technical, and AI-based inputs.
+- Screenshot 1: altFINS, CryptoQuant, or another public alert interface captured during editorial review
+- Caption: Public alert surfaces reviewed to compare how clearly each product explains what triggered a signal.
+- Alt text: Screenshot of a crypto alert interface showing signal conditions or screening tools.
+- Screenshot 2: Glassnode, Nansen, or another public documentation page showing alert creation or delivery logic
+- Caption: Public alert documentation used to compare data depth, delivery methods, and workflow clarity.
+- Alt text: Screenshot from a crypto signal tool documentation page showing alert setup or delivery options.
 
 ## First-hand experience package to add before publish
 

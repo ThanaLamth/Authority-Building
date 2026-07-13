@@ -157,12 +157,17 @@ Because decentralized AI is increasingly about agent economies and machine-to-ma
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
 
-## Suggested media package
+## Media insertion labels for publishing
 
-- Hero image: decentralized AI concept graphic with compute, models, data, and agents
-- Comparison table: ranked projects with columns for `decentralized layer`, `token role`, and `centralization risk`
-- Supporting visual: two-column chart `general AI coin` vs `decentralized AI project`
-- Alt-text example: `Comparison chart showing the difference between generic AI coins and decentralized AI projects`
+- Featured Image: decentralized AI concept graphic with compute, models, data, and agents
+- Caption: Decentralized AI stack map reviewed while separating true open-market structures from softer decentralization claims in July 2026.
+- Alt text: Comparison chart showing the difference between generic AI coins and decentralized AI projects.
+- Screenshot 1: Bittensor subnet explorer captured during editorial review
+- Caption: Bittensor ecosystem surface reviewed as the clearest reference point for decentralized AI market structure.
+- Alt text: Screenshot of the Bittensor subnet explorer used in the July 2026 decentralized AI review.
+- Screenshot 2: Public protocol docs from Akash, Aethir, or another compute-network project used to test decentralization claims
+- Caption: Public documentation used to compare which projects decentralize real supply, coordination, or data layers.
+- Alt text: Screenshot from a decentralized AI protocol documentation page reviewed for the July 2026 ranking.
 
 ## First-hand experience package to add before publish
 
