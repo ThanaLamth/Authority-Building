@@ -27,6 +27,7 @@ That makes tracking different from analytics. Analytics helps you understand a m
 > Reviewed by NFTEnex Editorial Team
 > Last reviewed: 2026-07-13
 > Review type: No-budget editorial comparison
+> Editorial policy: [NFTEnex Editorial Policy](/editorial-policy)
 
 > Why you can trust this guide
 >

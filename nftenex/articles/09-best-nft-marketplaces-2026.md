@@ -27,6 +27,7 @@ That is why the right marketplace depends on what you want to own, sell, or buil
 > Reviewed by NFTEnex Editorial Team
 > Last reviewed: 2026-07-13
 > Review type: No-budget editorial comparison
+> Editorial policy: [NFTEnex Editorial Policy](/editorial-policy)
 
 > Why you can trust this guide
 >
