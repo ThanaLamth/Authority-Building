@@ -149,11 +149,10 @@ It can be, but only if the user is in a region where the product is available an
 - [Bybit](https://www.bybit.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 
-## Suggested media
+## Captured media
 
-- `Comparison table graphic`: fees, KYC, region fit, and beginner UX by exchange
-- `Screenshot block`: buy screen or app homepage from Coinbase, Kraken, and Gemini
-- `Custom visual`: first-buy workflow from deposit -> buy -> withdraw -> self-custody
+- `../media/10-kraken-home-2026-07-13.png` Caption: `Kraken homepage captured during our July 2026 review of beginner crypto exchanges.`
+- Optional secondary visual: a first-buy workflow from deposit -> buy -> withdraw -> self-custody.
 
 ## Source set checked on 2026-07-10
 

@@ -155,11 +155,10 @@ Usually when the amount stored becomes meaningful enough that phone-only storage
 - [Ledger](https://www.ledger.com/)
 - [Trezor](https://trezor.io/)
 
-## Suggested media
+## Captured media
 
-- `Comparison graphic`: mobile wallet vs browser wallet vs hardware wallet
-- `Screenshot block`: Coinbase Wallet, Phantom, and Rabby onboarding or home screens
-- `Custom visual`: backup, recovery, and phishing checklist for beginners
+- `../media/09-phantom-home-2026-07-13.png` Caption: `Phantom homepage captured during our July 2026 review of beginner crypto wallets.`
+- Optional secondary visual: a backup, recovery, and phishing checklist for beginners.
 
 ## Source set checked on 2026-07-10
 

@@ -152,11 +152,10 @@ They are often easier to explain from a business point of view, but they still c
 - [Plume](https://plume.org/)
 - [Polymesh](https://polymesh.network/)
 
-## Suggested media
+## Captured media
 
-- `Hero chart`: RWA category snapshot from [CoinGecko RWA Category](https://www.coingecko.com/en/categories/real-world-assets-rwa)
-- `Explainer graphic`: tokenized treasuries vs private credit vs infrastructure stack
-- `Screenshot block`: protocol homepage screenshots for Ondo, Centrifuge, and Plume
+- `../media/03-chainlink-home-2026-07-13.png` Caption: `Chainlink homepage captured during our July 2026 review of RWA crypto infrastructure projects.`
+- Optional secondary visual: an explainer graphic showing tokenized treasuries vs private credit vs infrastructure rails.
 
 ## Source set checked on 2026-07-10
 

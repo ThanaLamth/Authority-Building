@@ -152,11 +152,10 @@ No. You still face market risk, validator risk, smart-contract risk in some setu
 - [Celestia](https://celestia.org/)
 - [Injective](https://injective.com/)
 
-## Suggested media
+## Captured media
 
-- `Comparison table graphic`: APY range, unstaking time, and validator risk by network
-- `Custom explainer`: delegated staking vs native staking vs liquid staking
-- `Screenshot block`: official staking explainer pages for Ethereum and Solana
+- `../media/05-ethereum-staking-2026-07-13.png` Caption: `Ethereum staking page captured during our July 2026 review of beginner staking options.`
+- Optional secondary visual: a delegated staking vs native staking vs liquid staking explainer.
 
 ## Source set checked on 2026-07-10
 

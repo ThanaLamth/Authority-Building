@@ -156,11 +156,10 @@ Because crypto still rewards liquidity, culture, and simple narratives. Meme coi
 - [Floki](https://floki.com/)
 - [CoinMarketCap Meme Coins](https://coinmarketcap.com/view/memes/)
 
-## Suggested media
+## Captured media
 
-- `Hero chart`: meme-token category snapshot from [CoinGecko Meme Token Category](https://www.coingecko.com/en/categories/meme-token)
-- `Custom visual`: timeline showing DOGE -> SHIB -> PEPE -> Solana/Base meme rotations
-- `Risk graphic`: 5 red flags beginners should check before buying a meme coin
+- `../media/08-coinmarketcap-memes-2026-07-13.png` Caption: `CoinMarketCap meme-token category page captured during our July 2026 review of top meme coins.`
+- Optional secondary visual: a timeline showing DOGE -> SHIB -> PEPE -> Solana/Base meme rotations.
 
 ## Source set checked on 2026-07-10
 

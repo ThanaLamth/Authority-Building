@@ -247,11 +247,10 @@ Only if you understand where the yield comes from. Higher yield almost always me
 - [Aave GHO](https://aave.com/gho)
 - [Ethena](https://www.ethena.fi/)
 
-## Suggested media
+## Captured media
 
-- `Hero chart`: stablecoin category overview from [CoinGecko Stablecoins Category](https://www.coingecko.com/en/categories/stablecoins)
-- `Screenshot block`: product or reserve explainer screenshots from [USDC by Circle](https://www.circle.com/usdc) and [Tether USDT](https://tether.to/en/tether-usdt/)
-- `Custom graphic`: simple 3-column explainer showing fiat-backed vs crypto-backed vs synthetic stablecoins
+- `../media/01-circle-usdc-2026-07-13.png` Caption: `Circle USDC page captured during our July 2026 review of beginner-friendly stablecoins.`
+- Optional secondary visual: a simple 3-column explainer showing fiat-backed vs crypto-backed vs synthetic stablecoins.
 
 ## Source set checked on 2026-07-10
 

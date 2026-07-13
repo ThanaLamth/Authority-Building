@@ -24,6 +24,12 @@ Date: 2026-07-10
 | 9 | `Coinlineup/articles/09-best-crypto-wallets-for-beginners-2026.md` | Best crypto wallets | drafted, sourced, needs CMS polish, publish candidate | Core wallet pillar page |
 | 10 | `Coinlineup/articles/10-best-crypto-exchanges-for-beginners-2026.md` | Best exchanges | drafted, sourced, needs CMS polish, publish candidate | Strong search-demand page |
 
+## Media pack
+
+- `Coinlineup/media/`
+- 10 public-page screenshots captured on `2026-07-13`
+- each article now references one concrete image filename and editorial caption
+
 ## Recommended First Publish Order
 
 1. `01-best-stablecoins-2026.md`

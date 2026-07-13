@@ -156,11 +156,10 @@ No. Some AI-related projects overlap with DePIN through compute or data, but the
 - [io.net](https://io.net/)
 - [Aethir](https://aethir.com/)
 
-## Suggested media
+## Captured media
 
-- `Hero chart`: DePIN category snapshot from [CoinGecko DePIN Category](https://www.coingecko.com/en/categories/depin)
-- `Custom visual`: storage vs wireless vs compute vs mapping landscape diagram
-- `Screenshot block`: Filecoin, Helium, and Render homepages or product pages
+- `../media/04-helium-home-2026-07-13.png` Caption: `Helium homepage captured during our July 2026 review of DePIN crypto projects.`
+- Optional secondary visual: a storage vs wireless vs compute vs mapping landscape diagram.
 
 ## Source set checked on 2026-07-10
 

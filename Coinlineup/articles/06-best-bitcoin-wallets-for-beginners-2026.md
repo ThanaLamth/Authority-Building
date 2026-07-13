@@ -141,11 +141,10 @@ No. A wallet gives you direct control of keys or wallet access. An exchange acco
 - [Ledger](https://www.ledger.com/)
 - [Sparrow Wallet](https://sparrowwallet.com/)
 
-## Suggested media
+## Captured media
 
-- `Comparison image`: hot wallet vs hardware wallet side-by-side
-- `Screenshot block`: setup screens from BlueWallet, Blockstream Green, and Phoenix
-- `Custom graphic`: onchain vs Lightning wallet decision tree
+- `../media/06-bluewallet-home-2026-07-13.png` Caption: `BlueWallet homepage captured during our July 2026 review of beginner Bitcoin wallets.`
+- Optional secondary visual: an onchain vs Lightning wallet decision tree.
 
 ## Source set checked on 2026-07-10
 

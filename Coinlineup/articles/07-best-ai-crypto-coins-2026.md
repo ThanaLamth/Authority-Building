@@ -150,11 +150,10 @@ Start with utility. Ask whether the project provides compute, data, coordination
 - [Aethir](https://aethir.com/)
 - [Fetch.ai](https://fetch.ai/)
 
-## Suggested media
+## Captured media
 
-- `Hero chart`: AI category overview from [CoinGecko AI Category](https://www.coingecko.com/en/categories/artificial-intelligence)
-- `Custom visual`: compute vs data vs orchestration map for AI crypto
-- `Screenshot block`: Bittensor, Render, and io.net homepages or network explainers
+- `../media/07-akash-home-2026-07-13.png` Caption: `Akash Network homepage captured during our July 2026 review of AI crypto infrastructure projects.`
+- Optional secondary visual: a compute vs data vs orchestration map for AI crypto.
 
 ## Source set checked on 2026-07-10
 

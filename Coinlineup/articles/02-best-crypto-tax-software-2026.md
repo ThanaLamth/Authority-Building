@@ -232,11 +232,10 @@ Not by default. A cheap plan is not really cheaper if it cannot correctly handle
 - [ZenLedger](https://zenledger.io/)
 - [TurboTax Crypto Taxes](https://turbotax.intuit.com/personal-taxes/online/crypto-taxes/)
 
-## Suggested media
+## Captured media
 
-- `Hero image`: dashboard collage from 3 leading tools, cropped consistently
-- `Comparison graphic`: price-plan and use-case table for beginner, trader, and DeFi user paths
-- `Workflow graphic`: import -> reconcile -> review -> file timeline
+- `../media/02-koinly-home-2026-07-13.png` Caption: `Koinly homepage captured during our July 2026 review of crypto tax software tools.`
+- Optional secondary visual: a workflow graphic showing import -> reconcile -> review -> file.
 
 ## Source set checked on 2026-07-10
 

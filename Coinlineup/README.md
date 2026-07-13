@@ -6,6 +6,8 @@ This folder contains the first Coinlineup beginner-explainer list batch prepared
 
 - `articles/`
   - 10 draft list/explainer articles for the new evergreen guides and projects clusters
+- `media/`
+  - captured public-page evidence images used to support the article batch
 - `coinlineup-content-tracker-2026-07-10.md`
   - status tracker for the batch
 
@@ -20,4 +22,5 @@ This folder contains the first Coinlineup beginner-explainer list batch prepared
 ## Notes
 
 - These drafts are written to be publish-ready in structure, but live prices, market caps, and exchange availability should still be checked again on the day of publication.
+- Public-page screenshots captured on `2026-07-13` are stored in `media/` and referenced inside the article drafts.
 - Internal links are listed as target URLs so the CMS team can map them once the supporting pages exist.
