@@ -39,9 +39,26 @@ This page is a comparison watchlist, not a guarantee list.
 
 ## What we checked ourselves before ranking these projects
 
-We reviewed the live project pages, docs, ecosystem materials, and public demos available for all seven names on July 10, 2026. From that direct review, we could verify which projects are really presenting agent products, which are better understood as infrastructure, and which still lean heavily on category narrative.
+To build this list, we reviewed the live project pages, docs, ecosystem materials, and public demos available for all seven names on July 10, 2026. From that direct review, we could verify which projects are really presenting agent products, which are better understood as infrastructure, and which still lean heavily on category narrative.
 
-That public review does not replace a full deployment test or a hard adoption audit. What stood out immediately was not who used the most AI language. It was whether the product role became clearer after ten minutes on the live surface or stayed vague. Screenshots of launch pages, docs, and ecosystem maps would make that evidence stronger.
+That public review does not replace a full deployment test or a hard adoption audit. What stood out immediately was not who used the most AI language. It was whether the product role became clearer after ten minutes on the live surface or stayed vague. Some names are strong because they are easy to place in the stack, while others still require the reader to do too much interpretive work. That makes launch pages, docs, and ecosystem maps the clearest screenshots to include.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: AI crypto stack collage showing agent, compute, and data project pages
+- Caption: AI agent crypto project surfaces reviewed during our July 2026 comparison of the category.
+- Alt text: Comparison of AI agent crypto projects across agent, compute, and data infrastructure layers.
+
+Screenshot 1
+- Suggested visual: Virtuals, Fetch.ai, or Spectral launch or product page
+- Caption: AI agent or agent-infrastructure product page captured during our July 2026 review.
+- Alt text: AI crypto product page showing how a project positions itself in the agent economy.
+
+Screenshot 2
+- Suggested visual: Bittensor, OriginTrail, AIOZ, or Akash ecosystem or docs page
+- Caption: AI infrastructure documentation or ecosystem page reviewed as part of our 2026 comparison workflow.
+- Alt text: AI infrastructure page showing compute, knowledge, or network functions in a crypto project.
 
 ## The full list
 

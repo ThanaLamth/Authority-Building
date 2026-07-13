@@ -39,9 +39,26 @@ This is a research ranking, not a price prediction page.
 
 ## What we checked ourselves before ranking these networks
 
-We reviewed L2BEAT category data, official network pages, ecosystem hubs, and current positioning language for all eight networks on July 10, 2026. Based on what we could verify directly, the biggest difference was not only scale. It was product identity and how clearly each chain signals its role in the Ethereum stack.
+To build this list, we reviewed L2BEAT category data, official network pages, ecosystem hubs, and current positioning language for all eight networks on July 10, 2026. Based on what we could verify directly, the biggest difference was not only scale. It was product identity and how clearly each chain signals its role in the Ethereum stack.
 
-That public review does not replace a live bridge or app-level test on every network. What stood out immediately was which chains already feel like default homes for a user segment and which still rely more on generic scaling language. Screenshots of chain homepages, ecosystem pages, and TVS rankings would make that evidence more concrete.
+That public review does not replace a live bridge or app-level test on every network. What stood out immediately was which chains already feel like default homes for a user segment and which still rely more on generic scaling language. Some are strong because of distribution, while others are strong because of ecosystem identity or technical posture. That makes chain homepages, ecosystem pages, and TVS rankings the most useful images to include.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: Layer 2 comparison image combining L2BEAT ranking data with major network homepages
+- Caption: Ethereum Layer 2 networks reviewed through public scaling data and official chain pages in July 2026.
+- Alt text: Comparison of major Ethereum Layer 2 networks using public scaling data and official chain positioning.
+
+Screenshot 1
+- Suggested visual: L2BEAT ranking or total value secured page
+- Caption: Public Layer 2 ranking data reviewed as part of our July 2026 network comparison workflow.
+- Alt text: Public Layer 2 ranking page showing total value secured across leading networks.
+
+Screenshot 2
+- Suggested visual: Arbitrum, Base, or OP Mainnet ecosystem page
+- Caption: Official Layer 2 ecosystem page captured during our review of network identity and user fit.
+- Alt text: Layer 2 ecosystem page showing how a major network presents apps and user categories.
 
 ## The full list
 

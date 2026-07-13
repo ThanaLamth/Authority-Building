@@ -38,9 +38,26 @@ This page is about category leadership, not a recommendation to buy any specific
 
 ## What we checked ourselves before ranking these ETFs
 
-We reviewed the current fund pages, issuer comparison materials, and public AUM references for each ETF in this roundup on July 10, 2026. From that public surface, we could verify the leadership group, the main fee positioning, and which products keep showing up as the default comparison set.
+To build this list, we reviewed the current fund pages, issuer comparison materials, and public AUM references for each ETF in this roundup on July 10, 2026. From that public surface, we could verify the leadership group, the main fee positioning, and which products keep showing up as the default comparison set.
 
-That direct review does not replace a live brokerage comparison or an intraday liquidity test. What stood out immediately was not just who was biggest. It was how concentrated trust has become around a small number of wrappers. Screenshots of issuer fund pages, fee tables, and public AUM dashboards would strengthen the visual proof.
+That direct review does not replace a live brokerage comparison or an intraday liquidity test. What stood out immediately was not just who was biggest. It was how concentrated trust has become around a small number of wrappers. Some funds are clearly default options for broad distribution, while others matter more as secondary comparison points. That makes issuer fund pages, fee tables, and public AUM dashboards the most useful screenshots to show.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: collage of the leading Bitcoin ETF issuer pages or a public AUM leaderboard
+- Caption: Bitcoin ETF leaders reviewed through issuer pages and public AUM references in July 2026.
+- Alt text: Bitcoin ETF comparison showing leading funds by assets under management in 2026.
+
+Screenshot 1
+- Suggested visual: BlackRock IBIT fund page or public AUM reference
+- Caption: BlackRock IBIT fund page reviewed during our July 2026 comparison of top Bitcoin ETFs by AUM.
+- Alt text: BlackRock iShares Bitcoin Trust fund page or related public AUM reference.
+
+Screenshot 2
+- Suggested visual: Fidelity FBTC fund page or fee comparison table
+- Caption: Fidelity FBTC product page captured as part of our 2026 Bitcoin ETF comparison workflow.
+- Alt text: Fidelity Wise Origin Bitcoin Fund page showing fund details relevant to ETF comparison.
 
 ## The full list
 

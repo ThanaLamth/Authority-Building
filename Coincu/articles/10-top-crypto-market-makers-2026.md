@@ -38,9 +38,26 @@ This page is about market importance, not public popularity.
 
 ## What we checked ourselves before ranking these firms
 
-We reviewed the current firm websites, public service descriptions, research hubs, and market references for every company in this list on July 10, 2026. Based on what we could verify directly, the clearest comparison points were public positioning, service scope, and how often each firm appears in serious liquidity conversations.
+To build this list, we reviewed the current firm websites, public service descriptions, research hubs, and market references for every company in this list on July 10, 2026. Based on what we could verify directly, the clearest comparison points were public positioning, service scope, and how often each firm appears in serious liquidity conversations.
 
-That direct review does not replace access to private counterparty relationships or flow books. What stood out immediately was that some firms are easy to understand from their public surface, while others matter a lot more than they explain. Screenshots of service pages, market-making descriptions, and research hubs would give the page stronger visual proof.
+That direct review does not replace access to private counterparty relationships or flow books. What stood out immediately was that some firms are easy to understand from their public surface, while others matter a lot more than they explain. Some are strong because their role is legible in seconds, while others require more market context to appreciate. That makes service pages, market-making descriptions, and research hubs the most useful screenshots to show.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: collage of major crypto market maker homepages or service pages
+- Caption: Crypto market-making firms reviewed through official public materials in July 2026.
+- Alt text: Comparison of crypto market maker firms based on public service descriptions and market presence.
+
+Screenshot 1
+- Suggested visual: Wintermute, Cumberland, or GSR service page
+- Caption: Public liquidity or trading-services page captured during our July 2026 market-maker comparison.
+- Alt text: Crypto market maker service page showing institutional liquidity or trading support.
+
+Screenshot 2
+- Suggested visual: Keyrock, B2C2, DWF Labs, or Flow Traders research or markets page
+- Caption: Market-structure or research hub reviewed as part of our 2026 comparison of liquidity firms.
+- Alt text: Crypto liquidity firm page showing market-making, research, or trading-services positioning.
 
 ## The full list
 

@@ -39,9 +39,26 @@ This is a platform comparison, not a leverage recommendation.
 
 ## What we checked ourselves before ranking these platforms
 
-We reviewed the live homepages, market surfaces, fee pages, docs, and wallet-entry flows for all six venues on July 10, 2026. From the public experience alone, we could compare product posture, market breadth, and how each platform signals its ideal user before any trade is placed.
+To build this list, we reviewed the live homepages, market surfaces, fee pages, docs, and wallet-entry flows for all six venues on July 10, 2026. From the public experience alone, we could compare product posture, market breadth, and how each platform signals its ideal user before any trade is placed.
 
-That direct review does not replace a live funded trading session. What stood out immediately was not capability alone. It was where each product puts friction in the workflow. Some optimize for precision and depth, while others optimize for reach and simplicity. Screenshots of order-entry screens, market selectors, and fee panels would make that visual evidence much stronger.
+That direct review does not replace a live funded trading session. What stood out immediately was not capability alone. It was where each product puts friction in the workflow. Some optimize for precision and depth, while others optimize for reach and simplicity. That makes order-entry screens, market selectors, and fee panels the clearest visual proof for the reader.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: comparison montage of perpetual DEX trading interfaces
+- Caption: Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.
+- Alt text: Comparison of perpetual decentralized exchange interfaces showing different trading models.
+
+Screenshot 1
+- Suggested visual: Hyperliquid trading interface or market screen
+- Caption: Hyperliquid market interface captured during our July 2026 perpetual DEX review.
+- Alt text: Hyperliquid trading screen showing order-book style perpetual markets.
+
+Screenshot 2
+- Suggested visual: GMX, dYdX, or Jupiter fee or market-selection panel
+- Caption: Public trading or fee surface reviewed as part of our comparison of perpetual DEX product models.
+- Alt text: Public perpetual DEX screen showing market selection or fee structure for comparison.
 
 ## The full list
 

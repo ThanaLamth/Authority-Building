@@ -39,9 +39,26 @@ This page compares category importance, not guaranteed token upside.
 
 ## What we checked ourselves before ranking these projects
 
-We reviewed the live product pages, docs, ecosystem materials, and public market references for every project in this list on July 10, 2026. From that direct review, we could verify where each name sits in the stack: issuance, collateral, structured credit, or distribution.
+To build this list, we reviewed the live product pages, docs, ecosystem materials, and public market references for every project in this list on July 10, 2026. From that direct review, we could verify where each name sits in the stack: issuance, collateral, structured credit, or distribution.
 
-That public review does not replace a full institutional onboarding or tokenization workflow. What stood out immediately was not who used the broadest RWA language. It was which projects had a clear functional role and which still leaned more on category halo. Screenshots of product dashboards, tokenization pages, and ecosystem maps would strengthen the evidence.
+That public review does not replace a full institutional onboarding or tokenization workflow. What stood out immediately was not who used the broadest RWA language. It was which projects had a clear functional role and which still leaned more on category halo. Some are much easier to place in the stack within minutes, while others still depend on category momentum to explain themselves. That makes product dashboards, tokenization pages, and ecosystem maps the most useful screenshots to show.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: multi-project RWA collage showing tokenization, treasury, and credit interfaces
+- Caption: RWA product surfaces reviewed during our July 2026 comparison of tokenization projects.
+- Alt text: Comparison of real-world asset crypto project pages covering tokenization, credit, and distribution.
+
+Screenshot 1
+- Suggested visual: Ondo or OpenEden product page tied to tokenized Treasury distribution
+- Caption: Tokenized Treasury product page reviewed as part of our 2026 RWA project comparison.
+- Alt text: RWA product page showing tokenized Treasury access or distribution information.
+
+Screenshot 2
+- Suggested visual: Securitize, Centrifuge, Maple, or Plume ecosystem or product page
+- Caption: RWA infrastructure page captured during our July 2026 review of onchain asset platforms.
+- Alt text: RWA infrastructure or ecosystem page showing how a project positions its role in tokenization.
 
 ## The full list
 

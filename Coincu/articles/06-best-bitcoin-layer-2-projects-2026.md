@@ -39,9 +39,26 @@ This is a research page, not a token recommendation page.
 
 ## What we checked ourselves before ranking these projects
 
-We reviewed the current homepages, docs, ecosystem pages, and public product descriptions for all seven systems on July 10, 2026. From that direct review, we could verify whether each project is presenting itself as payment-first, smart-contract-first, BTCfi-first, or infrastructure-first.
+To build this list, we reviewed the current homepages, docs, ecosystem pages, and public product descriptions for all seven systems on July 10, 2026. From that direct review, we could verify whether each project is presenting itself as payment-first, smart-contract-first, BTCfi-first, or infrastructure-first.
 
-That public review does not replace a live wallet setup or a working bridge test. What stood out immediately was not who claimed to be a Bitcoin L2. It was how differently each project interprets that claim in practice. Screenshots of wallet flows, ecosystem pages, and app dashboards would make that visual evidence much stronger.
+That public review does not replace a live wallet setup or a working bridge test. What stood out immediately was not who claimed to be a Bitcoin L2. It was how differently each project interprets that claim in practice. Some are clearly optimizing for payments, while others are trying to expand Bitcoin into application or DeFi territory. That makes wallet flows, ecosystem pages, and app dashboards the clearest screenshots to include.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: comparison graphic of Bitcoin scaling project homepages or ecosystem maps
+- Caption: Bitcoin Layer 2 project surfaces reviewed during our July 2026 comparison of scaling systems.
+- Alt text: Comparison of Bitcoin Layer 2 and Bitcoin-adjacent scaling project pages in 2026.
+
+Screenshot 1
+- Suggested visual: Lightning, Stacks, or Rootstock ecosystem or product page
+- Caption: Bitcoin scaling product page reviewed during our July 2026 Bitcoin Layer 2 comparison.
+- Alt text: Bitcoin scaling project page showing whether the system is focused on payments or smart contracts.
+
+Screenshot 2
+- Suggested visual: BOB, Botanix, Citrea, or Merlin app or ecosystem page
+- Caption: BTCfi or Bitcoin application layer interface captured as part of our 2026 Layer 2 review.
+- Alt text: Bitcoin-adjacent ecosystem page showing DeFi or application expansion around Bitcoin.
 
 ## The full list
 

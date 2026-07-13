@@ -39,9 +39,26 @@ The point is not to pretend every stablecoin is equally safe. The point is to co
 
 ## What we checked ourselves before ranking these issuers
 
-We reviewed the current issuer pages, reserve-model disclosures, chain support pages, and public supply references for every name in this list on July 10, 2026. Based on what we could verify directly, the category already breaks into three very different groups: classic reserve-backed issuers, protocol-governed stablecoin systems, and synthetic-dollar structures.
+To build this list, we reviewed the current issuer pages, reserve-model disclosures, chain support pages, and public supply references for every name in this list on July 10, 2026. From that public surface, we could verify how each issuer presents reserves, chain distribution, and its role in crypto liquidity.
 
-That public review does not replace a full legal or treasury audit. What stood out immediately was not who had the loudest marketing. It was where each issuer sits in market plumbing. Screenshots of reserve pages, attestation summaries, and chain-distribution panels would make that evidence more tangible.
+That public review does not replace a full legal or treasury audit. What stood out immediately was not who had the loudest marketing. It was where each issuer sits in market plumbing. Some are clearly built around broad settlement scale, while others are built around protocol design or synthetic structure. That makes reserve pages, attestation summaries, and chain-distribution panels especially important visual evidence for this comparison.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: comparison graphic showing major stablecoin issuer homepages or public reserve references
+- Caption: Stablecoin issuer reserve and distribution references reviewed during our July 2026 market comparison.
+- Alt text: Comparison of major stablecoin issuers reviewed through reserve disclosures and distribution pages.
+
+Screenshot 1
+- Suggested visual: Tether transparency or reserve disclosure page
+- Caption: Tether reserve or transparency page captured during our July 2026 stablecoin issuer review.
+- Alt text: Tether transparency page showing reserve disclosure information for USDT.
+
+Screenshot 2
+- Suggested visual: Circle USDC product or reserve disclosure page
+- Caption: Circle USDC product surface reviewed as part of our comparison of stablecoin issuers in 2026.
+- Alt text: Circle USDC page showing product positioning and reserve-related information.
 
 ## The full list
 

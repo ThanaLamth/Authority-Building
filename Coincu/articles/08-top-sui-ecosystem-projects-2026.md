@@ -39,9 +39,26 @@ This is an ecosystem map first and an asset watchlist second.
 
 ## What we checked ourselves before ranking these projects
 
-We reviewed the live product pages, ecosystem menus, and public docs for each Sui project in this list on July 10, 2026. From that direct review, we could verify what role each app plays in the stack and whether it helps explain Sui’s actual user-facing identity.
+To build this list, we reviewed the live product pages, ecosystem menus, and public docs for each Sui project in this list on July 10, 2026. From that direct review, we could verify what role each app plays in the stack and whether it helps explain Sui’s actual user-facing identity.
 
-That public review does not replace a wallet-funded test across every protocol. What stood out immediately was not just which app looked biggest. It was which one made its use case legible within seconds and which one still expected too much prior context from the reader. Screenshots of swap screens, lending dashboards, and ecosystem menus would strengthen the first-hand signal.
+That public review does not replace a wallet-funded test across every protocol. What stood out immediately was not just which app looked biggest. It was which one made its use case legible within seconds and which one still expected too much prior context from the reader. Some products are strong because they explain themselves clearly, while others are stronger for deeper users than for first-time visitors. That makes swap screens, lending dashboards, and ecosystem menus the best screenshots to include.
+
+### Image insertion labels for publishing
+
+Featured Image
+- Suggested visual: Sui ecosystem collage showing trading, lending, and infrastructure apps
+- Caption: Sui ecosystem product surfaces reviewed during our July 2026 comparison of leading apps.
+- Alt text: Comparison of leading Sui ecosystem apps covering trading, lending, and infrastructure.
+
+Screenshot 1
+- Suggested visual: Cetus, Aftermath, or DeepBook interface
+- Caption: Sui trading interface reviewed as part of our July 2026 ecosystem comparison.
+- Alt text: Sui ecosystem trading screen showing how a leading app presents liquidity or market structure.
+
+Screenshot 2
+- Suggested visual: NAVI, Suilend, or Scallop lending dashboard
+- Caption: Sui lending dashboard captured during our review of major ecosystem products in 2026.
+- Alt text: Sui lending protocol interface showing borrowing or liquidity features.
 
 ## The full list
 
