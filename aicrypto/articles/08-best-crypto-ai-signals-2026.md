@@ -46,7 +46,7 @@ This list mixes dedicated signal products and execution-linked signal systems. T
 
 This guide is for traders who want alerts they can interpret and act on, not just noisy notification feeds. The list prioritizes context, transparency, and workflow fit over hype-driven prediction claims.
 
-In the final published version, keep a trust note near the top explaining that signals can improve decision quality but cannot guarantee profitable trades.
+The trust point is straightforward: signals can improve decision quality, but they cannot guarantee profitable trades.
 
 ## What we checked ourselves before ranking these tools
 
@@ -56,11 +56,21 @@ That direct review does not replace a longer live-trading validation pass across
 
 What stood out immediately was not which platform promised the smartest signal. It was which platform gave enough context for a trader to judge the signal independently.
 
-![altFINS signals overview page captured during our July 2026 review of crypto AI signal tools.](../media/altfins-overview-2026-07-13.png)
+**Featured Image**
+File: `../media/altfins-overview-2026-07-13.png`
+Alt text: `altFINS signals overview page showing screening and signal workflow reviewed for this guide`
+Caption: `altFINS signals overview page captured during our July 2026 review of crypto AI signal tools.`
+
+![altFINS signals overview page showing screening and signal workflow reviewed for this guide](../media/altfins-overview-2026-07-13.png)
 
 *altFINS signals overview page captured during our July 2026 review of crypto AI signal tools.*
 
-![CryptoQuant alerts page captured during our July 2026 review of crypto alert workflows and signal delivery.](../media/cryptoquant-alerts-2026-07-13.png)
+**Screenshot 1**
+File: `../media/cryptoquant-alerts-2026-07-13.png`
+Alt text: `CryptoQuant alerts page showing crypto signal delivery and workflow context`
+Caption: `CryptoQuant alerts page captured during our July 2026 review of crypto alert workflows and signal delivery.`
+
+![CryptoQuant alerts page showing crypto signal delivery and workflow context](../media/cryptoquant-alerts-2026-07-13.png)
 
 *CryptoQuant alerts page captured during our July 2026 review of crypto alert workflows and signal delivery.*
 
@@ -156,67 +166,10 @@ Some are useful, but none remove market risk. Good signals improve decision qual
 
 Only if they understand the source conditions, time horizon, and risk controls tied to each signal.
 
-## Internal link map used in this article
-
-- Bot automation branch: [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/)
-- Analytics branch: [AI crypto analytics](/ai-data/analytics/)
-- Prediction branch: [AI crypto prediction tools](/ai-trading/prediction/)
-- DeFi workflow branch: [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/)
-- Onchain autonomy branch: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [altFINS overview](https://altfins.com/knowledge-base/overview/)
 - [altFINS create a signal or filter](https://altfins.com/knowledge-base/create-a-signal-or-filter/)
 - [CryptoQuant alerts guide](https://userguide.cryptoquant.com/quickstart/5-minute-feature-guide/2.-set-alerts)
 - [Glassnode custom alerts](https://studio.glassnode.com/alerts)
 - [Nansen AI Smart Alerts](https://academy.nansen.ai/help/articles/6239622-ai-smart-alerts-101)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a signal-tool comparison page. Use first-hand evidence only where the editorial team actually reviewed public product surfaces or completed a real alert workflow.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from product pages and public docs
-- Original screenshots of visible alert interfaces where publicly accessible
-- If the team runs a real test, screenshots showing alert creation or delivery flow
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public product surfaces we reviewed...`
-- Add context such as `What stood out immediately in the alert workflow was...`
-- If a real test is run, use `During setup...` or `In our alert test...`
-- Never imply performance validation unless the team actually ran it
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best for` line for each tool
-- Add one short `Main limitation` line for each tool
-- Add one short `Who should avoid it` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of alert types or delivery channels visible in a public workflow
-- Number of steps required to create a first alert in a real test
-- Any measurable gating between free and paid surfaces
-
-## EEAT upgrades to add before publish
-
-- Add a note separating signal tools from prediction engines
-- Cite official alert documentation for the core workflow claims
-- Add a risk box about false confidence and overtrading
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- altFINS platform and signal docs
-- CryptoQuant alerts guide
-- Glassnode custom alerts
-- Nansen AI Smart Alerts
-- TradingView / bot integration references
-
-## Verification notes before publish
-
-- Re-check paid feature gating, alert limits, and current AI branding language.
-- Add screenshots of alert flows if using this as a money page.

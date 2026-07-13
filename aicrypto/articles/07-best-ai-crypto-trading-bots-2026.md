@@ -46,7 +46,7 @@ That list includes both AI-branded products and established automation platforms
 
 This guide is for traders comparing automation platforms, not for readers looking for guaranteed returns. The ranking favors usable workflow, exchange support, and risk controls over the loudest performance claims.
 
-To strengthen trust, the final published version should clearly state that most products here are better described as automation platforms with AI-assisted features rather than fully autonomous AI funds.
+The important trust point is that most products here are better described as automation platforms with AI-assisted features rather than fully autonomous AI funds.
 
 ## What we checked ourselves before ranking these bots
 
@@ -56,11 +56,21 @@ That direct review does not replace a full funded trading test on every platform
 
 What stood out immediately was not the number of features. It was where each product puts friction in the workflow. That matters more than most readers realize.
 
-![3Commas AI trading bot page captured during our July 2026 review of crypto automation platforms.](../media/3commas-ai-trading-bot-2026-07-13.png)
+**Featured Image**
+File: `../media/3commas-ai-trading-bot-2026-07-13.png`
+Alt text: `3Commas AI trading bot page showing crypto automation workflow reviewed for this guide`
+Caption: `3Commas AI trading bot page captured during our July 2026 review of crypto automation platforms.`
+
+![3Commas AI trading bot page showing crypto automation workflow reviewed for this guide](../media/3commas-ai-trading-bot-2026-07-13.png)
 
 *3Commas AI trading bot page captured during our July 2026 review of crypto automation platforms.*
 
-![Cryptohopper trading-bot documentation captured during our July 2026 review of crypto bot workflows.](../media/cryptohopper-trading-bot-2026-07-13.png)
+**Screenshot 1**
+File: `../media/cryptohopper-trading-bot-2026-07-13.png`
+Alt text: `Cryptohopper trading-bot documentation showing strategy and setup workflow`
+Caption: `Cryptohopper trading-bot documentation captured during our July 2026 review of crypto bot workflows.`
+
+![Cryptohopper trading-bot documentation showing strategy and setup workflow](../media/cryptohopper-trading-bot-2026-07-13.png)
 
 *Cryptohopper trading-bot documentation captured during our July 2026 review of crypto bot workflows.*
 
@@ -158,15 +168,7 @@ Usually not. Most products are better described as automation platforms with AI-
 
 Only with small size, clear limits, and a strong understanding of the strategy the bot is running.
 
-## Internal link map used in this article
-
-- Signal branch: [best crypto AI signals](/ai-trading/signals/best-crypto-ai-signals-2026/)
-- Execution branch: [AI trading execution](/ai-trading/execution/)
-- DeFi workflow branch: [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/)
-- Onchain autonomy branch: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-- Analytics branch: [AI crypto analytics](/ai-data/analytics/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [3Commas AI trading bot](https://3commas.io/ai-trading-bot)
 - [Cryptohopper trading bot docs](https://docs.cryptohopper.com/docs/trading-bot/introduction-to-cryptohoppers-trading-bot)
@@ -174,52 +176,3 @@ Only with small size, clear limits, and a strong understanding of the strategy t
 - [Pionex Signal Bot guide](https://support.pionex.com/hc/en-us/articles/52606266734105-Signal-Bot)
 - [Coinrule platform](https://coinrule.com/b/)
 - [WunderTrading docs](https://wundertrading.com/docs)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a bot-comparison page. Use first-hand evidence only where the editorial team actually reviewed the public product surfaces or completed a real setup or trading workflow.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from homepage, pricing, and feature pages for the top tools
-- Original screenshots from public docs showing setup logic, signal imports, or risk controls
-- If the team runs a real test, screenshots of dashboard setup, exchange connection steps, and bot configuration
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public product surface we reviewed...`
-- Add context such as `What stood out immediately in the setup flow was...`
-- If a real test is run, use `During setup...` or `In our test run...`
-- Never imply long-term usage unless true
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best for` line for each bot
-- Add one short `Tradeoffs` list for each bot
-- Add one short `Who should avoid it` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of visible exchanges supported
-- Number of steps before first bot activation in a real test
-- Time-to-first-setup if the team completes the workflow directly
-
-## EEAT upgrades to add before publish
-
-- Add a disclosure note if the page later includes affiliate links
-- Cite official pricing and exchange-support pages directly in the product sections
-- Add one box titled `What this bot does not do` to avoid overstating AI capability
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- 3Commas AI trading bot page
-- Cryptohopper docs
-- Pionex bot and signal docs
-- Coinrule platform pages
-- WunderTrading docs
-
-## Verification notes before publish
-
-- Re-check pricing tiers, supported exchanges, and exact AI feature wording.
-- Add current screenshots or product captures before publishing as a conversion page.

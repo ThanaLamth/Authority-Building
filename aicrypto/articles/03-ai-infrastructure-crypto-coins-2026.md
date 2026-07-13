@@ -46,7 +46,7 @@ This list is intentionally broader than "GPU coins." AI infrastructure is not on
 
 This guide is for readers who want to understand the infrastructure layer of AI x Crypto instead of only chasing the most visible agent narrative.
 
-It should be read as a category explainer with a ranked watchlist. Before publication, verify that each listed project still fits the infrastructure framing used here and add direct citations for any technical or market-structure claims. Readers who want the decentralization branch of the same thesis should continue into [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/).
+It should be read as a category explainer with a ranked watchlist. The main thing to remember is that infrastructure labels get stretched easily, so the ranking works best when the reader focuses on the role each project plays rather than on the AI label alone. Readers who want the decentralization branch of the same thesis should continue into [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/).
 
 ## What we checked ourselves before ranking these projects
 
@@ -56,11 +56,21 @@ That direct review does not replace a full technical audit of every compute netw
 
 What stood out immediately was not just how many AI projects talk about compute. It was how few names still look defensible once you ask whether the token has a real role in supply, demand, routing, or verification.
 
-![Chainlink homepage captured during our July 2026 review of AI infrastructure crypto coins.](../media/chainlink-home-2026-07-10.png)
+**Featured Image**
+File: `../media/chainlink-home-2026-07-10.png`
+Alt text: `Chainlink public product surface showing data and automation rails relevant to AI infrastructure`
+Caption: `Chainlink homepage captured during our July 2026 review of AI infrastructure crypto coins.`
+
+![Chainlink public product surface showing data and automation rails relevant to AI infrastructure](../media/chainlink-home-2026-07-10.png)
 
 *Chainlink homepage captured during our July 2026 review of AI infrastructure crypto coins.*
 
-![Akash homepage captured during our July 2026 review of decentralized compute networks for AI workloads.](../media/akash-home-2026-07-10.png)
+**Screenshot 1**
+File: `../media/akash-home-2026-07-10.png`
+Alt text: `Akash public product surface showing decentralized compute infrastructure for AI workloads`
+Caption: `Akash homepage captured during our July 2026 review of decentralized compute networks for AI workloads.`
+
+![Akash public product surface showing decentralized compute infrastructure for AI workloads](../media/akash-home-2026-07-10.png)
 
 *Akash homepage captured during our July 2026 review of decentralized compute networks for AI workloads.*
 
@@ -154,66 +164,9 @@ Not automatically, but they are often easier to analyze because their value prop
 
 Because AI workflows still depend on storage and data availability. It is an adjacent infrastructure play, not a pure agent or model token.
 
-## Internal link map used in this article
-
-- Category hub: [best AI crypto projects](/ai-ecosystem/best-ai-crypto-projects-2026/)
-- Decentralization branch: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-- Bittensor cluster support: [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/)
-- Data and workflow branch: [AI crypto analytics](/ai-data/analytics/)
-- Agent comparison branch: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-- Onchain autonomy branch: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on an infrastructure-ranking page. Use first-hand evidence only where the editorial team actually reviewed public docs, explorer pages, dashboards, or category pages directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko AI category page
-- Original screenshots from Bittensor explorer pages, compute-network docs, or relevant product surfaces
-- One annotated stack diagram showing how the editorial team classified each project into `compute`, `data`, `verification`, `coordination`, or `storage`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `In our review of the live category pages and protocol docs...`
-- Add context such as `Based on what we could verify directly from the public product surfaces...`
-- Describe real editorial judgments, for example why one project was treated as adjacent infrastructure rather than pure AI infrastructure
-- Only use `we tested` if the team ran an actual product or network workflow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each project
-- Add one short `Where the thesis is weakest` line for the top five names
-- Add one short `What would change our view` line for borderline inclusions
-
-### 4. Quantitative data to add where available
-
-- Number of infrastructure subsegments used in the methodology
-- Number of shortlisted projects reviewed before cutting to 10
-- Any public category ranking snapshot or explorer data used in the final judgment
-
-## EEAT upgrades to add before publish
-
-- Add one paragraph clarifying why some names are included as adjacent infrastructure rather than pure AI tokens
-- Add direct citations for compute-network or data-network claims
-- Add an author note clarifying that the article ranks category relevance, not guaranteed upside
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- CoinGecko AI category
-- Coinbase Institutional AI agent economy report
-- Ethereum AI agents page
-- Bittensor docs
-
-## Verification notes before publish
-
-- Re-check whether each listed name still fits the infrastructure bucket instead of a broader AI bucket.
-- Verify any compute-network positioning against official docs at publish time.

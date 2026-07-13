@@ -56,13 +56,23 @@ That direct review does not replace a full token-by-token ecosystem audit. But i
 
 What stood out immediately was not just the number of tokens in the cluster. It was how different their jobs are once you stop treating the ecosystem as one monolithic trade.
 
-![Virtuals Protocol whitepaper page captured during our July 2026 review of the Virtuals ecosystem.](../media/virtuals-whitepaper-2026-07-13.png)
+**Featured Image**
+File: `../media/virtuals-whitepaper-2026-07-13.png`
+Alt text: `Virtuals Protocol whitepaper page showing the ecosystem thesis reviewed for this guide`
+Caption: `Virtuals Protocol whitepaper captured during our July 2026 review of the Virtuals ecosystem.`
 
-*Virtuals Protocol whitepaper page captured during our July 2026 review of the Virtuals ecosystem.*
+![Virtuals Protocol whitepaper page showing the ecosystem thesis reviewed for this guide](../media/virtuals-whitepaper-2026-07-13.png)
 
-![Ethereum AI agents explainer page captured during our July 2026 review of the broader agent-economy context around Virtuals.](../media/ethereum-ai-agents-2026-07-13.png)
+*Virtuals Protocol whitepaper captured during our July 2026 review of the Virtuals ecosystem.*
 
-*Ethereum AI agents explainer page captured during our July 2026 review of the broader agent-economy context around Virtuals.*
+**Screenshot 1**
+File: `../media/ethereum-ai-agents-2026-07-13.png`
+Alt text: `Ethereum AI agents explainer page showing the broader agent-economy context around Virtuals`
+Caption: `Ethereum AI agents explainer captured during our July 2026 review of the broader agent-economy context around Virtuals.`
+
+![Ethereum AI agents explainer page showing the broader agent-economy context around Virtuals](../media/ethereum-ai-agents-2026-07-13.png)
+
+*Ethereum AI agents explainer captured during our July 2026 review of the broader agent-economy context around Virtuals.*
 
 ## How we ranked Virtuals ecosystem coins
 
@@ -154,63 +164,8 @@ Not exactly. It is better understood as an ecosystem or base-layer asset that su
 
 Because ecosystem coins often move together, depend on one narrative center, and can change leadership quickly.
 
-## Internal link map used in this article
-
-- Agent category hub: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-- Onchain behavior branch: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-- Broader category hub: [best AI crypto projects](/ai-ecosystem/best-ai-crypto-projects-2026/)
-- Decentralization comparison: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-- Cluster landing page: [AI agent economy](/ai-agents/economy/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko Virtuals Protocol Ecosystem category](https://www.coingecko.com/en/categories/virtuals-protocol-ecosystem)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on an ecosystem-ranking page. Use first-hand evidence only where the editorial team actually reviewed public category pages, docs, ecosystem maps, or dashboards directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko Virtuals ecosystem category
-- Original screenshots from public Virtuals ecosystem maps or docs
-- One annotated graphic showing `base layer`, `agent asset`, and `supporting protocol` roles
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public ecosystem surfaces we reviewed...`
-- Add context such as `What stood out immediately in the current category leadership was...`
-- Describe a real editorial judgment, especially where a token looked more momentum-driven than structurally important
-- Only use `we tested` if the team completed a real workflow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each ecosystem asset
-- Add one short `Main dependency risk` line for each asset
-- Add one short `Why it may not deserve a high rank later` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of ecosystem tokens reviewed before cutting to 10
-- Date of the category snapshot used in the ranking
-- Any visible category or role distribution used in the final methodology
-
-## EEAT upgrades to add before publish
-
-- Add a note that the ranking is ecosystem-relative, not a universal AI ranking
-- Cite the live category page for current leadership references
-- Add one editor note on high correlation risk inside ecosystem baskets
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- CoinGecko Virtuals Protocol Ecosystem category
-- Coinbase Institutional AI agent economy report
-- Virtuals Protocol whitepaper
-
-## Verification notes before publish
-
-- Re-check the category leaderboard before publication because ordering can change quickly.
-- Confirm official token names and tickers for every ecosystem asset you keep in the final version.

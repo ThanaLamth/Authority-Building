@@ -46,7 +46,7 @@ Purists may debate the final names on the list, especially Chainlink and Virtual
 
 This guide is for readers who want a stricter filter than the generic `AI crypto` label and care about whether a project decentralizes a real part of the AI stack.
 
-Because the term `decentralized AI` is often stretched, the editor should keep the definition section prominent and verify any claim about decentralization against official project documentation before publication. Readers who mainly care about tokenized agent economies rather than compute or open-model structure should continue into [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/).
+Because the term `decentralized AI` is often stretched, the definition matters more here than it does in a generic AI-token roundup. Readers who mainly care about tokenized agent economies rather than compute or open-model structure should continue into [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/).
 
 ## What we checked ourselves before ranking these projects
 
@@ -56,11 +56,21 @@ That direct review does not replace a full technical audit of every network in t
 
 What stood out immediately was not that the category is small. It was that the category is uneven. Some projects make the decentralization logic easy to explain. Others need a more generous interpretation to fit.
 
-![Bittensor subnets page captured during our July 2026 review of decentralized AI market structures.](../media/bittensor-subnets-2026-07-13.png)
+**Featured Image**
+File: `../media/bittensor-subnets-2026-07-13.png`
+Alt text: `Bittensor subnet directory showing the decentralized AI market structure reviewed for this guide`
+Caption: `Bittensor subnet directory captured during our July 2026 review of decentralized AI market structures.`
 
-*Bittensor subnets page captured during our July 2026 review of decentralized AI market structures.*
+![Bittensor subnet directory showing the decentralized AI market structure reviewed for this guide](../media/bittensor-subnets-2026-07-13.png)
 
-![Akash homepage captured during our July 2026 review of decentralized compute projects for AI.](../media/akash-home-2026-07-10.png)
+*Bittensor subnet directory captured during our July 2026 review of decentralized AI market structures.*
+
+**Screenshot 1**
+File: `../media/akash-home-2026-07-10.png`
+Alt text: `Akash public product surface showing decentralized compute infrastructure for AI`
+Caption: `Akash homepage captured during our July 2026 review of decentralized compute projects for AI.`
+
+![Akash public product surface showing decentralized compute infrastructure for AI](../media/akash-home-2026-07-10.png)
 
 *Akash homepage captured during our July 2026 review of decentralized compute projects for AI.*
 
@@ -150,65 +160,9 @@ No. Many AI coins are simply category tags or application-layer tokens. A decent
 
 Because decentralized AI is increasingly about agent economies and machine-to-machine interaction, not only about raw compute.
 
-## Internal link map used in this article
-
-- Category hub: [best AI crypto projects](/ai-ecosystem/best-ai-crypto-projects-2026/)
-- Infrastructure comparison: [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/)
-- Bittensor cluster support: [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/)
-- Agent-economy comparison: [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-- Agent category branch: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
 - [Bittensor subnets](https://www.bittensor.ai/subnets)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a decentralized-AI ranking page. Use first-hand evidence only where the editorial team actually reviewed public docs, explorers, dashboards, or category pages directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from category pages and official protocol docs
-- Original screenshots from Bittensor explorer pages or other relevant public network surfaces
-- One annotated diagram showing which layer each project decentralizes: `compute`, `data`, `coordination`, `execution`, or `agent economy`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public product surfaces we reviewed...`
-- Add context such as `After comparing the live docs and ecosystem positioning in July 2026...`
-- Describe a real editorial judgment, especially where a project was a borderline inclusion
-- Only use `we tested` if the team completed an actual workflow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each project
-- Add one short `Why some readers may exclude this from a stricter decentralized AI definition` line for borderline cases
-- Add one short `What would strengthen this thesis` line where useful
-
-### 4. Quantitative data to add where available
-
-- Number of shortlisted names reviewed before cutting to 10
-- Number of methodological layers used in the decentralization framework
-- Any explorer or category snapshot used in the final judgment
-
-## EEAT upgrades to add before publish
-
-- Add a short boxed definition for `decentralized AI`
-- Cite official docs where the decentralization claim is strongest
-- Add an editor note stating why borderline names were still included
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- CoinGecko AI category
-- Coinbase Institutional AI agent economy report
-- Bittensor docs
-- Virtuals whitepaper
-
-## Verification notes before publish
-
-- Tighten the definition section if your editorial team wants a narrower or stricter definition of decentralized AI.
-- Re-check category placement for the final three names before publication.

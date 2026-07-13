@@ -46,7 +46,7 @@ Some of these names are better understood as agent ecosystems or agent-launch ec
 
 This guide is for readers who want to understand whether an AI agent is actually doing something onchain or simply borrowing the language of autonomy.
 
-Before publication, keep the definition of `onchain agent` explicit. Readers should know whether each listed name is a direct agent product, an agent economy asset, or a supporting protocol. Readers who want the DeFi-specific branch after this should move into [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/).
+The definition of `onchain agent` matters here. Readers should know whether each listed name is a direct agent product, an agent economy asset, or a supporting protocol. Readers who want the DeFi-specific branch after this should move into [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/).
 
 ## What we checked ourselves before ranking these agents
 
@@ -56,13 +56,23 @@ That direct review does not replace a full wallet-connected execution test of ev
 
 What stood out immediately was not the ambition of the category. It was how often the strongest names still depend on surrounding rails like wallets, liquidity, and ecosystem tooling to make the agent story believable.
 
-![Ethereum AI agents explainer page captured during our July 2026 review of onchain-agent workflows.](../media/ethereum-ai-agents-2026-07-13.png)
+**Featured Image**
+File: `../media/ethereum-ai-agents-2026-07-13.png`
+Alt text: `Ethereum AI agents explainer page used to compare onchain-agent workflows`
+Caption: `Ethereum AI agents explainer captured during our July 2026 review of onchain-agent workflows.`
 
-*Ethereum AI agents explainer page captured during our July 2026 review of onchain-agent workflows.*
+![Ethereum AI agents explainer page used to compare onchain-agent workflows](../media/ethereum-ai-agents-2026-07-13.png)
 
-![Virtuals Protocol whitepaper page captured during our July 2026 review of onchain AI agent infrastructure and economy design.](../media/virtuals-whitepaper-2026-07-13.png)
+*Ethereum AI agents explainer captured during our July 2026 review of onchain-agent workflows.*
 
-*Virtuals Protocol whitepaper page captured during our July 2026 review of onchain AI agent infrastructure and economy design.*
+**Screenshot 1**
+File: `../media/virtuals-whitepaper-2026-07-13.png`
+Alt text: `Virtuals Protocol whitepaper page showing onchain AI agent infrastructure and economy design`
+Caption: `Virtuals Protocol whitepaper captured during our July 2026 review of onchain AI agent infrastructure and economy design.`
+
+![Virtuals Protocol whitepaper page showing onchain AI agent infrastructure and economy design](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper captured during our July 2026 review of onchain AI agent infrastructure and economy design.*
 
 ## How we ranked onchain AI agents
 
@@ -158,65 +168,9 @@ No. Trading bots are usually narrower and rule-based. Onchain AI agents aim to h
 
 Crypto gives agents open wallets, programmable payments, composable apps, and machine-readable settlement rails.
 
-## Internal link map used in this article
-
-- Agent category hub: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-- Virtuals cluster support: [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-- DeFi workflow branch: [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/)
-- Trading tooling branch: [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/)
-- Infrastructure comparison: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on an onchain-agent ranking page. Use first-hand evidence only where the editorial team actually reviewed public product surfaces, docs, dashboards, or wallet-connected flows directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko AI Agents category
-- Original screenshots from relevant public agent dashboards or ecosystem pages
-- One annotated flow diagram showing `instruction -> agent -> wallet -> onchain action`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public product surfaces we reviewed...`
-- Add context such as `After comparing the visible workflows and docs in July 2026...`
-- Describe real editorial judgments, especially where a name felt more like an ecosystem asset than a direct agent
-- Only use `we tested` if the team completed a wallet or execution flow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each project
-- Add one short `What still needs real execution proof` line for the top five names
-- Add one short `Who should avoid this` line where useful
-
-### 4. Quantitative data to add where available
-
-- Number of shortlisted agent names reviewed before cutting to 10
-- Number of top-10 names tied to one ecosystem versus standalone projects
-- Any public category snapshot used in the final methodology
-
-## EEAT upgrades to add before publish
-
-- Add a note separating fully autonomous behavior from supervised agent workflows
-- Add direct citations whenever a project is described as executing real onchain actions
-- Add a review date because this category changes fast
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- Ethereum AI agents page
-- Coinbase Institutional AI agent economy report
-- CoinGecko AI Agents category
-- Virtuals Protocol whitepaper
-
-## Verification notes before publish
-
-- Verify whether any listed name should be reframed as an ecosystem asset rather than an agent itself.
-- Add direct examples of wallet, routing, or execution behavior if publishing as a flagship explainer.

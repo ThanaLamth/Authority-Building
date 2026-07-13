@@ -56,13 +56,23 @@ That direct review does not replace a full onchain or liquidity analysis of ever
 
 What stood out immediately was not just how many subnets exist. It was how different the reasons are for why people care about them.
 
-![Bittensor subnets page captured during our July 2026 review of leading dTAO markets.](../media/bittensor-subnets-2026-07-13.png)
+**Featured Image**
+File: `../media/bittensor-subnets-2026-07-13.png`
+Alt text: `Bittensor subnet directory showing the leading dTAO markets reviewed for this guide`
+Caption: `Bittensor subnet directory captured during our July 2026 review of leading dTAO markets.`
 
-*Bittensor subnets page captured during our July 2026 review of leading dTAO markets.*
+![Bittensor subnet directory showing the leading dTAO markets reviewed for this guide](../media/bittensor-subnets-2026-07-13.png)
 
-![Bittensor documentation page captured during our July 2026 review of subnet structure and market framing.](../media/learnbittensor-subnets-2026-07-13.png)
+*Bittensor subnet directory captured during our July 2026 review of leading dTAO markets.*
 
-*Bittensor documentation page captured during our July 2026 review of subnet structure and market framing.*
+**Screenshot 1**
+File: `../media/learnbittensor-subnets-2026-07-13.png`
+Alt text: `Bittensor documentation page showing subnet structure and market framing`
+Caption: `Bittensor documentation captured during our July 2026 review of subnet structure and market framing.`
+
+![Bittensor documentation page showing subnet structure and market framing](../media/learnbittensor-subnets-2026-07-13.png)
+
+*Bittensor documentation captured during our July 2026 review of subnet structure and market framing.*
 
 ## How we ranked the leading Bittensor subnets
 
@@ -154,64 +164,9 @@ Under dTAO, alpha tokens let market demand help determine which subnets attract 
 
 Usually yes, because subnet tokens tend to have thinner liquidity and more concentrated narratives.
 
-## Internal link map used in this article
-
-- Decentralized AI branch: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-- Infrastructure branch: [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/)
-- Broader category hub: [best AI crypto projects](/ai-ecosystem/best-ai-crypto-projects-2026/)
-- Agent-economy comparison: [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-- Data-layer branch: [AI data indexing](/ai-data/indexing/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko: Top Bittensor Subnets and dTAO guide](https://www.coingecko.com/learn/top-bittensor-subnets-dtao)
 - [Bittensor subnet explorer](https://www.bittensor.ai/subnets)
 - [Learn Bittensor subnets overview](https://learnbittensor.org/subnets)
 - [Understanding Bittensor subnets](https://docs.learnbittensor.org/subnets/understanding-subnets)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a subnet-ranking page. Use first-hand evidence only where the editorial team actually reviewed public ecosystem pages, docs, or explorer surfaces directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the Bittensor explorer or public subnet references
-- Original screenshots from the CoinGecko dTAO or subnet guide surfaces
-- One annotated graphic showing `subnet -> specialization -> why it matters`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public ecosystem pages we reviewed...`
-- Add context such as `What stood out immediately in the current subnet framing was...`
-- Describe real judgments, for example why one subnet felt more technically important than market-important
-- Only use `we tested` if the team completed an actual onchain or platform workflow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best known for` line for each subnet
-- Add one short `Main risk` line for each subnet
-- Add one short `Why it may fall in the ranking` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of subnets live at review time
-- Ranking snapshot date
-- Any public liquidity or category snapshot used in the article
-
-## EEAT upgrades to add before publish
-
-- Add a visible review date above the fold
-- Cite the exact CoinGecko guide or official explorer when naming the current leaders
-- Add one sentence explaining that liquidity and ranking can change quickly
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- CoinGecko top Bittensor subnets guide
-- Bittensor.ai subnet explorer
-- Learn Bittensor / dTAO docs
-
-## Verification notes before publish
-
-- Re-check subnet ordering against the current leaderboard on publication day.
-- Refresh any quantitative references if you keep the market-cap context in the final version.

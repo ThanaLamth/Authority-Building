@@ -46,7 +46,7 @@ That list mixes pure DeFi agents with broader AI automation platforms that have 
 
 This guide is for readers who want to understand whether DeFAI is solving a real DeFi workflow problem or simply rebranding normal trading and dashboard features with AI language.
 
-The article should be published with a clear note that DeFAI can simplify execution but cannot remove smart-contract, liquidity, market, or custody risk. That framing adds more trust than hype does.
+The important framing is simple: DeFAI can simplify execution, but it cannot remove smart-contract, liquidity, market, or custody risk. That framing adds more trust than hype does.
 
 ## What we checked ourselves before ranking these projects
 
@@ -56,13 +56,23 @@ That direct review does not replace a full wallet-connected test of every routin
 
 What stood out immediately was not the volume of AI language. It was where the products put friction. The clearest names try to reduce it. The weaker names mostly rename it.
 
-![Ethereum AI agents explainer page captured during our July 2026 review of DeFAI workflows and agent coordination.](../media/ethereum-ai-agents-2026-07-13.png)
+**Featured Image**
+File: `../media/ethereum-ai-agents-2026-07-13.png`
+Alt text: `Ethereum AI agents explainer page used to compare DeFAI workflows and agent coordination`
+Caption: `Ethereum AI agents explainer captured during our July 2026 review of DeFAI workflows and agent coordination.`
 
-*Ethereum AI agents explainer page captured during our July 2026 review of DeFAI workflows and agent coordination.*
+![Ethereum AI agents explainer page used to compare DeFAI workflows and agent coordination](../media/ethereum-ai-agents-2026-07-13.png)
 
-![Virtuals Protocol whitepaper page captured during our July 2026 review of agent-economy design relevant to DeFAI.](../media/virtuals-whitepaper-2026-07-13.png)
+*Ethereum AI agents explainer captured during our July 2026 review of DeFAI workflows and agent coordination.*
 
-*Virtuals Protocol whitepaper page captured during our July 2026 review of agent-economy design relevant to DeFAI.*
+**Screenshot 1**
+File: `../media/virtuals-whitepaper-2026-07-13.png`
+Alt text: `Virtuals Protocol whitepaper page showing agent-economy design relevant to DeFAI`
+Caption: `Virtuals Protocol whitepaper captured during our July 2026 review of agent-economy design relevant to DeFAI.`
+
+![Virtuals Protocol whitepaper page showing agent-economy design relevant to DeFAI](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper captured during our July 2026 review of agent-economy design relevant to DeFAI.*
 
 ## How we ranked the top DeFAI projects
 
@@ -150,63 +160,8 @@ No. AI trading is narrower. DeFAI includes broader DeFi tasks such as yield disc
 
 Because DeFi still has a complexity problem, and AI is being tested as a way to reduce that friction.
 
-## Internal link map used in this article
-
-- Agent category hub: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-- Onchain behavior branch: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-- Execution tooling branch: [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/)
-- Signal and alert branch: [best crypto AI signals](/ai-trading/signals/best-crypto-ai-signals-2026/)
-- Cluster landing page: [DeFi AI ecosystem](/ai-ecosystem/defi-ai/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko DeFAI category](https://www.coingecko.com/en/categories/defai)
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a DeFAI ranking page. Use first-hand evidence only where the editorial team actually reviewed live public product surfaces, docs, dashboards, or wallet-connected flows directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko DeFAI category page
-- Original screenshots from public dashboards or product surfaces for shortlisted tools
-- One annotated flow image showing `research -> route -> execute -> monitor`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `From the public product flow we reviewed...`
-- Add context such as `After comparing the visible workflow design in July 2026...`
-- Describe real judgments, for example where a product looked more like analytics than like execution assistance
-- Only use `we tested` if the team connected a wallet or completed a real workflow
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each project
-- Add one short `Where the AI layer still feels thin` line where relevant
-- Add one short `Who should avoid this` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of visible DeFAI names reviewed before cutting to 10
-- Number of steps in a sample public workflow where measurable
-- Any public category snapshot used in the final methodology
-
-## EEAT upgrades to add before publish
-
-- Add a short disclaimer that the article is not yield advice
-- Add direct citations for claims about live products or active workflows
-- Add one editor paragraph explaining where the category boundaries are still fuzzy
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external sources
-
-## Source notes
-
-- CoinGecko DeFAI category
-- Ethereum AI agents page
-- Coinbase Institutional AI agent economy report
-
-## Verification notes before publish
-
-- Re-check the exact 2026 DeFAI roster and naming because this category changes fast.
-- Confirm whether each project on the list has a live product, active launch, or only a narrative footprint.

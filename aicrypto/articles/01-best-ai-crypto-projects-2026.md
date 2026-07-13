@@ -4,6 +4,7 @@
 - Slug: `/ai-ecosystem/best-ai-crypto-projects-2026/`
 - Meta title: `Best AI Crypto Projects in 2026: 10 Analyst Picks`
 - Meta description: `Discover 10 of the best AI crypto projects in 2026, ranked by use case, token utility, adoption signals, and risk.`
+- Reviewed on: `July 13, 2026`
 
 ## Schema
 
@@ -71,23 +72,44 @@ That does not mean all 10 are interchangeable. Bittensor and Virtuals are strong
 
 This guide is for readers who already understand basic crypto market structure and want a cleaner way to separate durable AI-crypto infrastructure from short-lived narrative trades. It works best as the top-level hub before readers drill down into sub-clusters like [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/) or [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/).
 
-It is not a price-prediction page and it is not investment advice. The ranking is editorial and thesis-based. Before publishing, the editor should verify category membership, token names, and any market-share or liquidity claims against current official or top-tier sources. If the site later expands into execution content, this hub should also point readers toward practical workflow pages such as [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/).
+It is not a price-prediction page and it is not investment advice. This ranking prioritizes stack relevance, token role, and visible ecosystem evidence over short-term price performance. If the site later expands into execution content, this hub should also point readers toward practical workflow pages such as [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/).
 
 ## What we checked ourselves before ranking these projects
 
-To write this guide, we reviewed the live public category surfaces, project positioning, and official ecosystem documentation for the shortlisted names. We did that so the article would not depend only on third-party roundups or recycled token lists.
+For this article, we reviewed the live public category surfaces and official references for the shortlisted names so the comparison would not depend only on recycled token roundups. That included the [Bittensor subnet directory](https://bittensor.ai/subnets), [Chainlink developer docs](https://docs.chain.link/), the [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/), [OriginTrail DKG documentation](https://docs.origintrail.io/), [Akash documentation](https://akash.network/docs/getting-started/what-is-akash/), [io.net docs](https://io.net/docs/guides/getting-started), and the [ASI Alliance docs](https://docs.superintelligence.io/artificial-superintelligence-alliance).
 
-That direct review does not replace a full end-to-end product test of every protocol named here. But it makes one thing clear very quickly: some projects are infrastructure first, some are agent-economy first, and some are mainly benefiting from broad AI category overlap. The screenshots and visual evidence collected for this page should make that difference visible instead of leaving it implied.
+That direct review does not replace a full end-to-end product test of every protocol named here. But it does show something important very quickly: some projects already present themselves as live infrastructure with a clear operating role, while others still rely more heavily on category story. At this stage, we are comfortable describing those workflow and positioning differences qualitatively, but not assigning hard performance scores until deeper live testing is complete.
 
 What stood out immediately was not the number of AI-labeled tokens in the market. It was how uneven the category still is once you compare real stack function, ecosystem posture, and token role side by side.
 
-![Bittensor subnets page captured during our July 2026 review of leading AI crypto ecosystems.](../media/bittensor-subnets-2026-07-13.png)
+**Featured Image**
+File: `../media/bittensor-subnets-2026-07-13.png`
+Alt text: `Bittensor subnet directory showing the live decentralized AI market structure reviewed for this guide`
+Caption: `Bittensor subnet directory captured during our July 2026 review of leading AI crypto ecosystems.`
 
-*Bittensor subnets page captured during our July 2026 review of leading AI crypto ecosystems.*
+![Bittensor subnet directory showing the live decentralized AI market structure reviewed for this guide](../media/bittensor-subnets-2026-07-13.png)
 
-![Chainlink homepage captured during our July 2026 review of AI-crypto infrastructure and coordination rails.](../media/chainlink-home-2026-07-10.png)
+*Bittensor subnet directory captured during our July 2026 review of leading AI crypto ecosystems.*
+
+**Screenshot 1**
+File: `../media/chainlink-home-2026-07-10.png`
+Alt text: `Chainlink public product surface showing data, automation, and coordination rails relevant to AI agents`
+Caption: `Chainlink homepage captured during our July 2026 review of AI-crypto infrastructure and coordination rails.`
+
+![Chainlink public product surface showing data, automation, and coordination rails relevant to AI agents](../media/chainlink-home-2026-07-10.png)
 
 *Chainlink homepage captured during our July 2026 review of AI-crypto infrastructure and coordination rails.*
+
+**Screenshot 2**
+File: `../media/virtuals-whitepaper-2026-07-13.png`
+Alt text: `Virtuals Protocol whitepaper page showing the agent-economy thesis reviewed for this guide`
+Caption: `Virtuals Protocol whitepaper captured during our July 2026 review of the onchain agent-economy thesis.`
+
+![Virtuals Protocol whitepaper page showing the agent-economy thesis reviewed for this guide](../media/virtuals-whitepaper-2026-07-13.png)
+
+*Virtuals Protocol whitepaper captured during our July 2026 review of the onchain agent-economy thesis.*
+
+The screenshots above show why this list cannot be treated as one narrative bucket. Bittensor already reads like a live market for decentralized intelligence. Chainlink reads like coordination and automation rails. Virtuals reads like an agent-economy system. That visual difference is not cosmetic. It is the main reason some AI crypto projects deserve infrastructure-style attention while others remain more speculative.
 
 ## How we ranked the best AI crypto projects
 
@@ -107,79 +129,155 @@ Bottom line: this is a use-case ranking first and a speculation ranking second. 
 
 ### 1. Bittensor
 
-Bittensor remains one of the clearest decentralized AI bets because it already has a live subnet economy instead of a vague roadmap. If you want exposure to an open market for machine intelligence, this is the benchmark project most rivals still get compared against.
+Bittensor is a strong choice for readers who want direct exposure to a decentralized intelligence market rather than a generic AI token label. From the [subnet directory we reviewed](https://bittensor.ai/subnets), it already feels more like a live internal economy than like a single-product roadmap, with 129 active subnets visible at review time. That is a strength if your thesis is that open intelligence markets become more valuable as specialization grows, but it becomes a weakness if your priority is simplicity, because the story quickly expands from TAO into subnet quality, emissions, and internal ecosystem selection.
 
 For readers who want to go one layer deeper instead of staying at the umbrella-token level, the natural next read here is [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/).
 
-This is a strength if your thesis is that decentralized AI needs specialized open markets. But it is a weaker fit if your priority is simple mainstream product exposure, because the subnet structure adds more complexity than a casual narrative buyer may want.
+Best for:
+- readers who want the clearest decentralized-AI thesis
+- users willing to follow subnet-level ecosystem development
 
-Why it made the list:
-- strong decentralized AI identity
-- growing subnet-based ecosystem
-- credible position inside 2026 AI infrastructure discussions
+Tradeoffs:
+- the learning curve is steeper than with simpler AI tokens
+- subnet growth adds opportunity, but it also adds analysis overhead
+- narrative leadership at the top level does not automatically justify every subnet
 
 ### 2. Chainlink
 
-Chainlink belongs on this list because AI agents still need trusted data, automation, cross-chain messaging, and settlement-friendly infrastructure. It is less of a pure AI token than some rivals, but more foundational than most of them.
+Chainlink is a strong choice for readers who care more about durable rails than about category purity. From the [docs we reviewed](https://docs.chain.link/), the stack already presents itself around Data Feeds, Automation, Functions, and CCIP, which is exactly the kind of coordination layer AI agents need if they are going to read external data and do something useful onchain. That is a strength if your thesis is that AI value in crypto will accrue to execution and verification rails, but it becomes a weakness if your goal is concentrated exposure to the AI narrative itself, because Chainlink is broader than this theme.
 
-That is a strength if you care more about durable rails than category purity. But it is a weakness if your goal is concentrated exposure to the AI narrative itself, because Chainlink also carries a broader infrastructure identity outside this theme.
+Best for:
+- readers who want AI-adjacent infrastructure with clear utility
+- users who think agent execution depends on trusted data and automation
 
-Why it made the list:
-- strong oracle and automation layer
-- useful for agent execution and data verification
-- durable relevance beyond one AI narrative cycle
+Tradeoffs:
+- less pure as an AI narrative than agent-economy or compute names
+- upside may feel less dramatic than higher-beta category tokens
+- some readers will see it as infrastructure first and AI second
 
 ### 3. Artificial Superintelligence Alliance
 
-ASI makes the list because it still represents the large-scale open-AI coalition thesis inside crypto. Even when market attention rotates, the merged identity around open models, agents, and machine coordination keeps it structurally relevant.
+ASI is a strong choice for readers who want the broad coalition version of decentralized AI rather than one narrow token story. The [alliance documentation](https://docs.superintelligence.io/artificial-superintelligence-alliance) frames it as the collective formed by Fetch.ai, SingularityNET, and CUDOS, while the [innovation stack](https://docs.superintelligence.io/artificial-superintelligence-alliance/asi-innovation-stack) spans data, compute, training, and deployment. That is a strength if you want exposure to a bigger open-AI thesis, but it becomes a weakness if you prefer a cleaner single-protocol case with fewer moving pieces and less alliance-level complexity.
+
+Best for:
+- readers who want a broader decentralized-AI coalition thesis
+- users interested in open-model, agent, and compute convergence
+
+Tradeoffs:
+- the story is structurally interesting, but it is also more complex to track
+- alliance branding can be harder to evaluate than one focused product surface
+- roadmap breadth does not always translate into simple token-level clarity
 
 ### 4. Render
 
-Render is one of the cleaner picks if your thesis is that AI demand keeps spilling into compute and rendering infrastructure. It is not an agent coin, but it is one of the more understandable infrastructure plays in the category.
+Render is a strong choice for readers who want AI-compute exposure through a network that already had a real GPU-market identity before the current wave of AI tokens. The [Render compute-client material](https://rendernetwork.com/participate-compute-clients) now explicitly talks about training, inference, fine-tuning, and generative AI imaging, which makes the AI angle more concrete than it used to be. That is a strength if you want an understandable compute story, but it becomes a weakness if you need a project whose token case is tied only to AI rather than to a broader rendering and creator economy.
+
+Best for:
+- readers who want a more legible decentralized GPU thesis
+- users who prefer established compute marketplaces over newer narratives
+
+Tradeoffs:
+- not a pure agent or model token
+- still split between creative-rendering roots and newer AI-compute ambitions
+- easier to understand than some rivals, but less category-pure than dedicated AI names
 
 ### 5. Akash Network
 
-Akash stays relevant because decentralized compute is one of the few AI-crypto subthemes that clearly maps to real resource demand. If centralized GPU bottlenecks stay expensive, Akash remains easy to justify in an infrastructure basket.
+Akash is a strong choice for readers who think the best AI-crypto stories are the ones that map directly to resource scarcity. The [Akash docs](https://akash.network/docs/getting-started/what-is-akash/) still frame it as a decentralized cloud marketplace where providers bid to host workloads, and they continue to market the cost argument aggressively. That is a strength if your thesis is that open compute markets matter more as centralized GPU capacity stays expensive, but it becomes a weakness if your priority is frictionless mainstream onboarding, because marketplace-style infrastructure is never as simple as a consumer app.
+
+Best for:
+- readers who want a direct decentralized-compute thesis
+- users who believe cloud-market competition is the core AI bottleneck
+
+Tradeoffs:
+- the infrastructure case is clear, but user simplicity is not the main appeal
+- demand visibility still matters more than the narrative alone
+- stronger in a basket than as a one-name answer for every reader
 
 ### 6. Aethir
 
-Aethir is a stronger fit for readers who want exposure to distributed GPU capacity rather than AI social narratives. The case is straightforward: if AI workloads keep scaling, compute marketplaces and GPU distribution remain important.
+Aethir is a strong choice for readers who want exposure to distributed GPU capacity rather than AI-social narratives. The [Aethir docs](https://docs.aethir.com/aethir-introduction) describe it as distributed cloud compute infrastructure that aggregates enterprise-grade GPU chips into a global network for AI, gaming, and virtualized compute. That is a strength if you want a straightforward supply-side AI thesis, but it becomes a weakness if you prefer a more differentiated token story than “GPU demand stays high.”
+
+Best for:
+- readers who want broad GPU-cloud exposure
+- users who think AI demand will keep rewarding compute distribution networks
+
+Tradeoffs:
+- clearer as a compute story than as a uniquely differentiated AI protocol
+- still exposed to heavy competition across decentralized compute narratives
+- easier to explain than some projects, but also easier to commoditize
 
 ### 7. io.net
 
-io.net is another compute-layer project that matters because traders keep looking for decentralized ways to access GPU supply. The main reason to watch it is whether it turns infrastructure demand into recurring ecosystem relevance rather than one-off narrative spikes.
+io.net is a strong choice for readers who want a more ML-native version of the decentralized GPU thesis. The [official docs](https://io.net/docs/guides/getting-started) position it around distributed cloud clusters for machine-learning engineers, while the [FAQ](https://io.net/docs/guides/faq) stresses its role as a decentralized GPU network for ML applications. That is a strength if you want infrastructure that speaks directly to training, serving, and parallelization, but it becomes a weakness if you need the simplest possible investment case, because the category already has several competing compute-network narratives.
+
+Best for:
+- readers who want AI-compute exposure tied to ML workflows
+- users who prefer infrastructure language that maps directly to training and serving
+
+Tradeoffs:
+- compute-network competition is intense
+- the story is stronger when usage scales, not just when the narrative runs
+- the more similar the category becomes, the more differentiation matters
 
 ### 8. Virtuals Protocol
 
-Virtuals matters because it sits at the center of the onchain agent economy thesis. It is one of the clearest examples of a project trying to turn agent creation, tokenization, and agent-to-agent commerce into a coherent economic system.
+Virtuals is a strong choice for readers who think the most important AI-crypto opportunity sits in agent economies rather than in compute or data alone. The [whitepaper](https://whitepaper.virtuals.io/) describes Virtuals as a society of AI agents, and it explicitly says the `$VIRTUAL` token functions as the base liquidity pair and transactional currency across agent interactions. That is a strength if you want direct exposure to tokenized agent creation and commerce, but it becomes a weakness if you want lower narrative sensitivity, because ecosystem-centered agent plays can swing harder than broader infrastructure names.
 
-If the reader's real interest is not the broad AI sector but the agent economy specifically, this section should push them toward [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/) and [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/).
+If the reader's real interest is not the broad AI sector but the agent economy specifically, the natural next reads are [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/) and [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/).
 
-This is a strength if you want direct exposure to the tokenized-agent-economy thesis. But it becomes a weakness if you want lower narrative sensitivity, because ecosystem-centered agent plays can swing harder than broader infrastructure names.
+Best for:
+- readers who want the clearest agent-economy thesis
+- users who believe tokens can coordinate AI-agent commerce onchain
+
+Tradeoffs:
+- more narrative-sensitive than broader infrastructure names
+- ecosystem correlation can amplify both upside and downside
+- strongest if agent creation and usage compound, weaker if attention leads usage
 
 ### 9. Grass
 
-Grass is a useful pick for the data side of the AI stack. The AI trade is not only about models and compute; it is also about who sources, structures, and monetizes data.
+Grass is a useful choice for readers who think the data-acquisition side of AI is still underpriced relative to compute. The public [Grass extension flow](https://cf-app.getgrass.io/dashboard/download/item/extension) explains the model simply: use small amounts of unused bandwidth to fetch public web data for AI training. That is a strength if you believe data sourcing becomes more valuable as model competition intensifies, but it becomes a weakness if you prefer deeper infrastructure with a more visible enterprise or protocol layer, because the public product story remains simpler and thinner than the strongest names above it.
+
+Best for:
+- readers who want AI-data exposure instead of pure GPU exposure
+- users who think data collection and distribution deserve more attention in the stack
+
+Tradeoffs:
+- the public-facing product story is simpler than the leading infrastructure names
+- easier to understand, but also easier to dismiss as a narrower thesis
+- weaker if the market keeps rewarding only compute-heavy narratives
 
 ### 10. OriginTrail
 
-OriginTrail earns the last slot because the AI stack also needs verifiable knowledge and trusted information layers. That is a less flashy angle than agent memes, but it can age better if the market starts preferring infrastructure with enterprise-style use cases.
+OriginTrail is a strong choice for readers who think AI needs verifiable knowledge and provenance, not just more models and more compute. The [OriginTrail docs](https://docs.origintrail.io/) describe the DKG as trusted memory for AI, and the [DKG documentation](https://docs.origintrail.io/dkg-knowledge-hub/learn-more/readme/decentralized-knowle-dge-graph-dkg) makes the case for a verifiable knowledge layer that AI agents can query and build on. That is a strength if you believe the next phase of AI infrastructure is about trustworthy context, but it becomes a weakness if you only want the loudest market narrative, because knowledge layers rarely trade as cleanly as compute or agent-economy stories.
+
+Best for:
+- readers who want exposure to verifiable knowledge infrastructure for AI
+- users who think provenance and explainability matter more over time
+
+Tradeoffs:
+- less flashy than compute and agent tokens
+- harder to market in short narrative cycles
+- strongest if AI markets begin to reward trust and context, not just speed
 
 ## Key evidence and category signals in 2026
 
 Three signals matter most right now.
 
-First, category structure is getting cleaner. CoinGecko separates broad AI tokens from AI Agents, DeFAI, and Virtuals ecosystem names, which shows the market is no longer treating AI crypto as one bucket. That is also why your internal linking should branch readers out to focused pages like [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/) and [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/), not trap them on one general list.
+First, category structure is cleaner than it was even a year ago. Broad AI tokens, agent-economy names, DeFAI projects, and infrastructure plays no longer belong in one loose bucket. That is why this page should branch readers toward [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/), [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/), and [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/) instead of pretending one ranking answers every question.
 
-Second, the agent economy is pulling attention back to infrastructure. Coinbase Institutional's March 31, 2026 report argued that the real AI-agent opportunity in crypto may sit in wallets, payment rails, and settlement layers rather than only in the flashiest tokens. Internally, that is where [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/) and [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/) become stronger follow-up reads than another generic token list.
+Second, the current public evidence still favors rails over slogans. The [Coinbase Institutional report from March 31, 2026](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy) argued that crypto's AI-agent opportunity may sit in wallets, payment rails, and settlement infrastructure rather than only in the flashiest narrative tokens. That view helps explain why Chainlink, Akash, OriginTrail, and Bittensor continue to hold up in this list even when they are less meme-friendly than some rivals.
 
-Third, decentralized AI is now easier to evaluate through live ecosystems. Bittensor's subnet model and Virtuals' whitepaper are both stronger evidence than generic "AI on blockchain" claims from earlier cycles.
+Third, live ecosystems now make the category easier to separate. Bittensor's subnet count, Virtuals' explicit agent-economy framing, and OriginTrail's AI-memory positioning are all clearer than the vague "AI on blockchain" pitches that dominated earlier cycles.
 
 ## What this tells us about AI crypto in 2026
 
 The lesson is simple: the strongest AI crypto projects are usually the ones that can still be explained without price talk.
 
-If a project makes sense as a compute rail, a data network, a coordination layer, or a working agent economy, it has a better chance of surviving the next narrative rotation. If the only pitch is that it belongs to the "AI" category, it is weaker by default. That is also why the site structure should move readers from this article into narrower pages such as [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/), [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/), and [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/) depending on what they are actually trying to learn.
+If a project makes sense as a compute rail, a data network, a coordination layer, a knowledge layer, or a working agent economy, it has a better chance of surviving the next narrative rotation. If the only pitch is that it belongs to the "AI" category, it is weaker by default.
+
+Choose Bittensor if you want the clearest decentralized-AI market thesis. Choose Chainlink if you want rails that agents are likely to need regardless of which token narrative wins. Choose Render, Akash, Aethir, or io.net if you think compute scarcity remains the center of the AI story. Choose Virtuals if you think agent-to-agent commerce becomes the most important crypto-native opportunity. Choose OriginTrail if you think verifiable knowledge becomes more valuable as AI systems get more powerful and more error-prone.
 
 ## FAQ
 
@@ -195,76 +293,21 @@ No. AI crypto is the bigger category. AI agent coins are one subcategory inside 
 
 Because AI agents still need trusted data, automation, and cross-chain execution. In practice, those rails matter even if Chainlink is not marketed as a pure AI play.
 
-## Internal link map used in this article
+## Methodology note
 
-- Hub to category detail: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/)
-- Hub to infrastructure detail: [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/)
-- Hub to decentralization detail: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-- Bittensor cluster support: [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/)
-- Agent-economy cluster support: [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-- Workflow support: [best AI crypto trading bots](/ai-trading/bots/best-ai-crypto-trading-bots-2026/)
-- Tactical workflow support: [best crypto AI signals](/ai-trading/signals/best-crypto-ai-signals-2026/)
-- Onchain autonomy support: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
+This guide was reviewed on July 13, 2026. We directly checked public product positioning, visible workflow framing, and official documentation. Anything that depends on live liquidity, private dashboards, wallet-connected execution, or longer usage testing still needs deeper verification before publication as investment research.
 
-## External links to cite in the body
+## Sources used in this guide
 
-- [CoinGecko Artificial Intelligence category](https://www.coingecko.com/en/categories/artificial-intelligence)
-- [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
-- [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
-- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
-- [Bittensor subnets](https://www.bittensor.ai/subnets)
+- [Bittensor subnet directory](https://bittensor.ai/subnets)
+- [Chainlink developer docs](https://docs.chain.link/)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on a category-ranking page. Use first-hand evidence only where the editorial team has actually reviewed the interfaces, docs, wallets, dashboards, or category pages directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko AI category, AI Agents category, and any relevant project dashboards
-- Original screenshots from Bittensor subnet explorer pages and Virtuals ecosystem pages
-- A screen recording of the editorial review flow: category page -> official docs -> ecosystem map -> final ranking sheet
-- If possible, one annotated comparison image showing how the team classified projects into `infrastructure`, `agents`, `data`, and `economy`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `In our review of the CoinGecko category pages...`
-- Add context such as `After manually comparing category labels, ecosystem docs, and protocol positioning on July 10, 2026...`
-- Describe real judgment calls, for example why one project was kept in the top 10 while another was excluded
-- Only use `we tested` or `we completed the workflow` if the team actually did it
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Why it may be overrated` line for each project
-- Add one short `Best fit for` line for each project
-- Add a brief note where a project has strong narrative momentum but weaker proof of durable usage
-
-### 4. Quantitative data to add where available
-
-- Number of visible subcategories tracked on CoinGecko for AI x Crypto
-- Number of Bittensor subnets live at review time
-- Any category-level ranking or market-share snapshot used in the final methodology
-- If the team builds a scoring sheet, include numeric columns such as `token utility score`, `ecosystem depth score`, and `centralization risk score`
-
-## EEAT upgrades to add before publish
-
-- Add a byline from a named crypto market analyst or editor with a short author bio
-- Add a dated methodology note such as `Reviewed on July 10, 2026`
-- Add one sentence explaining whether the ranking prioritizes utility, ecosystem activity, or investability
-- Add direct citations next to any token-ranking or category-size claim
-- Add a short methodology disclosure explaining which parts came from manual editorial review versus external data sources
-
-## Source notes
-
-- CoinGecko AI category
-- CoinGecko AI Agents category
-- Ethereum AI agents page
-- Coinbase Institutional AI agent economy report
-- Bittensor subnets pages
-- Virtuals Protocol whitepaper
-
-## Verification notes before publish
-
-- Re-check which projects still sit in the top tier of the AI category on publication day.
-- Re-confirm token tickers and official names for any rebranded projects.
-- Add direct citations if referencing category market cap or token rankings.
+- [Artificial Superintelligence Alliance docs](https://docs.superintelligence.io/artificial-superintelligence-alliance)
+- [ASI Innovation Stack](https://docs.superintelligence.io/artificial-superintelligence-alliance/asi-innovation-stack)
+- [Render compute clients](https://rendernetwork.com/participate-compute-clients)
+- [Akash docs: What is Akash Network?](https://akash.network/docs/getting-started/what-is-akash/)
+- [Aethir introduction](https://docs.aethir.com/aethir-introduction)
+- [io.net getting started docs](https://io.net/docs/guides/getting-started)
+- [Grass community extension page](https://cf-app.getgrass.io/dashboard/download/item/extension)
+- [OriginTrail docs](https://docs.origintrail.io/)
+- [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)

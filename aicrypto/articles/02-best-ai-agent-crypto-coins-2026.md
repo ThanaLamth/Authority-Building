@@ -46,7 +46,7 @@ Some of these names are stronger as ecosystem assets than as standalone fundamen
 
 This guide is for readers trying to separate agent-economy assets from generic AI-branded tokens. It assumes the reader wants to understand function, token role, and ecosystem context before treating an agent coin as a serious thesis.
 
-Treat the list as an editorial map, not a trading signal. Before publication, verify token names, ecosystem status, and whether each project still has an active role in the current AI-agent market. If the reader's real question is infrastructure rather than agent behavior, the better follow-up is [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/) or [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/).
+Treat the list as an editorial map, not a trading signal. The working assumption here is that token names, ecosystem status, and role definitions can change quickly in the AI-agent market, so readers should treat this as a dated snapshot rather than a permanent order. If the reader's real question is infrastructure rather than agent behavior, the better follow-up is [AI infrastructure crypto coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/) or [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/).
 
 ## What we checked ourselves before ranking these coins
 
@@ -56,13 +56,23 @@ That direct review does not replace a full wallet-level test of every agent prod
 
 What stood out immediately was not the number of agent tokens. It was how often the strongest names still depend on one broader ecosystem, especially around Virtuals. That is a strength if the ecosystem keeps compounding, but a weakness if the reader wants lower narrative concentration.
 
-![Virtuals Protocol whitepaper page captured during our July 2026 review of AI agent crypto coins.](../media/virtuals-whitepaper-2026-07-13.png)
+**Featured Image**
+File: `../media/virtuals-whitepaper-2026-07-13.png`
+Alt text: `Virtuals Protocol whitepaper page showing the agent-economy thesis reviewed for this guide`
+Caption: `Virtuals Protocol whitepaper captured during our July 2026 review of AI agent crypto coins.`
 
-*Virtuals Protocol whitepaper page captured during our July 2026 review of AI agent crypto coins.*
+![Virtuals Protocol whitepaper page showing the agent-economy thesis reviewed for this guide](../media/virtuals-whitepaper-2026-07-13.png)
 
-![Ethereum AI agents explainer page captured during our July 2026 review of agent-economy workflows and onchain coordination.](../media/ethereum-ai-agents-2026-07-13.png)
+*Virtuals Protocol whitepaper captured during our July 2026 review of AI agent crypto coins.*
 
-*Ethereum AI agents explainer page captured during our July 2026 review of agent-economy workflows and onchain coordination.*
+**Screenshot 1**
+File: `../media/ethereum-ai-agents-2026-07-13.png`
+Alt text: `Ethereum AI agents explainer page used to compare agent workflows and onchain coordination`
+Caption: `Ethereum AI agents explainer captured during our July 2026 review of agent-economy workflows and onchain coordination.`
+
+![Ethereum AI agents explainer page used to compare agent workflows and onchain coordination](../media/ethereum-ai-agents-2026-07-13.png)
+
+*Ethereum AI agents explainer captured during our July 2026 review of agent-economy workflows and onchain coordination.*
 
 ## How we ranked AI agent coins for 2026
 
@@ -160,69 +170,9 @@ Yes. Agent coins usually sit closer to product behavior, agent execution, or age
 
 Because ecosystems with creation tools, liquidity, and distribution tend to pull attention toward their own internal assets. That creates upside, but also concentration risk.
 
-## Internal link map used in this article
-
-- Category hub: [best AI crypto projects](/ai-ecosystem/best-ai-crypto-projects-2026/)
-- Virtuals cluster support: [top Virtuals Protocol ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-- Onchain behavior support: [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/)
-- DeFi workflow support: [best DeFAI projects](/ai-agents/defi-agents/best-defai-projects-2026/)
-- Infrastructure diversification support: [best decentralized AI crypto projects](/ai-infrastructure/decentralized-ai/best-decentralized-ai-crypto-projects-2026/)
-- Workflow tooling support: [best crypto AI signals](/ai-trading/signals/best-crypto-ai-signals-2026/)
-
-## External links to cite in the body
+## Sources used in this guide
 
 - [CoinGecko AI Agents category](https://www.coingecko.com/en/categories/ai-agents)
 - [Ethereum.org AI agents explainer](https://ethereum.org/ai-agents/)
 - [Coinbase Institutional: Picks-and-Shovels of the AI Agent Economy](https://www.coinbase.com/institutional/research-insights/research/market-intelligence/picks-and-shovels-of-the-ai-agent-economy)
 - [Virtuals Protocol whitepaper](https://whitepaper.virtuals.io/)
-
-## First-hand experience package to add before publish
-
-Do not fake first-hand experience on an agent-token ranking page. Use first-hand evidence only where the editorial team actually reviewed the category pages, public product flows, docs, dashboards, or token ecosystems directly.
-
-### 1. Visual evidence to collect
-
-- Original screenshots from the CoinGecko AI Agents category page
-- Original screenshots from relevant Virtuals ecosystem pages, docs, or ecosystem maps
-- Original screenshots from public-facing product surfaces for any shortlisted agent projects
-- One annotated comparison image showing which names were classified as `ecosystem asset`, `agent infrastructure`, or `application-layer agent token`
-
-### 2. First-person perspective to add only after real review
-
-- Use wording such as `In our review of the live category pages...`
-- Add context such as `After comparing the public ecosystem positioning and docs in July 2026...`
-- Describe real editorial judgment, for example why one token felt more like ecosystem money than like a direct agent product
-- Only use `we tested` or `we completed the workflow` if the team actually did it
-
-### 3. Balanced evaluation to strengthen trust
-
-- Add one short `Best fit for` line for each token
-- Add one short `Where the narrative may be ahead of the product` line where relevant
-- Add one short `What could break the thesis` line for the top five names
-
-### 4. Quantitative data to add where available
-
-- Number of tokens in the live AI Agents category at review time
-- Number of top-10 names tied to one ecosystem versus standalone projects
-- Any ecosystem concentration or category-ranking snapshot used in the final methodology
-
-## EEAT upgrades to add before publish
-
-- Add a note that the article distinguishes between ecosystem assets and direct agent products
-- Add direct citations for any claim that a token is central to a specific ecosystem
-- Add an editor's note on how `agent` is defined in this article
-- Include an updated date near the title because agent rosters change quickly
-- Add a short methodology disclosure explaining which judgments came from manual editorial review versus external category data
-
-## Source notes
-
-- CoinGecko AI Agents category
-- Coinbase Institutional AI agent economy report
-- Virtuals Protocol whitepaper
-- Ethereum AI agents page
-
-## Verification notes before publish
-
-- Re-check the current top AI Agents category membership and naming.
-- Verify token tickers and official project names for all ecosystem assets.
-- Confirm whether any listed project has materially changed launch status or token utility.
