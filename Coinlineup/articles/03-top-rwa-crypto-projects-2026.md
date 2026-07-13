@@ -114,6 +114,12 @@ What stood out immediately was not token branding. It was how different the stac
 
 The screenshots above should show why this matters: some projects present themselves as product wrappers, while others present themselves as infrastructure rails. That visual difference is not cosmetic. It signals what kind of RWA exposure the reader is really choosing.
 
+![Chainlink homepage captured during our July 2026 review of RWA crypto infrastructure projects.](../media/03-chainlink-home-2026-07-13.png)
+*Chainlink homepage captured during our July 2026 review of RWA crypto infrastructure projects.*
+
+![RWA stack map comparing a product wrapper, an infrastructure rail, and a protocol-level RWA project.](../media/03-rwa-stack-map-2026-07-13.svg)
+*Custom comparison graphic: Ondo for product clarity, Chainlink for infrastructure, and Centrifuge for protocol-level RWA relevance.*
+
 ## What this tells us about crypto in 2026
 
 RWA is becoming one of the most serious crypto narratives because it solves a real problem: moving familiar financial assets onto rails that settle faster and integrate more easily with onchain products.
@@ -155,7 +161,7 @@ They are often easier to explain from a business point of view, but they still c
 ## Captured media
 
 - `../media/03-chainlink-home-2026-07-13.png` Caption: `Chainlink homepage captured during our July 2026 review of RWA crypto infrastructure projects.`
-- Optional secondary visual: an explainer graphic showing tokenized treasuries vs private credit vs infrastructure rails.
+- `../media/03-rwa-stack-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting Ondo, Chainlink, and Centrifuge across the RWA stack.`
 
 ## Source set checked on 2026-07-10
 

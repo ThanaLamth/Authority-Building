@@ -116,6 +116,12 @@ What stood out immediately was not which project sounded most futuristic. It was
 
 The screenshots above should show why this matters: some DePIN projects already look like real infrastructure products, while others still look more like narrative-forward crypto ecosystems. That visual difference tells the reader how much abstraction they are buying into.
 
+![Helium homepage captured during our July 2026 review of DePIN crypto projects.](../media/04-helium-home-2026-07-13.png)
+*Helium homepage captured during our July 2026 review of DePIN crypto projects.*
+
+![DePIN landscape map comparing storage, wireless, and compute leaders.](../media/04-depin-landscape-map-2026-07-13.svg)
+*Custom comparison graphic: Filecoin for storage, Helium for real-world hardware presence, and Akash for compute.*
+
 ## What this tells us about crypto in 2026
 
 DePIN is one of the healthiest crypto narratives when it stays tied to a real service. The category gets weak when it becomes a loose marketing label. The strongest projects are still the ones that can answer three questions clearly:
@@ -159,7 +165,7 @@ No. Some AI-related projects overlap with DePIN through compute or data, but the
 ## Captured media
 
 - `../media/04-helium-home-2026-07-13.png` Caption: `Helium homepage captured during our July 2026 review of DePIN crypto projects.`
-- Optional secondary visual: a storage vs wireless vs compute vs mapping landscape diagram.
+- `../media/04-depin-landscape-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting storage, wireless, and compute DePIN lanes.`
 
 ## Source set checked on 2026-07-10
 

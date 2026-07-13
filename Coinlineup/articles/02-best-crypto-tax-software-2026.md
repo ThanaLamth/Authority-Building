@@ -186,6 +186,12 @@ What stood out immediately was not feature count. It was where each platform put
 
 The screenshots above should show why this matters: the interface already signals whether a product expects a casual retail user, an active trader, or someone solving a serious reconciliation problem.
 
+![Koinly homepage captured during our July 2026 review of crypto tax software tools.](../media/02-koinly-home-2026-07-13.png)
+*Koinly homepage captured during our July 2026 review of crypto tax software tools.*
+
+![Crypto tax software decision map comparing a generalist pick, a simple exchange-history pick, and a DeFi-heavy pick.](../media/02-tax-software-decision-map-2026-07-13.svg)
+*Custom comparison graphic: Koinly for most users, CoinLedger for simpler histories, and Crypto Tax Calculator for more complex DeFi activity.*
+
 ## What this tells us about crypto tax software in 2026
 
 The market is splitting into three lanes:
@@ -235,7 +241,7 @@ Not by default. A cheap plan is not really cheaper if it cannot correctly handle
 ## Captured media
 
 - `../media/02-koinly-home-2026-07-13.png` Caption: `Koinly homepage captured during our July 2026 review of crypto tax software tools.`
-- Optional secondary visual: a workflow graphic showing import -> reconcile -> review -> file.
+- `../media/02-tax-software-decision-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting Koinly, CoinLedger, and Crypto Tax Calculator by user complexity.`
 
 ## Source set checked on 2026-07-10
 

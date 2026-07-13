@@ -114,6 +114,12 @@ What stood out immediately was not which project used the word AI the most. It w
 
 The screenshots above should show why this matters: some projects present themselves as compute or infrastructure tools, while others present themselves more as ecosystem or alliance stories. That visual difference helps separate utility from narrative packaging.
 
+![Akash Network homepage captured during our July 2026 review of AI crypto infrastructure projects.](../media/07-akash-home-2026-07-13.png)
+*Akash Network homepage captured during our July 2026 review of AI crypto infrastructure projects.*
+
+![AI crypto utility map comparing AI-native coordination, GPU marketplaces, and decentralized compute.](../media/07-ai-crypto-utility-map-2026-07-13.svg)
+*Custom comparison graphic: Bittensor for AI-native coordination, Render for GPU marketplaces, and Akash for decentralized compute.*
+
 ## What this tells us about AI crypto in 2026
 
 The strongest AI crypto projects are usually the ones that benefit from real AI demand even if token prices go quiet for a while. The weakest ones are the projects where the AI story disappears as soon as the market stops rewarding buzzwords.
@@ -153,7 +159,7 @@ Start with utility. Ask whether the project provides compute, data, coordination
 ## Captured media
 
 - `../media/07-akash-home-2026-07-13.png` Caption: `Akash Network homepage captured during our July 2026 review of AI crypto infrastructure projects.`
-- Optional secondary visual: a compute vs data vs orchestration map for AI crypto.
+- `../media/07-ai-crypto-utility-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting Bittensor, Render, and Akash by AI utility role.`
 
 ## Source set checked on 2026-07-10
 

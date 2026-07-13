@@ -178,6 +178,12 @@ If the editor team runs a live test before publication, this is the proof that s
 
 The screenshots should also be discussed in the prose. For example: the screenshots above show whether the stablecoin experience feels like mainstream payments infrastructure, DeFi-native tooling, or a higher-friction yield product. That visual difference is not cosmetic. It tells a beginner what kind of user the product expects.
 
+![Circle USDC page captured during our July 2026 review of beginner-friendly stablecoins.](../media/01-circle-usdc-2026-07-13.png)
+*Circle USDC page captured during our July 2026 review of beginner-friendly stablecoins.*
+
+![Stablecoin decision map comparing the simplest mainstream pick, the deepest-liquidity pick, and the clearest DeFi-native pick.](../media/01-stablecoin-decision-map-2026-07-13.svg)
+*Custom comparison graphic: USDC for simplicity, USDT for exchange liquidity, and DAI for DeFi-native learning.*
+
 Recommended captions:
 
 - `USDC wallet receive screen captured during our July 2026 stablecoin review.`
@@ -250,7 +256,7 @@ Only if you understand where the yield comes from. Higher yield almost always me
 ## Captured media
 
 - `../media/01-circle-usdc-2026-07-13.png` Caption: `Circle USDC page captured during our July 2026 review of beginner-friendly stablecoins.`
-- Optional secondary visual: a simple 3-column explainer showing fiat-backed vs crypto-backed vs synthetic stablecoins.
+- `../media/01-stablecoin-decision-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting USDC, USDT, and DAI by beginner fit and complexity.`
 
 ## Source set checked on 2026-07-10
 

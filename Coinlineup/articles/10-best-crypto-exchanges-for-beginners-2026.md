@@ -106,6 +106,12 @@ What stood out immediately was not only market size. It was how differently thes
 
 The screenshots above should show why this matters: some exchange interfaces are clearly optimized for the first buy, while others already assume the user wants a broader trading environment. That visual difference is one of the fastest ways to judge beginner fit.
 
+![Kraken homepage captured during our July 2026 review of beginner crypto exchanges.](../media/10-kraken-home-2026-07-13.png)
+*Kraken homepage captured during our July 2026 review of beginner crypto exchanges.*
+
+![Exchange choice map comparing the easiest first buy, the best trust-and-balance option, and the broader toolkit route.](../media/10-exchange-choice-map-2026-07-13.svg)
+*Custom comparison graphic: Coinbase for the easiest first buy, Kraken for trust and balance, and Binance for broader product depth where available.*
+
 ## What this tells us about exchanges in 2026
 
 The exchange market has become more segmented:
@@ -152,7 +158,7 @@ It can be, but only if the user is in a region where the product is available an
 ## Captured media
 
 - `../media/10-kraken-home-2026-07-13.png` Caption: `Kraken homepage captured during our July 2026 review of beginner crypto exchanges.`
-- Optional secondary visual: a first-buy workflow from deposit -> buy -> withdraw -> self-custody.
+- `../media/10-exchange-choice-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting Coinbase, Kraken, and Binance by onboarding, trust, and toolkit depth.`
 
 ## Source set checked on 2026-07-10
 

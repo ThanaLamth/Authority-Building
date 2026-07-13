@@ -28,6 +28,7 @@ Date: 2026-07-10
 
 - `Coinlineup/media/`
 - 10 public-page screenshots captured on `2026-07-13`
+- 10 custom SVG comparison graphics created on `2026-07-13`
 - each article now references one concrete image filename and editorial caption
 
 ## Recommended First Publish Order

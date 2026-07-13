@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Beginner exchange choice map for 2026</title>
+  <desc id="desc">A comparison graphic showing Coinbase for the easiest first buy, Kraken for trust and balance, and Binance for broader product depth where available.</desc>
+  <rect width="1600" height="900" fill="#f7f1e7"/>
+  <rect x="60" y="60" width="1480" height="780" rx="28" fill="#fffaf2" stroke="#d8ccb8" stroke-width="4"/>
+  <text x="100" y="135" fill="#18212b" font-family="Arial, sans-serif" font-size="54" font-weight="700">Beginner exchange choice map for 2026</text>
+  <text x="100" y="182" fill="#4b5563" font-family="Arial, sans-serif" font-size="28">The key split is easy onboarding vs balanced trust vs deeper toolkit.</text>
+  <rect x="100" y="250" width="400" height="430" rx="24" fill="#e7f1ff"/>
+  <rect x="100" y="250" width="400" height="64" rx="24" fill="#2f6fed"/>
+  <text x="130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Coinbase</text>
+  <text x="130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: easiest first buy</text>
+  <text x="130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Mainstream onboarding</text>
+  <text x="130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Calm beginner posture</text>
+  <text x="130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good first recommendation</text>
+  <text x="130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: convenience fees can be higher</text>
+  <rect x="600" y="250" width="400" height="430" rx="24" fill="#fff0d8"/>
+  <rect x="600" y="250" width="400" height="64" rx="24" fill="#f59e0b"/>
+  <text x="630" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Kraken</text>
+  <text x="630" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: trust and balance</text>
+  <text x="630" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Strong reputation</text>
+  <text x="630" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Useful product depth</text>
+  <text x="630" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Broad beginner fit</text>
+  <text x="630" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: not the cheapest route for everyone</text>
+  <rect x="1100" y="250" width="400" height="430" rx="24" fill="#e8f7ec"/>
+  <rect x="1100" y="250" width="400" height="64" rx="24" fill="#2f855a"/>
+  <text x="1130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Binance</text>
+  <text x="1130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: broader toolkit</text>
+  <text x="1130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Strong liquidity and range</text>
+  <text x="1130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good for deeper expansion</text>
+  <text x="1130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Power-user growth path</text>
+  <text x="1130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: region and complexity matter more</text>
+  <text x="100" y="755" fill="#4b5563" font-family="Arial, sans-serif" font-size="24">Decision shortcut: start with Coinbase or Kraken for broad beginner fit, then only move into deeper exchange stacks if your goals truly require them.</text>
+</svg>

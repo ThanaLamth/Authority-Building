@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Staking decision map for 2026</title>
+  <desc id="desc">A comparison graphic showing ETH for mature staking, SOL for active ecosystem use, and ADA for simple delegation.</desc>
+  <rect width="1600" height="900" fill="#f7f1e7"/>
+  <rect x="60" y="60" width="1480" height="780" rx="28" fill="#fffaf2" stroke="#d8ccb8" stroke-width="4"/>
+  <text x="100" y="135" fill="#18212b" font-family="Arial, sans-serif" font-size="54" font-weight="700">Staking decision map for 2026</text>
+  <text x="100" y="182" fill="#4b5563" font-family="Arial, sans-serif" font-size="28">The key split is mature staking vs active ecosystem exposure vs simple delegation.</text>
+  <rect x="100" y="250" width="400" height="430" rx="24" fill="#e7f1ff"/>
+  <rect x="100" y="250" width="400" height="64" rx="24" fill="#2f6fed"/>
+  <text x="130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">ETH</text>
+  <text x="130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: mature staking</text>
+  <text x="130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Deep validator economy</text>
+  <text x="130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Strong infrastructure role</text>
+  <text x="130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Clear long-term case</text>
+  <text x="130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: not the highest-yield route</text>
+  <rect x="600" y="250" width="400" height="430" rx="24" fill="#fff0d8"/>
+  <rect x="600" y="250" width="400" height="64" rx="24" fill="#f59e0b"/>
+  <text x="630" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">SOL</text>
+  <text x="630" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: active ecosystem users</text>
+  <text x="630" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">High app activity</text>
+  <text x="630" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good staking visibility</text>
+  <text x="630" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Useful for ecosystem participants</text>
+  <text x="630" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: stronger narrative and execution risk</text>
+  <rect x="1100" y="250" width="400" height="430" rx="24" fill="#e8f7ec"/>
+  <rect x="1100" y="250" width="400" height="64" rx="24" fill="#2f855a"/>
+  <text x="1130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">ADA</text>
+  <text x="1130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: simple delegation</text>
+  <text x="1130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Beginner-readable flow</text>
+  <text x="1130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Easy mental model</text>
+  <text x="1130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good retail fit</text>
+  <text x="1130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: less dynamic narrative upside</text>
+  <text x="100" y="755" fill="#4b5563" font-family="Arial, sans-serif" font-size="24">Decision shortcut: start with ETH or ADA for clarity, and use SOL when your staking thesis is tied to ecosystem usage.</text>
+</svg>

@@ -123,6 +123,12 @@ What stood out immediately was not utility. It was hierarchy. A few names still 
 
 The screenshots above should show why this matters: the visual posture of a category leader looks very different from a fast-rotation meme play. That difference is not decorative. It helps the reader see whether a coin is anchoring the category or simply riding a subcycle.
 
+![CoinMarketCap meme-token category page captured during our July 2026 review of top meme coins.](../media/08-coinmarketcap-memes-2026-07-13.png)
+*CoinMarketCap meme-token category page captured during our July 2026 review of top meme coins.*
+
+![Meme coin risk map comparing a category anchor, an internet-native leader, and a chain-specific attention proxy.](../media/08-meme-coin-risk-map-2026-07-13.svg)
+*Custom comparison graphic: DOGE as the category anchor, PEPE as the culture-heavy leader, and BONK as a chain-specific attention proxy.*
+
 ## What this tells us about meme coins in 2026
 
 Meme coins are still a useful market-reading tool. They show where retail attention, chain culture, and speculative energy are moving. But they are weak long-term educational vehicles unless you explain the risks directly.
@@ -159,7 +165,7 @@ Because crypto still rewards liquidity, culture, and simple narratives. Meme coi
 ## Captured media
 
 - `../media/08-coinmarketcap-memes-2026-07-13.png` Caption: `CoinMarketCap meme-token category page captured during our July 2026 review of top meme coins.`
-- Optional secondary visual: a timeline showing DOGE -> SHIB -> PEPE -> Solana/Base meme rotations.
+- `../media/08-meme-coin-risk-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting anchor meme coins and rotation-driven attention plays.`
 
 ## Source set checked on 2026-07-10
 

@@ -110,6 +110,12 @@ What stood out immediately was not the reward number. It was how differently eac
 
 The screenshots above should show why this matters: the public staking pages already signal whether a network is teaching calm participation, ecosystem identity, or a higher-risk narrative. That visual difference helps explain why the highest yield is not automatically the best beginner choice.
 
+![Ethereum staking page captured during our July 2026 review of beginner staking options.](../media/05-ethereum-staking-2026-07-13.png)
+*Ethereum staking page captured during our July 2026 review of beginner staking options.*
+
+![Staking decision map comparing mature staking, active ecosystem staking, and simple delegation.](../media/05-staking-decision-map-2026-07-13.svg)
+*Custom comparison graphic: ETH for mature staking, SOL for active ecosystem use, and ADA for simple delegation.*
+
 ## What this tells us about staking in 2026
 
 Staking has matured into two markets:
@@ -155,7 +161,7 @@ No. You still face market risk, validator risk, smart-contract risk in some setu
 ## Captured media
 
 - `../media/05-ethereum-staking-2026-07-13.png` Caption: `Ethereum staking page captured during our July 2026 review of beginner staking options.`
-- Optional secondary visual: a delegated staking vs native staking vs liquid staking explainer.
+- `../media/05-staking-decision-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting ETH, SOL, and ADA by staking fit and complexity.`
 
 ## Source set checked on 2026-07-10
 

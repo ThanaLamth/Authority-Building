@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">DePIN landscape map for 2026</title>
+  <desc id="desc">A comparison graphic highlighting Filecoin for storage, Helium for real-world hardware presence, and Akash for compute.</desc>
+  <rect width="1600" height="900" fill="#f7f1e7"/>
+  <rect x="60" y="60" width="1480" height="780" rx="28" fill="#fffaf2" stroke="#d8ccb8" stroke-width="4"/>
+  <text x="100" y="135" fill="#18212b" font-family="Arial, sans-serif" font-size="54" font-weight="700">DePIN landscape map for 2026</text>
+  <text x="100" y="182" fill="#4b5563" font-family="Arial, sans-serif" font-size="28">Storage, hardware, and compute are not the same bet.</text>
+  <rect x="100" y="250" width="400" height="430" rx="24" fill="#e7f1ff"/>
+  <rect x="100" y="250" width="400" height="64" rx="24" fill="#2f6fed"/>
+  <text x="130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Filecoin</text>
+  <text x="130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Lane: storage</text>
+  <text x="130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Clear infrastructure thesis</text>
+  <text x="130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Long-running category anchor</text>
+  <text x="130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good beginner explanation</text>
+  <text x="130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: storage demand and token value differ</text>
+  <rect x="600" y="250" width="400" height="430" rx="24" fill="#fff0d8"/>
+  <rect x="600" y="250" width="400" height="64" rx="24" fill="#f59e0b"/>
+  <text x="630" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Helium</text>
+  <text x="630" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Lane: wireless and hardware</text>
+  <text x="630" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Physical network story</text>
+  <text x="630" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Easy real-world example</text>
+  <text x="630" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good tangible output</text>
+  <text x="630" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: adoption path has been uneven</text>
+  <rect x="1100" y="250" width="400" height="430" rx="24" fill="#e8f7ec"/>
+  <rect x="1100" y="250" width="400" height="64" rx="24" fill="#2f855a"/>
+  <text x="1130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Akash</text>
+  <text x="1130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Lane: compute</text>
+  <text x="1130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Clear compute-market framing</text>
+  <text x="1130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good AI-adjacent relevance</text>
+  <text x="1130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Useful practical narrative</text>
+  <text x="1130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: usage still matters more than theme</text>
+  <text x="100" y="755" fill="#4b5563" font-family="Arial, sans-serif" font-size="24">Decision shortcut: treat DePIN as separate infrastructure lanes, not as one generic token bucket.</text>
+</svg>

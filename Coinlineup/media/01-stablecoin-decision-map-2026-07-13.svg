@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Stablecoin decision map for 2026</title>
+  <desc id="desc">A comparison graphic highlighting USDC for simplicity, USDT for liquidity, and DAI for DeFi-native learning.</desc>
+  <rect width="1600" height="900" fill="#f7f1e7"/>
+  <rect x="60" y="60" width="1480" height="780" rx="28" fill="#fffaf2" stroke="#d8ccb8" stroke-width="4"/>
+  <text x="100" y="135" fill="#18212b" font-family="Arial, sans-serif" font-size="54" font-weight="700">Stablecoin decision map for 2026</text>
+  <text x="100" y="182" fill="#4b5563" font-family="Arial, sans-serif" font-size="28">Use this as a quick visual companion to the ranked list in the article.</text>
+  <rect x="100" y="250" width="400" height="430" rx="24" fill="#e7f1ff"/>
+  <rect x="100" y="250" width="400" height="64" rx="24" fill="#2f6fed"/>
+  <text x="130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">USDC</text>
+  <text x="130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: mainstream simplicity</text>
+  <text x="130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Clear issuer story</text>
+  <text x="130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Strong wallet support</text>
+  <text x="130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good first self-custody test</text>
+  <text x="130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: centralized rails still matter</text>
+  <rect x="600" y="250" width="400" height="430" rx="24" fill="#fff0d8"/>
+  <rect x="600" y="250" width="400" height="64" rx="24" fill="#f59e0b"/>
+  <text x="630" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">USDT</text>
+  <text x="630" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: exchange liquidity</text>
+  <text x="630" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Deep market reach</text>
+  <text x="630" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Broad pair support</text>
+  <text x="630" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Useful for active trading</text>
+  <text x="630" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: trust story is less beginner-clean</text>
+  <rect x="1100" y="250" width="400" height="430" rx="24" fill="#e8f7ec"/>
+  <rect x="1100" y="250" width="400" height="64" rx="24" fill="#2f855a"/>
+  <text x="1130" y="293" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">DAI</text>
+  <text x="1130" y="356" fill="#18212b" font-family="Arial, sans-serif" font-size="26">Best for: DeFi-native learning</text>
+  <text x="1130" y="406" fill="#374151" font-family="Arial, sans-serif" font-size="24">Collateralized design</text>
+  <text x="1130" y="446" fill="#374151" font-family="Arial, sans-serif" font-size="24">Good second-step stablecoin</text>
+  <text x="1130" y="486" fill="#374151" font-family="Arial, sans-serif" font-size="24">Useful in DeFi context</text>
+  <text x="1130" y="556" fill="#7c2d12" font-family="Arial, sans-serif" font-size="24">Watchout: more complexity than fiat-backed coins</text>
+  <text x="100" y="755" fill="#4b5563" font-family="Arial, sans-serif" font-size="24">Decision shortcut: choose USDC for the cleanest first step, USDT for trading liquidity, and DAI when you specifically want DeFi-native context.</text>
+</svg>

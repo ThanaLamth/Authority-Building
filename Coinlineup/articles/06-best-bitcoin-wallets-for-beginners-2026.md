@@ -99,6 +99,12 @@ What stood out immediately was not feature count. It was the intended behavior e
 
 The screenshots above should show why this matters: some wallet interfaces are trying to keep the first experience calm and legible, while others are already signaling more advanced control. That visual difference is one of the clearest clues about beginner fit.
 
+![BlueWallet homepage captured during our July 2026 review of beginner Bitcoin wallets.](../media/06-bluewallet-home-2026-07-13.png)
+*BlueWallet homepage captured during our July 2026 review of beginner Bitcoin wallets.*
+
+![Bitcoin wallet path comparing a learning wallet, a Lightning spending wallet, and a hardware storage wallet.](../media/06-bitcoin-wallet-path-2026-07-13.svg)
+*Custom comparison graphic: BlueWallet for learning, Phoenix for Lightning spending, and Trezor for long-term hardware storage.*
+
 ## What this tells us about Bitcoin wallets in 2026
 
 The beginner wallet market has become more specialized:
@@ -144,7 +150,7 @@ No. A wallet gives you direct control of keys or wallet access. An exchange acco
 ## Captured media
 
 - `../media/06-bluewallet-home-2026-07-13.png` Caption: `BlueWallet homepage captured during our July 2026 review of beginner Bitcoin wallets.`
-- Optional secondary visual: an onchain vs Lightning wallet decision tree.
+- `../media/06-bitcoin-wallet-path-2026-07-13.svg` Caption: `Custom comparison graphic contrasting BlueWallet, Phoenix, and Trezor by learning, spending, and storage fit.`
 
 ## Source set checked on 2026-07-10
 

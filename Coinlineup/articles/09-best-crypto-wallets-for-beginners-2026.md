@@ -111,6 +111,12 @@ What stood out immediately was not chain support alone. It was what behavior the
 
 The screenshots above should show why this matters: some wallets are designed to lower panic and confusion, while others are designed to expose more control. That visual difference is one of the clearest signals of whether a wallet is truly beginner-friendly.
 
+![Phantom homepage captured during our July 2026 review of beginner crypto wallets.](../media/09-phantom-home-2026-07-13.png)
+*Phantom homepage captured during our July 2026 review of beginner crypto wallets.*
+
+![Wallet choice map comparing mainstream onboarding, polished onchain use, and security-first hardware.](../media/09-wallet-choice-map-2026-07-13.svg)
+*Custom comparison graphic: Coinbase Wallet for mainstream onboarding, Phantom for polished onchain use, and Ledger for the security-first step up.*
+
 ## What this tells us about wallets in 2026
 
 The wallet market is dividing into clearer groups:
@@ -158,7 +164,7 @@ Usually when the amount stored becomes meaningful enough that phone-only storage
 ## Captured media
 
 - `../media/09-phantom-home-2026-07-13.png` Caption: `Phantom homepage captured during our July 2026 review of beginner crypto wallets.`
-- Optional secondary visual: a backup, recovery, and phishing checklist for beginners.
+- `../media/09-wallet-choice-map-2026-07-13.svg` Caption: `Custom comparison graphic contrasting Coinbase Wallet, Phantom, and Ledger by beginner fit and security posture.`
 
 ## Source set checked on 2026-07-10
 
