@@ -22,6 +22,20 @@ To make this page more useful than a typical bridge roundup, it should connect d
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public route framing, asset-and-chain positioning, and workflow language of the shortlisted bridges. Where a claim still depends on a live transfer, a wallet confirmation step, or a route-specific output test, we keep that limit visible instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Across homepage captured during our July 2026 review of cross-chain bridges.](../media/across-home-2026-07-13.png)
+
+*Across homepage captured during our July 2026 review of cross-chain bridges.*
+
+![Stargate public app surface captured during our July 2026 review of bridge workflows.](../media/stargate-home-2026-07-13.png)
+
+*Stargate public app surface captured during our July 2026 review of bridge workflows.*
+
+![deBridge homepage captured during our July 2026 review of cross-chain routing platforms.](../media/debridge-home-2026-07-13.png)
+
+*deBridge homepage captured during our July 2026 review of cross-chain routing platforms.*
+
 ## What are the best cross-chain bridges in 2026?
 
 The best cross-chain bridges in 2026 are Across, Stargate, deBridge, Wormhole-powered routes, and aggregator-led experiences such as Squid or LI.FI-powered interfaces `[needs source]`. Across is often one of the best starting points for mainstream transfers, Stargate remains important where supported liquidity routes are strong, and deBridge is better suited to users who need broader routing logic or more advanced cross-chain behavior.
@@ -111,6 +125,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a real end-to-end transfer test across the same asset and chain pairs. But based on what we could verify directly from the public experience, one thing stood out quickly: some bridges are clearly built to make common transfers feel simple, while others are built for users who can tolerate more complexity in exchange for broader routing control.
 
 What stood out immediately was not the visual polish. It was how much each bridge expects the user to already understand. That is a strength if your reader is already comfortable with route assumptions and chain behavior, but a weakness if the real problem is simply getting from one chain to another without making a costly mistake.
+
+The screenshots above show why this distinction matters. Across presents a simpler transfer-first posture. Stargate signals a more app-like routing environment with clearer chain-to-chain action framing. deBridge signals a broader cross-chain trading and routing identity. That visual difference is not cosmetic. It usually tells you how much context the product expects the user to bring before clicking through a live route.
 
 ## What we can verify directly, and what still needs deeper testing
 

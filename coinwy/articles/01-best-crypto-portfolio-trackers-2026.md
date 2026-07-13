@@ -22,6 +22,20 @@ If this page sits inside a full tools cluster, the strongest supporting reads ar
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly checked the public product surfaces, positioning, and supported workflow claims of the shortlisted tools. Where a claim still depends on a logged-in sync test, tax export, or full end-to-end portfolio import, we keep that limitation explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![CoinStats homepage captured during our July 2026 review of crypto portfolio trackers.](../media/coinstats-home-2026-07-13.png)
+
+*CoinStats homepage captured during our July 2026 review of crypto portfolio trackers.*
+
+![Delta by eToro homepage captured during our July 2026 review of portfolio tracking tools.](../media/delta-home-2026-07-13.png)
+
+*Delta by eToro homepage captured during our July 2026 review of portfolio tracking tools.*
+
+![Zerion homepage captured during our July 2026 review of wallet-first portfolio tools.](../media/zerion-home-2026-07-13.png)
+
+*Zerion homepage captured during our July 2026 review of wallet-first portfolio tools.*
+
 ## What are the best crypto portfolio trackers in 2026?
 
 The best crypto portfolio trackers in 2026 are CoinStats, Delta, Zerion, DeBank, CoinGecko Portfolio, and a few niche tools that specialize in either DeFi visibility or clean multi-exchange syncing. The right choice depends less on brand size than on what you actually need: exchange reconciliation, wallet-only tracking, tax exports, mobile alerts, or deeper DeFi coverage.
@@ -108,7 +122,7 @@ That direct review does not replace a full multi-account usage test. We did not 
 
 What stood out immediately was not the number of features. It was the posture of the product. CoinStats and Delta present themselves more like mainstream portfolio products with different levels of crypto depth. Zerion and DeBank signal something different: they expect a user who already thinks in wallets, chains, and onchain activity. That is a strength if your portfolio already spans multiple crypto environments, but a weakness if your real goal is a simpler all-in-one view with less context switching.
 
-The screenshots and visual evidence matter here. Even before a logged-in test, the public interface already tells you whether the product is optimized for mainstream monitoring, DeFi visibility, or wallet-first discovery. That visual difference is not cosmetic. It usually predicts where the user will feel friction later.
+The screenshots above show why this matters. CoinStats leads with wallet and exchange connection. Delta leads with a broader "financial superpower" framing that feels more mainstream-investor first. Zerion signals a wallet-first, Solana-and-Ethereum-native posture before the user even clicks deeper. That visual difference is not cosmetic. It usually predicts where the user will feel friction later.
 
 ## What we can verify directly, and what still needs deeper testing
 

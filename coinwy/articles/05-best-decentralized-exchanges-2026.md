@@ -22,6 +22,20 @@ Internally, this page should support [best crypto exchanges](/exchanges/centrali
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, route framing, and ecosystem positioning of the shortlisted DEXs. Where a claim still depends on a real swap, a wallet-connected route, or a live liquidity comparison, we keep that limit explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Uniswap public swap interface captured during our July 2026 review of decentralized exchanges.](../media/uniswap-app-2026-07-13.png)
+
+*Uniswap public swap interface captured during our July 2026 review of decentralized exchanges.*
+
+![Jupiter public trading surface captured during our July 2026 review of Solana-first DEX workflows.](../media/jupiter-home-2026-07-13.png)
+
+*Jupiter public trading surface captured during our July 2026 review of Solana-first DEX workflows.*
+
+![PancakeSwap homepage captured during our July 2026 review of multi-chain decentralized exchanges.](../media/pancakeswap-home-2026-07-13-v2.png)
+
+*PancakeSwap homepage captured during our July 2026 review of multi-chain decentralized exchanges.*
+
 ## What are the best decentralized exchanges in 2026?
 
 The best decentralized exchanges in 2026 are Uniswap, Jupiter, PancakeSwap, Hyperliquid, and Curve, with Raydium, Aerodrome, and other ecosystem-specific venues also relevant in the right context `[needs source]`. Uniswap remains the cleanest reference point for broad EVM swaps, Jupiter is the key routing layer for many Solana users, PancakeSwap stays relevant for retail-friendly multi-chain access, Hyperliquid matters for decentralized perps, and Curve still matters when stablecoin-oriented liquidity is the main concern.
@@ -113,6 +127,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a real side-by-side swap test on the same token pairs and chains. But based on what we could verify directly from the public experience, one difference stood out immediately: some products feel like pure trading venues, while others feel more like route engines or ecosystem access layers.
 
 What stood out immediately was not brand size. It was product posture. Uniswap feels like a reference venue. Jupiter feels like a routing answer to a liquidity problem. Hyperliquid feels like a trading-specific answer to a different problem altogether. That makes these products more useful when treated as fit-based choices, not as interchangeable names in a single leaderboard.
+
+The screenshots above show why that framing matters. Uniswap presents the swap box as the main event. Jupiter presents a denser Solana-native environment that already assumes routing, adjacent tools, and broader onchain activity. PancakeSwap presents itself as a multi-chain retail gateway with portfolio, perps, and earn paths visible from the start. That visual difference is not cosmetic. It usually predicts where a new user will feel either clarity or overload.
 
 ## What we can verify directly, and what still needs deeper testing
 

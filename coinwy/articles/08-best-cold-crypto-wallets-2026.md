@@ -22,6 +22,20 @@ To strengthen internal topical authority, this page should point readers to [bes
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, onboarding posture, and custody positioning of the shortlisted devices. Where a claim still depends on a real setup, a firmware step, or an end-to-end send-and-receive test, we keep that limit visible instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Trezor homepage captured during our July 2026 review of cold crypto wallets.](../media/trezor-home-2026-07-13.png)
+
+*Trezor homepage captured during our July 2026 review of cold crypto wallets.*
+
+![Ledger homepage captured during our July 2026 review of hardware-wallet platforms.](../media/ledger-home-2026-07-13.png)
+
+*Ledger homepage captured during our July 2026 review of hardware-wallet platforms.*
+
+![Bitkey homepage captured during our July 2026 review of Bitcoin-focused cold-wallet options.](../media/bitkey-home-2026-07-13.png)
+
+*Bitkey homepage captured during our July 2026 review of Bitcoin-focused cold-wallet options.*
+
 ## What are the best cold crypto wallets in 2026?
 
 The best cold crypto wallets in 2026 include Trezor, Ledger, Bitkey, Coldcard, and SafePal, with the right choice depending on whether the user prioritizes beginner simplicity, Bitcoin-only focus, mobile convenience, or broader multi-asset support. Trezor remains attractive for users who value transparency-focused branding and simpler self-custody workflows, Ledger remains relevant for broad asset support and mainstream adoption, Bitkey matters for users who want a more guided custody experience, and Coldcard remains especially relevant in Bitcoin-only circles.
@@ -109,6 +123,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a real device setup and send-and-receive test. But based on what we could verify directly from the public experience, one thing stood out quickly: some wallets are clearly built to reduce fear for beginners, while others are built to reward users who already accept a more demanding self-custody posture.
 
 What stood out immediately was not just feature count. It was the implied user discipline. Some devices feel designed to guide the owner. Others feel designed to assume the owner already knows what they are doing. That is a strength if your reader wants more control, but a weakness if the real problem is simply building a durable custody habit without unnecessary complexity.
+
+The screenshots above show why this matters. Trezor presents hardware ownership and product guidance in a relatively direct way. Ledger presents a broader wallet-and-app ecosystem around the device, which signals convenience and range but also a more commercial product stack. Bitkey presents a much narrower Bitcoin-first and recovery-aware posture. That visual difference is not cosmetic. It usually tells you whether the device is trying to reduce fear, expand functionality, or narrow the custody model on purpose.
 
 ## What we can verify directly, and what still needs deeper testing
 

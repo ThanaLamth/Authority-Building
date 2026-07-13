@@ -22,6 +22,20 @@ This piece should support a wider cluster by linking directly to [best DeFi yiel
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public staking surfaces, workflow framing, and custody posture of the shortlisted options. Where a claim still depends on a live deposit, a lockup rule, or a full stake-and-unstake test, we keep that limit explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Lido homepage captured during our July 2026 review of liquid-staking platforms.](../media/lido-home-2026-07-13.png)
+
+*Lido homepage captured during our July 2026 review of liquid-staking platforms.*
+
+![Rocket Pool homepage captured during our July 2026 review of decentralized staking options.](../media/rocketpool-home-2026-07-13.png)
+
+*Rocket Pool homepage captured during our July 2026 review of decentralized staking options.*
+
+![Coinbase staking page captured during our July 2026 review of custodial staking platforms.](../media/coinbase-staking-2026-07-13.png)
+
+*Coinbase staking page captured during our July 2026 review of custodial staking platforms.*
+
 ## What are the best crypto staking platforms in 2026?
 
 The best crypto staking platforms in 2026 include Binance, Coinbase, Lido, Rocket Pool, and selected wallet-integrated or validator-linked options `[needs source]`. Binance and Coinbase matter because custodial staking is still the easiest entry point for many users, while Lido and Rocket Pool matter because liquid staking and more explicitly on-chain options remain central to how staking works in practice for many crypto-native users.
@@ -110,6 +124,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a live stake-and-unstake test across the same asset and position size. But based on what we could verify directly from the public experience, one thing stood out immediately: some products are built to make staking feel like a low-friction extension of an exchange account, while others are built around a more explicit on-chain structure and a different kind of user responsibility.
 
 What stood out immediately was not the headline reward. It was how much each product asks the user to think about liquidity and control. That is a strength if your reader wants optionality and deeper understanding, but a weakness if the real goal is a simple one-click yield decision.
+
+The screenshots above show why that difference matters. Lido presents staking as a simple liquid product tied to one core asset. Rocket Pool presents staking as a more protocol-native and Ethereum-aligned choice with multiple paths inside the ecosystem. Coinbase presents staking through a more institutional and account-based trust frame. That visual difference is not cosmetic. It usually predicts whether the reader is being guided toward convenience, on-chain optionality, or a broader custodial relationship.
 
 ## What we can verify directly, and what still needs deeper testing
 

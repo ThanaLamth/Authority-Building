@@ -22,6 +22,20 @@ This page should send readers deeper into the site through [best cold crypto wal
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public wallet surfaces, onboarding posture, and positioning of the shortlisted products. Where a claim still depends on a live install, a signing test, or a deeper multi-chain usage pass, we keep that limit explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Phantom homepage captured during our July 2026 review of hot-wallet products.](../media/phantom-home-2026-07-13.png)
+
+*Phantom homepage captured during our July 2026 review of hot-wallet products.*
+
+![Trust Wallet homepage captured during our July 2026 review of everyday crypto wallets.](../media/trustwallet-home-2026-07-13.png)
+
+*Trust Wallet homepage captured during our July 2026 review of everyday crypto wallets.*
+
+![MetaMask help-center install page captured during our July 2026 review of hot-wallet onboarding surfaces.](../media/metamask-support-2026-07-13.png)
+
+*MetaMask help-center install page captured during our July 2026 review of hot-wallet onboarding surfaces.*
+
 ## What are the best hot wallets in 2026?
 
 The best hot wallets in 2026 are Rabby, Phantom, MetaMask, Trust Wallet, and Coinbase Wallet, with the best choice depending on chain preference, user experience, and how deeply the user participates in DeFi. Rabby is one of the strongest choices for serious EVM users, Phantom remains one of the cleanest consumer experiences for Solana-heavy users, MetaMask still matters because of ecosystem support, and Trust Wallet and Coinbase Wallet remain relevant as broader mainstream options.
@@ -111,6 +125,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a full install-and-usage test across the same chains, dapps, and signing flows. But based on what we could verify directly from the public experience, one thing stood out quickly: some wallets are clearly trying to reduce friction for mainstream users, while others are trying to reduce mistakes for heavier DeFi users.
 
 What stood out immediately was not which wallet looked the slickest. It was which wallet seemed to expect the user to think more carefully. That is a strength if your reader values transaction clarity and control, but a weakness if the real priority is the shortest path to basic everyday use.
+
+The screenshots above show why that distinction matters. Phantom presents itself as a consumer crypto app with trading and exploration built into the pitch. Trust Wallet presents a broad ownership-and-Web3 framing that aims at mainstream users who still want app and extension coverage. MetaMask's public install help surface immediately reinforces its extension-first and self-directed setup identity. That visual difference is not cosmetic. It usually predicts how much hand-holding or caution the user will need later.
 
 ## What we can verify directly, and what still needs deeper testing
 

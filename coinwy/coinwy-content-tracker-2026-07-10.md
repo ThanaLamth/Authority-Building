@@ -13,16 +13,16 @@ Date: 2026-07-10
 
 | # | File | Keyword | Status | Notes |
 |---|---|---|---|---|
-| 1 | `articles/01-best-crypto-portfolio-trackers-2026.md` | `best crypto portfolio trackers 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 2 | `articles/02-best-onchain-analytics-tools-2026.md` | `best on-chain analytics tools 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 3 | `articles/03-best-perpetual-crypto-exchanges-2026.md` | `best perpetual crypto exchanges 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 4 | `articles/04-best-cross-chain-bridges-2026.md` | `best cross-chain bridges 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 5 | `articles/05-best-decentralized-exchanges-2026.md` | `best decentralized exchanges 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 6 | `articles/06-best-defi-yield-farming-platforms-2026.md` | `best defi yield farming platforms 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 7 | `articles/07-best-hot-wallets-2026.md` | `best hot wallets 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 8 | `articles/08-best-cold-crypto-wallets-2026.md` | `best cold crypto wallets 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 9 | `articles/09-best-crypto-staking-platforms-2026.md` | `best crypto staking platforms 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
-| 10 | `articles/10-best-crypto-exchanges-2026.md` | `best crypto exchanges 2026` | Needs sourcing pass | Converted to tutorial-style trust block and reader-facing first-hand sections |
+| 1 | `articles/01-best-crypto-portfolio-trackers-2026.md` | `best crypto portfolio trackers 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 2 | `articles/02-best-onchain-analytics-tools-2026.md` | `best on-chain analytics tools 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 3 | `articles/03-best-perpetual-crypto-exchanges-2026.md` | `best perpetual crypto exchanges 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 4 | `articles/04-best-cross-chain-bridges-2026.md` | `best cross-chain bridges 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 5 | `articles/05-best-decentralized-exchanges-2026.md` | `best decentralized exchanges 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 6 | `articles/06-best-defi-yield-farming-platforms-2026.md` | `best defi yield farming platforms 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 7 | `articles/07-best-hot-wallets-2026.md` | `best hot wallets 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 8 | `articles/08-best-cold-crypto-wallets-2026.md` | `best cold crypto wallets 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 9 | `articles/09-best-crypto-staking-platforms-2026.md` | `best crypto staking platforms 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+| 10 | `articles/10-best-crypto-exchanges-2026.md` | `best crypto exchanges 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
 
 ## QA checklist for every article
 

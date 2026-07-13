@@ -22,6 +22,20 @@ This page becomes much more useful when it links directly to [best crypto stakin
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, yield framing, and workflow posture of the shortlisted protocols. Where a claim still depends on a live deposit, an active position, or a deeper side-by-side yield test, we keep that limit visible instead of overstating what was verified.
 
+## Visual evidence from our July 2026 review
+
+![Aave public app surface captured during our July 2026 review of DeFi yield platforms.](../media/aave-app-2026-07-13.png)
+
+*Aave public app surface captured during our July 2026 review of DeFi yield platforms.*
+
+![Pendle homepage captured during our July 2026 review of structured-yield protocols.](../media/pendle-home-2026-07-13.png)
+
+*Pendle homepage captured during our July 2026 review of structured-yield protocols.*
+
+![Lido homepage captured during our July 2026 review of liquid-staking-linked yield platforms.](../media/lido-home-2026-07-13.png)
+
+*Lido homepage captured during our July 2026 review of liquid-staking-linked yield platforms.*
+
 ## What are the best DeFi yield farming platforms in 2026?
 
 The best DeFi yield farming platforms in 2026 include Aave, Pendle, Morpho, Curve, and selected ecosystem-specific venues such as Aerodrome or liquid-staking-linked strategies `[needs source]`. Aave is still one of the cleaner starting points for conservative on-chain yield, Pendle is more relevant for users actively trading yield exposure, Morpho appeals to users optimizing lending efficiency, and Curve remains important where stablecoin liquidity and strategy design still matter.
@@ -110,6 +124,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a real deposit-and-withdrawal test across the same assets and market conditions. But based on what we could verify directly from the public experience, one thing stood out immediately: some products try to make yield feel simple, while others clearly expect the user to understand more structure, more moving parts, and more embedded assumptions.
 
 What stood out immediately was not which platform promised the highest return. It was which platform made the source of that return easier to understand. That is a strength if your reader wants durable context, but a weakness if the reader is only chasing the highest visible number without understanding where it comes from.
+
+The screenshots above show why that difference matters. Aave presents a market dashboard with rates, assets, and depth visible immediately. Pendle presents a more abstract yield-trading identity before the reader even reaches a connected workflow. Lido presents liquid staking as a simpler stake-and-earn posture tied to a single core asset. That visual difference is not cosmetic. It usually predicts how much explanation a reader will need before the strategy makes sense.
 
 ## What we can verify directly, and what still needs deeper testing
 

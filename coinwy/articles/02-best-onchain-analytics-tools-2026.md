@@ -22,6 +22,20 @@ Readers who land here often need a bridge into execution and portfolio managemen
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, workflow framing, and positioning of the shortlisted tools. Where a claim still depends on a paid tier, a logged-in workflow, or a deeper side-by-side test, we keep that limit explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Dune documentation homepage captured during our July 2026 review of on-chain analytics tools.](../media/dune-docs-2026-07-13.png)
+
+*Dune documentation homepage captured during our July 2026 review of on-chain analytics tools.*
+
+![Nansen homepage captured during our July 2026 review of wallet-intelligence and on-chain analytics tools.](../media/nansen-home-2026-07-13.png)
+
+*Nansen homepage captured during our July 2026 review of wallet-intelligence and on-chain analytics tools.*
+
+![Glassnode homepage captured during our July 2026 review of digital-asset market intelligence tools.](../media/glassnode-home-2026-07-13.png)
+
+*Glassnode homepage captured during our July 2026 review of digital-asset market intelligence tools.*
+
 ## What are the best on-chain analytics tools in 2026?
 
 The best on-chain analytics tools in 2026 are Nansen, Glassnode, Dune, Arkham, and Messari, with Bubblemaps and a few niche dashboard tools filling specific roles. Nansen is strongest for wallet intelligence and labeled flows, Glassnode is strongest for macro on-chain structure, Dune is strongest for custom dashboards and community queries, and Arkham is strongest for wallet-level investigation and entity-style tracking.
@@ -95,6 +109,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a full logged-in test across the same research questions and paid tiers. But based on what we could verify directly from the public experience, one thing became clear very quickly: some tools are built to answer macro questions, some are built to answer wallet questions, and some are built to let the user build the question from scratch.
 
 What stood out immediately was not the number of charts. It was where each product puts friction. Dune puts more responsibility on the user, which is a strength if you want transparency and flexibility but a weakness if you want a quick answer. Nansen and Arkham feel closer to workflow shortcuts. Glassnode feels closer to a structured interpretation layer. That difference matters more than a generic "most features" ranking.
+
+The screenshots above show why this matters. Dune's public docs surface already signals a tool that expects a more deliberate, build-or-query mindset rather than a simplified consumer pitch. Nansen's homepage signals speed, smart-money workflow, and a trader-facing surface. Glassnode signals a research and market-intelligence posture first. That visual difference is not cosmetic. It usually tells you what kind of user the product expects before any paid feature is unlocked.
 
 ## What we can verify directly, and what still needs deeper testing
 

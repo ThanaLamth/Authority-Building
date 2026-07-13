@@ -22,6 +22,20 @@ This article should be woven into a broader trading cluster with [best crypto ex
 >
 > This article is based on live product pages, public market positioning, and current research reviewed in July 2026. We directly reviewed the public trading surfaces, product framing, and derivatives posture of the shortlisted venues. Where a claim still depends on logged-in access, regional availability, or a real order-placement test, we keep that limit explicit instead of overstating what was tested.
 
+## Visual evidence from our July 2026 review
+
+![Hyperliquid public homepage captured during our July 2026 review of perpetual crypto exchanges.](../media/hyperfoundation-home-2026-07-13.png)
+
+*Hyperliquid public homepage captured during our July 2026 review of perpetual crypto exchanges.*
+
+![OKX public homepage captured during our July 2026 review of exchange and derivatives platforms.](../media/okx-home-2026-07-13.png)
+
+*OKX public homepage captured during our July 2026 review of exchange and derivatives platforms.*
+
+![Deribit homepage captured during our July 2026 review of crypto derivatives venues.](../media/deribit-home-2026-07-13.png)
+
+*Deribit homepage captured during our July 2026 review of crypto derivatives venues.*
+
 ## What are the best perpetual crypto exchanges in 2026?
 
 The best perpetual crypto exchanges in 2026 include Hyperliquid, Binance, Bybit, OKX, and Deribit, with the best choice depending on whether the trader values deep liquidity, simpler execution, altcoin breadth, or decentralized custody logic. Hyperliquid stands out for users who specifically want on-chain perps, while major centralized platforms still matter for wider market access, more mature execution environments, and familiar trading workflows.
@@ -95,6 +109,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a full live trading test across the same markets, position sizes, and regions. But based on what we could verify directly from the public experience, one difference stood out immediately: some venues are clearly built to feel like broad trading infrastructure, while others are built to signal a more specific perp-native or on-chain identity.
 
 What stood out immediately was not just product breadth. It was where each venue puts friction. A large centralized venue often makes onboarding and market range feel easier, but adds custody and jurisdiction questions. A decentralized perp venue reduces one kind of dependency, but can raise the bar on user responsibility and workflow clarity. For this kind of reader, that tradeoff matters more than a headline claim about being the biggest or fastest.
+
+The screenshots above show why this matters. Hyperliquid signals a chain-and-app identity before anything else. OKX signals a broad platform environment with multiple paths for different user types. Deribit signals a derivatives-first posture very directly. That visual difference is not cosmetic. It usually tells you whether the venue expects a general crypto user, a derivatives specialist, or an on-chain-first trader.
 
 ## What we can verify directly, and what still needs deeper testing
 

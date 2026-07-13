@@ -22,6 +22,20 @@ To keep readers in-cluster, this page should link directly to [best decentralize
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public exchange surfaces, onboarding posture, and product framing of the shortlisted platforms. Where a claim still depends on logged-in trading, regional access, or a real deposit-and-withdrawal test, we keep that limit explicit instead of pretending it was fully verified.
 
+## Visual evidence from our July 2026 review
+
+![Coinbase homepage captured during our July 2026 review of centralized crypto exchanges.](../media/coinbase-home-2026-07-13.png)
+
+*Coinbase homepage captured during our July 2026 review of centralized crypto exchanges.*
+
+![Kraken homepage captured during our July 2026 review of crypto exchange platforms.](../media/kraken-home-2026-07-13.png)
+
+*Kraken homepage captured during our July 2026 review of crypto exchange platforms.*
+
+![OKX homepage captured during our July 2026 review of exchange and trading platforms.](../media/okx-home-2026-07-13.png)
+
+*OKX homepage captured during our July 2026 review of exchange and trading platforms.*
+
 ## What are the best crypto exchanges in 2026?
 
 The best crypto exchanges in 2026 include Binance, Coinbase, Kraken, Bybit, and OKX, with the right choice depending on whether the user values beginner simplicity, lower fees, broader altcoin selection, or more advanced trading tools. Binance remains central for broad market access, Coinbase remains strong for mainstream onboarding and brand familiarity, Kraken remains relevant for users who value an exchange with a more established trust-and-compliance reputation, and Bybit and OKX remain relevant for active traders who want broader product environments `[needs source]`.
@@ -113,6 +127,8 @@ To write this comparison, we reviewed the live public product surfaces of the sh
 That direct review does not replace a full deposit-trade-withdrawal test across the same user journey. But based on what we could verify directly from the public experience, one difference stood out immediately: some exchanges are trying to reduce friction for mainstream users, while others are clearly optimized for broader product depth and more active traders.
 
 What stood out immediately was not just feature breadth. It was what kind of user each platform seems to expect. That is a strength if the reader already knows what kind of exchange experience they want, but a weakness if the page pretends one large platform is automatically right for everyone.
+
+The screenshots above show why this matters. Coinbase presents itself as a trust-and-onboarding product first. Kraken presents a more regulation-and-market-access posture while still surfacing broader trading depth. OKX presents a more trading-oriented environment with low-fee and app-first cues visible early. That visual difference is not cosmetic. It usually tells you whether the exchange expects a beginner, a breadth-seeking trader, or a more active market participant.
 
 ## What we can verify directly, and what still needs deeper testing
 
