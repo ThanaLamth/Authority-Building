@@ -49,28 +49,19 @@ The screenshots below show why this matters. That visual difference is not cosme
 File: `../media/tokenized-treasury-funds-featured.png`
 Alt text: `Comparison of tokenized Treasury fund product surfaces and issuer types in 2026`
 Caption: `Tokenized Treasury fund product surfaces reviewed during our July 2026 comparison.`
-
-![Comparison of tokenized Treasury fund product surfaces and issuer types in 2026](../media/tokenized-treasury-funds-featured.png)
-
-*Tokenized Treasury fund product surfaces reviewed during our July 2026 comparison.*
+Status: `Asset not added to repo yet`
 
 **Screenshot 1**
 File: `../media/securitize-buidl-product-page.png`
 Alt text: `BlackRock BUIDL via Securitize product page showing institutional framing and fund access`
 Caption: `BlackRock BUIDL via Securitize product page captured during our July 2026 review of tokenized Treasury funds.`
-
-![BlackRock BUIDL via Securitize product page showing institutional framing and fund access](../media/securitize-buidl-product-page.png)
-
-*BlackRock BUIDL via Securitize product page captured during our July 2026 review of tokenized Treasury funds.*
+Status: `Asset not added to repo yet`
 
 **Screenshot 2**
 File: `../media/ondo-ousg-product-page.png`
 Alt text: `Ondo OUSG product page showing tokenized Treasury access and crypto-native distribution framing`
 Caption: `Ondo OUSG product page reviewed as part of our comparison of tokenized Treasury products in 2026.`
-
-![Ondo OUSG product page showing tokenized Treasury access and crypto-native distribution framing](../media/ondo-ousg-product-page.png)
-
-*Ondo OUSG product page reviewed as part of our comparison of tokenized Treasury products in 2026.*
+Status: `Asset not added to repo yet`
 
 ## The full list
 
