@@ -24,9 +24,21 @@ Creator royalties are still one of the most misunderstood parts of NFT infrastru
 
 That means the best NFT marketplace for creator royalties is not always the marketplace with the loudest creator messaging. It is the one whose fee model, policy logic, and audience fit your release strategy. This article also needs to work as a cluster bridge into [NFT royalties](/creator-economy/royalties), [NFT marketplaces for artists](/creator-economy/artists/best-nft-marketplaces-for-artists-2026), and the broader [best NFT marketplaces](/nft-markets/marketplaces/best-nft-marketplaces-2026) conversation.
 
+> Reviewed by NFTEnex Editorial Team
+> Last reviewed: 2026-07-13
+> Review type: No-budget editorial comparison
+
 > Why you can trust this guide
 >
-> This guide is based on live marketplace help-center documentation and current platform references reviewed on 2026-07-10. We directly checked the public fee and policy surfaces shown below. Anything that depends on chain-specific setup, logged-in collection settings, or a real resale-path test still needs final verification before publication.
+> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly checked the public positioning, visible workflow framing, and documentation shown in this article. We do not present unverified logged-in behavior, live checkout results, or completed onchain actions as first-hand use unless they were actually completed and documented.
+>
+> Methodology
+>
+> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. In this version, the ranking prioritizes clarity, workflow posture, and fit for different user types over private dashboard claims we could not verify directly.
+>
+> Limitations
+>
+> This is a no-budget editorial review, not a fully funded end-to-end product test. Where a conclusion would require a live transaction, paid plan, logged-in dashboard, or wallet-funded workflow, we treat that as a limitation and avoid overstating direct experience.
 
 ## The best NFT marketplaces for creator royalties in 2026 are Magic Eden, OpenSea, Zora, Manifold-powered storefronts, and Rarible
 
