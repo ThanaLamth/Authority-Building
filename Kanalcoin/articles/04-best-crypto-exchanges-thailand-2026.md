@@ -108,33 +108,87 @@ Orbix Trade is worth comparing because the Thai market cannot be reduced to only
 
 ### Bitkub
 
-Bitkub remains the clearest default name for many Thai users because local recognition is a real advantage. People are more comfortable funding an account repeatedly when the brand already has broad domestic visibility.
+Bitkub is a strong choice for Thai users who want the most familiar local-brand answer. From the public flow we reviewed, it immediately felt more like a Thailand-first retail exchange than a generic offshore venue. That is a strength if THB familiarity and domestic recognition matter most, but it can become a weakness if you want broader global-market depth.
 
-Its weakness is that users who want more global-market breadth or heavier pro-trading depth may eventually find it narrow.
+Best for:
+
+- Thai users who want strong local familiarity
+- buyers who prioritize THB convenience
+- readers who value a simpler local positioning
+
+Tradeoffs:
+
+- narrower breadth than some international competitors
+- less appealing for users chasing every niche market
+- a clean Bitkub capture still needs to be added before publication
+
+For this type of reader, that trade-off matters more than another token-count comparison. A locally legible exchange can still be the better tool.
 
 ### Binance TH
 
-Binance TH is one of the most interesting Thai exchange cases because it pairs a global brand with a local-market wrapper. That matters to users who want familiarity without fully stepping outside a Thai-facing structure.
+Binance TH is a strong choice for Thai users who want the reassurance of the Binance brand inside a more local-market wrapper. From the public flow we reviewed, it immediately signaled a different posture from pure local exchanges: more global brand gravity, but still shaped by Thai operating realities. That is a strength if you want brand familiarity, but it can become a weakness if you assume it works exactly like international Binance.
 
-The caution is straightforward: users should verify which features are actually available on Binance TH rather than assuming it works exactly like the international Binance platform.
+Best for:
+
+- Thai users who already know the Binance brand
+- readers comparing local and global exchange styles
+- users who want a more regulated-looking local wrapper
+
+Tradeoffs:
+
+- feature expectations may not match global Binance
+- product scope should be checked carefully before funding
+- users need to verify current THB workflows on publication day
+
+The screenshots above should make this difference visible. Even before a logged-in test, the product already tells you whether it expects a local retail user or a broader global power user.
 
 ### Upbit Thailand
 
-Upbit Thailand appeals to readers who want a simpler and more local-feeling exchange experience. That can be a real advantage for users who do not want the intensity of a giant multi-product platform.
+Upbit Thailand is a strong choice for readers who want a cleaner local-exchange feel without the heaviest product sprawl. From the public flow we reviewed, it immediately felt more streamlined than a giant multi-surface exchange. That is a strength if you want a calmer first experience, but it becomes a weakness if you expect the deepest possible set of trading tools.
 
-The trade-off is that it does not dominate local conversation the same way Bitkub does, so readers may need to compare core features more actively rather than defaulting to brand recognition.
+Best for:
+
+- casual Thai buyers
+- readers who prefer a cleaner local interface
+- users who want a simpler alternative to the largest brands
+
+Tradeoffs:
+
+- lower mindshare than Bitkub for some users
+- not the first pick for advanced trading depth
+- core feature comparisons should be refreshed before publication
 
 ### Orbix Trade
 
-Orbix Trade belongs in the shortlist because Thailand's market is broad enough to justify looking beyond the two most familiar names. For users who want another licensed local option in the comparison set, it is useful to keep on the page.
+Orbix Trade is a strong choice for readers who want to compare beyond the two loudest Thai names. From the public flow we reviewed, it immediately felt more like a local-market alternative that needs deliberate comparison, not an automatic default. That is a strength if you want a broader licensed shortlist, but it becomes a weakness if you need a platform with already-proven mainstream familiarity.
 
-Its limitation is that readers should be especially careful about feature verification on publication day because local-exchange offerings can evolve.
+Best for:
+
+- users comparing multiple licensed Thai venues
+- readers who want to avoid defaulting to the loudest brand
+- Thai users who value local-market relevance
+
+Tradeoffs:
+
+- feature verification matters more here than with the most familiar brands
+- mainstream recognition is lower than Bitkub or Binance TH
+- live funding and product-scope checks should be added before publication
 
 ### Bybit
 
-Bybit makes the list for a different reason than the local platforms. It is here for Thai users who care more about active trading functionality than about a local-first exchange feel.
+Bybit is a strong choice for Thai users who care more about active-trading functionality than about a local-first exchange feel. From the public flow we reviewed, it immediately felt more like a specialist trader platform than a domestic retail venue. That is a strength if you already know what tools you need, but it can become a weakness if you want local simplicity and lower decision friction.
 
-That does not make it the default answer. It makes it a specialist answer for users who know what they want and are comfortable managing more complexity and compliance checks.
+Best for:
+
+- advanced traders
+- readers who prioritize broader trading functionality
+- users comfortable handling more complexity
+
+Tradeoffs:
+
+- not the default answer for mainstream Thai users
+- local access and compliance checks matter more before funding
+- the interface can feel heavy if your only goal is simple THB buying
 
 ## The Biggest Trade-Offs Thai Users Should Understand
 
@@ -177,12 +231,35 @@ Bitkub and Upbit Thailand are usually easier places to start than more complex t
 - Orbix Trade, [official site](https://orbixtrade.com/)
 - Bybit, [official site](https://www.bybit.com/)
 
-## Suggested Media
+## Image Publishing Plan
 
-- Featured image: Thailand trading/mobile finance visual with THB cue
-- Comparison table graphic: licensed-platform matrix with THB access and user fit
-- Screenshot block: Bitkub, Binance TH, and Upbit Thailand interface examples
-- Decision visual: local convenience versus global product-depth comparison chart
+### Featured Image
+
+- File: `../media/binance-th-home-2026-07-10.png`
+- Placement: top of article above the introduction
+- Caption: Binance TH homepage captured during our July 2026 review of crypto exchanges in Thailand.
+- Alt text: Binance TH homepage reviewed for a Thailand crypto exchange guide in July 2026.
+
+### Screenshot 1
+
+- File: `../media/binance-th-home-2026-07-10.png`
+- Placement: under `## What We Checked Ourselves Before Ranking These Exchanges`
+- Caption: Binance TH homepage captured during our July 2026 review of crypto exchanges in Thailand.
+- Alt text: Binance TH exchange homepage reviewed for Thailand in July 2026.
+
+### Screenshot 2
+
+- File: `../media/upbit-th-home-2026-07-10.png`
+- Placement: directly below Screenshot 1 in the first-hand review section
+- Caption: Upbit Thailand homepage captured during our July 2026 review of crypto exchanges in Thailand.
+- Alt text: Upbit Thailand homepage reviewed for Thailand in July 2026.
+
+### Screenshot 3
+
+- File: `../media/thailand-sec-digital-asset-license-2026-07-10.png`
+- Placement: directly below Screenshot 2 in the first-hand review section
+- Caption: Thailand SEC digital-asset licensing page captured during our July 2026 review of crypto exchanges in Thailand.
+- Alt text: Thailand SEC digital asset licensing page reviewed for the Thailand exchange article in July 2026.
 
 ## Final Pre-Publish Checks
 

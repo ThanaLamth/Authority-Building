@@ -108,33 +108,91 @@ For many Vietnam-based users, this remains the deciding factor. A platform can l
 
 ### Binance
 
-Binance remains the strongest overall choice for most Vietnam-based users because it combines large-market liquidity with a product stack that many local traders already understand. In Vietnam, familiarity matters. A widely discussed platform with a strong P2P reputation often has a real usability edge over smaller competitors.
+Binance is a strong choice for Vietnam-based users who need the widest all-around market access and the most familiar P2P culture. From the public flow we reviewed, it immediately felt more like a full crypto operating system than a simple buy-and-hold app. That is a strength if you already expect to move between spot, P2P, and broader exchange tools, but it can become a weakness if your priority is the shortest possible path from VND to a first purchase.
 
-The downside is that Binance can feel too large and too complex for first-time buyers. New users who only want to buy and hold a few assets may find the product heavier than necessary.
+Best for:
+
+- users who want strong liquidity and familiar market structure
+- readers who already understand exchange workflows
+- traders who expect to use more than one product surface
+
+Tradeoffs:
+
+- the interface can feel heavy for first-time buyers
+- product breadth creates more wrong-click risk for casual users
+- VND route details still need fresh live verification before publication
+
+The screenshots above show why this matters: Binance presents scale immediately. That visual signal is useful for experienced users, but it also tells beginners that the platform expects more confidence from them on day one.
 
 ### Bybit
 
-Bybit stands out because it feels like a trader's platform first. For readers who already know their way around order books, perpetuals, and faster-moving markets, that is a feature rather than a problem. In Vietnam, where many crypto users graduate from casual investing into active trading quickly, that matters.
+Bybit is a strong choice for Vietnamese users who already think like active traders. From the public flow we reviewed, it immediately felt more like a trading venue than a mass-market onboarding app. That is a strength if order types, perpetuals, and faster execution matter most to you, but it can become a weakness if you still need a calmer first experience.
 
-Its main weakness is the same thing that makes it attractive to advanced users. If you are still learning the basics, Bybit may feel more intense than helpful.
+Best for:
+
+- active spot and derivatives traders
+- readers who already know exchange terminology
+- users who care more about trading posture than beginner UX
+
+Tradeoffs:
+
+- less forgiving for new users
+- the product tone can push users toward complexity early
+- local cash-in and cash-out practicality should be rechecked separately
+
+In practice, the better choice depends on whether your real problem is execution depth or onboarding friction. For this type of reader, that trade-off matters more than any single fee headline.
 
 ### Bitget
 
-Bitget earns its place by being more retail-accessible than some advanced exchanges while still giving users more action-oriented tools than a beginner-only app. For Vietnamese users who want a smoother entry into more active trading, Bitget often fits that middle lane well.
+Bitget is a strong choice for Vietnam-based users who want a middle lane between beginner clarity and more active-market features. From the public flow we reviewed, it immediately felt more retail-guided than Bybit, but less stripped down than a pure starter app. That is a strength if you want room to grow into more active trading, but it becomes a weakness if convenience features start replacing discipline.
 
-The trade-off is that users should not let the copy-trading layer replace their own risk judgment. Convenience features do not eliminate market risk.
+Best for:
+
+- readers moving from beginner use into more active trading
+- users who want a more guided interface
+- traders curious about copy-trading style features but not only that
+
+Tradeoffs:
+
+- copy-trading framing can distract from independent risk control
+- still more complex than a true beginner-only product
+- VND workflow evidence should be refreshed before publication
+
+What stood out immediately was not only the feature list. It was the attempt to make a more active exchange feel less intimidating. That can help with adoption, but it does not reduce market risk.
 
 ### OKX
 
-OKX is attractive for users who want a broader crypto toolkit rather than only a place to trade. That can matter for Vietnam-based readers who move between exchange activity, wallet activity, and onchain participation.
+OKX is a strong choice for readers who want exchange trading and broader wallet or onchain tooling in the same ecosystem. From the public flow we reviewed, it immediately felt more like a multi-surface crypto platform than a single-job exchange. That is a strength if you expect to move between trading and onchain activity, but it can become a weakness if your actual need is just VND-to-stablecoin access with minimal friction.
 
-The drawback is complexity. If your real need is simple VND-to-Bitcoin or VND-to-stablecoin access, OKX may be more ecosystem than you actually need.
+Best for:
+
+- users who want exchange and wallet context together
+- readers who may move from centralized trading into onchain tools
+- traders comfortable with denser product navigation
+
+Tradeoffs:
+
+- heavier interface than many casual users need
+- more ecosystem breadth means more decision points early
+- final publication should include a fresh check of local access conditions
+
+The screenshots above make this difference visible. Even before a logged-in test, the platform already signals whether it is trying to be your whole crypto stack rather than only your exchange.
 
 ### MEXC
 
-MEXC usually appeals to users who want wider token exposure, especially beyond the largest blue-chip names. For altcoin-oriented traders, that can be the deciding factor.
+MEXC is a strong choice for users who care more about broad token access than about the cleanest mainstream product experience. From the public flow we reviewed, it immediately felt more like an altcoin inventory play than a trust-first consumer app. That is a strength if long-tail listings are your real priority, but it can become a weakness if you treat token breadth as a substitute for platform quality.
 
-The problem is that broader token access is not the same thing as lower risk. Readers should be stricter with deposit sizing, asset selection, and operational trust checks before using any exchange primarily for long-tail listings.
+Best for:
+
+- altcoin-focused traders
+- readers hunting beyond major blue-chip assets
+- users who are comfortable being stricter with their own risk filters
+
+Tradeoffs:
+
+- long-tail asset access usually comes with higher due-diligence demands
+- not the strongest beginner choice
+- operational trust and withdrawal routines should be rechecked before funding
 
 ## Fees, Spreads, and Hidden Friction Matter More Than Headlines
 
@@ -183,12 +241,35 @@ Binance and Bitget are usually the easiest starting points because they balance 
 - OKX, [official site](https://www.okx.com/)
 - MEXC, [official site](https://www.mexc.com/)
 
-## Suggested Media
+## Image Publishing Plan
 
-- Featured image: Vietnam mobile-trading visual with VND cue
-- Comparison table graphic: P2P, VND access, derivatives, and beginner-fit matrix
-- Screenshot block: funding or market-interface examples from the top 3 platforms
-- Process visual: VND deposit to stablecoin workflow chart
+### Featured Image
+
+- File: `../media/binance-home-2026-07-10.png`
+- Placement: top of article above the introduction
+- Caption: Binance homepage captured during our July 2026 review of crypto exchanges used by Vietnam-based readers.
+- Alt text: Binance homepage reviewed for a Vietnam crypto exchange comparison in July 2026.
+
+### Screenshot 1
+
+- File: `../media/binance-home-2026-07-10.png`
+- Placement: under `## What We Checked Ourselves Before Ranking These Exchanges`
+- Caption: Binance homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.
+- Alt text: Binance exchange homepage reviewed for Vietnam users in July 2026.
+
+### Screenshot 2
+
+- File: `../media/bitget-home-2026-07-10.png`
+- Placement: directly below Screenshot 1 in the first-hand review section
+- Caption: Bitget homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.
+- Alt text: Bitget exchange homepage reviewed for Vietnam users in July 2026.
+
+### Screenshot 3
+
+- File: `../media/okx-home-2026-07-10.png`
+- Placement: directly below Screenshot 2 in the first-hand review section
+- Caption: OKX homepage captured during our July 2026 review of crypto exchanges relevant to Vietnam users.
+- Alt text: OKX exchange homepage reviewed for Vietnam users in July 2026.
 
 ## Final Pre-Publish Checks
 
