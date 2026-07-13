@@ -7,22 +7,23 @@ Date: 2026-07-10
 - `drafted`: file exists and structure is complete
 - `sourced`: external source set reviewed during drafting
 - `needs CMS polish`: slug, featured image, and final publication date checks remain
+- `cms export ready`: HTML fragment and JSON payload generated
 - `publish candidate`: suitable to move into CMS after a final factual spot-check
 
 ## Content Batch
 
 | # | File | Topic | Status | Notes |
 |---|---|---|---|---|
-| 1 | `Coinlineup/articles/01-best-stablecoins-2026.md` | Best stablecoins | drafted, sourced, needs CMS polish, publish candidate | Strong DeFi pillar opener |
-| 2 | `Coinlineup/articles/02-best-crypto-tax-software-2026.md` | Best crypto tax software | drafted, sourced, needs CMS polish, publish candidate | High beginner utility |
-| 3 | `Coinlineup/articles/03-top-rwa-crypto-projects-2026.md` | Top RWA projects | drafted, sourced, needs CMS polish | Better after related RWA explainer exists |
-| 4 | `Coinlineup/articles/04-top-depin-crypto-projects-2026.md` | Top DePIN projects | drafted, sourced, needs CMS polish | Good new-projects cluster page |
-| 5 | `Coinlineup/articles/05-best-crypto-to-stake-2026.md` | Best crypto to stake | drafted, sourced, needs CMS polish, publish candidate | Strong DeFi/intermediate bridge page |
-| 6 | `Coinlineup/articles/06-best-bitcoin-wallets-for-beginners-2026.md` | Best Bitcoin wallets | drafted, sourced, needs CMS polish, publish candidate | Good Bitcoin pillar support |
-| 7 | `Coinlineup/articles/07-best-ai-crypto-coins-2026.md` | Best AI crypto coins | drafted, sourced, needs CMS polish | Higher volatility topic |
-| 8 | `Coinlineup/articles/08-top-meme-coins-2026.md` | Top meme coins | drafted, sourced, needs CMS polish | Traffic play with clear risk framing |
-| 9 | `Coinlineup/articles/09-best-crypto-wallets-for-beginners-2026.md` | Best crypto wallets | drafted, sourced, needs CMS polish, publish candidate | Core wallet pillar page |
-| 10 | `Coinlineup/articles/10-best-crypto-exchanges-for-beginners-2026.md` | Best exchanges | drafted, sourced, needs CMS polish, publish candidate | Strong search-demand page |
+| 1 | `Coinlineup/articles/01-best-stablecoins-2026.md` | Best stablecoins | drafted, sourced, cms export ready, publish candidate | Strong DeFi pillar opener |
+| 2 | `Coinlineup/articles/02-best-crypto-tax-software-2026.md` | Best crypto tax software | drafted, sourced, cms export ready, publish candidate | High beginner utility |
+| 3 | `Coinlineup/articles/03-top-rwa-crypto-projects-2026.md` | Top RWA projects | drafted, sourced, cms export ready | Better after related RWA explainer exists |
+| 4 | `Coinlineup/articles/04-top-depin-crypto-projects-2026.md` | Top DePIN projects | drafted, sourced, cms export ready | Good new-projects cluster page |
+| 5 | `Coinlineup/articles/05-best-crypto-to-stake-2026.md` | Best crypto to stake | drafted, sourced, cms export ready, publish candidate | Strong DeFi/intermediate bridge page |
+| 6 | `Coinlineup/articles/06-best-bitcoin-wallets-for-beginners-2026.md` | Best Bitcoin wallets | drafted, sourced, cms export ready, publish candidate | Good Bitcoin pillar support |
+| 7 | `Coinlineup/articles/07-best-ai-crypto-coins-2026.md` | Best AI crypto coins | drafted, sourced, cms export ready | Higher volatility topic |
+| 8 | `Coinlineup/articles/08-top-meme-coins-2026.md` | Top meme coins | drafted, sourced, cms export ready | Traffic play with clear risk framing |
+| 9 | `Coinlineup/articles/09-best-crypto-wallets-for-beginners-2026.md` | Best crypto wallets | drafted, sourced, cms export ready, publish candidate | Core wallet pillar page |
+| 10 | `Coinlineup/articles/10-best-crypto-exchanges-for-beginners-2026.md` | Best exchanges | drafted, sourced, cms export ready, publish candidate | Strong search-demand page |
 
 ## Media pack
 
@@ -30,6 +31,13 @@ Date: 2026-07-10
 - 10 public-page screenshots captured on `2026-07-13`
 - 10 custom SVG comparison graphics created on `2026-07-13`
 - each article now references one concrete image filename and editorial caption
+
+## CMS exports
+
+- `Coinlineup/html/`
+- `Coinlineup/payloads/`
+- exported on `2026-07-13` using `Coinlineup/export_coinlineup.py`
+- payloads include schema JSON-LD, editor-only internal/external link lists, raw GitHub media URLs, and ranking-table snapshots
 
 ## Recommended First Publish Order
 
@@ -45,3 +53,4 @@ Date: 2026-07-10
 - re-check token rankings and market-cap ordering for AI, meme, RWA, and DePIN articles
 - confirm exchange and wallet availability by target country
 - map every internal-link target to a real Coinlineup URL
+- replace `{{SITE_URL}}` in each payload schema block during CMS import
