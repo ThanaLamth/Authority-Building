@@ -49,11 +49,16 @@ We reviewed all seven platforms directly in the browser on 2026-07-14: loaded ea
 | Signup form with email + Google OAuth confirmed (Alchemy) | Verified |
 | Sequence builder signin page reached | Verified |
 | Crossmint signin page -- geo-restricted response observed | Verified (restricted) |
-| Authenticated dashboard or minting flow seen | Verified (Thirdweb -- team dashboard reached post-OTP login on 2026-07-14) |
+| Authenticated dashboard or minting flow seen | Verified (Thirdweb team dashboard + Alchemy dashboard reached post-login on 2026-07-14) |
+| Thirdweb contract deploy UI explored (authenticated) | Verified |
+| Thirdweb 500+ chain list confirmed in dashboard | Verified |
+| Alchemy apps dashboard authenticated (Google OAuth) | Verified |
+| Alchemy chain support UI and NFT API confirmed in dashboard | Verified |
+| Alchemy Webhooks dashboard confirmed | Verified |
 | Live contract deployment tested | Not verified |
 | Funded checkout or mint completed | Not verified |
 | Fees confirmed through live transaction | Not verified |
-| Chain support confirmed beyond public docs | Not verified |
+| Chain support confirmed beyond public docs | Verified (Thirdweb 500+ chains, Alchemy multi-chain UI seen in authenticated dashboard) |
 
 ## The best NFT minting tools in 2026
 
@@ -101,6 +106,22 @@ Caption: `Thirdweb login page showing nine wallet options and email sign-in, cap
 ![Thirdweb team dashboard after authenticated email OTP login on 2026-07-14](../media/thirdweb-team.png)
 
 *Thirdweb login page showing nine wallet options and email sign-in, captured July 2026.*
+
+**Thirdweb authenticated product surfaces**
+
+After login we navigated three authenticated routes to confirm what the platform actually surfaces beyond the sign-in screen.
+
+![Thirdweb Explore page showing pre-built contract templates inside the authenticated dashboard](../media/tw-deep-explore.png)
+
+*Thirdweb Explore page inside the authenticated dashboard, July 2026 -- showing pre-built contract templates for NFT drops, tokens, and more.*
+
+![Thirdweb chain list confirming 500+ supported networks inside the authenticated dashboard](../media/tw-deep-chainlist.png)
+
+*Thirdweb chain list page, authenticated, July 2026 -- 500+ chains confirmed directly in the dashboard, not just in public docs.*
+
+![Thirdweb contract deploy interface inside the authenticated dashboard](../media/tw-deep-deploy.png)
+
+*Thirdweb contract deployment interface, captured July 2026 from inside the authenticated dashboard.*
 
 ### 2. Crossmint
 
@@ -288,6 +309,30 @@ Caption: `Alchemy signup form captured July 2026, confirming free email-based de
 
 *Alchemy signup form captured July 2026, confirming free email-based developer account creation.*
 
+**Alchemy authenticated dashboard surfaces**
+
+We completed a Google OAuth login to Alchemy on 2026-07-14 and navigated key dashboard routes to confirm what the platform exposes post-authentication.
+
+![Alchemy authenticated dashboard showing apps overview after Google OAuth login](../media/alchemy-dashboard-auth.png)
+
+*Alchemy dashboard captured post-login via Google OAuth, July 2026 -- apps overview visible immediately after authentication.*
+
+![Alchemy apps management page inside the authenticated developer dashboard](../media/alchemy-deep-apps.png)
+
+*Alchemy apps page inside the authenticated dashboard, July 2026 -- showing app creation and API key management.*
+
+![Alchemy supported chains UI inside the authenticated dashboard confirming multi-chain support](../media/alchemy-deep-chains.png)
+
+*Alchemy chain support UI, authenticated, July 2026 -- multi-chain coverage confirmed directly in the dashboard.*
+
+![Alchemy NFT API dashboard inside the authenticated developer environment](../media/alchemy-deep-nft.png)
+
+*Alchemy NFT API dashboard, authenticated, July 2026 -- NFT-specific API endpoints and tooling visible post-login.*
+
+![Alchemy Webhooks dashboard showing event streaming configuration inside the authenticated dashboard](../media/alchemy-deep-webhooks.png)
+
+*Alchemy Webhooks dashboard, authenticated, July 2026 -- real-time event streaming configuration confirmed in the product.*
+
 ### 7. Rarible
 
 Rarible is still relevant for simpler marketplace-adjacent launches where ease and familiarity matter more than long-term architectural control.
@@ -453,7 +498,7 @@ Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 ### Why you can trust this guide
 
-This guide is based on live product surfaces reviewed directly in the browser on 2026-07-14. We loaded every homepage, reached the sign-in or login entry point for all seven platforms, and captured the wallet-connect modal for Manifold, Zora, and Rarible. We confirmed the login form structure for Thirdweb and the email-based signup form for Alchemy. We completed an authenticated login to Thirdweb using email OTP on 2026-07-14 and reached the team dashboard directly. Authenticated access to other platforms was not completed. Live minting flows and completed transactions were not tested on any platform.
+This guide is based on live product surfaces reviewed directly in the browser on 2026-07-14. We loaded every homepage, reached the sign-in or login entry point for all seven platforms, and captured the wallet-connect modal for Manifold, Zora, and Rarible. We confirmed the login form structure for Thirdweb and the email-based signup form for Alchemy. We completed an authenticated login to Thirdweb using email OTP on 2026-07-14 and reached the team dashboard directly. We also completed an authenticated login to Alchemy using Google OAuth on 2026-07-14 and navigated the apps, chains, NFT API, and webhooks dashboard routes. Authenticated access to the remaining platforms was not completed. Live minting flows and completed transactions were not tested on any platform. Authenticated Thirdweb and Alchemy dashboard surfaces were navigated and captured directly on 2026-07-14.
 
 ### Methodology
 
@@ -461,11 +506,11 @@ We compared each option using live public homepages and login entry points (all 
 
 ### Limitations
 
-This review covers the public shell and login layer. We did not connect a wallet, sign in to any authenticated dashboard, deploy a contract, or complete a checkout on any of the seven platforms. Conclusions about authenticated flows, fees, execution quality, and full chain support are drawn from public documentation and positioning only. The Crossmint signin page was geo-restricted during our review from Vietnam; teams in the same region should independently verify dashboard access before committing to it as a primary launch tool.
+This review covers the public shell, login layer, and authenticated dashboards for Thirdweb and Alchemy. We did not connect a wallet on any platform, deploy a contract, or complete a checkout. For Manifold, Zora, Rarible, Sequence, and Crossmint, authenticated dashboard access was not completed. Conclusions about authenticated flows, fees, execution quality, and full chain support are drawn from public documentation and positioning only. The Crossmint signin page was geo-restricted during our review from Vietnam; teams in the same region should independently verify dashboard access before committing to it as a primary launch tool.
 
 ## What we checked ourselves before ranking these tools
 
-For this article, we loaded and captured the homepage of all seven tools and reached the login or sign-in entry point for each. We opened and captured the wallet-connect modal for Manifold, Zora, and Rarible by clicking the primary connect action on each platform. We confirmed the login form for Thirdweb (nine wallet options plus email field) and the free account signup form for Alchemy (email, name, password, Google OAuth) without completing account creation. We attempted the Crossmint signin page from Vietnam and observed a geo-restricted response.
+For this article, we loaded and captured the homepage of all seven tools and reached the login or sign-in entry point for each. We opened and captured the wallet-connect modal for Manifold, Zora, and Rarible by clicking the primary connect action on each platform. We confirmed the login form for Thirdweb (nine wallet options plus email field) and the free account signup form for Alchemy (email, name, password, Google OAuth) without completing account creation. We attempted the Crossmint signin page from Vietnam and observed a geo-restricted response. On 2026-07-14 we completed authenticated logins to Thirdweb (email OTP) and Alchemy (Google OAuth) and navigated key dashboard routes for both platforms: team overview, contract deploy, chain list, and Explore for Thirdweb; apps, chains, NFT API, and webhooks for Alchemy.
 
 Platforms reviewed: [Thirdweb](https://thirdweb.com/), [Crossmint](https://crossmint.com/), [Manifold](https://manifold.xyz/), [Zora](https://zora.co/), [Sequence](https://sequence.xyz/), [Alchemy](https://www.alchemy.com/), [Rarible](https://rarible.com/).
 
