@@ -52,6 +52,61 @@ For the final publish version, this section should be upgraded with visual proof
 
 The screenshots and photos should not sit silently in the article. The prose should refer to them directly and explain what they show.
 
+We captured the public-facing product surfaces of all five wallets on 2026-07-14. Here is what we verified directly versus what still requires a physical device test.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Coldcard homepage and quick-start documentation loaded directly | Verified |
+| Blockstream Jade product page and store listing loaded directly | Verified |
+| BitBox02 Bitcoin-only product page loaded directly | Verified |
+| Passport by Foundation Devices product page loaded directly | Verified |
+| SeedSigner homepage and open-source documentation confirmed | Verified |
+| Physical device purchased and setup completed | Not verified |
+| Firmware update process tested on real hardware | Not verified |
+| Air-gapped signing workflow completed with real transaction | Not verified |
+| Seed phrase recovery tested end-to-end | Not verified |
+| Device durability or build quality assessed in person | Not verified |
+
+**Coldcard**
+
+![Coldcard hardware wallet homepage showing Bitcoin-only signing device and security features](../media/coldcard-home.png)
+
+*Coldcard homepage, July 2026 -- Bitcoin-only hardware signing device and advanced security feature set confirmed on public surface.*
+
+![Coldcard quick-start documentation page showing setup and signing workflow](../media/coldcard-docs.png)
+
+*Coldcard quick-start docs, July 2026 -- setup and PSBT signing workflow confirmed in public documentation.*
+
+**Blockstream Jade**
+
+![Blockstream Jade hardware wallet product page showing Bitcoin and Liquid signing device](../media/jade-home.png)
+
+*Blockstream Jade product page, July 2026 -- Bitcoin-native hardware wallet and open-source firmware posture confirmed.*
+
+![Blockstream Jade store listing showing pricing and hardware wallet purchase options](../media/jade-store.png)
+
+*Blockstream Jade store, July 2026 -- pricing and availability confirmed on public store page.*
+
+**BitBox02 Bitcoin-only**
+
+![BitBox02 Bitcoin-only hardware wallet product page showing minimalist secure signing device](../media/bitbox02-home.png)
+
+*BitBox02 Bitcoin-only product page, July 2026 -- Bitcoin-only mode and minimalist signing device confirmed on public surface.*
+
+**Passport by Foundation Devices**
+
+![Passport hardware wallet homepage showing air-gapped Bitcoin signing device and open-source design](../media/passport-home.png)
+
+*Passport product page, July 2026 -- air-gapped Bitcoin signing and open-source hardware design confirmed.*
+
+**SeedSigner**
+
+![SeedSigner homepage showing DIY open-source Bitcoin signing device and stateless design](../media/seedsigner-home.png)
+
+*SeedSigner homepage, July 2026 -- open-source DIY signing device and stateless design confirmed on public surface.*
+
 ## What makes a hardware wallet truly Bitcoin-maximalist
 
 The first filter is simple: does the device treat Bitcoin as the product, or does it treat Bitcoin as one asset inside a casino-style multi-coin interface. Bitcoin-first devices tend to make fewer design compromises around address handling, PSBT workflows, backups, and [multisig support](/bitcoin-guides/security/best-bitcoin-multisig-wallets-2026/).
