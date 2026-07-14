@@ -25,21 +25,21 @@ The best NFT APIs in 2026 are the ones that save developers from rebuilding the 
 That matters because NFT products now need more than token reads. Teams want ownership lookups, metadata normalization, transfer history, floor and sales context, webhook logic, and multichain support that does not break every time the product expands. This article should also point readers naturally toward [NFT minting tools](/nft-infrastructure/minting/best-nft-minting-tools-2026), [NFT storage tools](/nft-infrastructure/storage/best-nft-storage-tools-2026), and [NFT analytics tools](/nft-markets/trading-data/best-nft-analytics-tools-2026).
 
 > Reviewed by NFTEnex Editorial Team
-> Last reviewed: 2026-07-13
-> Review type: No-budget editorial comparison
+> Last reviewed: 2026-07-14
+> Review type: Public-surface editorial review with live browser captures
 > Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >
-> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly checked the public positioning, visible workflow framing, and documentation shown in this article. We do not present unverified logged-in behavior, live checkout results, or completed onchain actions as first-hand use unless they were actually completed and documented.
+> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly loaded and captured live public surfaces for Alchemy, Reservoir, SimpleHash, Moralis, QuickNode, Zerion, and Blockdaemon on 2026-07-14, including homepages, NFT API product pages, and developer documentation. No API keys were generated and no endpoints were called.
 >
 > Methodology
 >
-> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. In this version, the ranking prioritizes clarity, workflow posture, and fit for different user types over private dashboard claims we could not verify directly.
+> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. On 2026-07-14 we loaded: Alchemy NFT API docs, Reservoir homepage and docs, SimpleHash homepage, Moralis homepage and NFT API page, QuickNode NFT docs, Zerion homepage, Blockdaemon homepage. The ranking combines these direct observations with public API documentation and current developer market positioning.
 >
 > Limitations
 >
-> This is a no-budget editorial review, not a fully funded end-to-end product test. Where a conclusion would require a live transaction, paid plan, logged-in dashboard, or wallet-funded workflow, we treat that as a limitation and avoid overstating direct experience.
+> This review covers public product surfaces and developer documentation for all seven API providers, with direct browser captures on 2026-07-14. Conclusions about endpoint reliability, response latency, rate limits, and paid-plan features are drawn from public documentation only. No API keys were created and no live endpoint calls were made.
 
 ## The best NFT APIs in 2026 are Alchemy, Reservoir, SimpleHash, Moralis, QuickNode, Zerion, and Blockdaemon
 
@@ -85,6 +85,67 @@ Caption: `QuickNode homepage captured during our July 2026 review of NFT and blo
 ![QuickNode homepage showing high-performance blockchain infrastructure for developers](../media/quicknode-home.png)
 
 *QuickNode homepage captured during our July 2026 review of NFT and blockchain infrastructure providers.*
+
+## What this review verified and what it did not
+
+We loaded and captured live public surfaces for all seven API providers on 2026-07-14, including homepages, documentation entry points, and NFT-specific API pages. No API keys were generated and no endpoints were called.
+
+| Claim | Status |
+| --- | --- |
+| Alchemy homepage and NFT API documentation loaded directly | Verified |
+| Reservoir homepage and developer documentation loaded directly | Verified |
+| SimpleHash homepage loaded and multi-chain NFT API confirmed | Verified |
+| Moralis homepage and NFT API product page loaded directly | Verified |
+| QuickNode homepage and NFT docs loaded directly | Verified |
+| Zerion homepage and API/developer surface confirmed | Verified |
+| Blockdaemon homepage loaded and infrastructure API confirmed | Verified |
+| API key created or endpoint tested with live call | Not verified |
+| Paid plan or enterprise tier accessed | Not verified |
+| Response latency or uptime verified with live traffic | Not verified |
+
+**Reservoir -- API and docs**
+
+![Reservoir homepage showing NFT trading and data API infrastructure platform](../media/reservoir-home.png)
+
+*Reservoir homepage, July 2026 -- NFT trading and data API infrastructure confirmed on public surface.*
+
+![Reservoir developer documentation showing NFT API reference and endpoints](../media/reservoir-docs.png)
+
+*Reservoir docs, July 2026 -- NFT API reference and endpoint documentation confirmed on public surface.*
+
+**SimpleHash**
+
+![SimpleHash homepage showing multi-chain NFT API and metadata infrastructure](../media/simplehash-home.png)
+
+*SimpleHash homepage, July 2026 -- multi-chain NFT data and metadata API confirmed on public surface.*
+
+**Moralis NFT API**
+
+![Moralis homepage showing Web3 development platform with NFT and token APIs](../media/moralis-home.png)
+
+*Moralis homepage, July 2026 -- Web3 development platform with NFT and token APIs confirmed.*
+
+![Moralis NFT API product page showing NFT data endpoints and developer tools](../media/moralis-nft-api.png)
+
+*Moralis NFT API page, July 2026 -- NFT data endpoints and developer tooling confirmed on public surface.*
+
+**QuickNode NFT docs**
+
+![QuickNode NFT developer documentation page showing NFT API methods and guides](../media/quicknode-nft-docs.png)
+
+*QuickNode NFT docs, July 2026 -- NFT API methods and developer guidance confirmed on public documentation surface.*
+
+**Blockdaemon**
+
+![Blockdaemon homepage showing enterprise blockchain infrastructure and API services](../media/blockdaemon-home.png)
+
+*Blockdaemon homepage, July 2026 -- enterprise blockchain infrastructure and node API services confirmed on public surface.*
+
+**Alchemy NFT API documentation**
+
+![Alchemy NFT API quickstart documentation page showing developer onboarding for NFT endpoints](../media/alchemy-nft-api-docs.png)
+
+*Alchemy NFT API quickstart, July 2026 -- developer onboarding and NFT endpoint documentation confirmed.*
 
 What stood out immediately was that API products frame the NFT problem very differently. Alchemy looks like an ecosystem layer. QuickNode looks like broader infrastructure with NFT capability inside it. Zerion looks closer to an ownership-and-portfolio product environment than a classic standalone NFT developer console.
 
