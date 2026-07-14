@@ -23,21 +23,21 @@ The best NFT marketplace for artists in 2026 is not the one with the most generi
 That is the main difference between an artist-focused NFT article and a generic marketplace roundup. Artists are not only asking where they can list. They are asking where their work makes sense. This page should also pull readers naturally toward [creator royalties](/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026), the broader [best NFT marketplaces](/nft-markets/marketplaces/best-nft-marketplaces-2026) guide, and long-term thinking about how artists build NFT brands.
 
 > Reviewed by NFTEnex Editorial Team
-> Last reviewed: 2026-07-13
-> Review type: No-budget editorial comparison
+> Last reviewed: 2026-07-14
+> Review type: Public-surface editorial review with live browser captures
 > Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >
-> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly checked the public positioning, visible workflow framing, and documentation shown in this article. We do not present unverified logged-in behavior, live checkout results, or completed onchain actions as first-hand use unless they were actually completed and documented.
+> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly loaded and captured live public surfaces for SuperRare, Foundation, Objkt, Zora, and OpenSea on 2026-07-14, including homepages, drops pages, and collection-browsing routes. We do not present unverified artist-account creation or wallet-connected listing workflows as first-hand use.
 >
 > Methodology
 >
-> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. In this version, the ranking prioritizes clarity, workflow posture, and fit for different user types over private dashboard claims we could not verify directly.
+> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. On 2026-07-14 we loaded: SuperRare homepage and drops, Foundation homepage and drops, Objkt homepage and collections, Zora homepage and Explore, OpenSea rankings. The ranking combines these direct observations with public artist policy and current marketplace positioning.
 >
 > Limitations
 >
-> This is a no-budget editorial review, not a fully funded end-to-end product test. Where a conclusion would require a live transaction, paid plan, logged-in dashboard, or wallet-funded workflow, we treat that as a limitation and avoid overstating direct experience.
+> This review covers public marketplace surfaces for all platforms, with direct browser captures on 2026-07-14. Conclusions about artist onboarding, curation requirements, royalty enforcement, and secondary-sale behavior are drawn from public documentation and positioning only. No artworks were listed and no wallets were connected.
 
 ## The best NFT marketplaces for artists in 2026 are the ones that balance audience reach, creator control, and brand positioning
 
@@ -83,6 +83,48 @@ Caption: `Zora homepage captured during our July 2026 review of creator-first pu
 ![Zora creator publishing homepage for NFT drops and onchain distribution](../media/zora-home.png)
 
 *Zora homepage captured during our July 2026 review of creator-first publishing platforms.*
+
+## What this review verified and what it did not
+
+We loaded and captured live public surfaces for all major artist-focused NFT marketplaces on 2026-07-14, including collection browsing, drops pages, and creator-facing routes. No artworks were listed and no wallets were connected.
+
+| Claim | Status |
+| --- | --- |
+| SuperRare homepage and drops page browsed directly | Verified |
+| Foundation homepage and active drops page browsed directly | Verified |
+| Objkt homepage and collections page browsed directly | Verified |
+| Zora homepage and Explore page confirmed | Verified |
+| OpenSea homepage and rankings browsed directly | Verified |
+| Artist account created or artwork listed | Not verified |
+| Curator or curation approval process tested | Not verified |
+| Royalty payout received from a secondary sale | Not verified |
+| Wallet connected on any platform | Not verified |
+
+**Foundation marketplace**
+
+![Foundation homepage showing curated NFT art drops and artist-led publishing model](../media/foundation-home.png)
+
+*Foundation homepage, July 2026 -- curated art drop platform and artist publishing posture confirmed on public surface.*
+
+![Foundation drops page showing active NFT art auctions and creator releases](../media/foundation-drops.png)
+
+*Foundation drops page, July 2026 -- live artist auctions and curated NFT releases confirmed.*
+
+**SuperRare drops**
+
+![SuperRare drops page showing premium NFT art auctions and collector-facing releases](../media/superrare-drops.png)
+
+*SuperRare drops page, July 2026 -- premium art auctions and collector-facing release model confirmed on public surface.*
+
+**Objkt marketplace**
+
+![Objkt homepage showing NFT art marketplace for Tezos and multi-chain artists](../media/objkt-home2.png)
+
+*Objkt homepage, July 2026 -- NFT art marketplace for Tezos and multi-chain artists confirmed on public surface.*
+
+![Objkt collections page showing curated NFT collections and artist categories](../media/objkt-collections.png)
+
+*Objkt collections page, July 2026 -- NFT collections and artist categories confirmed browsable without login.*
 
 What stood out immediately was that artist marketplaces do not just compete on traffic. They compete on taste, framing, and the kind of collector relationship they imply before the artist ever uploads a work.
 
