@@ -105,6 +105,53 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *UniSat marketplace, July 2026 -- active Ordinals and BRC-20 trading market confirmed on public surface.*
 
+## Xverse
+
+Xverse is the most mainstream-accessible Ordinals wallet. It handles Bitcoin, Stacks, and Ordinals/BRC-20 assets in a single mobile and browser interface. Its onboarding is smooth and its integration with major Ordinals marketplaces is well-established. The tradeoff is that its accessibility can mask the sat-management complexity that Ordinals users need to understand to avoid accidentally spending inscribed sats.
+
+![Xverse wallet homepage showing Bitcoin and Ordinals wallet for mainstream users](../media/xverse-home.png)
+
+*Xverse homepage, July 2026 -- Bitcoin and Ordinals wallet with mainstream-accessible posture confirmed on public surface.*
+
+![Xverse Ordinals page showing inscription browsing and collection management features](../media/xverse-ordinals.png)
+
+*Xverse Ordinals page, July 2026 -- inscription browsing and collection management features confirmed.*
+
+**Best for:** Mainstream Ordinals users who want a polished multi-asset wallet with good marketplace integration.
+**Main tradeoff:** Accessibility can lead users to underestimate sat-management discipline requirements.
+
+---
+
+## Leather
+
+Leather (formerly Hiro Wallet) has a stronger Bitcoin-native orientation than Xverse and broader compatibility across Bitcoin ecosystem projects including Stacks and Ordinals. It is well-suited for users who want a more Bitcoin-centric experience and is often preferred by technically engaged users who care about the wallet's philosophical alignment as much as its features.
+
+![Leather wallet homepage showing Bitcoin-native wallet with Stacks and Ordinals support](../media/leather-home.png)
+
+*Leather homepage, July 2026 -- Bitcoin-native wallet with broader ecosystem compatibility confirmed on public surface.*
+
+**Best for:** Bitcoin-native users who want Ordinals support with a more sovereignty-minded wallet posture.
+**Main tradeoff:** Not always the first choice for users who only want fast marketplace access.
+
+---
+
+## UniSat
+
+UniSat is the wallet most closely integrated with active Ordinals inscription and BRC-20 trading activity. Its marketplace is one of the primary venues for Ordinals trading and its browser extension is heavily used by active inscription traders. The tradeoff is that its close integration with hot-wallet marketplace activity makes it a higher-risk choice for users storing meaningful inscription value over time.
+
+![UniSat wallet homepage showing browser extension wallet for Bitcoin Ordinals](../media/unisat-home.png)
+
+*UniSat homepage, July 2026 -- browser extension wallet deeply integrated with Ordinals inscription activity confirmed.*
+
+![UniSat marketplace page showing active Bitcoin Ordinals and BRC-20 trading](../media/unisat-market.png)
+
+*UniSat marketplace, July 2026 -- active Ordinals and BRC-20 trading market confirmed on public surface.*
+
+**Best for:** Active inscription traders who want the tightest integration with the Ordinals marketplace ecosystem.
+**Main tradeoff:** Hot-wallet browser extension model is not appropriate for long-term storage of high-value inscriptions.
+
+---
+
 ## Ordinals users need sat management discipline more than flashy UX
 
 The defining difference in Ordinals custody is that not all sats are equal from the user’s perspective. That changes the risk model. A wallet can accidentally spend or mix sats in ways that ruin the user’s intent if UTXO management is weak or opaque.

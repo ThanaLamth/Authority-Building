@@ -104,6 +104,58 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *Bitwise BITB fund page, July 2026 -- spot Bitcoin ETF with on-chain transparency features confirmed on public surface.*
 
+## BlackRock iShares Bitcoin Trust (IBIT)
+
+IBIT is the dominant spot Bitcoin ETF by AUM and trading volume. BlackRock's institutional distribution, tight bid-ask spreads, and rapid accumulation after launch made it the default choice for most institutional and retail buyers seeking Bitcoin ETF exposure. Its size is both its main strength and the reason it attracts the most scrutiny on custody and creation/redemption mechanics.
+
+![BlackRock iShares Bitcoin Trust ETF product page showing fund overview and performance](../media/ibit-home.png)
+
+*BlackRock IBIT product page, July 2026 -- spot Bitcoin ETF fund details and institutional product framing confirmed on public surface.*
+
+**Best for:** Investors who want the highest-liquidity Bitcoin ETF with institutional-grade backing.
+**Main tradeoff:** Largest fund does not automatically mean best fit -- compare expense ratios and custody model.
+
+---
+
+## Fidelity Wise Origin Bitcoin Fund (FBTC)
+
+FBTC is the strongest alternative to IBIT for investors who already have a Fidelity relationship. Fidelity self-custodies the Bitcoin underlying the fund rather than using a third-party custodian, which is a meaningful differentiator for buyers who care about custody chain. Competitive expense ratio and strong AUM make it a genuine second option in most allocation decisions.
+
+![Fidelity FBTC Bitcoin ETF page showing fund overview and holdings](../media/fbtc-home.png)
+
+*Fidelity FBTC page, July 2026 -- spot Bitcoin ETF fund page confirmed on public surface.*
+
+**Best for:** Fidelity account holders and investors who prefer self-custody by the issuer.
+**Main tradeoff:** Smaller liquidity footprint than IBIT in most trading sessions.
+
+---
+
+## ARK 21Shares Bitcoin ETF (ARKB)
+
+ARKB is the result of a partnership between ARK Invest and 21Shares, combining ARK's Bitcoin-forward investment thesis with 21Shares' ETF infrastructure experience. Its expense ratio is competitive and it has attracted meaningful AUM, though it remains smaller than the leading two funds. ARK's public Bitcoin conviction narrative gives it a positioning edge for investors who align with that thesis.
+
+![ARK 21Shares ARKB Bitcoin ETF fund page showing product details and fee structure](../media/arkb-home.png)
+
+*ARK ARKB fund page, July 2026 -- spot Bitcoin ETF product details and fee structure confirmed on public surface.*
+
+**Best for:** Investors who align with ARK's Bitcoin investment thesis and want a competitive fee structure.
+**Main tradeoff:** Smaller AUM and liquidity than the top two funds.
+
+---
+
+## Bitwise Bitcoin ETF (BITB)
+
+Bitwise is the most crypto-native issuer in the spot Bitcoin ETF field. It has a longer track record in crypto product development than most competitors and publishes on-chain proof of reserves for its ETF holdings, which is an unusual transparency commitment for a traditional financial product. BITB is worth considering for investors who want issuer-level transparency beyond standard SEC filings.
+
+![Bitwise BITB Bitcoin ETF fund page showing product overview and on-chain transparency](../media/bitb-home.png)
+
+*Bitwise BITB fund page, July 2026 -- spot Bitcoin ETF with on-chain transparency features confirmed on public surface.*
+
+**Best for:** Investors who value crypto-native issuer experience and on-chain proof of reserves.
+**Main tradeoff:** Smaller AUM than IBIT and FBTC -- verify liquidity before large position sizing.
+
+---
+
 ## The best ETF is not always the cheapest ETF
 
 Fees matter, but they are not the entire story. A slightly cheaper fund can still be weaker if it trades with less liquidity, wider spreads, or a thinner long-term business case. Investors should care about total friction, not just management fees.

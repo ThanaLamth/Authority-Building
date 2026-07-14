@@ -107,6 +107,62 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
 
+## Nunchuk
+
+Nunchuk is one of the most flexible modern multisig coordinators for users who want to manage their own setup. It supports a range of hardware signers, works well for collaborative wallets, and has a mobile-first interface that reduces friction without sacrificing control.
+
+![Nunchuk homepage showing flexible multisig coordination wallet for Bitcoin self-custody](../media/nunchuk-home.png)
+
+*Nunchuk homepage, July 2026 -- flexible multisig coordination and Bitcoin-native self-custody posture confirmed.*
+
+**Best for:** Self-directed multisig users who want modern coordination tools without service dependency.
+**Main tradeoff:** Requires real understanding of multisig setup -- not a beginner product.
+
+---
+
+## Sparrow Wallet
+
+Sparrow is the best choice for advanced users who want full transparency and direct control. It shows full transaction detail at every step, supports PSBT-based signing with all major hardware wallets, and connects to a user's own node or trusted Electrum server.
+
+![Sparrow Wallet homepage showing advanced Bitcoin wallet with full PSBT transparency](../media/sparrow-home.png)
+
+*Sparrow homepage, July 2026 -- advanced Bitcoin wallet with full transaction transparency and PSBT support confirmed.*
+
+![Sparrow Wallet documentation showing setup and feature reference](../media/sparrow-docs.png)
+
+*Sparrow docs, July 2026 -- comprehensive setup and multisig documentation confirmed.*
+
+**Best for:** Advanced users who want full visibility into every transaction and maximum hardware-wallet compatibility.
+**Main tradeoff:** Steeper learning curve than consumer-facing products.
+
+---
+
+## Casa
+
+Casa is the cleanest managed multisig option for users who want guided key setup, premium support, and structured recovery. It abstracts technical complexity in exchange for a service-layer dependency -- recovery depends partly on Casa's infrastructure.
+
+![Casa homepage showing managed multisig custody with guided key recovery](../media/casa-home.png)
+
+*Casa homepage, July 2026 -- managed multisig product with premium support and guided recovery posture confirmed.*
+
+**Best for:** Users who want managed multisig with strong support and guided key recovery.
+**Main tradeoff:** Recovery depends partly on Casa's infrastructure -- not fully self-sovereign.
+
+---
+
+## Unchained
+
+Unchained takes a collaborative custody approach: the user holds keys and Unchained holds one key in a multi-key arrangement, with a structured recovery path. It also offers Bitcoin-native financial services layered on top of holdings.
+
+![Unchained homepage showing collaborative Bitcoin custody and multisig vault service](../media/unchained-home.png)
+
+*Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
+
+**Best for:** Users who want collaborative custody, structured recovery support, and Bitcoin-native financial services.
+**Main tradeoff:** Partial trust in Unchained's operations required.
+
+---
+
 ## Multisig is not automatically safer unless the setup matches the user
 
 The core mistake in multisig marketing is ignoring human failure. A 2-of-3 or 3-of-5 setup looks safer on paper, but if the user cannot explain the backup locations, signer roles, recovery path, inheritance plan, and software dependencies, the extra complexity may be creating rather than reducing risk.

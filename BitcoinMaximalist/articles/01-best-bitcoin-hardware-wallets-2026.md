@@ -107,6 +107,79 @@ We captured the public-facing product surfaces of all five wallets on 2026-07-14
 
 *SeedSigner homepage, July 2026 -- open-source DIY signing device and stateless design confirmed on public surface.*
 
+## Coldcard
+
+Coldcard is the strongest pick for advanced users who want the deepest Bitcoin-native security model available in a commercial device. It is built around a dedicated secure element, air-gapped signing via PSBT and microSD, and a signing model that never requires USB connection to a hot computer. That posture makes it the default recommendation for security-conscious self-custody users who are comfortable with a steeper learning curve.
+
+![Coldcard hardware wallet homepage showing Bitcoin-only signing device and security features](../media/coldcard-home.png)
+
+*Coldcard homepage, July 2026 -- Bitcoin-only hardware signing device and advanced security features confirmed on public surface.*
+
+![Coldcard quick-start documentation page showing setup and signing workflow](../media/coldcard-docs.png)
+
+*Coldcard quick-start docs, July 2026 -- setup and PSBT signing workflow confirmed in public documentation.*
+
+**Best for:** Advanced self-custody users, multisig setups, air-gapped signing workflows.
+**Main tradeoff:** Higher learning curve than most competing devices.
+
+---
+
+## Blockstream Jade
+
+Blockstream Jade is the best value option in this shortlist. It combines open-source firmware, Bitcoin-native design, and strong feature depth at a price point well below premium alternatives. It supports air-gapped signing via QR code and camera, which is a significant security advantage for a device at its price. The blind oracle PIN model is worth understanding before setup, but it is not a meaningful blocker for most users who read the documentation.
+
+![Blockstream Jade hardware wallet product page showing Bitcoin and Liquid signing device](../media/jade-home.png)
+
+*Blockstream Jade product page, July 2026 -- Bitcoin-native hardware wallet and open-source firmware posture confirmed.*
+
+![Blockstream Jade store listing showing pricing and hardware wallet purchase options](../media/jade-store.png)
+
+*Blockstream Jade store, July 2026 -- pricing and availability confirmed on public store page.*
+
+**Best for:** Value-focused Bitcoin users who want strong security without premium pricing.
+**Main tradeoff:** Blind oracle PIN model requires understanding before relying on it fully.
+
+---
+
+## BitBox02 Bitcoin-only
+
+BitBox02 Bitcoin-only is one of the best choices for users who want a smooth, low-friction self-custody experience without leaving the Bitcoin-only lane. The companion desktop app is well-designed and beginner-accessible, and the device itself is physically small and easy to use. The Bitcoin-only firmware variant is the one worth choosing -- it reduces the attack surface meaningfully compared to the multi-edition version.
+
+![BitBox02 Bitcoin-only hardware wallet product page showing minimalist secure signing device](../media/bitbox02-home.png)
+
+*BitBox02 Bitcoin-only product page, July 2026 -- Bitcoin-only mode and minimalist signing device confirmed on public surface.*
+
+**Best for:** Beginners who still want a quality device, users who want the least friction in self-custody setup.
+**Main tradeoff:** Less raw feature depth than Coldcard for advanced workflows.
+
+---
+
+## Passport by Foundation Devices
+
+Passport is the premium pick for users who want a well-designed, airgapped, open-source hardware wallet with a better interface than Coldcard without giving up serious security. The device uses a camera for QR-based air-gapped signing and pairs with the Envoy companion app. Foundation Devices has a strong Bitcoin-only and open-source orientation that aligns well with maximalist self-custody values.
+
+![Passport hardware wallet homepage showing air-gapped Bitcoin signing device and open-source design](../media/passport-home.png)
+
+*Passport product page, July 2026 -- air-gapped Bitcoin signing and open-source hardware design confirmed.*
+
+**Best for:** Users who want premium build quality, open-source hardware, and a more intuitive airgapped experience.
+**Main tradeoff:** Higher price point than Jade or BitBox02.
+
+---
+
+## SeedSigner
+
+SeedSigner is the best choice for users who want full open-source verification, component-level transparency, and stateless signing. The device is built from off-the-shelf Raspberry Pi parts, holds no persistent wallet state, and signs transactions statelessly from a seed loaded at each session. That model is the strongest from a supply-chain and state-compromise standpoint. The tradeoff is that it is a DIY build, not a finished consumer product.
+
+![SeedSigner homepage showing DIY open-source Bitcoin signing device and stateless design](../media/seedsigner-home.png)
+
+*SeedSigner homepage, July 2026 -- open-source DIY signing device and stateless design confirmed on public surface.*
+
+**Best for:** DIY and multisig tinkerers, users who want component-level transparency and stateless signing.
+**Main tradeoff:** Not a plug-and-play consumer product -- requires assembly and comfort with DIY hardware.
+
+---
+
 ## What makes a hardware wallet truly Bitcoin-maximalist
 
 The first filter is simple: does the device treat Bitcoin as the product, or does it treat Bitcoin as one asset inside a casino-style multi-coin interface. Bitcoin-first devices tend to make fewer design compromises around address handling, PSBT workflows, backups, and [multisig support](/bitcoin-guides/security/best-bitcoin-multisig-wallets-2026/).

@@ -111,6 +111,58 @@ That is why a Bitcoin-maximalist review starts with withdrawal policy and custod
 
 Regional availability also matters. A good US recommendation may be a weak European recommendation. The point is not to crown one global winner. The point is to identify the cleanest Bitcoin-native options in the jurisdictions they actually serve.
 
+## River
+
+River is the strongest recommendation for users who want a Bitcoin-only platform with a long-term savings orientation. It offers recurring bitcoin purchases, a clean withdrawal path to self-custody, and a product feel that is clearly built around accumulation rather than trading. The Bitcoin-only focus and withdrawal discipline make it a natural fit for maximalist buyers.
+
+![River homepage showing Bitcoin-only DCA platform with savings-first orientation](../media/river-home.png)
+
+*River homepage, July 2026 -- Bitcoin-only DCA platform and long-term savings posture confirmed on public surface.*
+
+**Best for:** Long-term stackers who want a Bitcoin-only platform with clean self-custody withdrawal.
+**Main tradeoff:** Availability varies by region -- check access before committing.
+
+---
+
+## Swan Bitcoin
+
+Swan is built around Bitcoin-only accumulation and education. Its product positioning is deliberately long-term and savings-oriented, and it has built a meaningful community around Bitcoin education alongside the stacking product. It is a strong choice for users who want both the accumulation product and the context around why they are buying.
+
+![Swan Bitcoin homepage showing accumulation product with education-first framing](../media/swan-home.png)
+
+*Swan homepage, July 2026 -- Bitcoin-only accumulation product and education-first framing confirmed.*
+
+**Best for:** Education-first stackers who want a Bitcoin-only product and community context.
+**Main tradeoff:** Users still need to compare total execution cost including spread.
+
+---
+
+## Strike
+
+Strike is the fastest and most app-like option in this shortlist. Its onboarding is smooth, its interface is simple, and it works well for users who want to buy bitcoin quickly without a complex setup. The tradeoff is that it feels more like a payments and fintech product than a long-term savings vehicle, and its feature set and jurisdiction availability vary.
+
+![Strike homepage showing fast Bitcoin payments and DCA with simple onboarding](../media/strike-home.png)
+
+*Strike homepage, July 2026 -- fast payments-rail DCA app and simple onboarding posture confirmed.*
+
+**Best for:** Users who want the simplest, fastest onboarding and a clean mobile experience.
+**Main tradeoff:** Product focus differs by jurisdiction -- verify local availability and feature set.
+
+---
+
+## Relai
+
+Relai is the most visible European option in this shortlist for users who want a straightforward bitcoin stacking product without the feel of a traditional exchange. It is a mobile-first product built around simple recurring purchases. Its European focus is both its strength (for buyers in that region) and its limitation (for users outside it).
+
+![Relai homepage showing European bitcoin stacking app](../media/relai-home.png)
+
+*Relai homepage, July 2026 -- European bitcoin stacking app with straightforward accumulation posture confirmed.*
+
+**Best for:** European bitcoin buyers who want a simple, non-exchange stacking app.
+**Main tradeoff:** Regional product -- less relevant for buyers outside Europe.
+
+---
+
 ## What stood out once we looked at the actual product positioning
 
 What stood out immediately was not the fee language. It was whether the product feels built around stacking or around platform retention. River and Swan clearly present themselves as long-term bitcoin accumulation products. Strike feels faster and more app-like, which is a strength if simplicity matters, but not automatically the best fit for users who want a pure savings posture. Relai is compelling in part because it is aimed more directly at European buyers, but that same regional fit means readers still need to judge local constraints carefully.

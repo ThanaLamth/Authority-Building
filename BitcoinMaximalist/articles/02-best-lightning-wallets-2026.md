@@ -112,6 +112,58 @@ That is why a Bitcoin-maximalist review should not just compare interface design
 
 The best Lightning wallet is the one that fits the actual use case. A travel-spending wallet can be different from a node wallet. A merchant wallet can be different from a long-term user’s daily-carry wallet. It can also be different from the user’s cold-storage setup in [hardware wallets](/bitcoin-guides/wallets/best-bitcoin-hardware-wallets-2026/).
 
+## Phoenix
+
+Phoenix is the cleanest mainstream recommendation for users who want self-custodial Lightning without running a node. It manages channels automatically using ACINQ's LSP, which removes the biggest operational burden from most users. Liquidity costs are transparent and inbound capacity is handled on-demand. The tradeoff is that it depends on ACINQ's infrastructure -- a trust model users should understand before relying on it for meaningful balances.
+
+![Phoenix wallet homepage showing self-custodial Lightning wallet with automatic channel management](../media/phoenix-home.png)
+
+*Phoenix homepage, July 2026 -- self-custodial Lightning wallet with automatic channel management confirmed on public surface.*
+
+**Best for:** Most users who want self-custodial Lightning without node complexity.
+**Main tradeoff:** Depends on ACINQ's LSP for liquidity -- not fully trustless.
+
+---
+
+## Breez
+
+Breez is strong for users who want Lightning payments with a more merchant- and service-oriented feature set. It includes a point-of-sale module, podcast streaming support, and a clean payments interface. It also uses an LSP model, which means the same trust tradeoffs apply as Phoenix. Breez is a better fit when payment workflow features matter as much as the custody model.
+
+![Breez wallet homepage showing payments-first Lightning wallet and merchant tools](../media/breez-home.png)
+
+*Breez homepage, July 2026 -- payments-focused Lightning wallet and merchant integration posture confirmed.*
+
+**Best for:** Payments and merchant use, users who want service integrations alongside Lightning.
+**Main tradeoff:** Less ideal if the goal is deeper node-level control.
+
+---
+
+## Zeus
+
+Zeus is the best choice for users who already run their own Lightning node. It connects directly to LND, Core Lightning, or Eclair backends and gives full control over channel management, fees, and routing. That control is the point. Users who do not run their own node will find Zeus harder to use than Phoenix or Breez, but for node operators it is the strongest tool in the shortlist.
+
+![Zeus wallet homepage showing node-linked Lightning wallet for advanced Bitcoin users](../media/zeus-home.png)
+
+*Zeus homepage, July 2026 -- node-linked Lightning wallet and advanced control posture confirmed on public surface.*
+
+**Best for:** Users who run their own Lightning node and want direct control over the entire stack.
+**Main tradeoff:** Significantly more complex than LSP-based wallets for users without a node.
+
+---
+
+## Blixt
+
+Blixt is an experimental power-user wallet built on LND that runs a full Lightning node on the mobile device itself. That approach gives it a stronger sovereignty posture than LSP-dependent wallets, but it comes with real tradeoffs in battery usage, sync time, and occasional instability that a production-grade wallet would not have. It is best treated as a serious project for technically engaged users rather than a mainstream recommendation.
+
+![Blixt wallet homepage showing experimental open-source Lightning wallet for power users](../media/blixt-home.png)
+
+*Blixt homepage, July 2026 -- experimental open-source Lightning wallet and power-user posture confirmed.*
+
+**Best for:** Technically engaged users who want a self-contained mobile Lightning node.
+**Main tradeoff:** Less stable than mature wallets -- not a production-grade daily driver for most users.
+
+---
+
 ## What stood out once we looked at the actual wallet positioning
 
 What stood out immediately was not just custody. It was where each wallet puts friction. Phoenix tries to make self-custody usable without forcing the user to think like a node operator. Zeus does the opposite: it assumes that control is the point, which is a strength if you run your own stack, but a weakness if you just want smooth everyday spending. Breez sits closer to the payments end of the spectrum, which is useful for merchants, but less compelling for users who want deeper infrastructure control.

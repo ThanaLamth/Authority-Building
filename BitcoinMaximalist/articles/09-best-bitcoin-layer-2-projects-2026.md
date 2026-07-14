@@ -114,6 +114,75 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *Ark Protocol homepage, July 2026 -- Bitcoin payment protocol for off-chain transfers confirmed on public surface.*
 
+## Lightning Network
+
+The Lightning Network is the most mature and widely used Bitcoin payment layer. It enables fast, low-fee payments through a network of bidirectional payment channels that settle on the Bitcoin base layer. It is the closest thing to a production-ready Bitcoin L2 and powers billions of dollars in payment volume across wallets, exchanges, and payment processors. Its trust assumptions are minimal compared to most alternative L2 designs.
+
+![Lightning Network homepage showing Bitcoin payment channel protocol overview](../media/lightning-home.png)
+
+*Lightning Network homepage, July 2026 -- Bitcoin payment channel protocol and L2 infrastructure confirmed on public surface.*
+
+![1ML Lightning Network statistics showing node count, channel count, and network capacity](../media/lightning-1ml.png)
+
+*1ML network stats, July 2026 -- Lightning Network node and channel statistics confirmed on public explorer.*
+
+**Best for:** Fast, low-fee Bitcoin payments with minimal trust assumptions and the largest existing network effect.
+**Main tradeoff:** Requires liquidity management and channel funding -- not frictionless for all use cases.
+
+---
+
+## Stacks
+
+Stacks is the most developed smart contract platform anchored to Bitcoin. It uses a unique Proof of Transfer (PoX) consensus mechanism that anchors to Bitcoin blocks and enables smart contracts that settle on Bitcoin. It is the primary platform for Bitcoin-native DeFi and NFT experiments. Trust assumptions are different from Lightning -- Stacks has its own validator set -- which matters for users evaluating sovereignty.
+
+![Stacks homepage showing Bitcoin layer 2 smart contracts and DeFi ecosystem](../media/stacks-home.png)
+
+*Stacks homepage, July 2026 -- Bitcoin L2 smart contract platform and ecosystem confirmed on public surface.*
+
+**Best for:** Developers and users who want Bitcoin-anchored smart contracts and DeFi without leaving the Bitcoin ecosystem.
+**Main tradeoff:** Trust model differs from Lightning -- Stacks has its own consensus layer and is not purely trustless.
+
+---
+
+## Rootstock (RSK)
+
+Rootstock is an EVM-compatible sidechain merged-mined with Bitcoin. It enables Ethereum-compatible smart contracts secured by Bitcoin's mining infrastructure. This makes it useful for teams who want to port EVM-based projects to a Bitcoin-secured environment. Its trust model involves a federation of signers for the peg mechanism, which is a meaningful trust assumption to understand before relying on it for significant value.
+
+![Rootstock homepage showing EVM-compatible Bitcoin sidechain and smart contract platform](../media/rootstock-home.png)
+
+*Rootstock homepage, July 2026 -- EVM-compatible Bitcoin sidechain and smart contract infrastructure confirmed.*
+
+**Best for:** Developers who want EVM compatibility anchored to Bitcoin mining security.
+**Main tradeoff:** Federated peg mechanism introduces trust in the federation -- not trustless.
+
+---
+
+## Liquid Network
+
+Liquid is a Bitcoin sidechain operated by a federation of exchanges and infrastructure providers. It enables faster Bitcoin settlement between federation members, confidential transactions, and the issuance of tokenized assets. It is most useful for exchange-to-exchange settlement and institutional liquidity flows. Its federated model is a meaningful trust tradeoff for users who want minimized trust assumptions.
+
+![Liquid Network homepage showing federated Bitcoin sidechain for traders and exchanges](../media/liquid-home.png)
+
+*Liquid Network homepage, July 2026 -- federated Bitcoin sidechain for institutional and trader use confirmed.*
+
+**Best for:** Exchanges, traders, and institutions who need faster Bitcoin settlement between federated members.
+**Main tradeoff:** Trust depends on the federation -- not suitable for users who want trustless Bitcoin L2 properties.
+
+---
+
+## Ark Protocol
+
+Ark is a newer Bitcoin payment protocol designed to enable off-chain transfers without the channel-management complexity of Lightning. It uses a server-assisted model (called an ASP -- Ark Service Provider) to facilitate trustless off-chain transactions that settle on Bitcoin. It is still early-stage relative to Lightning but represents the most interesting design work in the Bitcoin payments L2 space in recent years.
+
+![Ark Protocol homepage showing Bitcoin payment protocol for fast off-chain transfers](../media/ark-home.png)
+
+*Ark Protocol homepage, July 2026 -- Bitcoin payment protocol for off-chain transfers confirmed on public surface.*
+
+**Best for:** Users and developers tracking the next generation of Bitcoin payment layer designs.
+**Main tradeoff:** Early-stage -- not production-ready at scale in the same way Lightning is.
+
+---
+
 ## Bitcoin layer 2s should be judged by trust assumptions before throughput
 
 A Bitcoin-maximalist analysis starts by asking who can censor, who can seize, who can coordinate exits, and what assumptions the user must accept. Throughput only matters after those questions are answered.

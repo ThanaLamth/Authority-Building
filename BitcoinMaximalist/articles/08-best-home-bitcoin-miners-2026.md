@@ -101,6 +101,49 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *NerdMiner GitHub, July 2026 -- DIY lottery solo mining device project and community documentation confirmed.*
 
+## Bitaxe
+
+Bitaxe is the most compelling open-source home mining option for users who want to understand Bitcoin mining from the ground up. It is built on a BM1366 ASIC chip (the same generation used in Antminer S19-series machines) on a DIY-friendly open-source board. The hashrate is modest and solo mining is statistically lottery-like, but the educational value, price point, and community are genuine.
+
+![Bitaxe homepage showing open-source DIY Bitcoin mining device](../media/bitaxe-home.png)
+
+*Bitaxe homepage, July 2026 -- open-source DIY Bitcoin mining device and educational posture confirmed on public surface.*
+
+![Bitaxe GitHub repository showing open-source hardware design and firmware](../media/bitaxe-github.png)
+
+*Bitaxe GitHub, July 2026 -- open-source hardware design and community firmware confirmed on public repository.*
+
+**Best for:** Tinkerers, developers, and users who want educational Bitcoin mining participation on a small budget.
+**Main tradeoff:** Not a plug-and-forget device -- requires some assembly comfort and ongoing attention.
+
+---
+
+## FutureBit Apollo
+
+FutureBit Apollo is the strongest all-in-one home mining product for users who want a packaged experience rather than a DIY build. It combines a small ASIC miner with an optional full Bitcoin node in a quiet, relatively low-power enclosure. It is more expensive than Bitaxe but significantly more accessible for users who want a finished home product.
+
+![FutureBit homepage showing Apollo home Bitcoin mining and node product](../media/futurebit-home.png)
+
+*FutureBit homepage, July 2026 -- Apollo home Bitcoin miner and integrated node product confirmed on public surface.*
+
+**Best for:** Home users who want a packaged, quieter mining setup with optional full node integration.
+**Main tradeoff:** Higher price than Bitaxe with still-modest economic output -- not primarily a profit tool.
+
+---
+
+## NerdMiner
+
+NerdMiner is the most minimal solo lottery miner available -- a tiny ESP32-based device that contributes a negligible hashrate to solo mining pools in hopes of finding a block. It is more conversation piece and education tool than viable miner, but its simplicity and price make it the lowest-barrier way to participate in the Bitcoin mining network and understand how it works.
+
+![NerdMiner GitHub repository showing DIY lottery solo mining device for home users](../media/nerdminer-github.png)
+
+*NerdMiner GitHub, July 2026 -- DIY lottery solo mining device project and community documentation confirmed.*
+
+**Best for:** Curious users who want the minimal Bitcoin mining experience at near-zero cost.
+**Main tradeoff:** Effectively zero probability of finding a block -- purely educational and participatory.
+
+---
+
 ## Home mining is usually about participation first and profits second
 
 A serious home-mining guide has to say this plainly: most home miners are not beating industrial operators on economics. That is not failure. It just means the value proposition is different.

@@ -101,6 +101,49 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *Canaan homepage, July 2026 -- Avalon Bitcoin ASIC hardware product line confirmed on public surface.*
 
+## Bitmain (Antminer)
+
+Bitmain remains the dominant ASIC manufacturer by installed base and product breadth. The Antminer S-series and T-series cover the range from high-efficiency flagship units to more accessible mid-range options. Bitmain's supply chain reach and service network make it the default consideration for large-scale facilities, though lead times, pricing cycles, and resale dynamics should always be modeled before committing.
+
+![Bitmain homepage showing industrial ASIC mining hardware manufacturer](../media/bitmain-home.png)
+
+*Bitmain homepage, July 2026 -- industrial ASIC mining hardware manufacturer and Antminer product line confirmed on public surface.*
+
+![Bitmain shop page showing Antminer ASIC models and pricing](../media/bitmain-shop.png)
+
+*Bitmain shop, July 2026 -- Antminer ASIC models and product availability confirmed on public shop surface.*
+
+**Best for:** Large-scale mining operations that want the widest model selection and established service infrastructure.
+**Main tradeoff:** Market-dominant supplier with pricing power -- always compare against MicroBT before committing to a large order.
+
+---
+
+## MicroBT (Whatsminer)
+
+MicroBT's Whatsminer M-series has consistently challenged Bitmain on efficiency and is the most credible alternative at scale. The M60-series and high-efficiency variants deliver competitive J/TH ratios and MicroBT has built a strong reputation for reliability in large-scale deployments. For facilities that want genuine competitive sourcing, Whatsminer is the comparison point that matters most.
+
+![MicroBT homepage showing Whatsminer ASIC mining hardware product lineup](../media/microbt-home.png)
+
+*MicroBT homepage, July 2026 -- Whatsminer ASIC product lineup and mining hardware posture confirmed on public surface.*
+
+**Best for:** Operations seeking a genuine alternative to Bitmain with competitive efficiency at scale.
+**Main tradeoff:** Slightly smaller service network than Bitmain in some markets -- verify local support before large orders.
+
+---
+
+## Canaan (Avalon)
+
+Canaan's Avalon series is the third major manufacturer and offers a credible option for buyers who want to diversify away from the Bitmain/MicroBT duopoly. Efficiency ratings have narrowed the gap with the top two manufacturers in recent generations. Canaan is a less common choice for flagship deployments but remains relevant for buyers who want to spread procurement risk.
+
+![Canaan homepage showing Avalon Bitcoin ASIC mining hardware](../media/canaan-home.png)
+
+*Canaan homepage, July 2026 -- Avalon Bitcoin ASIC hardware product line confirmed on public surface.*
+
+**Best for:** Buyers who want a third sourcing option and procurement diversification beyond Bitmain and MicroBT.
+**Main tradeoff:** Smaller installed base and service network than the top two manufacturers.
+
+---
+
 ## The best miner on paper may be the wrong miner in practice
 
 Joules per terahash is the first metric because efficiency drives survivability. But mining is a business of systems, not isolated numbers. A miner with excellent efficiency can still be the wrong choice if it is hard to source, difficult to cool, or expensive to maintain in the operator’s jurisdiction.

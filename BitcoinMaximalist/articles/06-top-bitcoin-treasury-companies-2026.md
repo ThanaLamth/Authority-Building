@@ -107,6 +107,62 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 *Riot Platforms homepage, July 2026 -- Bitcoin mining company with significant BTC treasury exposure confirmed.*
 
+## Strategy (formerly MicroStrategy)
+
+Strategy is the reference case for corporate Bitcoin treasury management. It has accumulated the largest known corporate BTC position through a combination of operating cash flows, equity issuance, and convertible note offerings. The scale and consistency of its approach -- and its willingness to make Bitcoin the core capital-allocation narrative -- is what separates it from all other public companies in this category.
+
+![Strategy corporate homepage showing Bitcoin treasury company positioning](../media/strategy-home.png)
+
+*Strategy homepage, July 2026 -- Bitcoin treasury company and capital allocation strategy confirmed on public surface.*
+
+![Strategy Bitcoin page showing BTC holdings and corporate treasury model](../media/strategy-bitcoin.png)
+
+*Strategy Bitcoin page, July 2026 -- BTC holdings disclosure and corporate treasury model confirmed.*
+
+**Best for:** Investors seeking the largest, most established corporate Bitcoin exposure narrative.
+**Main tradeoff:** Funding structure involves leverage and dilution risk that must be modeled separately from the BTC position.
+
+---
+
+## Metaplanet
+
+Metaplanet is the most prominent Japan-based public company pursuing an explicit Bitcoin treasury strategy modeled in part on Strategy's approach. It has attracted significant attention from investors seeking Bitcoin-correlated equity exposure in Asian markets. Its smaller scale relative to Strategy means it trades at a higher implied premium to NAV, which is worth evaluating carefully.
+
+![Metaplanet homepage showing Japanese Bitcoin treasury company positioning](../media/metaplanet-home.png)
+
+*Metaplanet homepage, July 2026 -- Japan-based Bitcoin treasury company and accumulation strategy confirmed on public surface.*
+
+**Best for:** Investors seeking Bitcoin-correlated equity exposure in Japanese markets.
+**Main tradeoff:** Smaller scale and higher implied premium to NAV than leading Western comparables.
+
+---
+
+## MARA Holdings
+
+MARA is one of the largest publicly traded Bitcoin mining companies and also holds a significant BTC treasury from its mining operations. It represents a hybrid model: Bitcoin exposure through both mining revenue and treasury holdings. The mining business introduces operational complexity and cost-structure risk that pure treasury companies do not have.
+
+![MARA Holdings homepage showing Bitcoin mining and treasury company model](../media/mara-home.png)
+
+*MARA homepage, July 2026 -- Bitcoin mining and treasury exposure company confirmed on public surface.*
+
+**Best for:** Investors who want combined Bitcoin mining exposure and treasury accumulation in a single public vehicle.
+**Main tradeoff:** Mining operations add operational complexity, energy cost risk, and capital intensity not present in pure treasury models.
+
+---
+
+## Riot Platforms
+
+Riot is a major US-based Bitcoin mining company with a large self-mined BTC treasury. Like MARA, it represents the mining-plus-treasury model rather than a pure capital-allocation approach. Riot has made significant infrastructure investments in mining operations and holds a meaningful BTC position from its production history.
+
+![Riot Platforms homepage showing Bitcoin mining company with treasury BTC exposure](../media/riot-home.png)
+
+*Riot Platforms homepage, July 2026 -- Bitcoin mining company with significant BTC treasury exposure confirmed.*
+
+**Best for:** Investors seeking exposure to Bitcoin mining infrastructure alongside a growing BTC treasury.
+**Main tradeoff:** Mining-linked treasury is subject to hashrate competition, energy cost volatility, and capital expenditure cycles.
+
+---
+
 ## Not every Bitcoin treasury story signals the same level of conviction
 
 A company that acquires bitcoin out of operating cash flow is making a different statement from a company that repeatedly issues securities to buy more. A miner that holds part of production is also different from a service company using bitcoin as a balance-sheet reserve.
