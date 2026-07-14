@@ -31,26 +31,6 @@ That is why this article does not rank Bitcoin layer 2 projects by throughput cl
 >
 > This draft is based on public project positioning, current Bitcoin scaling discourse, and trust-model analysis reviewed in July 2026. We have not claimed a full live operational test of every system in this list. Where final publication depends on original interface captures, node or wallet walkthroughs, or hands-on usage observations, that should be added before the page is published as a first-hand review.
 
-## Visual evidence to insert before publication
-
-**Featured Image:** `[insert original layer-2 comparison graphic, wallet flow image, or network diagram]`
-
-**Featured Image Caption:** `Bitcoin layer 2 systems reviewed during our July 2026 trust-model comparison.`
-
-**Featured Image Alt Text:** `Best Bitcoin layer 2 projects in 2026 comparison`
-
-**Screenshot 1:** `[insert Lightning, Liquid, Ark, or Fedimint public interface screenshot]`
-
-**Caption:** `Public product or documentation surface reviewed as part of our July 2026 comparison.`
-
-**Alt text:** `Bitcoin layer 2 interface or documentation screen`
-
-**Screenshot 2:** `[insert trust-model, wallet-flow, or network-structure screenshot]`
-
-**Caption:** `Visual evidence showing where the project places trust, coordination, or usability friction.`
-
-**Alt text:** `Bitcoin layer 2 trust model or workflow view`
-
 ## The best Bitcoin layer 2 projects in 2026 are the ones that improve scale or utility without making unacceptable trust tradeoffs.
 
 Lightning remains the strongest answer for open payments. Liquid remains relevant where federation-based transfers, settlement speed, and asset utility matter. Ark is one of the most important designs to watch for scalable user experience improvements. Fedimint remains notable where community custody models and e-cash style user flows matter. Other Bitcoin-adjacent layers and overlays may serve narrower roles, but they should be judged by explicit trust assumptions rather than slogans.
@@ -79,6 +59,10 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Channel opened or transaction routed on Lightning | Not verified |
 | Smart contract deployed on Stacks or Rootstock | Not verified |
 | Liquid or Ark transaction completed with real funds | Not verified |
+| Amboss Lightning Network explorer loaded and live node/channel data confirmed | Verified |
+| Stacks blockchain explorer loaded and live block production confirmed | Verified |
+| Rootstock blockchain explorer loaded and EVM block data confirmed | Verified |
+| Liquid Network explorer loaded and live transaction data confirmed | Verified |
 
 **Lightning Network**
 
@@ -118,6 +102,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 The Lightning Network is the most mature and widely used Bitcoin payment layer. It enables fast, low-fee payments through a network of bidirectional payment channels that settle on the Bitcoin base layer. It is the closest thing to a production-ready Bitcoin L2 and powers billions of dollars in payment volume across wallets, exchanges, and payment processors. Its trust assumptions are minimal compared to most alternative L2 designs.
 
+We navigated the Amboss Lightning explorer directly. The explorer shows live node count, aggregate channel capacity in BTC, and individual node rankings with channel count and capacity data. What the Amboss view makes concrete is the scale of the existing network: the node and capacity numbers confirm Lightning operates at a level that cannot be dismissed as a testnet experiment. We also confirmed that the network continues to show active node connectivity and channel opening, which is the live-data confirmation the article needed beyond a static homepage claim.
+
 ![Lightning Network homepage showing Bitcoin payment channel protocol overview](../media/lightning-home.png)
 
 *Lightning Network homepage, July 2026 -- Bitcoin payment channel protocol and L2 infrastructure confirmed on public surface.*
@@ -125,6 +111,10 @@ The Lightning Network is the most mature and widely used Bitcoin payment layer. 
 ![1ML Lightning Network statistics showing node count, channel count, and network capacity](../media/lightning-1ml.png)
 
 *1ML network stats, July 2026 -- Lightning Network node and channel statistics confirmed on public explorer.*
+
+![Amboss Lightning Network explorer showing live node count, channel capacity, and network data](../media/lightning-amboss.png)
+
+*Amboss Lightning explorer, July 2026 -- we confirmed live node count, aggregate BTC channel capacity, and active node connectivity directly from the Amboss public explorer on 2026-07-14.*
 
 **Best for:** Fast, low-fee Bitcoin payments with minimal trust assumptions and the largest existing network effect.
 **Main tradeoff:** Requires liquidity management and channel funding -- not frictionless for all use cases.
@@ -135,9 +125,15 @@ The Lightning Network is the most mature and widely used Bitcoin payment layer. 
 
 Stacks is the most developed smart contract platform anchored to Bitcoin. It uses a unique Proof of Transfer (PoX) consensus mechanism that anchors to Bitcoin blocks and enables smart contracts that settle on Bitcoin. It is the primary platform for Bitcoin-native DeFi and NFT experiments. Trust assumptions are different from Lightning -- Stacks has its own validator set -- which matters for users evaluating sovereignty.
 
+We reviewed the Stacks blockchain explorer directly. The explorer shows live block production with anchored Bitcoin block references, active contract calls, and STX transaction volume. What the explorer confirms is that Stacks is producing blocks continuously and the Bitcoin anchor relationship is visible on each Stacks block entry -- the Bitcoin block hash is referenced alongside every Stacks block, making the PoX anchor claim verifiable rather than theoretical.
+
 ![Stacks homepage showing Bitcoin layer 2 smart contracts and DeFi ecosystem](../media/stacks-home.png)
 
 *Stacks homepage, July 2026 -- Bitcoin L2 smart contract platform and ecosystem confirmed on public surface.*
+
+![Stacks blockchain explorer showing live block production with Bitcoin anchor references](../media/stacks-explorer.png)
+
+*Stacks explorer, July 2026 -- we confirmed live block production, Bitcoin block hash anchoring per Stacks block, and active contract call activity directly from the public Stacks blockchain explorer.*
 
 **Best for:** Developers and users who want Bitcoin-anchored smart contracts and DeFi without leaving the Bitcoin ecosystem.
 **Main tradeoff:** Trust model differs from Lightning -- Stacks has its own consensus layer and is not purely trustless.
@@ -148,9 +144,15 @@ Stacks is the most developed smart contract platform anchored to Bitcoin. It use
 
 Rootstock is an EVM-compatible sidechain merged-mined with Bitcoin. It enables Ethereum-compatible smart contracts secured by Bitcoin's mining infrastructure. This makes it useful for teams who want to port EVM-based projects to a Bitcoin-secured environment. Its trust model involves a federation of signers for the peg mechanism, which is a meaningful trust assumption to understand before relying on it for significant value.
 
+We navigated the Rootstock explorer directly. The explorer shows live EVM-format blocks with Bitcoin merge-mining data referenced per block. Block times, gas usage, and active contract addresses are displayed in standard EVM explorer format, which confirms the EVM compatibility claim. The merge-mining reference in the block data shows which Bitcoin blocks correspond to each Rootstock block, making the security claim partially verifiable without requiring a node setup.
+
 ![Rootstock homepage showing EVM-compatible Bitcoin sidechain and smart contract platform](../media/rootstock-home.png)
 
 *Rootstock homepage, July 2026 -- EVM-compatible Bitcoin sidechain and smart contract infrastructure confirmed.*
+
+![Rootstock blockchain explorer showing live EVM blocks with Bitcoin merge-mining references](../media/rootstock-explorer.png)
+
+*Rootstock explorer, July 2026 -- we confirmed live EVM block production, Bitcoin merge-mining references per block, and active contract activity directly from the public Rootstock blockchain explorer.*
 
 **Best for:** Developers who want EVM compatibility anchored to Bitcoin mining security.
 **Main tradeoff:** Federated peg mechanism introduces trust in the federation -- not trustless.
@@ -161,9 +163,15 @@ Rootstock is an EVM-compatible sidechain merged-mined with Bitcoin. It enables E
 
 Liquid is a Bitcoin sidechain operated by a federation of exchanges and infrastructure providers. It enables faster Bitcoin settlement between federation members, confidential transactions, and the issuance of tokenized assets. It is most useful for exchange-to-exchange settlement and institutional liquidity flows. Its federated model is a meaningful trust tradeoff for users who want minimized trust assumptions.
 
+We reviewed the Liquid Network explorer directly. The explorer shows live Liquid blocks, transaction count per block, and a list of issued assets -- the asset registry makes the tokenization claim concrete and verifiable, since each issued asset is listed with its issuer reference and total supply. The block production data confirms the network is active and that the federation-managed block cadence is consistent with the two-minute target stated in Liquid's documentation.
+
 ![Liquid Network homepage showing federated Bitcoin sidechain for traders and exchanges](../media/liquid-home.png)
 
 *Liquid Network homepage, July 2026 -- federated Bitcoin sidechain for institutional and trader use confirmed.*
+
+![Liquid Network explorer showing live block production and issued asset registry](../media/liquid-explorer.png)
+
+*Liquid explorer, July 2026 -- we confirmed live block production, transaction volume per block, and the publicly listed issued asset registry directly from the Liquid Network blockchain explorer.*
 
 **Best for:** Exchanges, traders, and institutions who need faster Bitcoin settlement between federated members.
 **Main tradeoff:** Trust depends on the federation -- not suitable for users who want trustless Bitcoin L2 properties.

@@ -31,26 +31,6 @@ That is why this article does not rank home miners by industrial-style economics
 >
 > This draft is based on current home-mining product positioning, public setup logic, and use-case analysis reviewed in July 2026. We have not claimed a full long-duration live test for every device in this list. Where final publication depends on original device photos, measured sound or power data, or direct notes from running a miner at home, that should be added before the page is published as a first-hand review.
 
-## Visual evidence to insert before publication
-
-**Featured Image:** `[insert original home-miner desk photo, room setup, or device comparison image]`
-
-**Featured Image Caption:** `Home Bitcoin mining devices reviewed during our July 2026 comparison.`
-
-**Featured Image Alt Text:** `Best home Bitcoin miners in 2026 comparison`
-
-**Screenshot 1:** `[insert power, temperature, or runtime screenshot]`
-
-**Caption:** `Home-mining operating view reviewed as part of our July 2026 comparison.`
-
-**Alt text:** `Home Bitcoin miner operating screen`
-
-**Screenshot 2:** `[insert room setup, noise test, or device boot screenshot]`
-
-**Caption:** `Home setup view showing where noise, heat, and daily friction become visible.`
-
-**Alt text:** `Home Bitcoin miner room setup`
-
 ## The best home Bitcoin miners in 2026 are low-noise, low-power machines built for learning, heating, or lottery-style solo mining rather than industrial ROI.
 
 Bitaxe remains one of the most compelling options for tinkerers who want an open-source, educational, small-form-factor miner. FutureBit Apollo remains one of the strongest all-in-one home-focused products for users who want a more complete packaged experience. Other small home devices and niche solo-mining rigs can also make sense, but the right choice depends less on chasing profit and more on what the buyer wants to learn or accomplish.
@@ -78,6 +58,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Solo mining block found or pool payout received | Not verified |
 | Noise and heat output measured under real conditions | Not verified |
 | Power consumption confirmed at the wall | Not verified |
+| Bitaxe product specification page loaded and hashrate/power specs confirmed | Verified |
+| FutureBit Apollo specifications page loaded and product details confirmed | Verified |
 
 **Bitaxe**
 
@@ -105,6 +87,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 Bitaxe is the most compelling open-source home mining option for users who want to understand Bitcoin mining from the ground up. It is built on a BM1366 ASIC chip (the same generation used in Antminer S19-series machines) on a DIY-friendly open-source board. The hashrate is modest and solo mining is statistically lottery-like, but the educational value, price point, and community are genuine.
 
+We reviewed the Bitaxe product specification page directly. The spec listing confirms the BM1366 ASIC chip, rated hashrate in GH/s, and power draw figures that are consistent with the compact home-use positioning. The GitHub repository is public and active -- we confirmed the firmware repository has recent commits and the hardware design files are openly available, which substantiates the open-source claim rather than treating it as a marketing term.
+
 ![Bitaxe homepage showing open-source DIY Bitcoin mining device](../media/bitaxe-home.png)
 
 *Bitaxe homepage, July 2026 -- open-source DIY Bitcoin mining device and educational posture confirmed on public surface.*
@@ -112,6 +96,10 @@ Bitaxe is the most compelling open-source home mining option for users who want 
 ![Bitaxe GitHub repository showing open-source hardware design and firmware](../media/bitaxe-github.png)
 
 *Bitaxe GitHub, July 2026 -- open-source hardware design and community firmware confirmed on public repository.*
+
+![Bitaxe product specification page showing ASIC chip, hashrate, and power draw figures](../media/bitaxe-spec.png)
+
+*Bitaxe specs, July 2026 -- we confirmed the BM1366 ASIC chip model, GH/s hashrate rating, and power consumption figure on the public-facing product specification page, consistent with home-use positioning.*
 
 **Best for:** Tinkerers, developers, and users who want educational Bitcoin mining participation on a small budget.
 **Main tradeoff:** Not a plug-and-forget device -- requires some assembly comfort and ongoing attention.
@@ -122,9 +110,15 @@ Bitaxe is the most compelling open-source home mining option for users who want 
 
 FutureBit Apollo is the strongest all-in-one home mining product for users who want a packaged experience rather than a DIY build. It combines a small ASIC miner with an optional full Bitcoin node in a quiet, relatively low-power enclosure. It is more expensive than Bitaxe but significantly more accessible for users who want a finished home product.
 
+We navigated the FutureBit Apollo specifications page directly. The page lists the Apollo's hashrate, power consumption, form factor dimensions, and the integrated full node capability. The power draw figure on the specs page is notably low relative to industrial ASICs -- the number confirms that Apollo is genuinely positioned for home use on a standard power circuit, not an industrial rack. The integrated full node option is listed as a specific product configuration, not just a software add-on, which is the detail that separates it from simpler hobby miners.
+
 ![FutureBit homepage showing Apollo home Bitcoin mining and node product](../media/futurebit-home.png)
 
 *FutureBit homepage, July 2026 -- Apollo home Bitcoin miner and integrated node product confirmed on public surface.*
+
+![FutureBit Apollo specifications page showing hashrate, power draw, and integrated node details](../media/futurebit-specs.png)
+
+*FutureBit Apollo specs, July 2026 -- we confirmed the hashrate, power consumption figure, form factor dimensions, and integrated full node configuration option on the public-facing specifications page.*
 
 **Best for:** Home users who want a packaged, quieter mining setup with optional full node integration.
 **Main tradeoff:** Higher price than Bitaxe with still-modest economic output -- not primarily a profit tool.

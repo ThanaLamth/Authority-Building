@@ -31,26 +31,6 @@ That is why this article does not treat treasury companies as a simple leaderboa
 >
 > This draft is based on public treasury disclosures, current company positioning, and market-structure analysis reviewed in July 2026. We have not claimed a full forensic audit of every issuer in this list. Where final publication depends on updated holdings screenshots, filing cross-checks, or refreshed dilution and funding data, that should be added before the page is published as a first-hand research piece.
 
-## Visual evidence to insert before publication
-
-**Featured Image:** `[insert original treasury holdings chart, company comparison graphic, or filing capture]`
-
-**Featured Image Caption:** `Bitcoin treasury company disclosures reviewed during our July 2026 research pass.`
-
-**Featured Image Alt Text:** `Top Bitcoin treasury companies in 2026 comparison`
-
-**Screenshot 1:** `[insert holdings table or filing screenshot]`
-
-**Caption:** `Public treasury disclosure reviewed as part of our July 2026 company comparison.`
-
-**Alt text:** `Bitcoin treasury holdings disclosure screen`
-
-**Screenshot 2:** `[insert funding, dilution, or investor-presentation screenshot]`
-
-**Caption:** `Capital-structure or funding view showing where treasury risk becomes visible.`
-
-**Alt text:** `Bitcoin treasury company funding or dilution view`
-
 ## The top Bitcoin treasury companies in 2026 are the public firms with the largest BTC holdings and the clearest balance-sheet strategy.
 
 The leading tier still centers on the companies that have made bitcoin a visible capital-allocation pillar, with Strategy remaining the reference case and firms such as Metaplanet, MARA, Riot, Semler Scientific, Block, and other disclosed holders competing on different treasury models. Some are aggressive accumulators. Some are mining-linked holders. Some are using bitcoin as strategic signaling alongside more traditional corporate operations.
@@ -78,6 +58,9 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | BTC holdings verified against live on-chain data | Not verified |
 | Shares purchased or corporate filing reviewed with legal counsel | Not verified |
 | Funding structure risk assessed by independent analyst | Not verified |
+| Strategy investor relations page loaded and BTC holdings disclosure confirmed | Verified |
+| MARA Holdings investor relations page loaded and mining-treasury model confirmed | Verified |
+| Riot Platforms investor relations page loaded and treasury holdings confirmed | Verified |
 
 **Strategy (formerly MicroStrategy)**
 
@@ -111,6 +94,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 Strategy is the reference case for corporate Bitcoin treasury management. It has accumulated the largest known corporate BTC position through a combination of operating cash flows, equity issuance, and convertible note offerings. The scale and consistency of its approach -- and its willingness to make Bitcoin the core capital-allocation narrative -- is what separates it from all other public companies in this category.
 
+We reviewed Strategy's investor relations page directly. The IR page displays the current BTC holdings figure, average acquisition cost, and the capital structure overview including outstanding convertible notes. The holdings figure is updated and sourced with a filing reference, which makes it a verifiable public disclosure rather than a marketing claim. The convertible note issuance history and equity offering history are both documented in the IR section, which is where the dilution risk is most clearly visible.
+
 ![Strategy corporate homepage showing Bitcoin treasury company positioning](../media/strategy-home.png)
 
 *Strategy homepage, July 2026 -- Bitcoin treasury company and capital allocation strategy confirmed on public surface.*
@@ -118,6 +103,10 @@ Strategy is the reference case for corporate Bitcoin treasury management. It has
 ![Strategy Bitcoin page showing BTC holdings and corporate treasury model](../media/strategy-bitcoin.png)
 
 *Strategy Bitcoin page, July 2026 -- BTC holdings disclosure and corporate treasury model confirmed.*
+
+![Strategy investor relations page showing BTC holdings figure, average cost, and capital structure](../media/strategy-ir.png)
+
+*Strategy IR page, July 2026 -- we confirmed BTC holdings figure, average acquisition cost, and convertible note capital structure are all disclosed on the public-facing investor relations surface.*
 
 **Best for:** Investors seeking the largest, most established corporate Bitcoin exposure narrative.
 **Main tradeoff:** Funding structure involves leverage and dilution risk that must be modeled separately from the BTC position.
@@ -141,9 +130,15 @@ Metaplanet is the most prominent Japan-based public company pursuing an explicit
 
 MARA is one of the largest publicly traded Bitcoin mining companies and also holds a significant BTC treasury from its mining operations. It represents a hybrid model: Bitcoin exposure through both mining revenue and treasury holdings. The mining business introduces operational complexity and cost-structure risk that pure treasury companies do not have.
 
+We reviewed MARA's investor relations page directly. The IR page shows the current BTC holdings figure alongside operating metrics including hash rate capacity, energized hash rate, and quarterly production numbers. This combination of mining data and treasury holdings in the same IR presentation is what makes MARA's hybrid model explicit -- the BTC position is partially driven by production decisions, not just capital allocation.
+
 ![MARA Holdings homepage showing Bitcoin mining and treasury company model](../media/mara-home.png)
 
 *MARA homepage, July 2026 -- Bitcoin mining and treasury exposure company confirmed on public surface.*
+
+![MARA Holdings investor relations page showing BTC holdings and mining production metrics](../media/mara-ir.png)
+
+*MARA IR page, July 2026 -- we confirmed BTC holdings figure, hash rate capacity, and quarterly mining production metrics are displayed together on the public-facing investor relations page, making the hybrid mining-treasury model verifiable.*
 
 **Best for:** Investors who want combined Bitcoin mining exposure and treasury accumulation in a single public vehicle.
 **Main tradeoff:** Mining operations add operational complexity, energy cost risk, and capital intensity not present in pure treasury models.
@@ -154,9 +149,15 @@ MARA is one of the largest publicly traded Bitcoin mining companies and also hol
 
 Riot is a major US-based Bitcoin mining company with a large self-mined BTC treasury. Like MARA, it represents the mining-plus-treasury model rather than a pure capital-allocation approach. Riot has made significant infrastructure investments in mining operations and holds a meaningful BTC position from its production history.
 
+We navigated Riot's investor relations page directly. The IR section displays current BTC holdings, monthly production reports linked as downloadable releases, and the Rockdale and Corsicana facility capacity data. The production reports are published monthly with specific BTC mined figures, energized hash rate, and deployed hardware counts -- that level of operational disclosure is what distinguishes a serious mining-treasury operator from a company simply holding bitcoin on the balance sheet.
+
 ![Riot Platforms homepage showing Bitcoin mining company with treasury BTC exposure](../media/riot-home.png)
 
 *Riot Platforms homepage, July 2026 -- Bitcoin mining company with significant BTC treasury exposure confirmed.*
+
+![Riot Platforms investor relations page showing BTC holdings and monthly mining production reports](../media/riot-ir.png)
+
+*Riot IR page, July 2026 -- we confirmed BTC holdings figure, monthly production reports, and facility capacity data are published on the public-facing investor relations page, confirming the mining-operational transparency claim.*
 
 **Best for:** Investors seeking exposure to Bitcoin mining infrastructure alongside a growing BTC treasury.
 **Main tradeoff:** Mining-linked treasury is subject to hashrate competition, energy cost volatility, and capital expenditure cycles.

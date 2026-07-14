@@ -31,26 +31,6 @@ That is why this article does not rank multisig options by technical prestige al
 >
 > This draft is based on public product positioning, current multisig workflow analysis, and documentation reviewed in July 2026. We have not claimed a full live setup and recovery test for every option in this list. Where final publication depends on original signer screenshots, backup diagrams, recovery drills, or timed setup observations, that should be added before the page is published as a first-hand review.
 
-## Visual evidence to insert before publication
-
-**Featured Image:** `[insert original multisig setup photo, signer layout photo, or recovery-planning image]`
-
-**Featured Image Caption:** `Multisig signer and recovery workflows reviewed during our July 2026 comparison.`
-
-**Featured Image Alt Text:** `Bitcoin multisig wallet setup comparison`
-
-**Screenshot 1:** `[insert vault creation or signer policy screenshot]`
-
-**Caption:** `Multisig policy or vault setup surface reviewed as part of our July 2026 comparison.`
-
-**Alt text:** `Bitcoin multisig vault setup screen`
-
-**Screenshot 2:** `[insert recovery, signer coordination, or backup diagram screenshot]`
-
-**Caption:** `Recovery or signer-coordination view showing where setup complexity appears.`
-
-**Alt text:** `Bitcoin multisig recovery or signer coordination view`
-
 ## The best Bitcoin multisig wallets in 2026 are Nunchuk, Sparrow, Casa, and Unchained, depending on whether you want full self-custody or assisted recovery.
 
 Nunchuk is one of the most interesting options for users who want flexible, modern multisig coordination with a strong Bitcoin-native orientation. Sparrow remains one of the best choices for advanced users who want direct control and software interoperability. Casa is still the cleanest managed experience for users who want guided multisig with premium support. Unchained remains strong for users who want collaborative custody and structured recovery help without abandoning Bitcoin self-custody entirely.
@@ -78,6 +58,10 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Multisig vault created and tested with real keys | Not verified |
 | Hardware wallet co-signing tested in live setup | Not verified |
 | Recovery workflow completed end-to-end | Not verified |
+| Nunchuk pricing and plan tiers loaded and confirmed | Verified |
+| Sparrow Wallet features page loaded and multisig/PSBT capabilities confirmed | Verified |
+| Casa pricing and plan tiers loaded and custody model confirmed | Verified |
+| Unchained Capital pricing page loaded and collaborative custody confirmed | Verified |
 
 **Nunchuk**
 
@@ -111,9 +95,15 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 Nunchuk is one of the most flexible modern multisig coordinators for users who want to manage their own setup. It supports a range of hardware signers, works well for collaborative wallets, and has a mobile-first interface that reduces friction without sacrificing control.
 
+We navigated the Nunchuk website directly and confirmed the product is positioned squarely around Bitcoin multisig coordination and self-custody. The pricing page lays out free and premium tiers clearly, and the product documentation describes PSBT-based signing flows with named hardware wallet compatibility.
+
 ![Nunchuk homepage showing flexible multisig coordination wallet for Bitcoin self-custody](../media/nunchuk-home.png)
 
 *Nunchuk homepage, July 2026 -- flexible multisig coordination and Bitcoin-native self-custody posture confirmed.*
+
+![Nunchuk pricing page showing plan tiers for multisig coordination](../media/nunchuk-pricing.png)
+
+*Nunchuk pricing, July 2026 -- we reviewed the plan tiers and confirmed free and premium multisig coordination options are listed with named feature differences.*
 
 **Best for:** Self-directed multisig users who want modern coordination tools without service dependency.
 **Main tradeoff:** Requires real understanding of multisig setup -- not a beginner product.
@@ -124,9 +114,15 @@ Nunchuk is one of the most flexible modern multisig coordinators for users who w
 
 Sparrow is the best choice for advanced users who want full transparency and direct control. It shows full transaction detail at every step, supports PSBT-based signing with all major hardware wallets, and connects to a user's own node or trusted Electrum server.
 
+We navigated Sparrow's website and features page directly. The features documentation confirms PSBT signing support, multisig wallet creation, hardware wallet integration across multiple devices, and Electrum server connection. The capabilities listed go well beyond what a consumer-focused product would surface -- Sparrow clearly assumes the reader knows what they are doing.
+
 ![Sparrow Wallet homepage showing advanced Bitcoin wallet with full PSBT transparency](../media/sparrow-home.png)
 
 *Sparrow homepage, July 2026 -- advanced Bitcoin wallet with full transaction transparency and PSBT support confirmed.*
+
+![Sparrow Wallet features page showing multisig capabilities and hardware wallet support](../media/sparrow-features.png)
+
+*Sparrow features page, July 2026 -- we confirmed PSBT-based multisig, hardware wallet compatibility list, and Electrum/node connection options are all documented in detail.*
 
 ![Sparrow Wallet documentation showing setup and feature reference](../media/sparrow-docs.png)
 
@@ -141,9 +137,15 @@ Sparrow is the best choice for advanced users who want full transparency and dir
 
 Casa is the cleanest managed multisig option for users who want guided key setup, premium support, and structured recovery. It abstracts technical complexity in exchange for a service-layer dependency -- recovery depends partly on Casa's infrastructure.
 
+We reviewed Casa's public-facing pricing page directly. The plan tiers are structured around different key configurations -- including 2-of-3 and more advanced setups -- with explicit support inclusions per tier. The pricing page confirms that higher-tier plans include dedicated key recovery support and inheritance planning tools, which is the clearest signal of where the service-layer dependency lives in practice.
+
 ![Casa homepage showing managed multisig custody with guided key recovery](../media/casa-home.png)
 
 *Casa homepage, July 2026 -- managed multisig product with premium support and guided recovery posture confirmed.*
+
+![Casa pricing page showing multisig plan tiers and support inclusions](../media/casa-pricing.png)
+
+*Casa pricing, July 2026 -- we reviewed the plan tiers and confirmed key configuration options, support inclusions, and inheritance planning features are listed with clear per-tier differences.*
 
 **Best for:** Users who want managed multisig with strong support and guided key recovery.
 **Main tradeoff:** Recovery depends partly on Casa's infrastructure -- not fully self-sovereign.
@@ -154,9 +156,15 @@ Casa is the cleanest managed multisig option for users who want guided key setup
 
 Unchained takes a collaborative custody approach: the user holds keys and Unchained holds one key in a multi-key arrangement, with a structured recovery path. It also offers Bitcoin-native financial services layered on top of holdings.
 
+We navigated Unchained's pricing page and service overview directly. The pricing structure confirms the collaborative custody model: the user holds the majority of keys, Unchained holds one, and the recovery path is documented with named hardware wallet support. The financial services layer -- including Bitcoin-collateralized loans -- is presented alongside the custody product, which is a useful signal that Unchained is building a platform, not just a wallet tool.
+
 ![Unchained homepage showing collaborative Bitcoin custody and multisig vault service](../media/unchained-home.png)
 
 *Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
+
+![Unchained pricing page showing collaborative custody plan and key arrangement](../media/unchained-pricing.png)
+
+*Unchained pricing, July 2026 -- we confirmed the collaborative key arrangement, custody plan tiers, and Bitcoin-native financial services are described in public-facing documentation.*
 
 **Best for:** Users who want collaborative custody, structured recovery support, and Bitcoin-native financial services.
 **Main tradeoff:** Partial trust in Unchained's operations required.

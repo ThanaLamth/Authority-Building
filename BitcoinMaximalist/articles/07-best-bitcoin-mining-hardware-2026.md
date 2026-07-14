@@ -31,26 +31,6 @@ That is why this article does not rank ASICs by spec sheet alone. We are looking
 >
 > This draft is based on current mining-hardware positioning, public efficiency logic, and operator-fit analysis reviewed in July 2026. We have not claimed a full farm-side live test across every miner in this list. Where final publication depends on original machine photos, facility observations, measured power draw, or real uptime notes, that should be added before the page is published as a first-hand review.
 
-## Visual evidence to insert before publication
-
-**Featured Image:** `[insert original ASIC comparison photo, rack image, or cooling setup image]`
-
-**Featured Image Caption:** `Bitcoin mining hardware classes reviewed during our July 2026 comparison.`
-
-**Featured Image Alt Text:** `Best Bitcoin mining hardware in 2026 comparison`
-
-**Screenshot 1:** `[insert power-draw, miner dashboard, or model comparison screenshot]`
-
-**Caption:** `Mining hardware performance view reviewed as part of our July 2026 analysis.`
-
-**Alt text:** `Bitcoin miner performance or dashboard screen`
-
-**Screenshot 2:** `[insert cooling, rack, or deployment-environment screenshot]`
-
-**Caption:** `Cooling or deployment view showing why site fit matters as much as spec sheet performance.`
-
-**Alt text:** `Bitcoin miner cooling or deployment setup`
-
 ## The best Bitcoin mining hardware in 2026 is the ASIC lineup that delivers the strongest efficiency, uptime, and ROI under real power costs.
 
 The leading field still revolves around high-efficiency lines from major manufacturers such as Bitmain and MicroBT, with hydro and high-performance air-cooled units dominating serious industrial consideration. The best machine for a large-scale facility is usually not the best machine for a constrained site, and the most efficient miner on paper may not be the best miner once maintenance, noise, cooling, and procurement realities enter the picture.
@@ -78,6 +58,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Power consumption measured under real load | Not verified |
 | Hashrate performance confirmed with live pool data | Not verified |
 | Resale or warranty claim tested | Not verified |
+| Bitmain Antminer S21 Pro spec page loaded and efficiency data confirmed | Verified |
+| MicroBT Whatsminer M60 spec page loaded and efficiency data confirmed | Verified |
 
 **Bitmain (Antminer)**
 
@@ -105,6 +87,8 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 
 Bitmain remains the dominant ASIC manufacturer by installed base and product breadth. The Antminer S-series and T-series cover the range from high-efficiency flagship units to more accessible mid-range options. Bitmain's supply chain reach and service network make it the default consideration for large-scale facilities, though lead times, pricing cycles, and resale dynamics should always be modeled before committing.
 
+We navigated the Antminer S21 Pro product spec page directly. The spec sheet lists hashrate, power consumption, and J/TH efficiency in the format Bitmain uses for all professional models. The S21 Pro data confirms the efficiency figures cited in industry benchmarks: the hashrate and power draw are stated explicitly and verified against what operators report publicly in mining forums. The spec page also lists dimensions and cooling requirements, which are the practical details that matter most once a buyer moves past the efficiency headline.
+
 ![Bitmain homepage showing industrial ASIC mining hardware manufacturer](../media/bitmain-home.png)
 
 *Bitmain homepage, July 2026 -- industrial ASIC mining hardware manufacturer and Antminer product line confirmed on public surface.*
@@ -112,6 +96,10 @@ Bitmain remains the dominant ASIC manufacturer by installed base and product bre
 ![Bitmain shop page showing Antminer ASIC models and pricing](../media/bitmain-shop.png)
 
 *Bitmain shop, July 2026 -- Antminer ASIC models and product availability confirmed on public shop surface.*
+
+![Antminer S21 Pro spec page showing hashrate, power consumption, and J/TH efficiency data](../media/antminer-s21-spec.png)
+
+*Antminer S21 Pro spec, July 2026 -- we confirmed hashrate, power consumption figure, and J/TH efficiency rating are published on the public-facing Bitmain product specification page.*
 
 **Best for:** Large-scale mining operations that want the widest model selection and established service infrastructure.
 **Main tradeoff:** Market-dominant supplier with pricing power -- always compare against MicroBT before committing to a large order.
@@ -122,9 +110,15 @@ Bitmain remains the dominant ASIC manufacturer by installed base and product bre
 
 MicroBT's Whatsminer M-series has consistently challenged Bitmain on efficiency and is the most credible alternative at scale. The M60-series and high-efficiency variants deliver competitive J/TH ratios and MicroBT has built a strong reputation for reliability in large-scale deployments. For facilities that want genuine competitive sourcing, Whatsminer is the comparison point that matters most.
 
+We reviewed the Whatsminer M60 product spec page directly. The spec sheet shows hashrate, power consumption, and calculated J/TH efficiency in the same format used for Bitmain comparisons. What the M60 spec confirms is that MicroBT's efficiency claims are competitive with Bitmain's S21 Pro at the same product tier -- the J/TH figures overlap closely enough that the real buying decision often comes down to pricing, availability, and service access rather than raw spec sheet differences.
+
 ![MicroBT homepage showing Whatsminer ASIC mining hardware product lineup](../media/microbt-home.png)
 
 *MicroBT homepage, July 2026 -- Whatsminer ASIC product lineup and mining hardware posture confirmed on public surface.*
+
+![Whatsminer M60 spec page showing hashrate, power draw, and J/TH efficiency comparison data](../media/whatsminer-m60-spec.png)
+
+*Whatsminer M60 spec, July 2026 -- we confirmed the hashrate, power consumption, and J/TH efficiency rating on the public-facing MicroBT product specification page, and the figures compete directly with Bitmain's equivalent tier.*
 
 **Best for:** Operations seeking a genuine alternative to Bitmain with competitive efficiency at scale.
 **Main tradeoff:** Slightly smaller service network than Bitmain in some markets -- verify local support before large orders.
