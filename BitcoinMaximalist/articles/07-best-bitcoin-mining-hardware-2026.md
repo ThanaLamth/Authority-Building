@@ -65,6 +65,42 @@ That direct review does not replace a live facility test. But it does make one t
 
 The visuals above should not sit silently in the article. They should show why one miner looks right for a managed site, while another looks more practical for constrained deployment.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Bitmain homepage and Antminer shop loaded directly | Verified |
+| MicroBT Whatsminer homepage loaded and product lineup confirmed | Verified |
+| Canaan homepage loaded and Avalon miner product confirmed | Verified |
+| Hardware purchased and deployed at a facility | Not verified |
+| Power consumption measured under real load | Not verified |
+| Hashrate performance confirmed with live pool data | Not verified |
+| Resale or warranty claim tested | Not verified |
+
+**Bitmain (Antminer)**
+
+![Bitmain homepage showing industrial ASIC mining hardware manufacturer](../media/bitmain-home.png)
+
+*Bitmain homepage, July 2026 -- industrial ASIC mining hardware manufacturer and Antminer product line confirmed on public surface.*
+
+![Bitmain shop page showing Antminer ASIC models and pricing](../media/bitmain-shop.png)
+
+*Bitmain shop, July 2026 -- Antminer ASIC models and product availability confirmed on public shop surface.*
+
+**MicroBT (Whatsminer)**
+
+![MicroBT homepage showing Whatsminer ASIC mining hardware product lineup](../media/microbt-home.png)
+
+*MicroBT homepage, July 2026 -- Whatsminer ASIC product lineup and mining hardware posture confirmed on public surface.*
+
+**Canaan (Avalon)**
+
+![Canaan homepage showing Avalon Bitcoin ASIC mining hardware](../media/canaan-home.png)
+
+*Canaan homepage, July 2026 -- Avalon Bitcoin ASIC hardware product line confirmed on public surface.*
+
 ## The best miner on paper may be the wrong miner in practice
 
 Joules per terahash is the first metric because efficiency drives survivability. But mining is a business of systems, not isolated numbers. A miner with excellent efficiency can still be the wrong choice if it is hard to source, difficult to cool, or expensive to maintain in the operator’s jurisdiction.

@@ -65,6 +65,42 @@ That direct review does not replace a live in-home run. But it does make one thi
 
 The visuals above should not sit silently in the article. They should show why one device feels like a tinkerer project while another feels more like a packaged home machine.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Bitaxe homepage and open-source GitHub repository loaded directly | Verified |
+| FutureBit Apollo homepage loaded and home miner product confirmed | Verified |
+| NerdMiner GitHub repository loaded and DIY miner project confirmed | Verified |
+| Device purchased and running in a home environment | Not verified |
+| Solo mining block found or pool payout received | Not verified |
+| Noise and heat output measured under real conditions | Not verified |
+| Power consumption confirmed at the wall | Not verified |
+
+**Bitaxe**
+
+![Bitaxe homepage showing open-source DIY Bitcoin mining device](../media/bitaxe-home.png)
+
+*Bitaxe homepage, July 2026 -- open-source DIY Bitcoin mining device and educational posture confirmed on public surface.*
+
+![Bitaxe GitHub repository showing open-source hardware design and firmware](../media/bitaxe-github.png)
+
+*Bitaxe GitHub, July 2026 -- open-source hardware design and community firmware confirmed on public repository.*
+
+**FutureBit Apollo**
+
+![FutureBit homepage showing Apollo home Bitcoin mining and node product](../media/futurebit-home.png)
+
+*FutureBit homepage, July 2026 -- Apollo home Bitcoin miner and integrated node product confirmed on public surface.*
+
+**NerdMiner**
+
+![NerdMiner GitHub repository showing DIY lottery solo mining device for home users](../media/nerdminer-github.png)
+
+*NerdMiner GitHub, July 2026 -- DIY lottery solo mining device project and community documentation confirmed.*
+
 ## Home mining is usually about participation first and profits second
 
 A serious home-mining guide has to say this plainly: most home miners are not beating industrial operators on economics. That is not failure. It just means the value proposition is different.
