@@ -61,41 +61,30 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Bitaxe product specification page loaded and hashrate/power specs confirmed | Verified |
 | FutureBit Apollo specifications page loaded and product details confirmed | Verified |
 
-**Bitaxe**
-
-![Bitaxe homepage showing open-source DIY Bitcoin mining device](../media/bitaxe-home.png)
-
-*Bitaxe homepage, July 2026 -- open-source DIY Bitcoin mining device and educational posture confirmed on public surface.*
 
 ![Bitaxe GitHub repository showing open-source hardware design and firmware](../media/bitaxe-github.png)
 
 *Bitaxe GitHub, July 2026 -- open-source hardware design and community firmware confirmed on public repository.*
 
-**FutureBit Apollo**
 
-![FutureBit homepage showing Apollo home Bitcoin mining and node product](../media/futurebit-home.png)
-
-*FutureBit homepage, July 2026 -- Apollo home Bitcoin miner and integrated node product confirmed on public surface.*
-
-**NerdMiner**
-
-![NerdMiner GitHub repository showing DIY lottery solo mining device for home users](../media/nerdminer-github.png)
-
-*NerdMiner GitHub, July 2026 -- DIY lottery solo mining device project and community documentation confirmed.*
 
 ## Bitaxe
 
 Bitaxe is the most compelling open-source home mining option for users who want to understand Bitcoin mining from the ground up. It is built on a BM1366 ASIC chip (the same generation used in Antminer S19-series machines) on a DIY-friendly open-source board. The hashrate is modest and solo mining is statistically lottery-like, but the educational value, price point, and community are genuine.
 
-We reviewed the Bitaxe product specification page directly. The spec listing confirms the BM1366 ASIC chip, rated hashrate in GH/s, and power draw figures that are consistent with the compact home-use positioning. The GitHub repository is public and active -- we confirmed the firmware repository has recent commits and the hardware design files are openly available, which substantiates the open-source claim rather than treating it as a marketing term.
+We reviewed the Bitaxe product specification page directly. The spec listing confirms the BM1366 ASIC chip, rated hashrate in GH/s, and power draw figures consistent with the compact home-use positioning.
 
 ![Bitaxe homepage showing open-source DIY Bitcoin mining device](../media/bitaxe-home.png)
 
 *Bitaxe homepage, July 2026 -- open-source DIY Bitcoin mining device and educational posture confirmed on public surface.*
 
+The GitHub repository is public and active -- we confirmed the firmware repository has recent commits and the hardware design files are openly available, which substantiates the open-source claim rather than treating it as a marketing term.
+
 ![Bitaxe GitHub repository showing open-source hardware design and firmware](../media/bitaxe-github.png)
 
 *Bitaxe GitHub, July 2026 -- open-source hardware design and community firmware confirmed on public repository.*
+
+The spec page also makes the power draw figure explicit, confirming the device draws a fraction of what industrial ASICs require -- which is the practical data that matters most for home users evaluating whether the device fits a normal power circuit.
 
 ![Bitaxe product specification page showing ASIC chip, hashrate, and power draw figures](../media/bitaxe-spec.png)
 
@@ -110,11 +99,13 @@ We reviewed the Bitaxe product specification page directly. The spec listing con
 
 FutureBit Apollo is the strongest all-in-one home mining product for users who want a packaged experience rather than a DIY build. It combines a small ASIC miner with an optional full Bitcoin node in a quiet, relatively low-power enclosure. It is more expensive than Bitaxe but significantly more accessible for users who want a finished home product.
 
-We navigated the FutureBit Apollo specifications page directly. The page lists the Apollo's hashrate, power consumption, form factor dimensions, and the integrated full node capability. The power draw figure on the specs page is notably low relative to industrial ASICs -- the number confirms that Apollo is genuinely positioned for home use on a standard power circuit, not an industrial rack. The integrated full node option is listed as a specific product configuration, not just a software add-on, which is the detail that separates it from simpler hobby miners.
+We navigated the FutureBit Apollo specifications page directly. The page lists the Apollo's hashrate, power consumption, form factor dimensions, and the integrated full node capability.
 
 ![FutureBit homepage showing Apollo home Bitcoin mining and node product](../media/futurebit-home.png)
 
 *FutureBit homepage, July 2026 -- Apollo home Bitcoin miner and integrated node product confirmed on public surface.*
+
+The power draw figure on the specs page is notably low relative to industrial ASICs -- the number confirms that Apollo is genuinely positioned for home use on a standard power circuit. The integrated full node option is listed as a specific product configuration, not just a software add-on, which is the detail that separates it from simpler hobby miners.
 
 ![FutureBit Apollo specifications page showing hashrate, power draw, and integrated node details](../media/futurebit-specs.png)
 

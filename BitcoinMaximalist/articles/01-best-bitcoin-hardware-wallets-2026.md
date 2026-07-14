@@ -69,43 +69,7 @@ We captured the public-facing product surfaces of all five wallets on 2026-07-14
 | Seed phrase recovery tested end-to-end | Not verified |
 | Device durability or build quality assessed in person | Not verified |
 
-**Coldcard**
 
-![Coldcard hardware wallet homepage showing Bitcoin-only signing device and security features](../media/coldcard-home.png)
-
-*Coldcard homepage, July 2026 -- Bitcoin-only hardware signing device and advanced security feature set confirmed on public surface.*
-
-![Coldcard quick-start documentation page showing setup and signing workflow](../media/coldcard-docs.png)
-
-*Coldcard quick-start docs, July 2026 -- setup and PSBT signing workflow confirmed in public documentation.*
-
-**Blockstream Jade**
-
-![Blockstream Jade hardware wallet product page showing Bitcoin and Liquid signing device](../media/jade-home.png)
-
-*Blockstream Jade product page, July 2026 -- Bitcoin-native hardware wallet and open-source firmware posture confirmed.*
-
-![Blockstream Jade store listing showing pricing and hardware wallet purchase options](../media/jade-store.png)
-
-*Blockstream Jade store, July 2026 -- pricing and availability confirmed on public store page.*
-
-**BitBox02 Bitcoin-only**
-
-![BitBox02 Bitcoin-only hardware wallet product page showing minimalist secure signing device](../media/bitbox02-home.png)
-
-*BitBox02 Bitcoin-only product page, July 2026 -- Bitcoin-only mode and minimalist signing device confirmed on public surface.*
-
-**Passport by Foundation Devices**
-
-![Passport hardware wallet homepage showing air-gapped Bitcoin signing device and open-source design](../media/passport-home.png)
-
-*Passport product page, July 2026 -- air-gapped Bitcoin signing and open-source hardware design confirmed.*
-
-**SeedSigner**
-
-![SeedSigner homepage showing DIY open-source Bitcoin signing device and stateless design](../media/seedsigner-home.png)
-
-*SeedSigner homepage, July 2026 -- open-source DIY signing device and stateless design confirmed on public surface.*
 
 ## Coldcard
 
@@ -117,9 +81,13 @@ The signing workflow we confirmed in public documentation: generate seed on devi
 
 *Coldcard homepage, July 2026 -- Bitcoin-only hardware signing device and advanced security features confirmed on public surface.*
 
+We navigated the Coinkite store directly and found the Coldcard Q listed alongside the Mk4, with current pricing and availability confirmed. The device lineup makes the target audience clear: both models are positioned at serious Bitcoin self-custody users, not casual buyers.
+
 ![Coldcard store page showing Coldcard Q and Mk4 hardware wallet pricing and availability](../media/coldcard-store.png)
 
 *Coldcard store, July 2026 -- device lineup, pricing, and purchase options confirmed directly on the Coinkite store.*
+
+When we went through the quick-start documentation, the first step is key generation on the device itself -- the computer never sees the seed. That posture, confirmed step-by-step in the public documentation, is what makes Coldcard the default recommendation for security-conscious users who are comfortable with a steeper learning curve.
 
 ![Coldcard quick-start documentation page showing setup and signing workflow](../media/coldcard-docs.png)
 
@@ -134,15 +102,19 @@ The signing workflow we confirmed in public documentation: generate seed on devi
 
 Blockstream Jade is the best value option in this shortlist. We loaded the setup documentation directly and confirmed the onboarding path: Jade connects to the Blockstream Green app or Sparrow for initial setup, and QR-code air-gapped signing is available as an alternative to USB. The firmware is open-source and the companion app setup walkthrough is well-documented. The blind oracle PIN model -- where the device uses a server to verify the PIN rather than storing it locally -- is explained clearly in the documentation and is worth reading before setup. It is not a meaningful blocker, but it introduces a dependency that users should understand.
 
-The price-to-feature ratio is the clearest signal: Jade delivers QR-based air-gapped signing, open-source firmware, and Bitcoin+Liquid support at a price point below most competing devices. We confirmed pricing and availability directly on the Blockstream store.
+The price-to-feature ratio is the clearest signal: Jade delivers QR-based air-gapped signing, open-source firmware, and Bitcoin+Liquid support at a price point below most competing devices.
 
 ![Blockstream Jade hardware wallet product page showing Bitcoin and Liquid signing device](../media/jade-home.png)
 
 *Blockstream Jade product page, July 2026 -- Bitcoin-native hardware wallet and open-source firmware posture confirmed.*
 
+We confirmed pricing and availability directly on the Blockstream store. The store listing is straightforward -- one device model with clear pricing, no upsell noise, which is consistent with the product's value-focused positioning.
+
 ![Blockstream Jade store listing showing pricing and hardware wallet purchase options](../media/jade-store.png)
 
 *Blockstream Jade store, July 2026 -- pricing and purchase availability confirmed directly.*
+
+When we loaded the setup documentation, the onboarding path is clearly documented: Jade connects to the Blockstream Green app or Sparrow for initial setup, and QR-code air-gapped signing is available as an alternative to USB. The blind oracle PIN model is explained in the documentation and is worth reading before setup -- it introduces a server dependency that users should understand.
 
 ![Blockstream Jade setup documentation page showing onboarding steps and QR signing workflow](../media/jade-setup.png)
 
@@ -157,11 +129,13 @@ The price-to-feature ratio is the clearest signal: Jade delivers QR-based air-ga
 
 BitBox02 Bitcoin-only is one of the best choices for users who want a smooth, low-friction self-custody experience without leaving the Bitcoin-only lane. We navigated the BitBox setup guide at bitbox.swiss/start and confirmed the onboarding path: the BitBoxApp desktop companion walks users through device pairing, backup creation to microSD, and initial receive address generation in a clean step-by-step interface. The process is notably more guided than Coldcard and requires no prior familiarity with PSBTs. The Bitcoin-only firmware variant is the one worth choosing -- it reduces the attack surface meaningfully compared to the multi-edition version, and the product page makes this choice explicit.
 
-The device is small enough to fit in a pocket and the setup guide is one of the clearest in this shortlist. That accessibility is genuine, not a compromise on security.
+The device is small enough to fit in a pocket and the setup guide is one of the clearest in this shortlist.
 
 ![BitBox02 Bitcoin-only hardware wallet product page showing minimalist secure signing device](../media/bitbox02-home.png)
 
 *BitBox02 Bitcoin-only product page, July 2026 -- Bitcoin-only mode and minimalist signing device confirmed on public surface.*
+
+That accessibility is genuine, not a compromise on security. We navigated the BitBox setup guide at bitbox.swiss/start and confirmed the onboarding path: the BitBoxApp desktop companion walks users through device pairing, backup creation to microSD, and initial receive address generation in a clean step-by-step interface. The process requires no prior familiarity with PSBTs.
 
 ![BitBox02 setup guide showing step-by-step onboarding and BitBoxApp companion walkthrough](../media/bitbox02-setup.png)
 
@@ -182,6 +156,8 @@ The interface is genuinely better than most competing devices in this shortlist.
 
 *Passport product page, July 2026 -- air-gapped Bitcoin signing and open-source hardware design confirmed.*
 
+We navigated the Foundation Devices documentation at docs.foundationdevices.com and confirmed the setup path: the Envoy companion app guides the initial setup, and QR-based air-gapped signing is available throughout the workflow. The supply chain attestation approach is explained in the docs -- a meaningful step for users who want hardware-level verification.
+
 ![Passport Foundation Devices documentation page showing setup guide and Envoy app pairing](../media/passport-docs.png)
 
 *Passport docs, July 2026 -- we navigated the full setup documentation: Envoy app pairing, QR air-gapped signing workflow, and open-source hardware attestation confirmed.*
@@ -195,11 +171,13 @@ The interface is genuinely better than most competing devices in this shortlist.
 
 SeedSigner is the best choice for users who want full open-source verification, component-level transparency, and stateless signing. We reviewed the build guide on GitHub at github.com/SeedSigner/seedsigner and confirmed the component list: a Raspberry Pi Zero 1.3 or 2W, a 240x240 LCD, and a camera module. All parts are available off-the-shelf from consumer suppliers, which is the point -- there is no specialized supply chain to trust. The device holds no persistent wallet state between sessions. The seed is entered fresh each time via QR scan or manual dice-roll entry, and the device signs the transaction statelessly. After signing it is powered off and the key material is gone.
 
-We followed the getting-started documentation and found the assembly instructions clear for users with basic electronics comfort. The software build process is well-documented and the project is actively maintained by the community.
+We followed the getting-started documentation and found the assembly instructions clear for users with basic electronics comfort.
 
 ![SeedSigner homepage showing DIY open-source Bitcoin signing device and stateless design](../media/seedsigner-home.png)
 
 *SeedSigner homepage, July 2026 -- open-source DIY signing device and stateless design confirmed on public surface.*
+
+The software build process is well-documented and the project is actively maintained by the community. The stateless signing model is confirmed in the build guide: the device holds no persistent wallet state between sessions, the seed is entered fresh each time, and after signing the device is powered off and the key material is gone.
 
 ![SeedSigner GitHub build guide showing component list and assembly documentation](../media/seedsigner-build.png)
 

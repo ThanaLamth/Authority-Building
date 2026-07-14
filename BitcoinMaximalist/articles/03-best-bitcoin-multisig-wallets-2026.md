@@ -63,43 +63,25 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Casa pricing and plan tiers loaded and custody model confirmed | Verified |
 | Unchained Capital pricing page loaded and collaborative custody confirmed | Verified |
 
-**Nunchuk**
 
-![Nunchuk homepage showing flexible multisig coordination wallet for Bitcoin](../media/nunchuk-home.png)
-
-*Nunchuk homepage, July 2026 -- flexible multisig coordination and Bitcoin-native self-custody posture confirmed.*
-
-**Sparrow Wallet**
-
-![Sparrow Wallet homepage showing advanced Bitcoin wallet with full PSBT transparency](../media/sparrow-home.png)
-
-*Sparrow homepage, July 2026 -- advanced Bitcoin wallet with full transaction transparency confirmed.*
 
 ![Sparrow Wallet documentation showing setup and feature reference](../media/sparrow-docs.png)
 
 *Sparrow docs, July 2026 -- comprehensive setup documentation confirmed on public surface.*
 
-**Casa**
 
-![Casa homepage showing managed multisig custody with guided key recovery](../media/casa-home.png)
-
-*Casa homepage, July 2026 -- managed multisig product with premium support posture confirmed.*
-
-**Unchained**
-
-![Unchained homepage showing collaborative Bitcoin custody and multisig vault service](../media/unchained-home.png)
-
-*Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
 
 ## Nunchuk
 
 Nunchuk is one of the most flexible modern multisig coordinators for users who want to manage their own setup. It supports a range of hardware signers, works well for collaborative wallets, and has a mobile-first interface that reduces friction without sacrificing control.
 
-We navigated the Nunchuk website directly and confirmed the product is positioned squarely around Bitcoin multisig coordination and self-custody. The pricing page lays out free and premium tiers clearly, and the product documentation describes PSBT-based signing flows with named hardware wallet compatibility.
+We navigated the Nunchuk website directly and confirmed the product is positioned squarely around Bitcoin multisig coordination and self-custody.
 
 ![Nunchuk homepage showing flexible multisig coordination wallet for Bitcoin self-custody](../media/nunchuk-home.png)
 
 *Nunchuk homepage, July 2026 -- flexible multisig coordination and Bitcoin-native self-custody posture confirmed.*
+
+The pricing page lays out free and premium tiers clearly, and the product documentation describes PSBT-based signing flows with named hardware wallet compatibility. That combination of accessible pricing and explicit PSBT detail is what confirms Nunchuk is built for operators who want to understand what they are coordinating.
 
 ![Nunchuk pricing page showing plan tiers for multisig coordination](../media/nunchuk-pricing.png)
 
@@ -114,15 +96,19 @@ We navigated the Nunchuk website directly and confirmed the product is positione
 
 Sparrow is the best choice for advanced users who want full transparency and direct control. It shows full transaction detail at every step, supports PSBT-based signing with all major hardware wallets, and connects to a user's own node or trusted Electrum server.
 
-We navigated Sparrow's website and features page directly. The features documentation confirms PSBT signing support, multisig wallet creation, hardware wallet integration across multiple devices, and Electrum server connection. The capabilities listed go well beyond what a consumer-focused product would surface -- Sparrow clearly assumes the reader knows what they are doing.
+We navigated Sparrow's website and features page directly. The features documentation confirms PSBT signing support, multisig wallet creation, hardware wallet integration across multiple devices, and Electrum server connection.
 
 ![Sparrow Wallet homepage showing advanced Bitcoin wallet with full PSBT transparency](../media/sparrow-home.png)
 
 *Sparrow homepage, July 2026 -- advanced Bitcoin wallet with full transaction transparency and PSBT support confirmed.*
 
+The capabilities listed go well beyond what a consumer-focused product would surface -- Sparrow clearly assumes the reader knows what they are doing. The features page makes the PSBT-based multisig workflow explicit, and the documentation depth is consistent with a tool built for users who want to verify every step of a transaction.
+
 ![Sparrow Wallet features page showing multisig capabilities and hardware wallet support](../media/sparrow-features.png)
 
 *Sparrow features page, July 2026 -- we confirmed PSBT-based multisig, hardware wallet compatibility list, and Electrum/node connection options are all documented in detail.*
+
+The documentation site separately covers setup guides, multisig wallet creation flows, and hardware wallet pairing instructions in enough depth to confirm the product is genuinely built around advanced self-custody use rather than simplified onboarding.
 
 ![Sparrow Wallet documentation showing setup and feature reference](../media/sparrow-docs.png)
 
@@ -137,11 +123,13 @@ We navigated Sparrow's website and features page directly. The features document
 
 Casa is the cleanest managed multisig option for users who want guided key setup, premium support, and structured recovery. It abstracts technical complexity in exchange for a service-layer dependency -- recovery depends partly on Casa's infrastructure.
 
-We reviewed Casa's public-facing pricing page directly. The plan tiers are structured around different key configurations -- including 2-of-3 and more advanced setups -- with explicit support inclusions per tier. The pricing page confirms that higher-tier plans include dedicated key recovery support and inheritance planning tools, which is the clearest signal of where the service-layer dependency lives in practice.
+We reviewed Casa's public-facing pricing page directly. The plan tiers are structured around different key configurations -- including 2-of-3 and more advanced setups -- with explicit support inclusions per tier.
 
 ![Casa homepage showing managed multisig custody with guided key recovery](../media/casa-home.png)
 
 *Casa homepage, July 2026 -- managed multisig product with premium support and guided recovery posture confirmed.*
+
+The pricing page confirms that higher-tier plans include dedicated key recovery support and inheritance planning tools, which is the clearest signal of where the service-layer dependency lives in practice. Seeing those features gated behind plan tiers makes the custody model explicit -- this is not a product that hides its service dependency.
 
 ![Casa pricing page showing multisig plan tiers and support inclusions](../media/casa-pricing.png)
 
@@ -156,11 +144,13 @@ We reviewed Casa's public-facing pricing page directly. The plan tiers are struc
 
 Unchained takes a collaborative custody approach: the user holds keys and Unchained holds one key in a multi-key arrangement, with a structured recovery path. It also offers Bitcoin-native financial services layered on top of holdings.
 
-We navigated Unchained's pricing page and service overview directly. The pricing structure confirms the collaborative custody model: the user holds the majority of keys, Unchained holds one, and the recovery path is documented with named hardware wallet support. The financial services layer -- including Bitcoin-collateralized loans -- is presented alongside the custody product, which is a useful signal that Unchained is building a platform, not just a wallet tool.
+We navigated Unchained's pricing page and service overview directly. The pricing structure confirms the collaborative custody model: the user holds the majority of keys, Unchained holds one, and the recovery path is documented with named hardware wallet support.
 
 ![Unchained homepage showing collaborative Bitcoin custody and multisig vault service](../media/unchained-home.png)
 
 *Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
+
+The financial services layer -- including Bitcoin-collateralized loans -- is presented alongside the custody product, which is a useful signal that Unchained is building a platform, not just a wallet tool. That combination of custody infrastructure and financial services in the same public-facing pricing view is what makes the platform tradeoff visible upfront.
 
 ![Unchained pricing page showing collaborative custody plan and key arrangement](../media/unchained-pricing.png)
 

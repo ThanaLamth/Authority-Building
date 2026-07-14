@@ -61,41 +61,30 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Bitmain Antminer S21 Pro spec page loaded and efficiency data confirmed | Verified |
 | MicroBT Whatsminer M60 spec page loaded and efficiency data confirmed | Verified |
 
-**Bitmain (Antminer)**
-
-![Bitmain homepage showing industrial ASIC mining hardware manufacturer](../media/bitmain-home.png)
-
-*Bitmain homepage, July 2026 -- industrial ASIC mining hardware manufacturer and Antminer product line confirmed on public surface.*
 
 ![Bitmain shop page showing Antminer ASIC models and pricing](../media/bitmain-shop.png)
 
 *Bitmain shop, July 2026 -- Antminer ASIC models and product availability confirmed on public shop surface.*
 
-**MicroBT (Whatsminer)**
 
-![MicroBT homepage showing Whatsminer ASIC mining hardware product lineup](../media/microbt-home.png)
-
-*MicroBT homepage, July 2026 -- Whatsminer ASIC product lineup and mining hardware posture confirmed on public surface.*
-
-**Canaan (Avalon)**
-
-![Canaan homepage showing Avalon Bitcoin ASIC mining hardware](../media/canaan-home.png)
-
-*Canaan homepage, July 2026 -- Avalon Bitcoin ASIC hardware product line confirmed on public surface.*
 
 ## Bitmain (Antminer)
 
 Bitmain remains the dominant ASIC manufacturer by installed base and product breadth. The Antminer S-series and T-series cover the range from high-efficiency flagship units to more accessible mid-range options. Bitmain's supply chain reach and service network make it the default consideration for large-scale facilities, though lead times, pricing cycles, and resale dynamics should always be modeled before committing.
 
-We navigated the Antminer S21 Pro product spec page directly. The spec sheet lists hashrate, power consumption, and J/TH efficiency in the format Bitmain uses for all professional models. The S21 Pro data confirms the efficiency figures cited in industry benchmarks: the hashrate and power draw are stated explicitly and verified against what operators report publicly in mining forums. The spec page also lists dimensions and cooling requirements, which are the practical details that matter most once a buyer moves past the efficiency headline.
+We navigated the Antminer S21 Pro product spec page directly. The spec sheet lists hashrate, power consumption, and J/TH efficiency in the format Bitmain uses for all professional models.
 
 ![Bitmain homepage showing industrial ASIC mining hardware manufacturer](../media/bitmain-home.png)
 
 *Bitmain homepage, July 2026 -- industrial ASIC mining hardware manufacturer and Antminer product line confirmed on public surface.*
 
+The S21 Pro data confirms the efficiency figures cited in industry benchmarks: the hashrate and power draw are stated explicitly and consistent with what operators report publicly. The spec page also lists dimensions and cooling requirements -- the practical details that matter most once a buyer moves past the efficiency headline.
+
 ![Bitmain shop page showing Antminer ASIC models and pricing](../media/bitmain-shop.png)
 
 *Bitmain shop, July 2026 -- Antminer ASIC models and product availability confirmed on public shop surface.*
+
+The shop listing also confirms current model availability, which is the procurement reality check that spec sheets alone cannot provide -- lead times and pricing cycles matter as much as J/TH in serious buying decisions.
 
 ![Antminer S21 Pro spec page showing hashrate, power consumption, and J/TH efficiency data](../media/antminer-s21-spec.png)
 
@@ -110,11 +99,13 @@ We navigated the Antminer S21 Pro product spec page directly. The spec sheet lis
 
 MicroBT's Whatsminer M-series has consistently challenged Bitmain on efficiency and is the most credible alternative at scale. The M60-series and high-efficiency variants deliver competitive J/TH ratios and MicroBT has built a strong reputation for reliability in large-scale deployments. For facilities that want genuine competitive sourcing, Whatsminer is the comparison point that matters most.
 
-We reviewed the Whatsminer M60 product spec page directly. The spec sheet shows hashrate, power consumption, and calculated J/TH efficiency in the same format used for Bitmain comparisons. What the M60 spec confirms is that MicroBT's efficiency claims are competitive with Bitmain's S21 Pro at the same product tier -- the J/TH figures overlap closely enough that the real buying decision often comes down to pricing, availability, and service access rather than raw spec sheet differences.
+We reviewed the Whatsminer M60 product spec page directly. The spec sheet shows hashrate, power consumption, and calculated J/TH efficiency in the same format used for Bitmain comparisons.
 
 ![MicroBT homepage showing Whatsminer ASIC mining hardware product lineup](../media/microbt-home.png)
 
 *MicroBT homepage, July 2026 -- Whatsminer ASIC product lineup and mining hardware posture confirmed on public surface.*
+
+What the M60 spec confirms is that MicroBT's efficiency claims are competitive with Bitmain's S21 Pro at the same product tier -- the J/TH figures overlap closely enough that the real buying decision often comes down to pricing, availability, and service access rather than raw spec sheet differences.
 
 ![Whatsminer M60 spec page showing hashrate, power draw, and J/TH efficiency comparison data](../media/whatsminer-m60-spec.png)
 

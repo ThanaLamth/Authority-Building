@@ -64,39 +64,21 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | ARK 21Shares ARKB fund details page loaded and confirmed | Verified |
 | Bitwise BITB fund details and on-chain transparency page loaded and confirmed | Verified |
 
-**BlackRock iShares Bitcoin Trust (IBIT)**
 
-![BlackRock iShares Bitcoin Trust ETF product page showing fund overview and performance](../media/ibit-home.png)
 
-*BlackRock IBIT product page, July 2026 -- spot Bitcoin ETF fund details and institutional product framing confirmed on public surface.*
 
-**Fidelity Wise Origin Bitcoin Fund (FBTC)**
-
-![Fidelity FBTC Bitcoin ETF page showing fund overview and holdings](../media/fbtc-home.png)
-
-*Fidelity FBTC page, July 2026 -- spot Bitcoin ETF fund page confirmed on public surface.*
-
-**ARK 21Shares Bitcoin ETF (ARKB)**
-
-![ARK 21Shares ARKB Bitcoin ETF fund page showing product details and fee structure](../media/arkb-home.png)
-
-*ARK ARKB fund page, July 2026 -- spot Bitcoin ETF product details and fee structure confirmed on public surface.*
-
-**Bitwise Bitcoin ETF (BITB)**
-
-![Bitwise BITB Bitcoin ETF fund page showing product overview and on-chain transparency](../media/bitb-home.png)
-
-*Bitwise BITB fund page, July 2026 -- spot Bitcoin ETF with on-chain transparency features confirmed on public surface.*
 
 ## BlackRock iShares Bitcoin Trust (IBIT)
 
 IBIT is the dominant spot Bitcoin ETF by AUM and trading volume. BlackRock's institutional distribution, tight bid-ask spreads, and rapid accumulation after launch made it the default choice for most institutional and retail buyers seeking Bitcoin ETF exposure. Its size is both its main strength and the reason it attracts the most scrutiny on custody and creation/redemption mechanics.
 
-We reviewed the BlackRock IBIT performance page directly. The page displays live price, AUM figure, and expense ratio data alongside historical performance charts. What confirmed the dominance claim is visible in the AUM figure itself -- it is several multiples larger than competing spot Bitcoin ETFs on the same metrics screen. The institutional product framing is consistent throughout: no consumer-friendly simplification, just fund data presented for professional buyers.
+We reviewed the BlackRock IBIT performance page directly. The page displays live price, AUM figure, and expense ratio data alongside historical performance charts.
 
 ![BlackRock iShares Bitcoin Trust ETF product page showing fund overview and performance](../media/ibit-home.png)
 
 *BlackRock IBIT product page, July 2026 -- spot Bitcoin ETF fund details and institutional product framing confirmed on public surface.*
+
+What confirmed the dominance claim is visible in the AUM figure itself -- it is several multiples larger than competing spot Bitcoin ETFs on the same metrics screen. The institutional product framing is consistent throughout: no consumer-friendly simplification, just fund data presented for professional buyers.
 
 ![BlackRock IBIT performance page showing AUM, live price, and expense ratio data](../media/ibit-performance.png)
 
@@ -111,11 +93,13 @@ We reviewed the BlackRock IBIT performance page directly. The page displays live
 
 FBTC is the strongest alternative to IBIT for investors who already have a Fidelity relationship. Fidelity self-custodies the Bitcoin underlying the fund rather than using a third-party custodian, which is a meaningful differentiator for buyers who care about custody chain. Competitive expense ratio and strong AUM make it a genuine second option in most allocation decisions.
 
-We navigated the Fidelity FBTC quote page directly. The page displays bid/ask, day range, NAV, and expense ratio data in a standard institutional fund view. The self-custody claim is confirmed in the fund description text on the page: Fidelity states it acts as the custodian for the Bitcoin held by the fund rather than delegating to a third-party custodian. That is a direct, verifiable differentiator from the fund documentation itself.
+We navigated the Fidelity FBTC quote page directly. The page displays bid/ask, day range, NAV, and expense ratio data in a standard institutional fund view.
 
 ![Fidelity FBTC Bitcoin ETF page showing fund overview and holdings](../media/fbtc-home.png)
 
 *Fidelity FBTC page, July 2026 -- spot Bitcoin ETF fund page confirmed on public surface.*
+
+The self-custody claim is confirmed in the fund description text on the page: Fidelity states it acts as the custodian for the Bitcoin held by the fund rather than delegating to a third-party custodian. That is a direct, verifiable differentiator from the fund documentation itself -- not a marketing assertion.
 
 ![Fidelity FBTC quote page showing live price, NAV, expense ratio, and self-custody description](../media/fbtc-quote.png)
 
@@ -130,11 +114,13 @@ We navigated the Fidelity FBTC quote page directly. The page displays bid/ask, d
 
 ARKB is the result of a partnership between ARK Invest and 21Shares, combining ARK's Bitcoin-forward investment thesis with 21Shares' ETF infrastructure experience. Its expense ratio is competitive and it has attracted meaningful AUM, though it remains smaller than the leading two funds. ARK's public Bitcoin conviction narrative gives it a positioning edge for investors who align with that thesis.
 
-We reviewed the ARKB fund details page directly. The page lists expense ratio, AUM, inception date, and exchange information in standard ETF disclosure format. The ARK Bitcoin investment thesis is cited in the fund description -- specifically the expectation of Bitcoin as a risk-on asset and long-duration store of value. The AUM figure on this page confirms the gap versus IBIT and FBTC, which is the basis for the liquidity tradeoff claim.
+We reviewed the ARKB fund details page directly. The page lists expense ratio, AUM, inception date, and exchange information in standard ETF disclosure format.
 
 ![ARK 21Shares ARKB Bitcoin ETF fund page showing product details and fee structure](../media/arkb-home.png)
 
 *ARK ARKB fund page, July 2026 -- spot Bitcoin ETF product details and fee structure confirmed on public surface.*
+
+The ARK Bitcoin investment thesis is cited in the fund description -- specifically the expectation of Bitcoin as a risk-on asset and long-duration store of value. The AUM figure on this page confirms the gap versus IBIT and FBTC, which is the direct basis for the liquidity tradeoff claim rather than an assumption.
 
 ![ARK 21Shares ARKB fund details page showing AUM, expense ratio, and Bitcoin investment thesis](../media/arkb-details.png)
 
@@ -149,11 +135,13 @@ We reviewed the ARKB fund details page directly. The page lists expense ratio, A
 
 Bitwise is the most crypto-native issuer in the spot Bitcoin ETF field. It has a longer track record in crypto product development than most competitors and publishes on-chain proof of reserves for its ETF holdings, which is an unusual transparency commitment for a traditional financial product. BITB is worth considering for investors who want issuer-level transparency beyond standard SEC filings.
 
-We reviewed the Bitwise BITB fund details page directly. The page confirms AUM, expense ratio, and the on-chain transparency commitment -- Bitwise publishes the wallet addresses holding the fund's Bitcoin, which is a verifiable claim any reader can check independently. That combination of standard ETF disclosure plus on-chain address transparency is the strongest differentiator in BITB's public-facing product documentation.
+We reviewed the Bitwise BITB fund details page directly. The page confirms AUM, expense ratio, and the on-chain transparency commitment -- Bitwise publishes the wallet addresses holding the fund's Bitcoin.
 
 ![Bitwise BITB Bitcoin ETF fund page showing product overview and on-chain transparency](../media/bitb-home.png)
 
 *Bitwise BITB fund page, July 2026 -- spot Bitcoin ETF with on-chain transparency features confirmed on public surface.*
+
+That on-chain address disclosure is a verifiable claim any reader can check independently, which is a meaningful differentiator from standard ETF disclosure alone. That combination -- SEC filing transparency plus on-chain proof of reserves -- is the strongest differentiator in BITB's public-facing product documentation.
 
 ![Bitwise BITB fund details page showing on-chain proof of reserves and AUM data](../media/bitb-details.png)
 

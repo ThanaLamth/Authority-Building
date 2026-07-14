@@ -60,29 +60,9 @@ We captured the public-facing product surfaces of all platforms on 2026-07-14.
 | Liquidity management tested live | Not verified |
 | Node connection configured and tested | Not verified |
 
-**Phoenix**
 
-![Phoenix wallet homepage showing self-custodial Lightning wallet](../media/phoenix-home.png)
 
-*Phoenix homepage, July 2026 -- self-custodial Lightning wallet with automatic channel management confirmed.*
 
-**Breez**
-
-![Breez wallet homepage showing payments-first Lightning wallet](../media/breez-home.png)
-
-*Breez homepage, July 2026 -- payments-focused Lightning wallet and merchant integration posture confirmed.*
-
-**Zeus**
-
-![Zeus wallet homepage showing node-linked Lightning wallet for advanced users](../media/zeus-home.png)
-
-*Zeus homepage, July 2026 -- node-linked Lightning wallet and advanced control posture confirmed.*
-
-**Blixt**
-
-![Blixt wallet homepage showing experimental open-source Lightning wallet](../media/blixt-home.png)
-
-*Blixt homepage, July 2026 -- experimental open-source Lightning wallet for power users confirmed.*
 
 ## The real tradeoff is convenience versus sovereignty
 
@@ -94,13 +74,13 @@ The best Lightning wallet is the one that fits the actual use case. A travel-spe
 
 ## Phoenix
 
-Phoenix is the cleanest mainstream recommendation for users who want self-custodial Lightning without running a node. We navigated the Phoenix FAQ directly and confirmed the fee model: Phoenix charges a swap fee on incoming payments (a percentage-based fee for liquidity provisioning) rather than a flat subscription. There is no channel management required by the user -- ACINQ's LSP handles inbound capacity on-demand. When we reviewed the FAQ, the trust model is explained plainly: ACINQ operates the LSP and can see payment amounts but not payment contents. Users hold their own keys and can close channels to on-chain Bitcoin at any time. That is the right framing for self-custodial Lightning with LSP assistance.
-
-The onboarding is one of the most frictionless in the self-custodial shortlist -- no channel funding step, no manual liquidity management. The first incoming payment triggers automatic channel creation.
+Phoenix is the cleanest mainstream recommendation for users who want self-custodial Lightning without running a node. We navigated the Phoenix FAQ directly and confirmed the fee model: Phoenix charges a swap fee on incoming payments (a percentage-based fee for liquidity provisioning) rather than a flat subscription. There is no channel management required by the user -- ACINQ's LSP handles inbound capacity on-demand.
 
 ![Phoenix wallet homepage showing self-custodial Lightning wallet with automatic channel management](../media/phoenix-home.png)
 
 *Phoenix homepage, July 2026 -- self-custodial Lightning wallet with automatic channel management confirmed on public surface.*
+
+When we reviewed the FAQ, the trust model is explained plainly: ACINQ operates the LSP and can see payment amounts but not payment contents. Users hold their own keys and can close channels to on-chain Bitcoin at any time. The onboarding is one of the most frictionless in the self-custodial shortlist -- no channel funding step, no manual liquidity management. The first incoming payment triggers automatic channel creation.
 
 ![Phoenix FAQ page showing fee model, trust model, and liquidity management documentation](../media/phoenix-faq.png)
 
@@ -113,13 +93,13 @@ The onboarding is one of the most frictionless in the self-custodial shortlist -
 
 ## Breez
 
-Breez is strong for users who want Lightning payments with a more merchant- and service-oriented feature set. We navigated the Breez technology page directly and confirmed the architecture: Breez is a non-custodial Lightning client built on top of LDK (Lightning Development Kit) and the Greenlight infrastructure. The product page shows three distinct surface areas -- payments wallet, point-of-sale, and podcast streaming with value-for-value payments. That range of features is genuinely broader than Phoenix. We also confirmed that Breez uses an LSP model for channel management, which means the same trust tradeoffs around liquidity routing apply.
-
-What distinguishes Breez from Phoenix is product breadth, not custody model. If the use case is merchant acceptance or content-creator monetization via Lightning, Breez has more native feature coverage than any other wallet in this shortlist.
+Breez is strong for users who want Lightning payments with a more merchant- and service-oriented feature set. We navigated the Breez technology page directly and confirmed the architecture: Breez is a non-custodial Lightning client built on top of LDK (Lightning Development Kit) and the Greenlight infrastructure.
 
 ![Breez wallet homepage showing payments-first Lightning wallet and merchant tools](../media/breez-home.png)
 
 *Breez homepage, July 2026 -- payments-focused Lightning wallet and merchant integration posture confirmed.*
+
+The product page shows three distinct surface areas -- payments wallet, point-of-sale, and podcast streaming with value-for-value payments. That range of features is genuinely broader than Phoenix. We also confirmed that Breez uses an LSP model for channel management, which means the same trust tradeoffs around liquidity routing apply. What distinguishes Breez from Phoenix is product breadth, not custody model. If the use case is merchant acceptance or content-creator monetization via Lightning, Breez has more native feature coverage than any other wallet in this shortlist.
 
 ![Breez technology page showing LDK architecture, Greenlight infrastructure, and payment features](../media/breez-tech.png)
 
@@ -132,13 +112,13 @@ What distinguishes Breez from Phoenix is product breadth, not custody model. If 
 
 ## Zeus
 
-Zeus is the best choice for users who already run their own Lightning node. We navigated the Zeus app page directly and confirmed the backend compatibility: Zeus connects to LND, Core Lightning, Eclair, and also supports its own embedded node via OLYMPUS. The interface exposes full channel management -- opening, closing, force-closing channels, routing fee control, and peer management. That is the control surface node operators want and most users do not need. We also confirmed that Zeus now offers an embedded node option for users who want stronger sovereignty without running a separate server, though this mode requires more technical comfort than LSP wallets.
-
-When we reviewed the Zeus landing page, the positioning is clearly aimed at users who understand what a node is and why controlling one matters. The UI shows raw Lightning data -- channel balances, capacity, fees -- without abstracting it away.
+Zeus is the best choice for users who already run their own Lightning node. We navigated the Zeus app page directly and confirmed the backend compatibility: Zeus connects to LND, Core Lightning, Eclair, and also supports its own embedded node via OLYMPUS.
 
 ![Zeus wallet homepage showing node-linked Lightning wallet for advanced Bitcoin users](../media/zeus-home.png)
 
 *Zeus homepage, July 2026 -- node-linked Lightning wallet and advanced control posture confirmed on public surface.*
+
+The interface exposes full channel management -- opening, closing, force-closing channels, routing fee control, and peer management. That is the control surface node operators want and most users do not need. We also confirmed that Zeus now offers an embedded node option for users who want stronger sovereignty without running a separate server, though this mode requires more technical comfort than LSP wallets. The positioning is clearly aimed at users who understand what a node is and why controlling one matters -- the UI shows raw Lightning data without abstracting it away.
 
 ![Zeus app page showing embedded node option and LND/Core Lightning backend compatibility](../media/zeus-app.png)
 
