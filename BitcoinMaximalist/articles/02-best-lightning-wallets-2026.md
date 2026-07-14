@@ -65,6 +65,45 @@ That direct review does not replace a full send-and-receive test across every wa
 
 The screenshots above should not sit silently in the article. They should show why one wallet feels closer to a spending app, while another clearly behaves more like a node-control surface.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Phoenix homepage loaded and self-custodial Lightning wallet confirmed | Verified |
+| Breez homepage loaded and payments-focused Lightning wallet confirmed | Verified |
+| Zeus homepage loaded and node-linked Lightning wallet confirmed | Verified |
+| Blixt homepage loaded and experimental power-user wallet confirmed | Verified |
+| Wallet installed and channel opened | Not verified |
+| Lightning payment sent or received with real sats | Not verified |
+| Liquidity management tested live | Not verified |
+| Node connection configured and tested | Not verified |
+
+**Phoenix**
+
+![Phoenix wallet homepage showing self-custodial Lightning wallet](../media/phoenix-home.png)
+
+*Phoenix homepage, July 2026 -- self-custodial Lightning wallet with automatic channel management confirmed.*
+
+**Breez**
+
+![Breez wallet homepage showing payments-first Lightning wallet](../media/breez-home.png)
+
+*Breez homepage, July 2026 -- payments-focused Lightning wallet and merchant integration posture confirmed.*
+
+**Zeus**
+
+![Zeus wallet homepage showing node-linked Lightning wallet for advanced users](../media/zeus-home.png)
+
+*Zeus homepage, July 2026 -- node-linked Lightning wallet and advanced control posture confirmed.*
+
+**Blixt**
+
+![Blixt wallet homepage showing experimental open-source Lightning wallet](../media/blixt-home.png)
+
+*Blixt homepage, July 2026 -- experimental open-source Lightning wallet for power users confirmed.*
+
 ## The real tradeoff is convenience versus sovereignty
 
 Lightning adds speed and low-cost payments, but it does not remove the need to ask where the trust sits. In a custodial wallet, someone else controls the keys and often the channel management. In a self-custodial wallet, the user keeps more control but has to accept more operational responsibility.

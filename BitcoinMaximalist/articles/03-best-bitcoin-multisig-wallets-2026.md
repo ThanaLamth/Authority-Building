@@ -65,6 +65,48 @@ That direct review does not replace a full signer-by-signer recovery drill. But 
 
 The screenshots above should not sit silently in the article. They should help the reader see why one product feels more like a sovereignty tool while another feels more like assisted custody.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Nunchuk homepage loaded and multisig coordination product confirmed | Verified |
+| Sparrow Wallet homepage and documentation loaded directly | Verified |
+| Casa homepage loaded and managed multisig product confirmed | Verified |
+| Unchained homepage loaded and collaborative custody product confirmed | Verified |
+| Multisig vault created and tested with real keys | Not verified |
+| Hardware wallet co-signing tested in live setup | Not verified |
+| Recovery workflow completed end-to-end | Not verified |
+
+**Nunchuk**
+
+![Nunchuk homepage showing flexible multisig coordination wallet for Bitcoin](../media/nunchuk-home.png)
+
+*Nunchuk homepage, July 2026 -- flexible multisig coordination and Bitcoin-native self-custody posture confirmed.*
+
+**Sparrow Wallet**
+
+![Sparrow Wallet homepage showing advanced Bitcoin wallet with full PSBT transparency](../media/sparrow-home.png)
+
+*Sparrow homepage, July 2026 -- advanced Bitcoin wallet with full transaction transparency confirmed.*
+
+![Sparrow Wallet documentation showing setup and feature reference](../media/sparrow-docs.png)
+
+*Sparrow docs, July 2026 -- comprehensive setup documentation confirmed on public surface.*
+
+**Casa**
+
+![Casa homepage showing managed multisig custody with guided key recovery](../media/casa-home.png)
+
+*Casa homepage, July 2026 -- managed multisig product with premium support posture confirmed.*
+
+**Unchained**
+
+![Unchained homepage showing collaborative Bitcoin custody and multisig vault service](../media/unchained-home.png)
+
+*Unchained homepage, July 2026 -- collaborative custody and Bitcoin multisig vault confirmed.*
+
 ## Multisig is not automatically safer unless the setup matches the user
 
 The core mistake in multisig marketing is ignoring human failure. A 2-of-3 or 3-of-5 setup looks safer on paper, but if the user cannot explain the backup locations, signer roles, recovery path, inheritance plan, and software dependencies, the extra complexity may be creating rather than reducing risk.

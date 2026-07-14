@@ -65,6 +65,44 @@ That direct review does not replace a full funded test of buys and withdrawals o
 
 The screenshots above should not sit silently in the article. They should show why one app feels like a bitcoin savings tool, while another feels closer to a general fintech or exchange product.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| River homepage loaded and Bitcoin-only DCA platform confirmed | Verified |
+| Swan Bitcoin homepage loaded and accumulation product confirmed | Verified |
+| Strike homepage loaded and payments-rail DCA product confirmed | Verified |
+| Relai homepage loaded and European bitcoin stacking app confirmed | Verified |
+| DCA plan configured and first purchase completed | Not verified |
+| Automatic withdrawal to self-custody wallet tested | Not verified |
+| Fee schedule confirmed for live recurring purchase | Not verified |
+
+**River**
+
+![River homepage showing Bitcoin-only DCA platform with savings-first orientation](../media/river-home.png)
+
+*River homepage, July 2026 -- Bitcoin-only DCA platform and long-term savings posture confirmed.*
+
+**Swan Bitcoin**
+
+![Swan Bitcoin homepage showing accumulation product with education-first framing](../media/swan-home.png)
+
+*Swan homepage, July 2026 -- Bitcoin-only accumulation product and education-first framing confirmed.*
+
+**Strike**
+
+![Strike homepage showing fast Bitcoin payments and DCA with simple onboarding](../media/strike-home.png)
+
+*Strike homepage, July 2026 -- fast payments-rail DCA app and simple onboarding posture confirmed.*
+
+**Relai**
+
+![Relai homepage showing European bitcoin stacking app](../media/relai-home.png)
+
+*Relai homepage, July 2026 -- European bitcoin stacking app with straightforward accumulation posture confirmed.*
+
 ## The best DCA app is the one that gets coins off-platform cleanly
 
 DCA is simple in theory and surprisingly leaky in practice. The wrong platform can take value through fees, spreads, slow withdrawals, withdrawal minimums, and friction that keeps users from moving coins into self-custody.
