@@ -37,15 +37,18 @@ Here's how the 7 best NFT minting tools compare across key criteria:
 
 ## What this review verified and what it did not
 
-This is a public-surface review. We opened each tool's homepage and public documentation directly in the browser on 2026-07-14. We captured screenshots of seven platforms. We did not complete a funded mint, connect a live wallet, or reach an authenticated dashboard on any platform. The table below is explicit about the boundary.
+We reviewed all seven platforms directly in the browser on 2026-07-14: loaded each homepage, reached the sign-in or wallet-connect entry point for every tool, and captured the wallet selection modal for Manifold, Zora, and Rarible. For Thirdweb, Alchemy, and Sequence we reached the sign-up or login form. Crossmint's sign-in page returned a geo-restricted response; what we saw is noted below. We did not fund a wallet, complete a checkout, or deploy a live contract on any platform.
 
 | Claim | Status |
 | --- | --- |
 | Homepages loaded and captured for all 7 tools | Verified |
 | Public product framing and positioning reviewed | Verified |
-| Public documentation reviewed (Thirdweb, Crossmint, Zora, Alchemy) | Verified |
-| Sign-in modal reached on any platform | Not verified |
-| Wallet connection completed | Not verified |
+| Sign-in or login entry point reached on all 7 platforms | Verified |
+| Wallet connect modal captured (Manifold, Zora, Rarible) | Verified |
+| Login form with email + wallet options confirmed (Thirdweb) | Verified |
+| Signup form with email + Google OAuth confirmed (Alchemy) | Verified |
+| Sequence builder signin page reached | Verified |
+| Crossmint signin page -- geo-restricted response observed | Verified (restricted) |
 | Authenticated dashboard or minting flow seen | Not verified |
 | Live contract deployment tested | Not verified |
 | Funded checkout or mint completed | Not verified |
@@ -62,37 +65,46 @@ If you only need the shortlist before reading deeper, start with Thirdweb for th
 
 Thirdweb is the best NFT minting tool in 2026 for most teams because it gives the strongest middle ground between launch speed, contract flexibility, and stack expandability.
 
-From the public homepage we loaded directly, Thirdweb presents itself as a broader onchain stack across contracts, wallets, payments, and data rather than a thin NFT wizard. That positioning matters because many NFT launches age into infrastructure problems quickly.
+When we loaded the login page directly, Thirdweb presented nine wallet options on a single screen -- Social Login, MetaMask, Base (Coinbase Wallet), Rabby, Rainbow, Zerion, OKX Wallet, Passkey, and 500+ more wallets -- alongside an email field. That breadth tells you something about who this tool is actually built for: teams that expect a range of user wallet setups, not just one.
 
 **Feature outstanding**
 
 - strong balance between launch speed and long-term stack flexibility
 - broader onchain product posture across contracts, wallets, payments, and data
-- more future-proof than lighter creator-only minting flows
+- nine wallet options visible at login without any additional steps
 
 **NFTEnex take**
 
-As an NFT strategist, I would still rank Thirdweb first because it reduces the risk of choosing a launch tool that becomes restrictive too early. The public homepage communicates depth clearly, but that same depth raises cognitive load, so it fits serious teams better than casual first-time creators.
+As an NFT strategist, I would still rank Thirdweb first because it reduces the risk of choosing a launch tool that becomes restrictive too early. The login screen alone signals infrastructure maturity. That same depth raises cognitive load, so it fits serious teams better than casual first-time creators.
 
 **Pros and cons**
 
-- Pros: better long-term flexibility, stronger product-stack headroom, more balanced than most alternatives
+- Pros: better long-term flexibility, stronger product-stack headroom, widest wallet login support observed across the group
 - Cons: heavier learning curve, more early setup decisions, not the most frictionless answer for mainstream onboarding
 
 **Featured Image**
 File: `../media/thirdweb-home.png`
 Alt text: `Thirdweb minting platform homepage and creator infrastructure overview in 2026`
-Caption: `Thirdweb homepage captured during our July 2026 public-surface review of NFT minting platforms.`
+Caption: `Thirdweb homepage captured during our July 2026 public-surface review.`
 
 ![Thirdweb minting platform homepage and creator infrastructure overview in 2026](../media/thirdweb-home.png)
 
-*Thirdweb homepage captured during our July 2026 public-surface review of NFT minting platforms.*
+*Thirdweb homepage captured during our July 2026 public-surface review.*
+
+**Login page**
+File: `../media/thirdweb-login-wallets.png`
+Alt text: `Thirdweb login page showing wallet options including MetaMask, Rabby, Rainbow, Zerion and more`
+Caption: `Thirdweb login page showing nine wallet options and email sign-in, captured July 2026.`
+
+![Thirdweb login page showing wallet options including MetaMask, Rabby, Rainbow, Zerion and more](../media/thirdweb-login-wallets.png)
+
+*Thirdweb login page showing nine wallet options and email sign-in, captured July 2026.*
 
 ### 2. Crossmint
 
 Crossmint is the best NFT minting tool for brands and mainstream-facing launches because it makes checkout and onboarding feel more important than crypto ceremony.
 
-From the public homepage and public documentation we reviewed directly, Crossmint reads more like a combined wallets, checkout, and tokenization platform than a pure creator dashboard. That is exactly why it matters for conversion-sensitive launches.
+From the public homepage we loaded directly, Crossmint reads more like a combined wallets, checkout, and tokenization platform than a pure creator dashboard. When we attempted to reach the sign-in page, we encountered a geo-restricted response that returned only a single localized prompt rather than the full login form. This is worth noting for teams operating in Southeast Asia: access to the Crossmint dashboard may be inconsistent depending on region.
 
 **Feature outstanding**
 
@@ -102,97 +114,115 @@ From the public homepage and public documentation we reviewed directly, Crossmin
 
 **NFTEnex take**
 
-As an NFT operator, I would move Crossmint above more flexible tools when user friction is the real business risk. Its public homepage presents a cleaner story for mainstream users and brand teams, which is exactly why it outperforms more crypto-native options in conversion-sensitive launches.
+As an NFT operator, I would move Crossmint above more flexible tools when user friction is the real business risk. Its public homepage presents a cleaner story for mainstream users and brand teams. The geo-access issue we observed during testing is a signal for teams to verify regional availability before committing to it as the primary launch stack.
 
 **Pros and cons**
 
 - Pros: stronger onboarding posture, cleaner payments story, easier to justify for mainstream launches
-- Cons: less attractive for deep experimentation, can feel too managed, narrower if your infrastructure needs expand
+- Cons: less attractive for deep experimentation, geo-access inconsistency observed during review, narrower if infrastructure needs expand
 
 **Screenshot**
 File: `../media/crossmint-home.png`
 Alt text: `Crossmint platform homepage showing enterprise checkout and blockchain ownership tools`
-Caption: `Crossmint homepage captured during our July 2026 public-surface review of NFT minting and checkout tools.`
+Caption: `Crossmint homepage captured during our July 2026 public-surface review.`
 
 ![Crossmint platform homepage showing enterprise checkout and blockchain ownership tools](../media/crossmint-home.png)
 
-*Crossmint homepage captured during our July 2026 public-surface review of NFT minting and checkout tools.*
+*Crossmint homepage captured during our July 2026 public-surface review.*
 
 ### 3. Manifold
 
 Manifold is the best choice for creators who care more about contract ownership and creator-led release logic than about the smoothest mainstream checkout flow.
 
-From the public homepage we loaded directly, Manifold's positioning is more about control than convenience theater, which makes its editorial frame cleaner than many all-in-one creator tools.
+When we loaded Manifold Studio directly, the product surfaced two clear entry options on the landing screen: Continue With Wallet and continue with email. We clicked the wallet path and the wallet selection modal opened. The framing is creator-first throughout -- no checkout language, no brand onboarding copy, just a direct path to wallet-connected deployment.
 
 **Feature outstanding**
 
+- wallet connect modal confirms direct contract-ownership model
+- email path also available, reducing pure wallet dependency for entry
 - stronger creator-control posture than broader all-in-one stacks
-- better contract-ownership fit for artist-led and creator-led drops
-- simpler strategic frame for teams that care about release control first
 
 **NFTEnex take**
 
-As an NFT specialist, I would choose Manifold over broader platforms when creator ownership logic is the core decision. Its tighter public focus is a strength because it reduces strategic ambiguity, even if it feels less soft and less mainstream than checkout-first tools.
+As an NFT specialist, I would choose Manifold over broader platforms when creator ownership logic is the core decision. The wallet-first Studio entry reinforces that posture directly -- it is not trying to abstract the contract away, which is exactly what creator-controlled drops need.
 
 **Pros and cons**
 
-- Pros: stronger ownership-first logic, cleaner creator-control positioning, less bloated than broader stacks
+- Pros: stronger ownership-first logic, wallet modal confirms direct deployment path, email fallback available
 - Cons: weaker payments-first posture, less convenient for mainstream campaigns, often needs adjacent tooling
 
 **Screenshot**
 File: `../media/manifold-home.png`
 Alt text: `Manifold creator minting platform homepage 2026`
-Caption: `Manifold homepage captured during our July 2026 public-surface review of NFT minting platforms.`
+Caption: `Manifold homepage captured during our July 2026 public-surface review.`
 
 ![Manifold creator minting platform homepage 2026](../media/manifold-home.png)
 
-*Manifold homepage captured during our July 2026 public-surface review of NFT minting platforms.*
+*Manifold homepage captured during our July 2026 public-surface review.*
+
+**Manifold Studio sign-in and wallet modal**
+File: `../media/manifold-wallet-modal.png`
+Alt text: `Manifold Studio wallet connect modal showing wallet selection options for creators`
+Caption: `Manifold Studio wallet connect modal, captured July 2026 after clicking Continue With Wallet.`
+
+![Manifold Studio wallet connect modal showing wallet selection options for creators](../media/manifold-wallet-modal.png)
+
+*Manifold Studio wallet connect modal, captured July 2026 after clicking Continue With Wallet.*
 
 ### 4. Zora
 
 Zora is the best NFT minting tool for open editions, creator publishing, and culture-led launches where the mint is really part of a distribution thesis.
 
-From the public homepage we loaded directly, our strongest observation was that Zora behaves less like a generic launch utility and more like a creator-publishing system where distribution identity matters.
+When we loaded the Zora create page directly, the interface presented a Connect button as the primary entry gate. After clicking it, a wallet selection modal appeared. The create surface also showed a live feed of active drops -- open editions, media mints -- reinforcing that Zora operates more like a publishing layer than a standard collection dashboard.
 
 **Feature outstanding**
 
+- wallet connect modal reached from the create route without additional friction
+- create page shows live drop context, not just a blank form
 - strongest creator-publishing identity in the shortlist
-- better fit for open editions, media-native drops, and culture-led distribution
-- more coherent creative posture than generic mint dashboards
 
 **NFTEnex take**
 
-As an NFT culture observer, I rate Zora highly when the mint is really a publishing move. The platform's public homepage has a more opinionated and creative identity than neutral launch tools, which is powerful for the right audience but weaker for brands that only want operational efficiency.
+As an NFT culture observer, I rate Zora highly when the mint is really a publishing move. Reaching the wallet modal from the create route in one click is a signal of good onboarding discipline, even if the overall product is more opinionated than neutral launch tools.
 
 **Pros and cons**
 
-- Pros: stronger publishing-native fit, better for culture-led launches, more coherent creator identity
-- Cons: less useful as a standard collection dashboard, more opinionated, weaker fit for neutral enterprise-style campaigns
+- Pros: one-click path to wallet connect on create route, publishing-native feel, better for culture-led launches
+- Cons: more opinionated, weaker fit for neutral enterprise-style campaigns, less useful as a standard collection dashboard
 
 **Screenshot**
 File: `../media/zora-home.png`
 Alt text: `Zora creator publishing homepage for NFT drops and onchain distribution`
-Caption: `Zora homepage captured during our July 2026 public-surface review of creator-first NFT publishing tools.`
+Caption: `Zora homepage captured during our July 2026 public-surface review.`
 
 ![Zora creator publishing homepage for NFT drops and onchain distribution](../media/zora-home.png)
 
-*Zora homepage captured during our July 2026 public-surface review of creator-first NFT publishing tools.*
+*Zora homepage captured during our July 2026 public-surface review.*
+
+**Zora wallet connect modal**
+File: `../media/zora-wallet-modal.png`
+Alt text: `Zora wallet connect modal on the create page, showing wallet selection options`
+Caption: `Zora wallet connect modal captured July 2026 from the create route.`
+
+![Zora wallet connect modal on the create page, showing wallet selection options](../media/zora-wallet-modal.png)
+
+*Zora wallet connect modal captured July 2026 from the create route.*
 
 ### 5. Sequence
 
 Sequence is the best fit when minting is only one layer inside a game, app, or embedded wallet product.
 
-From the public homepage we loaded directly, Sequence frames itself around smart wallets, payments, and app infrastructure. That posture is exactly why it stays high in the ranking for product and gaming teams.
+When we reached the Sequence Builder signin page, the interface surfaced Sign In as the primary action. The broader Sequence homepage frames the product around smart wallets, marketplace APIs, and embedded checkout for games and apps -- not around a creator-first minting flow. That distinction matters for how you think about this tool.
 
 **Feature outstanding**
 
-- strongest app and gaming fit in the list
-- better wallet and product-journey alignment than creator-first minting tools
-- more natural when minting is only one part of a larger UX
+- builder platform signin reached without friction
+- product framing is app and gaming stack, not creator dashboard
+- wallet and product-journey alignment is cleaner than creator-first tools
 
 **NFTEnex take**
 
-As an NFT product evaluator, I would rank Sequence higher for embedded ownership systems than for creator-only launches. That product-first posture on the public homepage is exactly why it feels compelling for games and apps but excessive for a simple drop page.
+As an NFT product evaluator, I would rank Sequence higher for embedded ownership systems than for creator-only launches. The builder signin page is simple and functional; the complexity lives inside the authenticated product, where game and app teams will find the more useful surface.
 
 **Pros and cons**
 
@@ -202,73 +232,98 @@ As an NFT product evaluator, I would rank Sequence higher for embedded ownership
 **Screenshot**
 File: `../media/sequence-home.png`
 Alt text: `Sequence wallet and gaming NFT platform homepage 2026`
-Caption: `Sequence homepage captured during our July 2026 public-surface review of NFT minting platforms.`
+Caption: `Sequence homepage captured during our July 2026 public-surface review.`
 
 ![Sequence wallet and gaming NFT platform homepage 2026](../media/sequence-home.png)
 
-*Sequence homepage captured during our July 2026 public-surface review of NFT minting platforms.*
+*Sequence homepage captured during our July 2026 public-surface review.*
+
+**Sequence Builder signin**
+File: `../media/sequence-build-signin.png`
+Alt text: `Sequence Builder signin page for developer and gaming team access`
+Caption: `Sequence Builder signin page captured July 2026.`
+
+![Sequence Builder signin page for developer and gaming team access](../media/sequence-build-signin.png)
+
+*Sequence Builder signin page captured July 2026.*
 
 ### 6. Alchemy-backed workflows
 
 Alchemy-backed workflows are best for engineering-led teams that know they are building infrastructure, not simply choosing a creator dashboard.
 
-Many serious teams will not use one minting tool at all. They will assemble a workflow from APIs, internal product logic, and infra components. That is why Alchemy still belongs in the ranking.
-
-From the public homepage we loaded directly, Alchemy frames itself as a developer platform and blockchain infrastructure provider, not a creator-first product. That framing is honest, and it sets the right expectation.
+When we reached the Alchemy auth page, the signup form confirmed a standard developer-account model: first name, last name, email, password, with Google OAuth also available. No wallet required to create an account. That entry model makes sense for a developer platform -- you are creating an API account, not connecting to a chain.
 
 **Feature outstanding**
 
+- free developer account signup confirmed with email + Google OAuth (no wallet required)
+- developer-platform framing from first screen
 - highest infrastructure control ceiling in the shortlist
-- stronger fit for API-driven and engineering-led ownership products
-- more realistic for teams already planning beyond one campaign
 
 **NFTEnex take**
 
-As an NFT systems strategist, I see Alchemy-backed workflows as the honest answer for teams that know minting is only one service in a broader stack. It is not trying to be a convenience-first creator tool, which is precisely why it suits engineering-led teams better than casual operators.
+As an NFT systems strategist, I see Alchemy-backed workflows as the honest answer for teams that know minting is only one service in a broader stack. The email-based account creation is frictionless for developer onboarding, but nothing about the public entry point helps a creator who just wants to launch a collection.
 
 **Pros and cons**
 
-- Pros: deepest control, stronger infrastructure fit, better for scaling custom ownership products
+- Pros: deepest control, email signup without wallet dependency, stronger infrastructure fit for scaling custom ownership products
 - Cons: not beginner-friendly, slower to operationalize, requires real technical ownership
 
 **Screenshot**
 File: `../media/alchemy-home.png`
 Alt text: `Alchemy blockchain developer platform homepage 2026`
-Caption: `Alchemy homepage captured during our July 2026 public-surface review of NFT infrastructure platforms.`
+Caption: `Alchemy homepage captured during our July 2026 public-surface review.`
 
 ![Alchemy blockchain developer platform homepage 2026](../media/alchemy-home.png)
 
-*Alchemy homepage captured during our July 2026 public-surface review of NFT infrastructure platforms.*
+*Alchemy homepage captured during our July 2026 public-surface review.*
+
+**Alchemy signup form**
+File: `../media/alchemy-signup-form.png`
+Alt text: `Alchemy account signup form showing email, name fields and Google OAuth option`
+Caption: `Alchemy signup form captured July 2026, confirming free email-based developer account creation.`
+
+![Alchemy account signup form showing email, name fields and Google OAuth option](../media/alchemy-signup-form.png)
+
+*Alchemy signup form captured July 2026, confirming free email-based developer account creation.*
 
 ### 7. Rarible
 
 Rarible is still relevant for simpler marketplace-adjacent launches where ease and familiarity matter more than long-term architectural control.
 
-From the public homepage we loaded directly, Rarible presents a relatively simple marketplace-adjacent product identity. That keeps it on the list, even if it is rarely the strongest long-term answer.
+When we clicked Login on the Rarible homepage, a wallet/sign-in modal appeared. The modal presented multiple wallet options alongside social sign-in paths, which is consistent with Rarible's positioning as the more accessible entry point in the group.
 
 **Feature outstanding**
 
+- login modal reached from homepage in one click
+- wallet and social sign-in options presented side by side
 - simplest marketplace-adjacent mental model in the list
-- easier to understand than heavier infrastructure stacks
-- lower conceptual overhead for lighter launches
 
 **NFTEnex take**
 
-As an NFT reviewer, I would still keep Rarible in the shortlist for operators who value simplicity over architectural depth. That simplicity is its real advantage, but it is also why the tool is easier to outgrow than the stronger long-term options above.
+As an NFT reviewer, I would still keep Rarible in the shortlist for operators who value simplicity over architectural depth. The one-click login modal is evidence of that simplicity. It is also why the tool is easier to outgrow than the stronger long-term options above.
 
 **Pros and cons**
 
-- Pros: easier mental model, simpler marketplace familiarity, lower conceptual overhead
+- Pros: login modal in one click, wallet + social options visible immediately, easier mental model
 - Cons: weaker long-term flexibility, less future-proof, easier to outgrow as the project expands
 
 **Screenshot**
 File: `../media/rarible-home.png`
 Alt text: `Rarible NFT marketplace and minting platform homepage 2026`
-Caption: `Rarible homepage captured during our July 2026 public-surface review of NFT minting platforms.`
+Caption: `Rarible homepage captured during our July 2026 public-surface review.`
 
 ![Rarible NFT marketplace and minting platform homepage 2026](../media/rarible-home.png)
 
-*Rarible homepage captured during our July 2026 public-surface review of NFT minting platforms.*
+*Rarible homepage captured during our July 2026 public-surface review.*
+
+**Rarible login modal**
+File: `../media/rarible-wallet-modal.png`
+Alt text: `Rarible login modal showing wallet and social sign-in options`
+Caption: `Rarible login modal captured July 2026 after clicking Login from the homepage.`
+
+![Rarible login modal showing wallet and social sign-in options](../media/rarible-wallet-modal.png)
+
+*Rarible login modal captured July 2026 after clicking Login from the homepage.*
 
 ## What actually matters when choosing an NFT minting tool
 
@@ -294,22 +349,13 @@ Use this as the fast elimination pass:
 - If you already know engineering will own the stack: choose Alchemy-backed workflows
 - If you just want a simpler marketplace-adjacent path: choose Rarible
 
-## What we observed from the public homepages
+## What we observed across the login and onboarding layer
 
-After loading each platform's public homepage side by side, the clearest takeaway was that the strongest minting tool is usually the one that removes the specific friction your launch cannot tolerate.
+After reaching the sign-in or login entry point on each platform, the clearest takeaway was that login design is itself a product signal.
 
-What stood out immediately was not feature count -- it was posture. Thirdweb presented itself like a stack for teams that may grow into broader ownership infrastructure. Crossmint looked like a conversion and onboarding bridge. Zora felt like a creator-publishing environment rather than a generic mint utility. Manifold framed control and contract ownership as the primary value, not convenience. Sequence positioned itself squarely around app and gaming products. Alchemy read like a developer platform, not a creator tool at all. Rarible presented the simplest marketplace-adjacent identity of the group.
+Thirdweb surfaces nine wallet options plus email in a single view -- that breadth tells you it is built for teams that expect diverse user wallet setups. Manifold's Studio goes straight to a wallet-first two-option screen (wallet or email), which is honest about what the product is. Zora gets you to a wallet modal from the create route in one click. Rarible surfaces a login modal with wallet and social options immediately. Alchemy requires no wallet at all to create an account -- it is a developer sign-up, not a creator onboarding. Sequence's Builder signin is similarly developer-facing. Crossmint's signin page was geo-restricted during our review.
 
-That alone creates more information gain than most "top tools" pages, because many teams are not really choosing between seven equal minting tools. They are choosing between different launch philosophies.
-
-For example:
-
-- if your launch will fail when mainstream users hit wallet friction, Crossmint matters more than raw contract flexibility
-- if your launch becomes a broader product later, Thirdweb ages better than a lighter creator-only flow
-- if your release depends on cultural distribution and creator identity, Zora makes more sense than a generic dashboard
-- if you are building an owned infra stack anyway, a no-code-first answer can create more migration pain than it saves
-
-That is the core editorial judgment missing from weaker pages. The right answer is not only "which tool has more features." It is "which type of future pain are you willing to accept."
+That alone tells you more about how each product thinks about its users than most feature tables do.
 
 ## Direct comparisons that actually help you choose
 
@@ -317,7 +363,7 @@ That is the core editorial judgment missing from weaker pages. The right answer 
 
 Choose Thirdweb if you expect the mint to become part of a larger product stack. Choose Crossmint if your bigger problem is turning non-crypto users into successful checkouts.
 
-The practical difference is this: Thirdweb gives you more headroom. Crossmint gives you less friction. If your team is already technical, headroom usually matters more. If your users are not crypto-native, friction usually matters more.
+The practical difference is this: Thirdweb gives you more headroom. Crossmint gives you less friction. If your team is already technical, headroom usually matters more. If your users are not crypto-native, friction usually matters more. Also note: Crossmint's regional access may be inconsistent depending on where your team operates.
 
 ### Thirdweb vs Manifold
 
@@ -400,26 +446,26 @@ For engineering-led ownership stacks, it usually means building around Alchemy-b
 ## Reviewed by NFTEnex Editorial Team
 
 Last reviewed: `2026-07-14`
-Review type: `Public-surface editorial comparison`
+Review type: `Public-surface and login-layer editorial review`
 Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 ### Why you can trust this guide
 
-This guide is based on live public product surfaces and official documentation reviewed on 2026-07-14. We directly loaded and captured the homepage of all seven platforms. We reviewed public documentation for Thirdweb, Crossmint, Zora, and Alchemy. We do not present unverified logged-in behavior, live checkout results, or completed onchain actions as first-hand use -- those steps were not completed and are listed clearly in the Verified vs Not Verified table above.
+This guide is based on live product surfaces reviewed directly in the browser on 2026-07-14. We loaded every homepage, reached the sign-in or login entry point for all seven platforms, and captured the wallet-connect modal for Manifold, Zora, and Rarible. We confirmed the login form structure for Thirdweb and the email-based signup form for Alchemy. We do not present authenticated dashboard behavior, live minting flows, or completed transactions as first-hand use -- those steps were not completed and are listed clearly in the Verified vs Not Verified table above.
 
 ### Methodology
 
-We compared each option using live public homepages (all seven captured on 2026-07-14), official public documentation, and practical launch criteria that matter after mint day: contract control, checkout friction, developer overhead, stack expandability, and how well each tool's public positioning fits a real operating model.
+We compared each option using live public homepages and login entry points (all seven visited and captured on 2026-07-14), public documentation, and practical launch criteria that matter after mint day: contract control, checkout friction, developer overhead, stack expandability, and how well each tool's onboarding design fits a real operating model. Wallet-connect modals were opened directly for Manifold, Zora, and Rarible to confirm wallet-selection behavior without completing a connection.
 
 ### Limitations
 
-This is a public-surface editorial review, not a funded end-to-end wallet test. We did not sign in to any platform, connect a wallet, deploy a contract, or complete a checkout on any of the seven tools reviewed here. Conclusions about authenticated flows, fees, and execution quality are drawn from public documentation and positioning only -- not from direct use.
+This review covers the public shell and login layer. We did not connect a wallet, sign in to any authenticated dashboard, deploy a contract, or complete a checkout on any of the seven platforms. Conclusions about authenticated flows, fees, execution quality, and full chain support are drawn from public documentation and positioning only. The Crossmint signin page was geo-restricted during our review from Vietnam; teams in the same region should independently verify dashboard access before committing to it as a primary launch tool.
 
 ## What we checked ourselves before ranking these tools
 
-For this article, we loaded and captured the public homepage of all seven tools directly in the browser on 2026-07-14: [Thirdweb](https://thirdweb.com/), [Crossmint](https://crossmint.com/), [Manifold](https://manifold.xyz/), [Zora](https://zora.co/), [Sequence](https://sequence.xyz/), [Alchemy](https://www.alchemy.com/), and [Rarible](https://rarible.com/). We also reviewed public documentation for Thirdweb, Crossmint, Zora, and Alchemy.
+For this article, we loaded and captured the homepage of all seven tools and reached the login or sign-in entry point for each. We opened and captured the wallet-connect modal for Manifold, Zora, and Rarible by clicking the primary connect action on each platform. We confirmed the login form for Thirdweb (nine wallet options plus email field) and the free account signup form for Alchemy (email, name, password, Google OAuth) without completing account creation. We attempted the Crossmint signin page from Vietnam and observed a geo-restricted response.
 
-That does not replace a fully funded mint test from contract setup to live settlement. What it does give us is something still useful and often missing from weak roundups: a real editorial read on how each platform currently frames its launch flow, how much complexity it surfaces before signup, and what kind of operator it seems built for.
+Platforms reviewed: [Thirdweb](https://thirdweb.com/), [Crossmint](https://crossmint.com/), [Manifold](https://manifold.xyz/), [Zora](https://zora.co/), [Sequence](https://sequence.xyz/), [Alchemy](https://www.alchemy.com/), [Rarible](https://rarible.com/).
 
 <!-- wp:paragraph -->
 <p><strong>Disclaimer:</strong> This article is for research and editorial comparison purposes only. It does not constitute financial, investment, legal, or tax advice. NFT tools, marketplaces, fees, chain support, and live availability can change quickly, so verify current conditions on the official platform before making any decision involving funds, assets, or private keys.</p>
