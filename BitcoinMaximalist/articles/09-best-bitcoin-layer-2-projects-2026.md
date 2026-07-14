@@ -65,6 +65,55 @@ That direct review does not replace a full operational test across each system. 
 
 The visuals above should not sit silently in the article. They should show why one system feels like a payment network, while another feels more like a custody or coordination layer.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Lightning Network homepage and 1ML network stats loaded directly | Verified |
+| Stacks homepage loaded and Bitcoin L2 smart-contract posture confirmed | Verified |
+| Rootstock (RSK) homepage loaded and EVM-compatible Bitcoin L2 confirmed | Verified |
+| Liquid Network homepage loaded and federated sidechain posture confirmed | Verified |
+| Ark Protocol homepage loaded and payment protocol posture confirmed | Verified |
+| Channel opened or transaction routed on Lightning | Not verified |
+| Smart contract deployed on Stacks or Rootstock | Not verified |
+| Liquid or Ark transaction completed with real funds | Not verified |
+
+**Lightning Network**
+
+![Lightning Network homepage showing Bitcoin payment channel protocol overview](../media/lightning-home.png)
+
+*Lightning Network homepage, July 2026 -- Bitcoin payment channel protocol and L2 infrastructure confirmed on public surface.*
+
+![1ML Lightning Network statistics showing node count, channel count, and network capacity](../media/lightning-1ml.png)
+
+*1ML network stats, July 2026 -- Lightning Network node and channel statistics confirmed on public explorer.*
+
+**Stacks**
+
+![Stacks homepage showing Bitcoin layer 2 smart contracts and DeFi ecosystem](../media/stacks-home.png)
+
+*Stacks homepage, July 2026 -- Bitcoin L2 smart contract platform and ecosystem confirmed on public surface.*
+
+**Rootstock (RSK)**
+
+![Rootstock homepage showing EVM-compatible Bitcoin sidechain and smart contract platform](../media/rootstock-home.png)
+
+*Rootstock homepage, July 2026 -- EVM-compatible Bitcoin sidechain and smart contract infrastructure confirmed.*
+
+**Liquid Network**
+
+![Liquid Network homepage showing federated Bitcoin sidechain for traders and exchanges](../media/liquid-home.png)
+
+*Liquid Network homepage, July 2026 -- federated Bitcoin sidechain for institutional and trader use confirmed.*
+
+**Ark Protocol**
+
+![Ark Protocol homepage showing Bitcoin payment protocol for fast off-chain transfers](../media/ark-home.png)
+
+*Ark Protocol homepage, July 2026 -- Bitcoin payment protocol for off-chain transfers confirmed on public surface.*
+
 ## Bitcoin layer 2s should be judged by trust assumptions before throughput
 
 A Bitcoin-maximalist analysis starts by asking who can censor, who can seize, who can coordinate exits, and what assumptions the user must accept. Throughput only matters after those questions are answered.

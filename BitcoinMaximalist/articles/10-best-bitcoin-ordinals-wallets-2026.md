@@ -65,6 +65,46 @@ That direct review does not replace a full live inscription and transfer test. B
 
 The screenshots above should not sit silently in the article. They should show why one wallet feels built for marketplace activity while another feels safer for deliberate asset handling.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| Xverse homepage and Ordinals product page loaded directly | Verified |
+| Leather homepage loaded and Bitcoin-native wallet posture confirmed | Verified |
+| UniSat homepage and inscription marketplace loaded directly | Verified |
+| Wallet installed and inscription browsed without purchase | Not verified |
+| Sat control behavior tested with real UTXO set | Not verified |
+| Inscription purchased or transferred through any wallet | Not verified |
+| Rare sat handling verified with real coinbase output | Not verified |
+
+**Xverse**
+
+![Xverse wallet homepage showing Bitcoin and Ordinals wallet for mainstream users](../media/xverse-home.png)
+
+*Xverse homepage, July 2026 -- Bitcoin and Ordinals wallet with mainstream-accessible posture confirmed on public surface.*
+
+![Xverse Ordinals page showing inscription browsing and collection management features](../media/xverse-ordinals.png)
+
+*Xverse Ordinals page, July 2026 -- inscription browsing and collection management features confirmed.*
+
+**Leather**
+
+![Leather wallet homepage showing Bitcoin-native wallet with Stacks and Ordinals support](../media/leather-home.png)
+
+*Leather homepage, July 2026 -- Bitcoin-native wallet with broader ecosystem compatibility confirmed on public surface.*
+
+**UniSat**
+
+![UniSat wallet homepage showing browser extension wallet for Bitcoin Ordinals and inscriptions](../media/unisat-home.png)
+
+*UniSat homepage, July 2026 -- browser extension wallet deeply integrated with Ordinals inscription activity confirmed.*
+
+![UniSat marketplace page showing active Bitcoin Ordinals and BRC-20 trading](../media/unisat-market.png)
+
+*UniSat marketplace, July 2026 -- active Ordinals and BRC-20 trading market confirmed on public surface.*
+
 ## Ordinals users need sat management discipline more than flashy UX
 
 The defining difference in Ordinals custody is that not all sats are equal from the user’s perspective. That changes the risk model. A wallet can accidentally spend or mix sats in ways that ruin the user’s intent if UTXO management is weak or opaque.
