@@ -65,6 +65,45 @@ That direct review does not replace a same-session brokerage execution test. But
 
 The screenshots above should not sit silently in the article. They should show why one ETF looks cheap in headline terms, while another looks stronger once liquidity and scale are considered together.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |
+| BlackRock iShares IBIT product page loaded directly | Verified |
+| Fidelity FBTC fund page loaded directly | Verified |
+| ARK 21Shares ARKB fund page loaded directly | Verified |
+| Bitwise BITB fund page loaded directly | Verified |
+| ETF shares purchased through a brokerage | Not verified |
+| Expense ratio confirmed on live fund data | Not verified |
+| AUM and liquidity data pulled from live feed | Not verified |
+| Tax treatment verified with licensed advisor | Not verified |
+
+**BlackRock iShares Bitcoin Trust (IBIT)**
+
+![BlackRock iShares Bitcoin Trust ETF product page showing fund overview and performance](../media/ibit-home.png)
+
+*BlackRock IBIT product page, July 2026 -- spot Bitcoin ETF fund details and institutional product framing confirmed on public surface.*
+
+**Fidelity Wise Origin Bitcoin Fund (FBTC)**
+
+![Fidelity FBTC Bitcoin ETF page showing fund overview and holdings](../media/fbtc-home.png)
+
+*Fidelity FBTC page, July 2026 -- spot Bitcoin ETF fund page confirmed on public surface.*
+
+**ARK 21Shares Bitcoin ETF (ARKB)**
+
+![ARK 21Shares ARKB Bitcoin ETF fund page showing product details and fee structure](../media/arkb-home.png)
+
+*ARK ARKB fund page, July 2026 -- spot Bitcoin ETF product details and fee structure confirmed on public surface.*
+
+**Bitwise Bitcoin ETF (BITB)**
+
+![Bitwise BITB Bitcoin ETF fund page showing product overview and on-chain transparency](../media/bitb-home.png)
+
+*Bitwise BITB fund page, July 2026 -- spot Bitcoin ETF with on-chain transparency features confirmed on public surface.*
+
 ## The best ETF is not always the cheapest ETF
 
 Fees matter, but they are not the entire story. A slightly cheaper fund can still be weaker if it trades with less liquidity, wider spreads, or a thinner long-term business case. Investors should care about total friction, not just management fees.

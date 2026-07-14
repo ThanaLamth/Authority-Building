@@ -65,6 +65,48 @@ That direct review does not replace filing-by-filing deep diligence. But it does
 
 The screenshots above should not sit silently in the article. They should show why one treasury story looks disciplined, while another depends more heavily on capital-market engineering.
 
+We captured the public-facing product surfaces of all platforms on 2026-07-14.
+
+## What this review verified and what it did not
+
+| Claim | Status |
+| --- | --- |  
+| Strategy (formerly MicroStrategy) homepage and Bitcoin treasury page loaded directly | Verified |
+| Metaplanet homepage and Bitcoin treasury positioning confirmed | Verified |
+| MARA Holdings homepage loaded and Bitcoin mining-treasury model confirmed | Verified |
+| Riot Platforms homepage loaded and Bitcoin mining exposure confirmed | Verified |
+| BTC holdings verified against live on-chain data | Not verified |
+| Shares purchased or corporate filing reviewed with legal counsel | Not verified |
+| Funding structure risk assessed by independent analyst | Not verified |
+
+**Strategy (formerly MicroStrategy)**
+
+![Strategy corporate homepage showing Bitcoin treasury company positioning](../media/strategy-home.png)
+
+*Strategy homepage, July 2026 -- Bitcoin treasury company and capital allocation strategy confirmed on public surface.*
+
+![Strategy Bitcoin page showing BTC holdings and corporate treasury model](../media/strategy-bitcoin.png)
+
+*Strategy Bitcoin page, July 2026 -- BTC holdings disclosure and corporate treasury model confirmed on public surface.*
+
+**Metaplanet**
+
+![Metaplanet homepage showing Japanese Bitcoin treasury company positioning](../media/metaplanet-home.png)
+
+*Metaplanet homepage, July 2026 -- Japan-based Bitcoin treasury company and accumulation strategy confirmed on public surface.*
+
+**MARA Holdings**
+
+![MARA Holdings homepage showing Bitcoin mining and treasury company model](../media/mara-home.png)
+
+*MARA homepage, July 2026 -- Bitcoin mining and treasury exposure company confirmed on public surface.*
+
+**Riot Platforms**
+
+![Riot Platforms homepage showing Bitcoin mining company with treasury BTC exposure](../media/riot-home.png)
+
+*Riot Platforms homepage, July 2026 -- Bitcoin mining company with significant BTC treasury exposure confirmed.*
+
 ## Not every Bitcoin treasury story signals the same level of conviction
 
 A company that acquires bitcoin out of operating cash flow is making a different statement from a company that repeatedly issues securities to buy more. A miner that holds part of production is also different from a service company using bitcoin as a balance-sheet reserve.
