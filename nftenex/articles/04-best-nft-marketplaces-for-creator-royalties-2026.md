@@ -23,21 +23,21 @@ Creator royalties are still one of the most misunderstood parts of NFT infrastru
 That means the best NFT marketplace for creator royalties is not always the marketplace with the loudest creator messaging. It is the one whose fee model, policy logic, and audience fit your release strategy. This article also needs to work as a cluster bridge into NFT creator-royalty coverage, [NFT marketplaces for artists](/creator-economy/artists/best-nft-marketplaces-for-artists-2026), and the broader [best NFT marketplaces](/nft-markets/marketplaces/best-nft-marketplaces-2026) conversation.
 
 > Reviewed by NFTEnex Editorial Team
-> Last reviewed: 2026-07-13
-> Review type: No-budget editorial comparison
+> Last reviewed: 2026-07-14
+> Review type: Public-surface editorial review with live browser captures
 > Editorial policy: [NFTEnex Editorial Policy](/info/editorial-policy)
 
 > Why you can trust this guide
 >
-> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly checked the public positioning, visible workflow framing, and documentation shown in this article. We do not present unverified logged-in behavior, live checkout results, or completed onchain actions as first-hand use unless they were actually completed and documented.
+> This guide is based on live public product surfaces and official references reviewed on 2026-07-13. We directly loaded and captured live public surfaces for OpenSea, Magic Eden, Zora, Manifold, and Rarible on 2026-07-14. We reviewed fee documentation pages for OpenSea and Magic Eden, browsed marketplace and collection routes, and confirmed creator-tool posture on public surfaces. We do not present unverified logged-in behavior or completed onchain actions as first-hand use.
 >
 > Methodology
 >
-> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. In this version, the ranking prioritizes clarity, workflow posture, and fit for different user types over private dashboard claims we could not verify directly.
+> We compared each option using live public product surfaces, official documentation, and visible workflow cues captured at review time. On 2026-07-14 we loaded and captured: OpenSea rankings and fee docs, Magic Eden homepage and Solana marketplace, Zora homepage and Explore, Manifold homepage, Rarible homepage and sell entry. The ranking combines these direct observations with public royalty policy documentation and current market positioning.
 >
 > Limitations
 >
-> This is a no-budget editorial review, not a fully funded end-to-end product test. Where a conclusion would require a live transaction, paid plan, logged-in dashboard, or wallet-funded workflow, we treat that as a limitation and avoid overstating direct experience.
+> This review covers public product surfaces and fee documentation for all five platforms, with direct browser captures on 2026-07-14. Conclusions about live royalty enforcement, payout behavior, and authenticated creator-dashboard workflows are drawn from public documentation and positioning only. No collections were deployed and no wallets were connected.
 
 ## The best NFT marketplaces for creator royalties in 2026 are Magic Eden, OpenSea, Zora, Manifold-powered storefronts, and Rarible
 
@@ -55,7 +55,7 @@ Quick picks:
 
 ## What we checked ourselves before ranking these marketplaces
 
-For this article, we reviewed the live fee and help documentation that [OpenSea](https://support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea) and [Magic Eden](https://help.magiceden.io/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden) publish publicly, and we rechecked Magic Eden's [service-change notice](https://help.magiceden.io/en/articles/13885504-magic-eden-marketplace-updates-service-changes) on 2026-07-13 because royalty discussions become vague very quickly when they are built only from old Twitter arguments and secondhand summaries.
+For this article we loaded and captured live public surfaces for all five platforms on 2026-07-14: OpenSea rankings and fee documentation, Magic Eden homepage and Solana marketplace route, Zora homepage and Explore page, Manifold homepage, and Rarible sell entry point. We also reviewed the public fee documentation that OpenSea and Magic Eden publish. Platforms reviewed: [OpenSea](https://opensea.io/), [Magic Eden](https://magiceden.io/), [Zora](https://zora.co/), [Manifold](https://manifold.xyz/), [Rarible](https://rarible.com/).
 
 That direct review does not answer every question a creator might have. It does not replace a live collection test across multiple chains or a full resale-path audit. But it does give us a much cleaner basis for judgment, because we can compare the way the major marketplaces currently explain fees, creator earnings, and selling conditions in their own language.
 
@@ -76,6 +76,51 @@ Caption: `Magic Eden fee documentation captured during our July 2026 review of c
 ![Magic Eden Help Center page explaining listing and selling fees for NFTs](../media/magiceden-fees.png)
 
 *Magic Eden fee documentation captured during our July 2026 review of creator-royalty marketplaces.*
+
+## What this review verified and what it did not
+
+We loaded and captured live public surfaces for all five platforms on 2026-07-14, including marketplace landing pages, collection-browsing routes, and creator/fee documentation pages. No wallets were connected and no collections were deployed.
+
+| Claim | Status |
+| --- | --- |
+| OpenSea homepage and fee documentation loaded directly | Verified |
+| OpenSea rankings page browsed directly | Verified |
+| Magic Eden homepage and Solana marketplace loaded directly | Verified |
+| Magic Eden fee help-center page captured directly | Verified |
+| Zora homepage and Explore page browsed directly | Verified |
+| Manifold homepage loaded and creator-tool posture confirmed | Verified |
+| Rarible homepage and sell entry point browsed directly | Verified |
+| Authenticated creator dashboard accessed (any platform) | Not verified |
+| Live royalty payout received from secondary sale | Not verified |
+| Collection deployed and sold with royalties enforced | Not verified |
+
+**Magic Eden Solana marketplace**
+
+![Magic Eden Solana marketplace page showing active NFT collections and trading environment](../media/magiceden-marketplace.png)
+
+*Magic Eden Solana marketplace, July 2026 -- active collections and trading environment confirmed on the Solana-native route.*
+
+**Zora creator surfaces**
+
+![Zora homepage showing creator-native NFT publishing and drop platform](../media/zora-home.png)
+
+*Zora homepage, July 2026 -- creator-native distribution and publishing platform confirmed on public surface.*
+
+![Zora Explore page showing active NFT drops and open editions](../media/zora-explore.png)
+
+*Zora Explore page, July 2026 -- live drops, open editions, and creator publishing activity confirmed.*
+
+**Manifold creator infrastructure**
+
+![Manifold homepage showing creator contract tooling and direct storefront model](../media/manifold-home2.png)
+
+*Manifold homepage, July 2026 -- creator contract ownership and direct storefront posture confirmed on public surface.*
+
+**Rarible sell entry point**
+
+![Rarible sell page showing the creator listing and marketplace entry workflow](../media/rarible-sell.png)
+
+*Rarible sell page, July 2026 -- marketplace listing entry point for creators confirmed.*
 
 What stood out immediately was that a creator-royalty comparison should never start with ideology. It should start with the practical surfaces creators actually depend on: fee pages, help documentation, collection setup rules, and where the marketplace puts the burden of clarity. If a platform cannot explain its economics cleanly, it is already creating friction for the people it claims to help.
 
