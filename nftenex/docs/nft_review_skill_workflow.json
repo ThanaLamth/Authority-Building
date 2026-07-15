@@ -1,0 +1,474 @@
+{
+  "nodes": [
+    {
+      "id": "input",
+      "title": "Trigger: platform + article path",
+      "parent_id": null,
+      "node_type": "InputNode",
+      "config": {
+        "output_schema": {
+          "platform": "string",
+          "article_path": "string",
+          "login_method": "string",
+          "run_date": "string"
+        },
+        "output_json_schema": "{\"type\": \"object\", \"properties\": {\"platform\": {\"type\": \"string\"}, \"article_path\": {\"type\": \"string\"}, \"login_method\": {\"type\": \"string\"}, \"run_date\": {\"type\": \"string\"}}}"
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "git_pull",
+      "title": "git pull origin main",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "import subprocess\nrepo=r\"C:\\Users\\admin\\AppData\\Local\\Temp\\authority-building-check\"\nout=subprocess.run([\"git\",\"-C\",repo,\"pull\",\"origin\",\"main\",\"--no-edit\"],capture_output=True,text=True)\nreturn {\"git_pull_log\": out.stdout+out.stderr}",
+        "output_schema": {
+          "git_pull_log": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 250.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "login_router",
+      "title": "Route: login method",
+      "parent_id": null,
+      "node_type": "RouterNode",
+      "config": {
+        "route_map": {
+          "email_otp": {
+            "conditions": [
+              {
+                "variable": "input.login_method",
+                "operator": "equals",
+                "value": "email_otp",
+                "logicalOperator": "AND"
+              }
+            ]
+          },
+          "google_oauth": {
+            "conditions": [
+              {
+                "variable": "input.login_method",
+                "operator": "equals",
+                "value": "google_oauth",
+                "logicalOperator": "AND"
+              }
+            ]
+          },
+          "wallet_only": {
+            "conditions": [
+              {
+                "variable": "input.login_method",
+                "operator": "equals",
+                "value": "wallet_only",
+                "logicalOperator": "AND"
+              }
+            ]
+          },
+          "skip": {
+            "conditions": [
+              {
+                "variable": "input.login_method",
+                "operator": "equals",
+                "value": "skip",
+                "logicalOperator": "AND"
+              }
+            ]
+          }
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 400.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "email_otp_login",
+      "title": "Login: Email OTP (Thirdweb)",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# CloakBrowser headless=True. Gmail API retrieves OTP. Field: input[maxlength=6].\n# See references/login-flows.md for full Thirdweb login flow.\np=input[\"platform\"]\nreturn {\"login_status\":p+\": email OTP ok\",\"session_token\":\"authenticated\"}",
+        "output_schema": {
+          "login_status": "string",
+          "session_token": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 550.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "google_oauth_login",
+      "title": "Login: Google OAuth (Alchemy)",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# CloakBrowser headless=False -- Google blocks background Chrome for OAuth.\n# Wait for stable post-OAuth redirect URL. See references/login-flows.md.\np=input[\"platform\"]\nreturn {\"login_status\":p+\": Google OAuth ok\",\"session_token\":\"authenticated\"}",
+        "output_schema": {
+          "login_status": "string",
+          "session_token": "string"
+        }
+      },
+      "coordinates": {
+        "x": 350.0,
+        "y": 550.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "wallet_only_login",
+      "title": "Login: Wallet modal capture",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# No email path. Capture wallet connect modal screenshot only.\n# Mark as Not verified (wallet-only) in article Verified table.\np=input[\"platform\"]\nreturn {\"login_status\":p+\": wallet modal only\",\"session_token\":\"none\"}",
+        "output_schema": {
+          "login_status": "string",
+          "session_token": "string"
+        }
+      },
+      "coordinates": {
+        "x": 600.0,
+        "y": 550.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "skip_login",
+      "title": "Skip: geo-blocked or reCAPTCHA",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Geo-blocked or reCAPTCHA blocks login. Skip and note in Limitations.\np=input[\"platform\"]\nreturn {\"login_status\":p+\": skipped\",\"session_token\":\"none\"}",
+        "output_schema": {
+          "login_status": "string",
+          "session_token": "string"
+        }
+      },
+      "coordinates": {
+        "x": 850.0,
+        "y": 550.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "login_merge",
+      "title": "Merge login result",
+      "parent_id": null,
+      "node_type": "CoalesceNode",
+      "config": {
+        "preferences": [
+          "email_otp_login",
+          "google_oauth_login",
+          "wallet_only_login",
+          "skip_login"
+        ]
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 700.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "capture_screenshots",
+      "title": "Navigate + capture screenshots",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Navigate routes per references/dashboard-routes.md.\n# Screenshot naming: platform-surface.png. Save to nftenex/media/.\nsession=input[\"session_token\"]\np=input[\"platform\"].lower()\nif session==\"none\": return {\"screenshots\":[],\"note\":\"no session -- public surface only\"}\nreturn {\"screenshots\":[p+\"-dashboard-auth.png\",p+\"-home.png\"],\"note\":\"authenticated\"}",
+        "output_schema": {
+          "screenshots": "string",
+          "note": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 850.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "reddit_research",
+      "title": "Reddit community signal research",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Playwright headless. Search: reddit.com/r/{sub}/search/?q={platform}&sort=top&t=year\n# Subreddits: r/NFT, r/web3, r/ethdev, r/CryptoCurrency, r/ethereum, r/NFTGaming.\n# Fetch top 3-4 URLs. Read 1500 chars body. Classify: positive/mixed/negative/skip.\n# Add signal ONLY if: relevant sub + real opinion + within 2 years.\n# Missing signal > weak signal. Leave blank if nothing qualifies.\nreturn {\"reddit_url\":\"\",\"reddit_anchor\":\"\",\"reddit_sentiment\":\"pending\"}",
+        "output_schema": {
+          "reddit_url": "string",
+          "reddit_anchor": "string",
+          "reddit_sentiment": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1000.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "article_patch",
+      "title": "Patch article: experience + image + caption",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Append per screenshot AFTER last existing caption anchor in platform section:\n# **Section heading**\n# Experience para: 3-5 sentences, first-person, 2+ dimensions.\n#   Speed/friction | Expectation vs reality | Audience fit | Contrast\n#   End with 1-sentence direct judgment.\n# ![alt](../media/filename.png)\n# *[Platform] [surface] [keyword], [Month YYYY] -- [fact]. [Judgment.]*\n# Caption: lead with entity; product-category keyword in clause 1; 2 sentences max.\n# Also update: Verified table, Why you can trust, Methodology, Limitations.\n# Prose <= 45 words. Hyperlinks in body only, not in intro paragraphs.\n# Use string.replace() -- never PowerShell here-strings (breaks Unicode stars).\nss=input[\"screenshots\"]\nreturn {\"patched\":True,\"patch_log\":\"patched \"+str(len(ss))+\" blocks\"}",
+        "output_schema": {
+          "patched": "string",
+          "patch_log": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1150.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "community_signal_inject",
+      "title": "Inject Reddit community signal",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Place **Community signal:** immediately after Cons block.\n# Format: **Community signal:** [anchor text](url). [1-sentence verdict.]\n# Bold label. Descriptive anchor -- not \"click here\".\n# Do NOT quote Reddit usernames. Use \"r/NFT community\", not \"Reddit users say\".\n# Skip silently if reddit_url is empty.\nreddit_url=input[\"reddit_url\"]\nreturn {\"signal_injected\":bool(reddit_url)}",
+        "output_schema": {
+          "signal_injected": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1300.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "word_filter",
+      "title": "Editorial word filter: scan + fix",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Banned: headless, programmatic, automation, automated (process context),\n# leveraging, utilize, seamlessly, cutting-edge, streamline, robust,\n# delve into, it is worth noting that, it is worth knowing that/if,\n# in conclusion, in summary.\n# Rule: word describes PRODUCT -> keep. Describes WRITING PROCESS -> remove.\n# Use string.replace(). Assert old text exists before replacing.\n# Log each fix in article-patch-guide.md Word filter fix log table.\n# Re-scan after all fixes to confirm CLEAN (zero hits).\n# Commit: nftenex: editorial word filter pass YYYY-MM-DD\nreturn {\"word_filter_clean\":True,\"hits_fixed\":0}",
+        "output_schema": {
+          "word_filter_clean": "string",
+          "hits_fixed": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1450.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "git_push",
+      "title": "git add + commit + push",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Stage: article + media files ONLY. Never stage scratch screenshots.\n# git pull --no-edit before push (multiple Codex instances run simultaneously).\n# Commit: nftenex: {platform} authenticated captures {YYYY-MM-DD}\nimport subprocess\nrepo=r\"C:\\Users\\admin\\AppData\\Local\\Temp\\authority-building-check\"\np=input[\"platform\"]; d=input[\"run_date\"]\nmsg=\"nftenex: \"+p+\" authenticated captures \"+d\nsubprocess.run([\"git\",\"-C\",repo,\"pull\",\"origin\",\"main\",\"--no-edit\"],capture_output=True)\nsubprocess.run([\"git\",\"-C\",repo,\"add\",\"nftenex/articles/\",\"nftenex/media/\"],capture_output=True)\nr=subprocess.run([\"git\",\"-C\",repo,\"push\",\"origin\",\"main\"],capture_output=True,text=True)\nreturn {\"commit_msg\":msg,\"push_log\":r.stdout+r.stderr}",
+        "output_schema": {
+          "commit_msg": "string",
+          "push_log": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1600.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "wp_publish",
+      "title": "WordPress publish via REST API",
+      "parent_id": null,
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# 1. Parse YAML frontmatter: title, slug, meta_description, primary_keyword.\n# 2. Strip H1 from body (WP stores title separately).\n# 3. Upload images: POST /wp-json/wp/v2/media\n#    PATCH media: alt_text=literal description | caption=SEO+AIO sentence\n#    alt_text and caption must DIFFER -- duplicate flagged by Yoast/RankMath.\n# 4. Replace ../media/*.png with WP source_url in body.\n# 5. Convert ![](url)+*caption* to Gutenberg figure HTML BEFORE markdown().\n# 6. Run markdown(body) -> HTML.\n# 7. POST /wp-json/wp/v2/posts: status=draft, featured_media=first image id.\n# Auth: Basic base64(WP_USER:WP_APP_PASS) -- Application Password.\n# Script: nftenex/scripts/publish_to_wp.py\nreturn {\"wp_post_id\":0,\"wp_status\":\"draft\",\"wp_url\":\"\"}",
+        "output_schema": {
+          "wp_post_id": "string",
+          "wp_status": "string",
+          "wp_url": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1750.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    },
+    {
+      "id": "output",
+      "title": "Run summary",
+      "parent_id": null,
+      "node_type": "OutputNode",
+      "config": {
+        "output_schema": {
+          "platform": "string",
+          "login_status": "string",
+          "screenshots": "string",
+          "patch_log": "string",
+          "word_filter_clean": "string",
+          "commit_msg": "string",
+          "wp_url": "string"
+        },
+        "output_json_schema": "{\"type\": \"object\", \"properties\": {\"platform\": {\"type\": \"string\"}, \"login_status\": {\"type\": \"string\"}, \"screenshots\": {\"type\": \"string\"}, \"patch_log\": {\"type\": \"string\"}, \"word_filter_clean\": {\"type\": \"string\"}, \"commit_msg\": {\"type\": \"string\"}, \"wp_url\": {\"type\": \"string\"}}}",
+        "output_map": {
+          "platform": "input.platform",
+          "login_status": "login_merge.login_status",
+          "screenshots": "capture_screenshots.screenshots",
+          "patch_log": "article_patch.patch_log",
+          "word_filter_clean": "word_filter.word_filter_clean",
+          "commit_msg": "git_push.commit_msg",
+          "wp_url": "wp_publish.wp_url"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1900.0
+      },
+      "dimensions": null,
+      "subworkflow": null
+    }
+  ],
+  "links": [
+    {
+      "source_id": "input",
+      "target_id": "git_pull",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "git_pull",
+      "target_id": "login_router",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "login_router",
+      "target_id": "email_otp_login",
+      "source_handle": "email_otp",
+      "target_handle": "login_router.login_router"
+    },
+    {
+      "source_id": "login_router",
+      "target_id": "google_oauth_login",
+      "source_handle": "google_oauth",
+      "target_handle": "login_router.login_router"
+    },
+    {
+      "source_id": "login_router",
+      "target_id": "wallet_only_login",
+      "source_handle": "wallet_only",
+      "target_handle": "login_router.login_router"
+    },
+    {
+      "source_id": "login_router",
+      "target_id": "skip_login",
+      "source_handle": "skip",
+      "target_handle": "login_router.login_router"
+    },
+    {
+      "source_id": "email_otp_login",
+      "target_id": "login_merge",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "google_oauth_login",
+      "target_id": "login_merge",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "wallet_only_login",
+      "target_id": "login_merge",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "skip_login",
+      "target_id": "login_merge",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "login_merge",
+      "target_id": "capture_screenshots",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "capture_screenshots",
+      "target_id": "reddit_research",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "reddit_research",
+      "target_id": "article_patch",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "article_patch",
+      "target_id": "community_signal_inject",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "community_signal_inject",
+      "target_id": "word_filter",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "word_filter",
+      "target_id": "git_push",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "git_push",
+      "target_id": "wp_publish",
+      "source_handle": null,
+      "target_handle": null
+    },
+    {
+      "source_id": "wp_publish",
+      "target_id": "output",
+      "source_handle": null,
+      "target_handle": null
+    }
+  ],
+  "test_inputs": [],
+  "spur_type": "workflow"
+}
