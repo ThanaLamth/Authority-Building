@@ -200,7 +200,7 @@ When I loaded it, I felt less like I was entering a minting platform and more li
 
 ### 3. Manifold
 
-Manifold is a creator tools platform that lets artists and collectors deploy their own smart contracts directly on [Ethereum](https://ethereum.org/) and other chains, without giving up contract ownership to a marketplace.
+Manifold is a creator tools platform that lets artists and collectors deploy their own smart contracts directly on Ethereum and other chains, without giving up contract ownership to a marketplace.
 
 Built originally for 1/1 art and limited editions, Manifold Studio provides no-code contract creation, drop scheduling, allowlist management, and royalty configuration -- all while keeping the creator as the contract owner. It is widely used by established NFT artists who want full on-chain control.
 
@@ -349,7 +349,7 @@ That quiet feels appropriate: if you are here, you probably know what you are do
 
 ### 6. Alchemy-backed workflows
 
-Alchemy is a blockchain developer platform that provides node infrastructure, NFT APIs, transaction APIs, webhooks, and account abstraction tooling across Ethereum, [Polygon](https://polygon.technology/), [Arbitrum](https://arbitrum.io/), Base, [Optimism](https://www.optimism.io/), and other major networks.
+Alchemy is a blockchain developer platform that provides node infrastructure, NFT APIs, transaction APIs, webhooks, and account abstraction tooling across Ethereum, Polygon, Arbitrum, Base, Optimism, and other major networks.
 
 Teams use Alchemy as the infrastructure layer beneath their own custom minting contracts, indexers, and ownership systems -- rather than as a standalone minting dashboard.
 
