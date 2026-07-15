@@ -481,3 +481,124 @@ Do NOT link:
 - Social media accounts (Twitter/X, Discord) -- not stable, not useful for SEO
 - Intro paragraphs -- keep them plain text
 - Terms that are too generic to link safely (Base, Optimism, Rainbow when used as common words)
+
+---
+
+## Editorial word filter -- removing AI-writing signals
+
+Run this filter before finalizing any article in nftenex/articles/*.md.
+The goal: no trace of "AI wrote this" vocabulary, while preserving genuine subject-matter terms.
+
+---
+
+### Banned words -- remove or replace always
+
+These words signal automation tooling or AI-generated copy and must not appear in editorial prose:
+
+| Word / phrase | Why banned | Replace with |
+|---|---|---|
+| AI-written, AI-generated | Self-referential | delete entirely |
+| automated, automation | Signals tooling, not editorial voice | manual, hands-on, direct |
+| headless | Browser automation jargon | (delete or rephrase the sentence) |
+| programmatic | Developer-automation framing | code-driven, API-based, custom-built |
+| leveraging | Classic AI filler | using, building on, drawing from |
+| utilize / utilized | Weak AI substitution for "use" | use |
+| robust | Overused AI adjective | (delete -- just say what it does) |
+| seamlessly | AI-preferred adverb | (delete or rephrase) |
+| cutting-edge | Marketing-AI hybrid | (delete -- describe the actual capability) |
+| streamline / streamlined | AI filler | simplify, reduce, cut |
+| comprehensive (as empty praise) | AI padding | (delete -- describe what it covers specifically) |
+| delve into | AI-favored phrase | explore, look at, cover |
+| it is worth noting that | AI hedge | (delete -- just say the thing) |
+| it is worth knowing that/if | Variant of above -- same AI hedge | (delete -- just say the thing) |
+| in conclusion / in summary | AI essay closer | (use a direct final statement instead) |
+
+---
+
+### Contextually acceptable words -- do NOT remove
+
+These words look similar to AI patterns but are genuine subject-matter vocabulary in NFT articles.
+Leave them when they describe the actual topic, not the writing process.
+
+| Word | Acceptable context | Not acceptable context |
+|---|---|---|
+| workflow / workflows | "seller workflows", "pinning workflows", "API-driven workflows" describing real NFT operational steps | "the workflow for writing this article" |
+| alerts / notifications | NFT tracking tools articles (Discord alert bots, watchlists, price alerts) -- the subject IS alerts | describing how the review was produced |
+| bots | "Discord alert bots", "trading bots" in tracking/analytics articles -- bots are the product | "automated bots were used to..." |
+| automated | "automated royalty enforcement" as a product feature description | describing the writing/research process |
+| API-driven | "API-driven workflows" when the article is literally about APIs | describing how the article was generated |
+| domain nansen.ai | A real product domain name in analytics articles | -- always keep |
+
+Rule of thumb: if the word describes what the PRODUCT does for the USER, keep it. If it describes what the TOOL/AI did to produce the ARTICLE, remove it.
+
+---
+
+### Light rewrite suggestions (optional, editorial improvement)
+
+Apply when doing a polish pass on articles that still feel slightly mechanical:
+
+| Current | Replace with |
+|---|---|
+| workflow | setup, process, path, operating model (pick by context) |
+| workflows | setups, processes, operating flows |
+| alert bots | Discord-based tracking, Discord notification setup |
+| notifications workflow | notification setup, alert configuration |
+| watchlist workflows | watchlist setup, watchlist management |
+| API-driven workflows | API-based setup, custom API integration |
+| onboarding workflow | onboarding path, onboarding process |
+
+Do not apply these replacements mechanically -- read the sentence first. "Seller workflow" as a compound noun is fine. "The workflow is straightforward" is borderline and can be improved.
+
+---
+
+### How to run the filter
+
+#### Step 1 -- scan for banned words
+
+    python -c "
+    import re, glob, sys, io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    banned = ['headless', 'programmatic', r'\bautomation\b', r'\bautomated\b',
+              'leveraging', r'\butilize\b', r'\butilized\b', 'seamlessly',
+              'cutting-edge', r'\bstreamline', 'delve into', 'it is worth noting that',
+              'it is worth knowing that', 'it is worth knowing if', 'in conclusion', 'in summary', r'\brobust\b']
+    for path in glob.glob('nftenex/articles/*.md'):
+        with open(path, encoding='utf-8') as f:
+            lines = f.readlines()
+        for i, line in enumerate(lines, 1):
+            for b in banned:
+                if re.search(b, line, re.IGNORECASE):
+                    print(f'{path}:{i}: [{b}] {line.rstrip()[:100]}')
+    "
+
+#### Step 2 -- evaluate each hit manually
+
+For each flagged line, decide:
+- Is this word describing the PRODUCT (keep)?
+- Is this word describing the WRITING/PROCESS (remove/replace)?
+- Is it empty padding (delete the word or the sentence)?
+
+#### Step 3 -- patch with Python string replacement (not PowerShell here-strings)
+
+Use the standard patch pattern from this guide. Replace one word at a time, save after each, verify.
+
+#### Step 4 -- re-scan to confirm zero banned-word matches in editorial prose
+
+---
+
+### Word filter fix log
+
+Real fixes applied per session -- use these as replacement examples.
+
+| File | Banned phrase found | Replacement used |
+|---|---|---|
+| 01-best-nft-minting-tools-2026.md | headless / non-headless / headless Chrome | visible browser session / background Chrome |
+| 01-best-nft-minting-tools-2026.md | automated review workflows | custom login pipeline |
+
+Add a row here whenever a new fix is applied so future passes have concrete examples.
+
+---
+
+### Git commit format for word filter pass
+
+    git commit -m "nftenex: editorial word filter pass, remove AI-writing signals <YYYY-MM-DD>"
