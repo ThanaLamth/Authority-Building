@@ -718,3 +718,35 @@ Add a row here whenever a new fix is applied so future passes have concrete exam
 ### Git commit format for word filter pass
 
     git commit -m "nftenex: editorial word filter pass, remove AI-writing signals <YYYY-MM-DD>"
+
+---
+
+## Article series -- autonomous pipeline status
+
+Run python C:\Users\admin\AppData\Local\Temp\audit_articles.py to get current counts for all articles.
+
+| # | Article file | long_para | banned | community_signals | xlinks | Status |
+|---|---|---|---|---|---|---|
+| 01 | 01-best-nft-minting-tools-2026.md | 0 | 0 | 4 | 9 | DONE |
+| 02 | 02-best-nft-analytics-tools-2026.md | 10 | 0 | 0 | 4 | pending |
+| 03 | 03-best-nft-tracking-tools-2026.md | 9 | 0 | 0 | 3 | pending |
+| 04 | 04-best-nft-marketplaces-for-creator-royalties-2026.md | 9 | 0 | 0 | 3 | pending |
+| 05 | 05-best-nft-storage-tools-2026.md | 6 | 0 | 0 | 3 | pending |
+| 06 | 06-best-nft-communities-2026.md | 3 | 0 | 0 | 2 | pending |
+| 07 | 07-best-nft-apis-2026.md | 6 | 0 | 0 | 4 | pending |
+| 08 | 08-best-nft-marketplaces-for-artists-2026.md | 6 | 0 | 0 | 3 | pending |
+| 09 | 09-best-nft-marketplaces-2026.md | 6 | 0 | 0 | 3 | pending |
+| 10 | 10-best-nft-games-2026.md | 3 | 0 | 0 | 3 | pending |
+
+Per-article steps (in order):
+1. git pull --no-edit
+2. Fix long_para (split at sentence boundary, max 45 words, Python replace only)
+3. Reddit community signals (qualifying criteria: platform-specific, real opinion, within 2 years, relevant subreddit)
+4. Word filter scan (0 banned hits required)
+5. Verify captions == imgs
+6. Internal cross-links (max 3 per article, relative paths, substantive mention only)
+7. Final verification scan (all metrics green)
+8. git add article only + git commit + git pull --no-edit + git push
+9. Update Status to DONE in this table and in SKILL.md
+
+For full autonomous execution instructions see: C:\Users\admin\.codex\skills\nft-review-hands-on\SKILL.md (section "Autonomous article pipeline")
