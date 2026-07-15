@@ -584,7 +584,7 @@ That fifth question is where weaker articles often collapse. Launch tooling is e
 The biggest mistake is treating launch day as the whole project. A minting tool choice also affects:
 
 - how [metadata](/nft-infrastructure/metadata/best-nft-apis-2026/) is retrieved and normalized later
-- how creator royalties are framed or enforced downstream
+- how [creator royalties](/creator-economy/royalties/best-nft-marketplaces-for-creator-royalties-2026) are framed or enforced downstream
 - how wallets onboard
 - how assets appear across marketplaces and apps
 - how much support and ops debt the team inherits after the drop
@@ -659,7 +659,9 @@ Authenticated Thirdweb and Alchemy dashboard surfaces were navigated and capture
 
 We tested the public shell and login layer for all seven platforms, and completed authenticated dashboard sessions for Thirdweb and Alchemy. The personal-experience commentary in those sections reflects real authenticated use.
 
-For Manifold, Zora, Rarible, Sequence, and Crossmint, authenticated dashboard access was not completed -- the experience descriptions for those platforms reflect the public homepage and login entry point only, which is still more direct than documentation-only research but should be read with that limit in mind.
+For Manifold, Zora, Rarible, Sequence, and Crossmint, authenticated dashboard access was not completed. The experience descriptions for those platforms reflect the public homepage and login entry point only.
+
+That is still more direct than documentation-only research, but should be read with that limit in mind.
 
 We did not connect a wallet on any platform, deploy a contract, complete a checkout, or confirm fees through a live transaction.
 
