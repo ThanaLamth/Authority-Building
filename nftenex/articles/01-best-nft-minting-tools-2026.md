@@ -410,9 +410,9 @@ The contrast with wallet-first tools like Manifold and Zora is sharp here: Alche
 
 **Alchemy authenticated dashboard surfaces**
 
-We completed a Google OAuth login to Alchemy on 2026-07-14 and navigated key dashboard routes. The Google OAuth flow was smooth -- but I want to flag that it required a headed (non-headless) browser session, because Google actively blocks headless Chrome for OAuth.
+We completed a Google OAuth login to Alchemy on 2026-07-14 and navigated key dashboard routes. The Google OAuth flow was smooth -- but worth flagging that it required a visible browser session, because Google actively blocks background Chrome for OAuth.
 
-That is not Alchemy's fault, but it is worth knowing if you are building automated review workflows.
+That is not Alchemy's fault, but relevant if you are setting up a custom login pipeline.
 
 Landing inside the Alchemy dashboard post-login was calming in a way I did not expect. It is quiet -- no aggressive upsell overlays, no "complete your profile" banners demanding attention.
 
