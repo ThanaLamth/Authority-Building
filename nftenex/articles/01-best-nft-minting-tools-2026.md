@@ -97,6 +97,8 @@ That same depth raises cognitive load, so it fits serious teams better than casu
 - Pros: better long-term flexibility, stronger product-stack headroom, widest wallet login support observed across the group
 - Cons: heavier learning curve, more early setup decisions, not the most frictionless answer for mainstream onboarding
 
+**Community signal:** Developers on r/web3 consistently name Thirdweb as the [best free option for wallet authentication](https://www.reddit.com/r/web3/comments/1qc85pk/the_best_free_options_i_see_for_authentication) -- though the same thread flags that the SDK ships heavy node_modules, worth factoring in if bundle size matters to your stack.
+
 **Homepage**
 
 Walking into Thirdweb's homepage for the first time feels like stepping into a well-stocked tool warehouse -- you can tell real engineers designed this, because it makes no effort to hide its complexity.
@@ -188,6 +190,8 @@ The geo-access issue we observed during testing is a signal for teams to verify 
 - Pros: stronger onboarding posture, cleaner payments story, easier to justify for mainstream launches
 - Cons: less attractive for deep experimentation, geo-access inconsistency observed during review, narrower if infrastructure needs expand
 
+**Community signal:** Crossmint was among the firms [selected by Mastercard as a crypto infrastructure partner](https://www.reddit.com/r/CryptoCurrency/comments/1rrqwrj/mastercard_just_picked_its_crypto_partners) -- a signal the r/CryptoCurrency community noted as meaningful enterprise validation for a payments-first NFT platform.
+
 **Homepage**
 
 Crossmint's homepage reads like a pitch to a VP of Product at a retail brand, not to a crypto-native developer. That is a deliberate positioning call, and it is the right one for what this tool actually does.
@@ -224,6 +228,8 @@ As an NFT specialist, I would choose Manifold over broader platforms when creato
 
 - Pros: stronger ownership-first logic, wallet modal confirms direct deployment path, email fallback available
 - Cons: weaker payments-first posture, less convenient for mainstream campaigns, often needs adjacent tooling
+
+**Community signal:** r/NFT has a thread walking through [minting a first NFT on your own smart contract using Manifold Studio](https://www.reddit.com/r/NFT/comments/t3pr3k/how_i_minted_my_first_nft_on_my_own_smart) -- confirms the creator-ownership flow works as described, and surfaces a useful note on manually adjusting royalties across marketplaces after deploy.
 
 **Homepage**
 
@@ -474,6 +480,8 @@ As an NFT reviewer, I would still keep Rarible in the shortlist for operators wh
 
 - Pros: login modal in one click, wallet + social options visible immediately, easier mental model
 - Cons: weaker long-term flexibility, less future-proof, easier to outgrow as the project expands
+
+**Community signal:** A [recent r/NFT thread reports Rarible profile settings disabled on the new site](https://www.reddit.com/r/NFT/comments/1tlfeef/rarible_profile_settings_are_disabled_on_the_new) -- avatar upload, cover image, and X account linking all failing. Small bug, but worth verifying before committing to it as a primary platform.
 
 **Homepage**
 
