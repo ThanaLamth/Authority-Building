@@ -28,6 +28,122 @@ When adding new verified rows for a platform, insert them ABOVE the "Live contra
 
 ---
 
+﻿
+---
+
+## Star rating table format
+
+The NFTEnex comparison table uses Unicode star characters, not images or text words.
+
+### Format
+
+    ★★★★★ 5.0/5
+    ★★★★½ 4.5/5
+    ★★★★☆ 4.0/5
+    ★★★½☆ 3.5/5
+    ★★★☆☆ 3.0/5
+
+Half-star: ½ (U+00BD). Empty star: ☆ (U+2606). Filled star: ★ (U+2605).
+
+### Writing rule
+
+NEVER write star characters via PowerShell here-strings -- they corrupt silently on Windows.
+Always write via Python with explicit UTF-8 encoding:
+
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+Or via [System.IO.File]::WriteAllText(path, content, [System.Text.Encoding]::UTF8) when writing the script file itself.
+
+### Where the table lives
+
+Section: ## Quick comparison (or ## NFTEnex ratings) near the top of the article, before platform deep-dives.
+One row per platform. Columns: Platform | Score | Best for | Pricing | Chains.
+
+### Patch method
+
+Use string.replace() to update individual cells. Assert old cell text exists before replacing.
+Do NOT rewrite the whole table -- too much risk of corrupting surrounding rows.
+
+---
+
+## Factual intro vs reviewer verdict
+
+Every platform section (### N. Platform) must have TWO distinct paragraphs in this order:
+
+    ### 1. Thirdweb
+
+    <Factual intro paragraph>
+
+    <Reviewer verdict paragraph>
+
+### Factual intro paragraph rules
+
+1. Plain prose, no hyperlinks, no opinions.
+2. Must include: what the product is, founding year or launch year if known, supported chains (count or named), target audience (developers / creators / enterprises), pricing model (free tier / paid plans / usage-based).
+3. Maximum 45 words.
+4. Neutral tone -- describe what it IS, not how good it is.
+
+Example (good):
+    Thirdweb is a web3 development platform launched in 2021. It supports 700+ EVM chains and offers contract deployment, wallet SDK, and NFT APIs. Free tier available; paid plans from /month for advanced features. Built primarily for development teams.
+
+Example (bad -- this is reviewer verdict, not intro):
+    Thirdweb is the best NFT minting tool in 2026 for most teams because it gives the strongest middle ground between launch speed, contract flexibility, and stack expandability.
+
+### Reviewer verdict paragraph rules
+
+1. This is where personal opinion and judgment belong.
+2. Can include hyperlinks to the platform site (1-2x in body).
+3. Direct, opinionated, first-person where appropriate.
+4. Must follow immediately after the factual intro, before the first screenshot block.
+
+### How to check in existing articles
+
+Search for the opening sentence of each platform section. If it starts with a comparative judgment ("is the best", "stands out", "excels at") rather than a factual description, it needs to be split.
+
+---
+
+## Internal cross-linking between articles in series
+
+Articles in the 
+ftenex/articles/ series should link to each other when a topic naturally connects.
+This improves SEO topical authority and helps readers navigate the series.
+
+### When to add an internal cross-link
+
+Add a cross-link when the article body mentions a topic that is the main subject of another article in the series:
+
+| If the text mentions... | Link to... |
+|---|---|
+| NFT storage, IPFS, Arweave, pinning | Article on NFT storage tools |
+| NFT tracking, price alerts, portfolio | Article on NFT tracking tools |
+| NFT marketplaces, listing, royalties | Article on NFT marketplace tools |
+| Smart contract royalties, ERC-2981 | Article on NFT royalty tools |
+| NFT analytics, sales data, floor price | Article on NFT analytics tools |
+
+### Format
+
+Use a descriptive anchor text that matches the target article's keyword:
+
+    [IPFS pinning tools](../02-best-nft-storage-tools-2026.md)
+    [NFT portfolio trackers](../03-best-nft-tracking-tools-2026.md)
+
+Use relative paths (../XX-article-slug.md) for internal links. Do not use absolute URLs for same-repo articles.
+
+### Rules
+
+- Maximum 2-3 internal cross-links per article to keep the text readable.
+- Place the link naturally inside a sentence -- do not create a "See also" section.
+- Only link when the mention is substantive (a full sentence about the topic), not for passing keyword mentions.
+- Do not cross-link to an article that does not yet exist in the repo.
+- Prefer linking from a platform's Cons or Use case section -- those are the most natural connection points.
+
+### How to identify cross-link opportunities
+
+Scan the article for: storage, IPFS, Arweave, pinning, tracking, analytics, floor price, royalt, marketplace, listing, wallet, portfolio.
+For each hit, check if there is a matching article in nftenex/articles/. If yes and the mention is substantive, add a cross-link.
+
+---
 ## Adding screenshots to a platform section
 
 Find the anchor -- the last existing screenshot caption in the platform section:

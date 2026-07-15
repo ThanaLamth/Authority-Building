@@ -250,6 +250,51 @@
       "subworkflow": null
     },
     {
+      "id": "star_rating_update",
+      "title": "Update star rating table",
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Updates the NFTEnex comparison table to use Unicode star characters.\n# Format: star(filled)=U+2605, half=U+00BD, empty=U+2606\n# Examples: 5.0 -> star star star star star 5.0/5\n#           4.5 -> star star star star half 4.5/5\n#           4.0 -> star star star star empty 4.0/5\n# NEVER pass star chars through PowerShell here-strings -- corrupt silently.\n# Use Python open(path, \"w\", encoding=\"utf-8\") or WriteAllText with UTF8.\n# Patch with string.replace(). Assert old cell text exists before replacing.\n# Do NOT rewrite the whole table -- patch individual cells only.\n# Table location: ## Quick comparison section near article top.\nreturn {\"star_table_updated\": \"true\"}",
+        "output_schema": {
+          "star_table_updated": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1300.0
+      }
+    },
+    {
+      "id": "intro_structure",
+      "title": "Check factual intro vs reviewer verdict",
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Each platform section must have TWO paragraphs in this order:\n# 1. Factual intro: what it is, launch year, chains, audience, pricing.\n#    - Plain prose. No hyperlinks. No opinions. Max 45 words.\n#    - Neutral tone -- describe what it IS, not how good it is.\n# 2. Reviewer verdict: personal judgment, can have hyperlinks.\n#\n# Red flag -- intro paragraph starts with comparative judgment:\n#   \"is the best\", \"stands out\", \"excels at\" -> must be split.\n# Good intro: \"Thirdweb is a web3 platform launched 2021.\"\n# Bad intro: \"Thirdweb is the best NFT minting tool in 2026...\"\n#\n# Check each ### N. Platform section opening sentence.\n# If judgment appears before factual description, rewrite to split them.\nreturn {\"intro_check_passed\": \"true\"}",
+        "output_schema": {
+          "intro_check_passed": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1450.0
+      }
+    },
+    {
+      "id": "internal_crosslink",
+      "title": "Add internal cross-links between series articles",
+      "node_type": "PythonFuncNode",
+      "config": {
+        "code": "# Scan article body for topics covered by other articles in the series.\n# Trigger terms and their target articles:\n#   storage / IPFS / Arweave / pinning -> ../02-best-nft-storage-tools-2026.md\n#   tracking / price alerts / portfolio -> ../03-best-nft-tracking-tools-2026.md\n#   marketplace / listing / royalties   -> ../04-best-nft-marketplace-tools-2026.md\n#   analytics / floor price / sales data-> ../05-best-nft-analytics-tools-2026.md\n#\n# Rules:\n#   - Max 2-3 internal cross-links per article.\n#   - Place link naturally inside a sentence -- no \"See also\" sections.\n#   - Only link when mention is substantive (full sentence on the topic).\n#   - Do NOT link to articles that do not yet exist in the repo.\n#   - Use relative paths: ../XX-slug.md (not absolute URLs).\n#   - Prefer Cons or Use case sections as the most natural insertion point.\n#\n# Format: [anchor text](../XX-article-slug.md)\n# Use string.replace(). Assert old sentence exists before replacing.\nreturn {\"crosslinks_added\": \"0\"}",
+        "output_schema": {
+          "crosslinks_added": "string"
+        }
+      },
+      "coordinates": {
+        "x": 100.0,
+        "y": 1600.0
+      }
+    },
+    {
       "id": "community_signal_inject",
       "title": "Inject Reddit community signal",
       "parent_id": null,
@@ -262,7 +307,7 @@
       },
       "coordinates": {
         "x": 100.0,
-        "y": 1300.0
+        "y": 1750.0
       },
       "dimensions": null,
       "subworkflow": null
@@ -281,7 +326,7 @@
       },
       "coordinates": {
         "x": 100.0,
-        "y": 1450.0
+        "y": 1900.0
       },
       "dimensions": null,
       "subworkflow": null
@@ -300,7 +345,7 @@
       },
       "coordinates": {
         "x": 100.0,
-        "y": 1600.0
+        "y": 2050.0
       },
       "dimensions": null,
       "subworkflow": null
@@ -320,7 +365,7 @@
       },
       "coordinates": {
         "x": 100.0,
-        "y": 1750.0
+        "y": 2200.0
       },
       "dimensions": null,
       "subworkflow": null
@@ -353,7 +398,7 @@
       },
       "coordinates": {
         "x": 100.0,
-        "y": 1900.0
+        "y": 2350.0
       },
       "dimensions": null,
       "subworkflow": null
@@ -440,9 +485,7 @@
     },
     {
       "source_id": "article_patch",
-      "target_id": "community_signal_inject",
-      "source_handle": null,
-      "target_handle": null
+      "target_id": "star_rating_update"
     },
     {
       "source_id": "community_signal_inject",
@@ -467,6 +510,18 @@
       "target_id": "output",
       "source_handle": null,
       "target_handle": null
+    },
+    {
+      "source_id": "star_rating_update",
+      "target_id": "intro_structure"
+    },
+    {
+      "source_id": "intro_structure",
+      "target_id": "internal_crosslink"
+    },
+    {
+      "source_id": "internal_crosslink",
+      "target_id": "community_signal_inject"
     }
   ],
   "test_inputs": [],
