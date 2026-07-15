@@ -310,3 +310,174 @@ No other dependencies needed. Do not use pandoc or wordpress-xmlrpc.
 - If post creation returns 4xx: print full response body for diagnosis.
 - Always print final post URL and ID after successful creation.
 - After publishing, print: post_id, post_url, status, featured_media_id.
+
+---
+
+## Reddit community signal research
+
+Add one "Community signal" paragraph per platform section, placed immediately after the Pros and cons block.
+This is deep research: linking real community discussions adds EEAT signal, enables AIO extraction, and builds reader trust beyond official sources.
+
+### When to add a community signal
+
+Add if -- and only if -- a Reddit thread meets ALL of these criteria:
+1. Thread is clearly about the platform being reviewed (not just a coincidental keyword match)
+2. Thread contains substantive user opinion or real-world experience (not just a question with no answers)
+3. Thread is from a relevant subreddit (r/NFT, r/ethdev, r/web3, r/CryptoCurrency, r/NFTGaming, r/ethereum, r/web3gaming, or the platform's own subreddit)
+4. Thread is within the last 2 years (use &t=year or &t=all but verify post date)
+
+Do NOT add a community signal if no qualifying thread exists. A missing signal is better than a weak or irrelevant link.
+
+---
+
+### Search method
+
+Use Playwright (headless=True) to search Reddit directly. Do NOT use Google scraping (blocked) or Reddit JSON API (403).
+
+Search pattern per platform:
+    url = f'https://www.reddit.com/r/{subreddit}/search/?q={platform_name}&sort=top&t=year'
+
+Subreddits to search (in order):
+    r/NFT, r/ethdev, r/web3, r/CryptoCurrency, r/ethereum, r/NFTGaming, r/web3gaming
+
+Then fetch the top 3-4 result URLs, load each thread, read the first 1200 chars of body text, and evaluate manually.
+
+Script: scripts/search_reddit.py (see below)
+
+---
+
+### Sentiment evaluation
+
+After fetching thread content, classify as:
+
+| Sentiment | What it looks like | How to use |
+|---|---|---|
+| Positive | Users recommending, praising specific feature, sharing success | Mention the positive signal, quote the key claim |
+| Mixed | Positive overall but with a specific valid criticism | Lead with positive, surface the criticism honestly |
+| Negative | Bug reports, failures, frustration with a real feature | Use as a "worth noting" signal in Cons section |
+| Neutral/Irrelevant | Question with no answers, coincidental keyword match | Skip entirely |
+
+---
+
+### Placement and format
+
+Place immediately after the "- Cons: ..." line in the platform section:
+
+    - Cons: <cons text>
+
+    **Community signal:** <one sentence describing what the thread found, with hyperlink on the key claim>. <One sentence on what this means for teams evaluating the platform.>
+
+Format rules:
+- Bold the label: **Community signal:**
+- Hyperlink the key claim or thread title using descriptive anchor text (not "click here" or "this thread")
+- Max 2 sentences total
+- Do not quote Reddit usernames
+- Do not say "Reddit users say" -- say "r/NFT community", "r/ethdev discussion", "r/CryptoCurrency thread"
+
+Example (positive):
+    **Community signal:** Developers on r/web3 consistently name Thirdweb as the [best free option for wallet authentication](URL) -- though the same thread flags that the SDK ships heavy node_modules, worth factoring in if bundle size matters to your stack.
+
+Example (negative):
+    **Community signal:** A [recent r/NFT thread reports Rarible profile settings disabled on the new site](URL) -- avatar upload and X account linking both failing. Small bug, but worth verifying before committing to it as a primary platform.
+
+Example (enterprise validation):
+    **Community signal:** Crossmint was among the firms [selected by Mastercard as a crypto infrastructure partner](URL) -- a signal the r/CryptoCurrency community noted as meaningful enterprise validation for a payments-first NFT platform.
+
+---
+
+### Reddit search script (Playwright)
+
+Save as scripts/search_reddit.py and run from repo root.
+
+    import asyncio, json, re
+    from playwright.async_api import async_playwright
+
+    SEARCHES = {
+        'Thirdweb':  [('web3', 'thirdweb'), ('NFT', 'thirdweb'), ('ethdev', 'thirdweb deploy')],
+        'Crossmint': [('NFT', 'crossmint'), ('CryptoCurrency', 'crossmint')],
+        'Manifold':  [('NFT', 'manifold studio'), ('ethereum', 'manifold nft')],
+        'Zora':      [('NFT', 'zora nft'), ('CryptoCurrency', 'zora protocol')],
+        'Sequence':  [('NFTGaming', 'sequence xyz'), ('web3gaming', 'sequence wallet')],
+        'Alchemy':   [('ethdev', 'alchemy nft'), ('web3', 'alchemy api')],
+        'Rarible':   [('NFT', 'rarible'), ('CryptoCurrency', 'rarible review')],
+    }
+
+    async def search_subreddit(page, sub, q):
+        url = f'https://www.reddit.com/r/{sub}/search/?q={q.replace(" ","+")}&sort=top&t=year'
+        await page.goto(url, wait_until='domcontentloaded', timeout=20000)
+        await page.wait_for_timeout(2500)
+        html = await page.content()
+        permas = re.findall(r'href="(/r/[a-zA-Z0-9_]+/comments/[a-zA-Z0-9_]+/[^"?#]+)', html)
+        seen, clean = set(), []
+        for u in permas:
+            base = 'https://www.reddit.com' + u.rstrip('/')
+            if base not in seen:
+                clean.append(base); seen.add(base)
+        return clean[:4]
+
+    async def fetch_text(page, url):
+        await page.goto(url, wait_until='domcontentloaded', timeout=20000)
+        await page.wait_for_timeout(2500)
+        title = await page.title()
+        text = await page.evaluate('() => document.body.innerText')
+        return title, text[:1500]
+
+    async def main():
+        results = {}
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            ctx = await browser.new_context(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124')
+            page = await ctx.new_page()
+            for platform, searches in SEARCHES.items():
+                all_urls = []
+                for sub, q in searches:
+                    urls = await search_subreddit(page, sub, q)
+                    for u in urls:
+                        if u not in all_urls: all_urls.append(u)
+                    await asyncio.sleep(1.5)
+                results[platform] = all_urls[:5]
+                print(f'{platform}: {len(all_urls)} candidate URLs')
+                for u in all_urls[:5]: print(f'  {u}')
+            with open('reddit_candidates.json', 'w', encoding='utf-8') as f:
+                json.dump(results, f, ensure_ascii=False, indent=2)
+            await browser.close()
+        print('Saved reddit_candidates.json -- manually review each URL before adding to article')
+
+    asyncio.run(main())
+
+After running: open reddit_candidates.json, visit each URL, read the thread, apply the sentiment evaluation criteria above, then patch the article.
+
+---
+
+### Paragraph structure and word count
+
+All prose paragraphs (outside headings, lists, images, captions) must stay under 45 words.
+Split at natural sentence boundaries (. ! ?) if a paragraph exceeds this limit.
+
+Do not split:
+- Bold section headers (**text**)
+- Italic caption lines (*text*)
+- Image tags (![...](...))
+- List items (- text)
+- Table rows (| text |)
+- Headings (# text)
+
+Script for automated splitting: patch_readability.py in repo root.
+
+---
+
+### Hyperlink rules for article body
+
+Link platform names and key terms ONLY in the review body -- NOT in intro paragraphs (the factual project description).
+
+Targets to link:
+- Platform official site: link 1-2 times in review body (not in intro, not in headings)
+- Key wallet names (MetaMask, Rabby, Zerion): first mention in body
+- Key chain names (Ethereum, Polygon, Arbitrum): first mention in body
+- Reddit threads: as Community signal paragraphs (see above)
+- Internal cross-links (storage, APIs, royalties): wherever they appear in body
+
+Do NOT link:
+- Social media accounts (Twitter/X, Discord) -- not stable, not useful for SEO
+- Intro paragraphs -- keep them plain text
+- Terms that are too generic to link safely (Base, Optimism, Rainbow when used as common words)
