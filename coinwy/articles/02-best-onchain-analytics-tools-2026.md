@@ -29,19 +29,11 @@ Here is how the top tools shape up for different research workflows:
 | **Arkham** | Wallet investigation | Entity-level transaction tracing | Focuses on raw data over research context | 1/10 |
 | **Messari** | Fundamental research | Narrative reporting plus macro data | Expensive enterprise tiers | 4/10 |
 
-## Visual evidence from our July 2026 review
+The screenshots below show the public surfaces we could inspect without signing in. Paid dashboards, private queries, and authenticated wallet investigations still need a deeper account-level test.
 
-![Dune documentation homepage captured during our July 2026 review of on-chain analytics tools.](../media/dune-docs-2026-07-13.png)
+![Dune documentation homepage showing query references for multichain analytics.](../media/dune-docs-2026-07-13.png)
 
 *Dune documentation homepage, July 2026 -- showing data catalog and query reference guides for multichain analytics.*
-
-![Nansen homepage captured during our July 2026 review of wallet-intelligence and on-chain analytics tools.](../media/nansen-home-2026-07-13.png)
-
-*Nansen homepage, July 2026 -- landing screen highlighting wallet labeling, token flows, and smart money tracking tools.*
-
-![Glassnode homepage captured during our July 2026 review of digital-asset market intelligence tools.](../media/glassnode-home-2026-07-13.png)
-
-*Glassnode homepage, July 2026 -- institutional-facing dashboard highlighting bitcoin supply metrics and market indicators.*
 
 ---
 
@@ -53,7 +45,11 @@ Nansen is the industry standard for mapping out wallet ownership. Instead of loo
 
 * **Friction score:** 4/10. Navigating the token flows is simple. But setting up custom smart-money alerts takes configuration.
 * **Not recommended for:** Casual retail traders who do not actively monitor daily flows.
-* **Reddit user feedback:** In a [r/CryptoCurrency guide on spotting potential gems](https://www.reddit.com/r/CryptoCurrency/comments/n9cby0/not_every_new_coin_is_a_shitcoin_how_to_spot_the/), users highlighted using Nansen's smart-money indicators to watch developer wallets and early holders. The thread noted that tracking these entity balances helps verify whether founders are holding long term or quietly dumping.
+On Reddit, a [r/CryptoCurrency guide on spotting potential gems](https://www.reddit.com/r/CryptoCurrency/comments/n9cby0/not_every_new_coin_is_a_shitcoin_how_to_spot_the/) described Nansen's smart-money labels as useful for watching developer wallets and early holders. That is the practical advantage: labels turn an address list into a shortlist, but they still need a human check before you treat a wallet as a signal.
+
+![Nansen homepage showing wallet labels and smart-money analytics.](../media/nansen-home-2026-07-13.png)
+
+*Nansen homepage, July 2026 -- a wallet-intelligence surface focused on labeled flows and smart-money tracking.*
 
 ---
 
@@ -65,7 +61,11 @@ Glassnode is built for cycle analysis and macro signals. It measures supply dyna
 
 * **Friction score:** 3/10. Ready-made charts mean you do not have to write queries. But understanding the charts requires a background in economics.
 * **Not recommended for:** Short-term traders looking for fast individual coin indicators.
-* **Reddit user feedback:** A [r/CryptoCurrency post analyzing market dips](https://www.reddit.com/r/CryptoCurrency/comments/lq32rh/psa_this_dip_was_most_likely_caused_by_a_3600_btc/) used Glassnode and CryptoQuant miner outflow metrics to explain a sudden price correction. Commenters emphasized that tracking public ledger events like F2Pool miner transfers gives traders peace of mind instead of panicking during market swings.
+On Reddit, a [r/CryptoCurrency post analyzing a market dip](https://www.reddit.com/r/CryptoCurrency/comments/lq32rh/psa_this_dip_was_most_likely_caused_by_a_3600_btc/) paired Glassnode and CryptoQuant miner-outflow data to explain a sudden correction. The useful lesson from that discussion is to read flows as context for price, not as a standalone buy or sell trigger.
+
+![Glassnode homepage showing digital-asset market intelligence tools.](../media/glassnode-home-2026-07-13.png)
+
+*Glassnode homepage, July 2026 -- a market-intelligence surface built around supply metrics and cycle indicators.*
 
 ---
 
@@ -77,7 +77,7 @@ Dune lets you query raw blockchain data using SQL and turn it into custom dashbo
 
 * **Friction score:** 7/10. Finding existing dashboards is simple. But building your own requires database knowledge and SQL coding.
 * **Not recommended for:** Users who want prepackaged opinions without looking at the underlying queries.
-* **Reddit user feedback:** In a [r/CryptoCurrency megalist of educational resources](https://www.reddit.com/r/CryptoCurrency/comments/okyd1m/want_to_pursue_a_career_in_crypto_here_is_a/), Dune was recommended as a practical platform for learning onchain data analysis. Commenters noted that building SQL queries on Dune is the fastest way to get direct experience and verify protocol transactions independently.
+On Reddit, a [r/CryptoCurrency list of educational resources](https://www.reddit.com/r/CryptoCurrency/comments/okyd1m/want_to_pursue_a_career_in_crypto_here_is_a/) recommended Dune as a practical way to learn onchain analysis. The user-facing benefit is easy to understand: you can inspect the query behind a chart instead of accepting a black-box metric.
 
 ---
 
@@ -89,7 +89,7 @@ Arkham is a visualization platform that maps addresses to real-world entities. I
 
 * **Friction score:** 1/10. Paste any address or search for a public entity (like an exchange or fund) and you get an instant graphic of their transactions.
 * **Not recommended for:** High-level macro indicators or general market cycle analysis.
-* **Reddit user feedback:** Users on [r/CryptoCurrency tracking Satoshi's wallet balance](https://www.reddit.com/r/CryptoCurrency/comments/1nyy09z/satoshis_wallet_is_now_worth_over_135b_this_would/) pointed to Arkham's entity-level dashboard as the source for verifying dormant addresses. The community relies on Arkham to watch large whale movements and spot early transaction signs from dormant institutional wallets.
+On Reddit, users tracking Satoshi's wallet balance pointed to [Arkham's entity-level dashboard](https://www.reddit.com/r/CryptoCurrency/comments/1nyy09z/satoshis_wallet_is_now_worth_over_135b_this_would/) for checking dormant addresses. That fits Arkham's role in this list, although its public site returned a Cloudflare challenge during our capture, so we did not treat the blocked page as visual evidence.
 
 ---
 
@@ -101,7 +101,11 @@ Messari combines fundamental data with research reports. It is the tool you use 
 
 * **Friction score:** 4/10. The research feed is organized. But customizing the data screening tables requires setting up filters.
 * **Not recommended for:** Raw wallet tracking or real-time mempool analysis.
-* **Reddit user feedback:** Discussing research tools on r/CryptoCurrency, users recommend Messari for its governance tracking and structural reports, though they caution that the most valuable research metrics are locked behind premium annual pricing.
+On Reddit, users discussing research tools recommend Messari for governance tracking and structural reports, while warning that the most useful metrics sit behind premium annual pricing. That trade-off matters here: the public research layer is easy to inspect, but the paid workflow determines whether it replaces another data subscription.
+
+![Messari homepage showing its crypto research and market intelligence surface.](../media/messari-home-2026-07-16.png)
+
+*Messari homepage, July 2026 -- a research surface combining market data, asset profiles, and written analysis.*
 
 ---
 
@@ -117,6 +121,8 @@ If you are building your research setup:
 1. Start with **Dune** to find free, community-curated dashboards for specific protocols.
 2. Use **Arkham** to trace individual wallets or watch exchange outflows.
 3. Layer on **Glassnode** if you need cycle indicators to manage your macro portfolio allocation.
+
+But here is what to watch for: no dashboard can tell you whether a wallet movement reflects a sale, internal exchange routing, or a bridge loop without context from the underlying transaction.
 
 ## FAQ
 
