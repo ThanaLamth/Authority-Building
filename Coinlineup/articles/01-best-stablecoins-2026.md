@@ -29,6 +29,31 @@ This guide covers seven stablecoins, ranked by beginner fit, liquidity, and hone
 | 6 | GHO | Aave users | Ecosystem-specific only |
 | 7 | USDe | Yield seekers (advanced) | Not a cash substitute |
 
+## Which stablecoins are most used worldwide?
+
+The stablecoin market hit $300 billion in total circulation in 2026 -- up from $100 billion just one year earlier. Two coins control most of it.
+
+| Stablecoin | Market share | Where it dominates | Main use case |
+|---|---|---|---|
+| **USDT** | ~62% | Asia, Africa, emerging markets | Trading, P2P transfers, saving against local currency inflation |
+| **USDC** | ~25% | US, Europe, DeFi protocols | Payments, institutional use, DeFi liquidity |
+| **DAI / USDS** | ~2-3% | DeFi globally | Collateralized borrowing, yield farming |
+| **USDe** | ~2% | Crypto-native yield seekers | Delta-neutral yield strategy |
+| **EURC** | < 1% | Europe | Euro-denominated payments and savings |
+| **GHO** | < 1% | Aave ecosystem | DeFi borrowing within Aave |
+
+Source: [CoinGecko / Tiger Research stablecoin report](https://www.coingecko.com/learn/stablecoin-issuance-market-tiger-research), July 2026.
+
+**The surprising finding:** Nigeria ranks #1 in USDT and USDC ownership globally -- ahead of the US, UK, and Singapore. Around 59% of Nigerian crypto users hold USDT and 48% hold USDC. The reason is practical: when the local currency loses 20-40% of its value per year, a dollar stablecoin is the fastest way to protect savings without opening a foreign bank account.
+
+That pattern repeats across emerging markets in Africa, Southeast Asia, and Latin America. USDT dominates these regions because it is already on every local exchange and P2P platform. USDC dominates in more regulated Western markets where institutional trust matters more than local availability.
+
+**Community signal:** [r/CryptoCurrency -- Nigeria leads globally in USDT and USDC ownership, ahead of the US and UK](https://www.reddit.com/r/CryptoCurrency/comments/1sd734r/nigeria_is_ranked_1_in_global_usdt_and_usdc/). The thread explains why inflation-driven stablecoin adoption looks different from Western crypto adoption -- and why USDT reaches places USDC does not.
+
+**Community signal:** [r/CryptoCurrency -- stablecoin market tripled from $100B to $300B in one year, USDT holds 62% share, USDC 25%](https://www.reddit.com/r/CryptoCurrency/comments/1ssh7sg/the_stablecoin_market_tripled_from_100b_to_300b/). Regulatory clarity from the GENIUS Act, MiCA, and Hong Kong's Stablecoin Ordinance drove the institutional entry that accelerated the growth.
+
+---
+
 ## How we ranked these stablecoins
 
 We ranked by five things beginners actually care about:
@@ -55,6 +80,8 @@ The main trade-off is that you rely on Circle to keep the backing in place. That
 
 *Circle USDC page, July 2026 -- reserve transparency and broad exchange support make this the cleanest beginner starting point among dollar stablecoins.*
 
+**Where people actually use it:** USDC is the default stablecoin on Coinbase and is built into most US-based fintech crypto products. It is commonly used for payroll in crypto (DAOs paying contributors), cross-border business payments, and DeFi liquidity on Uniswap, Aave, and Compound. Coinbase Wallet, MetaMask, and most hardware wallets support it natively. If you are in a country where Coinbase or a regulated exchange is your entry point, USDC is almost certainly what you will end up holding first.
+
 **Best for:** First-time stablecoin users, payments, mainstream wallet use.
 **Not ideal for:** Users who want a fully decentralized stablecoin model.
 
@@ -71,6 +98,8 @@ For trading, USDT is hard to avoid. For long-term savings, USDC is a cleaner cho
 ![Tether homepage showing USDT stablecoin product, global liquidity positioning, and reserve information](../media/01-tether-usdt-2026-07-16.png)
 
 *Tether homepage, July 2026 -- USDT positions itself around global liquidity and exchange reach. The reserve documentation is visible but less detailed than Circle's.*
+
+**Where people actually use it:** USDT is the default stablecoin on Binance, OKX, and Bybit -- three of the largest exchanges globally by volume. In Vietnam, Indonesia, Turkey, and Nigeria, it is commonly used for P2P transfers when local bank transfers are slow, expensive, or restricted. Many traders keep idle capital in USDT between positions simply because it is already on the exchange with no withdrawal step needed. It is also the most common stablecoin used in crypto-to-fiat P2P markets across Asia and Africa.
 
 **Best for:** Active traders, moving value across exchanges.
 **Not ideal for:** Users who want the clearest reserve story.
@@ -90,6 +119,8 @@ If you want a simple dollar substitute, USDC is easier. If you want to understan
 ![Sky Money homepage showing DAI and USDS stablecoin ecosystem, DeFi vaults, and sUSDS yield product](../media/01-makerdao-dai-2026-07-16.png)
 
 *Sky Money (formerly MakerDAO), July 2026 -- the protocol that creates DAI now runs under the Sky brand, with USDS as the newer product alongside the original DAI.*
+
+**Where people actually use it:** DAI is most commonly used inside DeFi protocols -- as collateral on Compound, as a liquidity pair on Uniswap, or for yield strategies on Curve. It is also popular among users who want to hold a stablecoin without relying on any centralized issuer. Some freelancers and DAO contributors specifically request DAI because the smart contract backing is visible onchain and does not depend on Circle or Tether keeping a bank account funded.
 
 **Best for:** DeFi learners, users moving beyond exchange basics.
 **Not ideal for:** Beginners who just want a simple stable dollar.
@@ -154,6 +185,8 @@ USDe is not the same thing as holding cash. It is a structured product that happ
 ![Ethena USDe homepage showing synthetic dollar product, yield mechanics, and delta-neutral strategy design](../media/01-ethena-usde-2026-07-16.png)
 
 *Ethena USDe page, July 2026 -- the yield-generating synthetic stablecoin. The product language is honest about the derivatives-backed model -- read it carefully before using.*
+
+**Where people actually use it:** USDe is most commonly held by crypto-native users who want yield on their stablecoin position without moving to a traditional savings product. It became popular on Pendle (a yield trading protocol) and on Bybit, where it is used as collateral. The appeal is simple: it pays a return. The risk is equally simple: that return depends on derivatives funding rates staying positive, and they do not always stay positive.
 
 **Best for:** Advanced users who understand synthetic stablecoin risk.
 **Not ideal for:** Anyone looking for a simple, safe stable dollar.
