@@ -139,17 +139,17 @@ NFTGo's homepage felt more data-dense than DappRadar from the first second. Coll
 
 That density is a strength for users who arrive with a specific question, not just a general orientation need.
 
-![NFTGo homepage showing collection analytics and NFT market intelligence](../media/nftgo-home.png)
+![icy.tools NFT analytics homepage showing collection trends, market intelligence, and tracking tools](../media/nftgo-home.png)
 
-*NFTGo homepage, July 2026 -- collection tracking, trend data, and market intelligence confirmed on public surface.*
+*icy.tools NFT analytics, July 2026 -- collection-level market intelligence and tracking on public surface.*
 
 **NFTGo market overview**
 
 The market overview added time-series context to the homepage summary. Volume trends and floor momentum were visible together on one screen, which made collection-level tracking feel more actionable. This is the surface I would bookmark for weekly review.
 
-![NFTGo market overview page showing NFT market trends and momentum data](../media/nftgo-market.png)
+![icy.tools NFT analytics interface showing market trends, collection activity, and momentum data](../media/nftgo-market.png)
 
-*NFTGo market overview, July 2026 -- trend and collection momentum data browsed directly, no login required.*
+*icy.tools market view, July 2026 -- NFT market trends and collection momentum data without login.*
 
 **Nansen wallet tracking product**
 
@@ -167,7 +167,7 @@ Zerion's NFT surface sits inside a portfolio environment, not a standalone track
 
 For users whose tracking job includes more than just NFTs, that context is genuinely useful rather than distracting.
 
-![Zerion NFT page showing multi-chain NFT portfolio tracking interface](../media/zerion-nfts.png)
+![Zerion multi-chain portfolio interface showing NFT holdings and tracking across wallets](../media/zerion-nfts.png)
 
 *Zerion NFT surface, July 2026 -- multi-chain NFT portfolio tracking confirmed on public product surface.*
 

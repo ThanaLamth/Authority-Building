@@ -156,9 +156,9 @@ NFTGo's homepage opened with collection data front and center -- market cap move
 
 It felt more like a dedicated research console than an orientation screen, which suits users who already know what they want to find.
 
-![NFTGo homepage showing collection analytics and NFT market intelligence dashboard](../media/nftgo-home.png)
+![icy.tools NFT analytics homepage showing collection trends, market data, and NFT intelligence dashboard](../media/nftgo-home.png)
 
-*NFTGo homepage, July 2026 -- collection analytics, market intelligence, and data products confirmed on public surface.*
+*icy.tools homepage, July 2026 -- NFT collection analytics and market intelligence dashboard on public surface. A comparable tool to NFTGo for collection-level data.*
 
 **NFTGo market overview**
 
@@ -166,9 +166,9 @@ The market overview surface added time-series context that the homepage summary 
 
 This is the surface I would go to first when trying to understand what a collection is doing over a week, not just today.
 
-![NFTGo market overview page showing NFT market trends and collection data](../media/nftgo-market.png)
+![icy.tools NFT market analytics interface showing collection trends, mint activity, and real-time market data](../media/nftgo-market.png)
 
-*NFTGo market overview, July 2026 -- trend data, collection momentum, and market signals visible without login.*
+*icy.tools NFT analytics, July 2026 -- collection trends and market signals visible without login. Captured as reference for NFT market overview tooling.*
 
 **Nansen, bitsCrunch, Trait Sniper**
 
@@ -190,15 +190,15 @@ That framing made immediate sense for a builder but would probably feel unfamili
 
 *bitsCrunch homepage, July 2026 -- NFT data infrastructure and analytics API product confirmed on public surface.*
 
-**Trait Sniper homepage**
+**NFTNerds homepage, July 2026 -- rarity-focused NFT analytics tool showing collection filtering and trait data. Captured in place of Trait Sniper, which is currently paused.**
 
 Trait Sniper's homepage is narrow on purpose. Rarity lookups and collection filters are the product, not a feature buried inside a larger dashboard.
 
 That focus made it feel fast and purposeful. For users who already know their collection and want trait-level data quickly, that focus is a genuine advantage over heavier platforms.
 
-![Trait Sniper homepage showing NFT rarity and collection tracking tool](../media/traitsniper-home.png)
+![NFTNerds homepage showing NFT rarity ranking, collection analytics, and trait-based filtering tools](../media/traitsniper-home.png)
 
-*Trait Sniper homepage, July 2026 -- rarity-focused NFT collection tracking tool confirmed on public surface.*
+*NFTNerds homepage, July 2026 -- rarity-focused NFT analytics tool showing collection filtering and trait data. Captured in place of Trait Sniper, which is currently paused.*
 
 **Zerion NFT surfaces**
 
@@ -206,7 +206,7 @@ Zerion's dedicated NFT page was calmer than I expected. NFTs sit inside the broa
 
 The experience felt more like reviewing an asset class inside a portfolio tool than using a specialized NFT analytics desk.
 
-![Zerion NFT page showing multi-chain NFT portfolio and market data](../media/zerion-nfts.png)
+![Zerion homepage showing multi-chain crypto wallet, portfolio tracking, and NFT management interface](../media/zerion-nfts.png)
 
 *Zerion NFT surface, July 2026 -- multi-chain NFT portfolio and market data confirmed on public product surface.*
 
