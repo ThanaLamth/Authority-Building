@@ -346,6 +346,80 @@ Apply all rules from the AiCryptoCore writing rules section below:
 #### Step 8 -- update series status table above
 Mark the article DONE with commit hash.
 
+
+---
+
+## Site taste guide (13 sites)
+
+Full detail: `Authority-Building/docs/writing-style-guide.md`
+Local path: `C:\Users\admin\AppData\Local\Temp\authority-building-check\docs\writing-style-guide.md`
+
+Read the full guide before writing any article. The quick-ref below is a session reminder, not a replacement.
+
+---
+
+### Quick-ref: voice + para rule + signature moves
+
+| Site | Voice in one line | Para / sentence rule | 2-3 signature moves |
+|---|---|---|---|
+| **Coinlineup** | Patient older sibling, zero assumptions | Short-medium-short; 1 idea per para; max 2-3 sentences | Analogy before definition; warn before advising; parenthetical plain-language glossary |
+| **Coinwy** | Forum power user sharing findings, no pitch | Medium sentences; short for verdicts; max 3-4 sentences | "The problem with most X is Y" opener; explicit "not recommended for"; friction scores |
+| **Kanalcoin** | Regionally grounded, no Western defaults | Medium, translation-safe; avoid idioms | Flag geo-restrictions per country; cite local regulators (OJK, SEC TH, SSC VN, FSC KR); remittance use case check |
+| **BitcoinMaximalist** | Technically precise, Bitcoin as reference frame | Medium-long; subordinate clauses OK if precise | Signing model before verdict; security failure modes per product; Bitcoin-only framing explicit |
+| **CCpress** | Beat reporter, third cycle, morally clear | Declarative short for impact; lead with event not background | Open with named actor; never passive for named parties; end with unresolved consequence |
+| **Coincu** | Authoritative, institutional, evidence-first | Long dense paras; one clear job per paragraph | Criteria table before rankings; "What this changes" section; cite primary sources inline |
+| **MarketBit** | Bloomberg Terminal -- metric → mechanism → implication | Short declarative; dense per sentence; no narrative padding | Lead with data point + timeframe; cross-metric validation (never one metric alone); "What to watch" thresholds |
+| **Tokentopnews** | Sharp thesis-led, narrative-aware, no hype | Medium; thesis first, evidence second | "What breaks the thesis" section required; narrative label only with data; contrarian angle preferred |
+| **AiCryptoCore** | Developer who reads venture memos; skeptical of pure narrative | Max 70w per para; mechanism chains | "Real vs narrative" judgment in every section; failure scenario woven in prose; community signal mid-section |
+| **NFTEnex** | Culturally aware, evidence-led, first-person experience | Max 45w per para; captions SEO+AIO first | Experience para starts from real reaction not structural observation; tension in verdict ("strength if... weakness if..."); SEO caption formula: platform + surface + keyword + fact + judgment |
+| **CryptoDailyAlert** | Wire-service neutral, zero editorializing | One fact per sentence; flash = single para < 60w | Always attribute source; numbers before words ($2.4B not "billions"); flag unconfirmed in headline |
+| **DeFiLiban** | Senior protocol engineer reviewing a competitor | Medium-long; "Because X adjusts Y when Z" chains | Mechanism table (input/output/constraint); name the risk explicitly (oracle/smart contract/liquidity/governance); distinguish protocol risk from market risk |
+| **Coinlive** | Calm observational, data-first, no sensation | Max 25w per sentence in flash pieces; one data point per sentence | Lead with number + timeframe; exchange-flows include comparison to 30-day baseline; macro-events close with on-chain confirmation |
+
+---
+
+### Para length rules (summary)
+
+| Site | Max para length |
+|---|---|
+| NFTEnex | **45 words** |
+| Coinlineup, CryptoDailyAlert, Coinlive | Short -- 2-3 sentences max |
+| AiCryptoCore, DeFiLiban | **70 words** |
+| All others | 60-80 words; split when a para has more than one idea |
+
+---
+
+### Banned words (network-wide)
+
+headless, programmatic, automation (process context), automated, leveraging, utilize, seamlessly,
+cutting-edge, streamline, robust, delve into, it is worth noting, in conclusion, in summary
+
+Exception: product proper nouns containing banned words (e.g. "Chainlink Automation") -- use as-is.
+
+---
+
+### Specialist agent before publish (mandatory per site)
+
+| Site | Mandatory specialist |
+|---|---|
+| NFTEnex | `seo-specialist` + `aeo-foundations-architect` |
+| AiCryptoCore | `ai-engineer` |
+| CCpress | `pr-communications-manager` |
+| Coincu / MarketBit | `investment-researcher` |
+| CryptoDailyAlert | `pr-communications-manager` |
+| DeFiLiban | `technical-writer` + `investment-researcher` |
+| Others | Optional; use `content-creator` for first article in new category |
+
+Agents installed at: `C:\Users\admin\.codex\agents\*.toml`
+
+---
+
+### Writing rules from books (embedded in full guide)
+
+1. **Tension carry** (Ann Handley / Stein on Writing) -- last sentence of each section opens something, does not close everything
+2. **Subject-verb-object clarity** (Pinker) -- find the main verb; if it takes >4 words to reach, restructure
+3. **First-reaction capture** (Goldberg / Bradbury) -- experience paras must start from what was actually true, not what should be said
+
 ## AiCryptoCore writing rules (apply when writing or rewriting aicrypto articles)
 
 ### Voice
