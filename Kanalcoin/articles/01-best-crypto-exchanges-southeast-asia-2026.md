@@ -64,16 +64,28 @@ Our evaluation prioritizes:
 
 Our team reviewed the live interfaces of these exchanges, assessing how they present onboarding paths, security verification, and fee structures.
 
+The media set below is used as review evidence, not decoration. For Kanalcoin readers, the most useful screenshots are the ones that show local access, regional product posture, or regulator-facing proof.
+
 ![Pintu homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.](../media/pintu-home-2026-07-10.png)
-*Pintu homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.*
+*Pintu homepage captured during our July 2026 review of crypto exchanges in Southeast Asia, used to evaluate the public IDR onboarding posture and beginner-facing product language.*
 
 ![Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.](../media/tokocrypto-home-2026-07-10.png)
-*Tokocrypto homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.*
+*Tokocrypto homepage captured during our July 2026 review, used to compare Indonesia-focused exchange positioning against simpler mobile-first apps.*
 
 ![Binance TH homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.](../media/binance-th-home-2026-07-10.png)
-*Binance TH homepage captured during our July 2026 review of crypto exchanges in Southeast Asia.*
+*Binance TH homepage captured during our July 2026 review, used to assess how the Thai product presents a regulated local Binance route rather than Binance Global parity.*
 
-While these public-facing landing pages and registration layouts demonstrate high polish, they often mask backend friction. Onboarding workflows and identity checks vary significantly, occasionally requiring multiple days for regional bank verification. This variation raises questions about how well these platforms handle unexpected spikes in user registrations during market rallies.
+![Thailand SEC digital asset license page captured during our July 2026 review of crypto exchanges in Southeast Asia.](../media/thailand-sec-digital-asset-license-2026-07-10.png)
+*Thailand SEC digital asset license page captured during our July 2026 review, used as regulator-facing evidence for the Thailand exchange sections.*
+
+| Media evidence | What it supports | What it does not prove |
+|---|---|---|
+| Pintu homepage | Public onboarding posture, IDR-first consumer positioning, mobile-first language | Live IDR deposit speed, spread size, withdrawal reliability |
+| Tokocrypto homepage | Indonesia exchange positioning and active-trading product posture | Bank-route uptime, account migration flow, tax calculation accuracy |
+| Binance TH homepage | Local Thai Binance product framing and public access route | Same feature scope as Binance Global, live order execution, withdrawal speed |
+| Thailand SEC license capture | Regulator-facing context for Thai exchange availability | Current account eligibility for every user, all supported assets, all fee conditions |
+
+These captures support public-shell and regulator-facing claims. They do not prove funded deposits, completed KYC, trade execution quality, or live withdrawal timing. That distinction matters because ASEAN exchange selection often fails at the exact point where local bank rails, identity checks, and regulator-specific product limits meet.
 
 ## Why These Exchanges Made the List
 
