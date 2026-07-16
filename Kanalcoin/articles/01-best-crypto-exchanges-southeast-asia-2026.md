@@ -93,7 +93,7 @@ For users who already hold digital assets and want to move them off exchanges, c
 If you want to buy your first Bitcoin or stablecoin with local fiat, Pintu and Bitkub offer the most straightforward mobile-banking integrations. They remove the complexity of reading order books, though this convenience carries higher fees.
 
 ### Active spot traders
-If you trading frequently and need charting tools, Indodax and Tokocrypto provide standard bid-ask order books with lower trading fees. Their layouts expect some trading experience.
+If you trade frequently and need charting tools, Indodax and Tokocrypto provide standard bid-ask order books with lower trading fees. Their layouts expect some trading experience.
 
 ### Users seeking compliance safety
 Binance TH and Tokocrypto offer licensed frameworks backed by global exchange architectures. They appeal to users who want to avoid the regulatory risks of using unlicensed offshore platforms.
