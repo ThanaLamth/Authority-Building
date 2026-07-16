@@ -37,7 +37,7 @@ The leading crypto exchanges in Southeast Asia in 2026 are Pintu for simple IDR 
 This evaluation draws from live public interface testing, local regulatory databases, and regional market research updated on July 16, 2026. Key data points reference [Chainalysis's 2025 Global Crypto Adoption Index](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/), the [ADB's Asian Economic Integration Report 2026](https://aric.adb.org/aeir2026), and the [OECD's Asia capital-markets review](https://www.oecd.org/en/publications/asia-capital-markets-report-2026_08f87bed-en/full-report/developments-in-crypto-asset-markets_193a8553.html).
 
 To maintain transparency, we define the exact limits of our testing:
-- **Verified**: We navigated the public web and mobile applications, evaluated signup requirements, verified available fiat rails, and checked official licensing registries.
+- **Observed**: We navigated the public web and mobile applications, reviewed signup requirements visible before funding, checked advertised fiat rails, and cross-checked official licensing references.
 - **Not Verified**: We did not deposit local fiat (IDR or THB), execute trades, test live order book spreads, or process fiat withdrawals. 
 
 Our findings combine public product behavior, official licensing references, and public user discussions from Reddit. We treat those Reddit comments as qualitative user experience evidence, not as verified platform performance data.
@@ -219,7 +219,7 @@ Focusing on these parameters helps you judge whether a platform can support your
 No single platform serves the entire region. The best exchange is the licensed platform in your specific country—such as Bitkub in Thailand or Tokocrypto in Indonesia—which connects directly to your local bank account.
 
 ### Can I deposit local fiat currency on global exchanges?
-Most global exchanges do not support direct fiat deposits for ASEAN currencies. Users must use P2P trading desks, which carry counterparty risks, or transfer assets from a licensed local exchange.
+Many global exchanges do not support direct deposits for every ASEAN currency. Users often rely on P2P trading desks, which carry counterparty risks, or transfer assets from a licensed local exchange.
 
 ### Are crypto trading fees higher in Southeast Asia?
 Yes, regulated regional exchanges often charge higher fees (such as Bitkub’s 0.25%) compared to global platforms (usually 0.10% or lower) due to local licensing costs and tax withholding requirements.
