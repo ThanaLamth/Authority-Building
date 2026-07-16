@@ -21,7 +21,7 @@ This guide separates those roles and compares ten projects based on product matu
 
 > **Plain-language summary**
 > If you are new to RWA, start with Ondo because the product is easiest to understand.
-> Think of RWA like putting a normal financial product, such as a Treasury bill or a loan, into a token you can hold in a crypto wallet.
+> Think of RWA like putting a normal financial product, such as a Treasury bill or a loan, into a token you can hold in a [crypto wallet](../09-best-crypto-wallets-for-beginners-2026.md).
 > Do not buy an RWA coin just because it sounds safer than the rest of crypto. First check whether it gives you direct asset exposure, support infrastructure, or only a narrative.
 
 ## What we checked directly and what we did not
@@ -63,11 +63,11 @@ That last point matters most. RWA sounds safer than meme-coin speculation, but "
 
 ---
 
-## 1. [Ondo Finance](https://ondo.finance/)
+## 1. Ondo Finance
 
-Ondo is the cleanest beginner entry point into RWA because the story is easy to explain: it wraps short-term US Treasury exposure into tokens people can hold in a crypto wallet.
+[Ondo Finance](https://ondo.finance/) is the cleanest beginner entry point into RWA because the story is easy to explain: it wraps short-term US Treasury exposure into tokens people can hold in a crypto wallet.
 
-Its best-known product is [USDY](https://ondo.finance/usdy), which is designed to pass through Treasury-style yield instead of just sitting flat like a normal dollar stablecoin.
+Its best-known product is [USDY](https://ondo.finance/usdy), which is designed to pass through Treasury-style yield instead of just sitting flat like a normal dollar stablecoin such as the ones covered in our [stablecoin guide](../01-best-stablecoins-2026.md).
 
 That makes Ondo useful for users who want dollar stability plus yield, but it also makes the compliance layer impossible to ignore. A recurring theme in Reddit threads is that access feels more like regulated finance than open DeFi (crypto apps that run without a normal broker).
 
@@ -84,9 +84,9 @@ That tension is why Ondo ranks first here. It has one of the clearest products i
 
 ---
 
-## 2. [Chainlink](https://chain.link/)
+## 2. Chainlink
 
-Chainlink is on this list for infrastructure, not because it issues Treasury tokens itself.
+[Chainlink](https://chain.link/) is on this list for infrastructure, not because it issues Treasury tokens itself.
 
 If tokenized bonds, funds, or stablecoins are going to matter, someone has to verify reserves that sit outside the blockchain and move trusted data between chains. That is the layer where Chainlink keeps showing up through [Proof of Reserve](https://chain.link/proof-of-reserve) and CCIP.
 
@@ -103,9 +103,9 @@ That is the trade-off. Chainlink gives you infrastructure exposure to the theme,
 
 ---
 
-## 3. [Sky Money / Maker](https://sky.money/)
+## 3. Sky Money / Maker
 
-Maker, now rebranded under Sky, matters because it proved a large DeFi protocol could lean heavily on real-world collateral instead of pretending all yield had to come from pure crypto demand.
+[Sky Money](https://sky.money/), formerly Maker, matters because it proved a large DeFi protocol could lean heavily on real-world collateral instead of pretending all yield had to come from pure crypto demand.
 
 Its stablecoin system has spent years integrating Treasury exposure through vault structures and external managers. That makes the protocol one of the most battle-tested bridges between DeFi and offchain debt markets.
 
@@ -118,9 +118,9 @@ The beginner problem is branding. If you arrive fresh, the Maker-to-Sky transiti
 
 ---
 
-## 4. [Centrifuge](https://centrifuge.io/)
+## 4. Centrifuge
 
-Centrifuge is where the RWA story shifts from government debt into private credit.
+[Centrifuge](https://centrifuge.io/) is where the RWA story shifts from government debt into private credit.
 
 Instead of packaging Treasuries, it tokenizes assets like invoices, trade receivables, and other borrower-backed pools so DeFi capital can fund real businesses onchain.
 
@@ -137,9 +137,9 @@ The token side matters too. Centrifuge has long used loan-related fee flows and 
 
 ---
 
-## 5. [Maple Finance](https://maple.finance/)
+## 5. Maple Finance
 
-Maple sits close to Centrifuge in theme, but the feel is different. It is a cleaner lending market for larger borrowers, not a retail-first product.
+[Maple Finance](https://maple.finance/) sits close to Centrifuge in theme, but the feel is different. It is a cleaner lending market for larger borrowers, not a retail-first product.
 
 The platform is built around managed lending pools, structured credit, and counterparties that already look more like professional firms than crypto hobbyists.
 
@@ -156,9 +156,9 @@ The risk is obvious in public discussion. Older but still relevant Reddit covera
 
 ---
 
-## 6. [Plume Network](https://www.plumenetwork.xyz/)
+## 6. Plume Network
 
-Plume is not the most proven project on this list, but it is one of the clearest bets on where the sector is going.
+[Plume Network](https://www.plumenetwork.xyz/) is not the most proven project on this list, but it is one of the clearest bets on where the sector is going.
 
 Most blockchains are general-purpose and tell RWA teams to bolt compliance and custody on later. Plume is trying to make those features native so builders can launch tokenized assets without stitching together the whole stack themselves.
 
@@ -175,9 +175,9 @@ The flip side is maturity. Plume is still earlier than Ondo, Maker, or Chainlink
 
 ---
 
-## 7. [TokenFi](https://tokenfi.com/)
+## 7. TokenFi
 
-TokenFi aims at the retail edge of tokenization.
+[TokenFi](https://tokenfi.com/) aims at the retail edge of tokenization.
 
 Where Ondo and Maple feel more corporate, TokenFi sells the idea that launching or tokenizing an asset should eventually become a simpler product workflow instead of a custom legal-and-engineering project.
 
@@ -190,9 +190,9 @@ For that reason, TokenFi belongs lower in the ranking. The concept is important,
 
 ---
 
-## 8. [Pendle](https://www.pendle.finance/)
+## 8. Pendle
 
-Pendle is not an RWA issuer, but it becomes relevant the moment tokenized Treasury yield starts behaving like something traders want to split, price, and hedge.
+[Pendle](https://www.pendle.finance/) is not an RWA issuer, but it becomes relevant the moment tokenized Treasury yield starts behaving like something traders want to split, price, and hedge.
 
 Its core idea is powerful: separate the principal from the yield so users can lock rates, speculate on future yield, or reshape exposure from assets like tokenized Treasuries.
 
@@ -205,9 +205,9 @@ Still, it deserves a place here because yield-bearing RWA tokens become much mor
 
 ---
 
-## 9. [Polymesh](https://polymesh.network/)
+## 9. Polymesh
 
-Polymesh is the most regulation-first chain on this list.
+[Polymesh](https://polymesh.network/) is the most regulation-first chain on this list.
 
 It was built specifically for regulated securities, which means identity checks, permissioning, and compliance are not awkward add-ons. They are part of the design.
 
@@ -224,9 +224,9 @@ The limitation is also the selling point: this is specialized infrastructure. If
 
 ---
 
-## 10. [Hashnote](https://www.hashnote.com/)
+## 10. Hashnote
 
-Hashnote represents the institutional cash-management end of the category.
+[Hashnote](https://www.hashnote.com/) represents the institutional cash-management end of the category.
 
 Its role is less about retail speculation and more about putting short-term cash into blockchain-based structures that still look acceptable to funds, treasuries, and professional allocators.
 
