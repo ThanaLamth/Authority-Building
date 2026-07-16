@@ -1,8 +1,10 @@
 ﻿# Writing Style Guide — Authority Building Network
-## 10 Sites, 10 Signatures
+## 13 Sites, 13 Signatures
 Last updated: 2026-07-16
 
 Each site in this network covers a distinct slice of the crypto space and targets a different reader.
+This guide covers 13 sites: Coinlineup, Coinwy, Kanalcoin, BitcoinMaximalist, CCpress, Coincu, MarketBit,
+Tokentopnews, AiCryptoCore, NFTEnex, CryptoDailyAlert, DeFiLiban, Coinlive.
 This guide defines the voice, sentence logic, structural patterns, and vocabulary that make each site
 recognizable so no two articles across the network read the same way.
 
@@ -16,6 +18,26 @@ Before writing any article, read the site section below. Then:
 2. Use only vocabulary from the **Use / Avoid** list for that site.
 3. Apply the **structural pattern** -- some sites never use numbered lists; some always do.
 4. Check the **reader test**: if your article would confuse that reader, rewrite until it would not.
+
+---
+
+## Taste at a Glance
+
+| # | Site | Identity | Tier-1 Content | Reader | Tone | Sentence rhythm |
+|---|---|---|---|---|---|---|
+| 1 | **Coinlineup** | Beginner crypto explainer | /news/, /guides/, /markets/, /projects/ | New to crypto (<6 months) | Patient, plain, zero assumptions | Short. Medium. Short. |
+| 2 | **Coinwy** | Balanced community hub | /how-to/, /tools/, /wallets/, /exchanges/, /strategies/ | Active user (1-3 yrs), optimizing setup | Peer-to-peer, direct, honest about trade-offs | Medium; short for verdicts |
+| 3 | **Kanalcoin** | SEA/ASEAN crypto perspective | /asia/, /europe/, /americas/ | Regional reader, non-Western context | Grounded, locally aware, no Western defaults | Measured; context before data |
+| 4 | **BitcoinMaximalist** | Bitcoin-only, network fundamentals | /bitcoin-news/, /bitcoin-guides/, /bitcoin-markets/, /bitcoin-mining/, /bitcoin-ecosystem/ | Bitcoin-native, technically literate | Conviction-led, precise, no altcoin framing | Medium-long; never fragments |
+| 5 | **CCpress** | Crypto narrative journalism | /stories/, /conflicts/, /people/, /power/, /investigations/ | Informed reader who wants the story behind the story | Investigative, tension-forward, no PR language | Varied; long for setup, short for reveals |
+| 6 | **Coincu** | Authoritative editorial, macro/institutional | /news/, /analysis/, /markets/, /research/ | Institutional reader, fund analyst, serious builder | Authoritative, structured, evidence-first | Long, subordinate clauses; formal |
+| 7 | **MarketBit** | Quantitative market analyst | /on-chain/, /derivatives/, /etf-flows/, /liquidity/, /market-structure/ | On-chain analyst, quant trader | Bloomberg Terminal style -- no narrative, pure data chain | Medium; metric -> mechanism -> implication |
+| 8 | **Tokentopnews** | Macro/narrative intelligence | /insights/, /trends/, /narratives/, /macro/, /weekly-recap/ | Active market participant, macro-aware | Sharp, thesis-led, no hype | Medium; thesis first, evidence second |
+| 9 | **AiCryptoCore** | AI x Crypto intersection | /ai-agents/, /ai-infrastructure/, /ai-trading/, /ai-data/, /ai-ecosystem/ | Technical builder at AI/crypto overlap | Precise, builder-aware, stack-level | Medium-long; mechanism chains |
+| 10 | **NFTEnex** | NFT & digital ownership specialist | /nft-ecosystem/, /nft-markets/, /nft-culture/, /gaming-nft/, /creator-economy/, /nft-infrastructure/ | Creator, collector, NFT builder | Culturally aware, evidence-led, first-person experience | Short prose paras (<=45w); captions SEO-first |
+| 11 | **CryptoDailyAlert** | Breaking news wire | /alerts/, /flash/, /briefs/ | Trader needing fast signal confirmation | Wire-neutral, zero editorializing | Short; one fact per sentence |
+| 12 | **DeFiLiban** | DeFi protocol deep-dive | /protocols/, /yield/, /liquidity/, /risk/, /infrastructure/ | DeFi practitioner, protocol researcher | Technical, mechanism-level, clinical on risk | Medium-long; mechanism chains |
+| 13 | **Coinlive** | Real-time market pulse | /market-moves/, /price-action/, /exchange-flows/, /macro-events/ | Active trader, on-chain analyst | Calm, data-first, no sensation | Short (<25w per sentence in flash pieces) |
 
 ---
 
@@ -61,7 +83,7 @@ If not, simplify.
 ---
 
 # 2. Coinwy
-**Identity:** Practical community hub -- tools, wallets, exchanges, strategies
+**Identity:** Balanced community hub -- tools, wallets, exchanges, dual-perspective reporting
 **Pillar:** /how-to/, /tools/, /wallets/, /exchanges/, /strategies/
 **Reader:** Active crypto user with 1-3 years of experience. Has a wallet, uses an exchange,
 wants to level up their setup. They are not new. They are optimizing.
@@ -606,6 +628,131 @@ The model is sequential, not parallel: the article gets written first, then the 
 reviews or contributes their section. Do not run all specialists at once -- that produces
 incoherent output with no unified voice.
 
+
+---
+
+# 11. CryptoDailyAlert
+**Identity:** Breaking news wire -- fast, precise, zero editorializing
+**Pillar:** /alerts/, /flash/, /briefs/
+**Tier-1 categories:** alerts, flash, briefs
+**Tier-2 examples:** alerts/market-moves, alerts/exchange-updates, alerts/regulation, alerts/on-chain, flash/price, flash/whales, flash/liquidations, flash/breaking, briefs/market, briefs/regulation, briefs/business, briefs/technology
+**Reader:** Traders and protocol operators who need signal, not narrative. They are already in the market.
+They check this site for the fastest confirmation of an event they just heard about on social media.
+
+## Voice
+Wire-service neutral. No adjectives that editorialize. No predictions. No hedging that wastes words.
+Every sentence states a fact or quotes a primary source. First sentence always carries the who + what.
+If it happened, say it. If it is alleged, say alleged. Never say "could," "might," or "may signal."
+
+## Sentence rhythm
+Short. One fact per sentence. Max 2 sentences per paragraph for breaking pieces.
+Briefs can run 3-5 sentences. Flash items are single-paragraph, under 60 words.
+Zero scene-setting openings. Lead with the event.
+
+## Structure
+- **Alerts:** headline + lede (who/what/when/where) + one context sentence + primary source attribution
+- **Flash:** single paragraph, confirmed price move or event, no interpretation
+- **Briefs:** 3-5 paragraphs, full fact set, source table at bottom, no commentary section
+
+## Vocabulary
+Use: confirmed, announced, according to, reported, rose, fell, reached, triggered, filed, approved, rejected, paused
+Avoid: surged, plummeted, exploded, massive, significant, bullish, bearish, could signal, may indicate, appears to
+
+## Signature moves
+- Always attribute: "according to [source]" or "per [on-chain data / official statement]"
+- Numbers before words: "$2.4B" not "billions of dollars"
+- Passive voice is acceptable when the actor is unknown -- do not manufacture an actor
+- Flag unconfirmed events as "(unconfirmed)" in the headline, not buried in body
+
+## Reader test
+Could a trading desk use this alert as the sole basis for a factual check without needing to go elsewhere?
+If the answer is no, a fact is missing or a phrase is editorializing.
+
+---
+
+# 12. DeFiLiban
+**Identity:** DeFi protocol deep-dive specialist
+**Pillar:** /protocols/, /yield/, /liquidity/, /risk/, /infrastructure/
+**Tier-1 categories:** protocols, yield, liquidity, risk, infrastructure
+**Tier-2 examples:** protocols/dex, protocols/lending, protocols/derivatives, protocols/stablecoins, protocols/governance, yield/staking, yield/farming, yield/strategies, liquidity/pools, liquidity/capital-flows, liquidity/amm, risk/exploits, risk/liquidations, risk/smart-contract, infrastructure/oracles, infrastructure/bridges, infrastructure/layer2
+**Reader:** DeFi practitioners -- yield farmers, protocol researchers, DAO contributors, on-chain analysts.
+They have used Uniswap, Aave, Curve. They understand impermanent loss. They want mechanism-level depth.
+
+## Voice
+Technical and precise, never academic. Like a senior protocol engineer reviewing a competitor's architecture --
+clinical about risk, specific about numbers, never vague about how something works.
+Opinion is present but earned: state the mechanism first, then the judgment.
+
+## Sentence rhythm
+Medium to long. Complex ideas need complete sentences, not fragments.
+Use subordinate clauses for mechanism chains: "Because X adjusts Y when Z, the protocol..."
+Short sentences for risk warnings and verdicts. Paragraph breaks after each mechanism or risk unit.
+
+## Structure
+- Open with the protocol's core mechanism -- what it optimizes and how
+- Mechanism table: input / output / constraint for each core function
+- Risk section: smart contract, liquidity, oracle, governance -- cover all four or note which are N/A
+- Comparable protocols section: one sentence per comparable, difference only
+- End with yield/risk trade-off summary, not a general conclusion
+
+## Vocabulary
+Use: liquidity pool, impermanent loss, collateralization ratio, slippage, oracle feed, governance weight,
+emissions schedule, veTokenomics, rebalancing, liquidation threshold, invariant, AMM, TVL
+Avoid: easy to use, beginner-friendly, simple, just, game-changing, revolutionary
+
+## Signature moves
+- Cite protocol docs or on-chain data for every numerical claim
+- Use mechanism notation: "when [condition], [protocol] [action] via [contract/function]"
+- Name the risk explicitly: "oracle manipulation risk," not "this could be exploited"
+- Distinguish protocol risk from market risk -- they are not the same
+
+## Reader test
+Would a protocol researcher find a factual error or an unsubstantiated claim?
+Would they learn the mechanism, not just the pitch?
+If either answer is no, rewrite.
+
+---
+
+# 13. Coinlive
+**Identity:** Real-time market pulse -- flash alert style
+**Pillar:** /market-moves/, /price-action/, /exchange-flows/, /macro-events/
+**Tier-1 categories:** market-moves, price-action, exchange-flows, macro-events
+**Tier-2 examples:** market-moves/bitcoin, market-moves/ethereum, market-moves/altcoins, price-action/breakouts, price-action/liquidations, price-action/volatility, exchange-flows/whales, exchange-flows/inflows, exchange-flows/outflows, exchange-flows/liquidations, macro-events/regulation, macro-events/institutions, macro-events/etf, macro-events/macro-data
+**Reader:** Active traders and on-chain analysts watching live market data. They have multiple screens open.
+They read this for fast context on a move they are already watching -- confirmation, not discovery.
+
+## Voice
+Tight, data-first, no warm-up. Every sentence advances the data picture.
+The tone is calm and observational -- not sensational about big moves, not dismissive about small ones.
+The reader is professional. Write accordingly.
+
+## Sentence rhythm
+Short and medium. No sentence above 25 words in a market-moves or price-action piece.
+Macro-events pieces can run longer for context. Exchange-flows pieces stay tightest.
+One data point per sentence. Two related data points can share a sentence with a comma.
+
+## Structure
+- **Market-moves:** price level + percentage + timeframe + volume context
+- **Price-action:** setup (level/zone) + trigger (event/threshold) + measured outcome (liquidations/flow)
+- **Exchange-flows:** net flow direction + asset + exchange + comparison to 30-day baseline
+- **Macro-events:** event + primary market reaction + relevant on-chain or derivatives confirmation
+
+## Vocabulary
+Use: inflows, outflows, net long, net short, open interest, funding rate, liquidations, support, resistance,
+breakout, compression, accumulation, distribution, spot premium, basis
+Avoid: moon, dump, FOMO, FUD, diamond hands, to the moon, historic, unprecedented (unless it genuinely is)
+
+## Signature moves
+- Lead with the number: "Bitcoin dropped 4.2% in 40 minutes as..."
+- Always include the timeframe: "over the past 4 hours," not "recently"
+- Exchange-flows articles include the net direction and a comparison: "highest net outflow in 30 days"
+- Macro-events articles close with one on-chain or derivatives data point as confirmation
+
+## Reader test
+Would a trader reading this mid-session get the full picture in under 30 seconds?
+Would they need to open another tab to understand what happened?
+If the answer to the second question is yes, a data point is missing.
+
 ---
 
 ## Specialist-to-site mapping
@@ -622,6 +769,9 @@ incoherent output with no unified voice.
 | **Tokentopnews** | `agentic-search-optimizer` | Narrative validity -- does the macro framing hold against real data? |
 | **AiCryptoCore** | `ai-engineer` | Technical stack accuracy -- layer-0/1/2 descriptions |
 | **NFTEnex** | `seo-specialist` + `aeo-foundations-architect` | Caption SEO + AIO extraction readiness before publish |
+| **CryptoDailyAlert** | `pr-communications-manager` | Source attribution audit -- every claim must have a named source or on-chain reference |
+| **DeFiLiban** | `investment-researcher` + `technical-writer` | Mechanism accuracy + risk classification (oracle/smart contract/liquidity/governance) |
+| **Coinlive** | `agentic-search-optimizer` | Data chain check -- metric -> exchange -> timeframe -> comparison baseline all present |
 
 ---
 
@@ -664,10 +814,12 @@ incoherent output with no unified voice.
    does not match the site's signature voice, keep the site voice and take only the factual correction.
 
 3. **Mandatory specialist before publish:**
-   - NFTEnex: marketing-seo-specialist (caption + AIO check)
-   - CCpress: pr-communications-manager (source audit)
-   - AiCryptoCore: engineering specialist (technical accuracy)
-   - Coincu / MarketBit: finance specialist (structural accuracy)
+   - NFTEnex: `seo-specialist` (caption + AIO check)
+   - CCpress: `pr-communications-manager` (source audit)
+   - AiCryptoCore: `ai-engineer` (technical accuracy)
+   - Coincu / MarketBit: `investment-researcher` (structural accuracy)
+   - CryptoDailyAlert: `pr-communications-manager` (source attribution)
+   - DeFiLiban: `technical-writer` (mechanism accuracy)
    - All others: optional but recommended for first article in a new category
 
 4. **Do not use a specialist to write the article** -- specialists review and correct.
