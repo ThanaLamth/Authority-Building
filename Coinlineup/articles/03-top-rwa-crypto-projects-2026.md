@@ -69,9 +69,9 @@ That last point matters most. RWA sounds safer than meme-coin speculation, but "
 
 Its best-known product is [USDY](https://ondo.finance/usdy), which is designed to pass through Treasury-style yield instead of just sitting flat like a normal dollar stablecoin such as the ones covered in our [stablecoin guide](../01-best-stablecoins-2026.md).
 
-That makes Ondo useful for users who want dollar stability plus yield, but it also makes the compliance layer impossible to ignore. A recurring theme in Reddit threads is that access feels more like regulated finance than open DeFi (crypto apps that run without a normal broker).
+That makes Ondo useful for users who want dollar stability plus yield, but it also makes the compliance layer impossible to ignore. A recurring theme in [this r/defi discussion about what DeFi users still want from the market](https://www.reddit.com/r/defi/comments/1m95ps4/whats_your_defi_want/) is that access still feels more like regulated finance than open DeFi (crypto apps that run without a normal broker).
 
-In one recent r/defi discussion, a user from the Caribbean complained that USDY geo-blocks and KYC hoops made it harder to access than meme coins. Another r/CryptoCurrency thread made the same point more neutrally, describing USDY as appealing precisely because Treasury yield is real, but still noting the jurisdiction and onboarding limits.
+In that same thread, a user from the Caribbean complained that USDY geo-blocks and KYC hoops made it harder to access than meme coins. Another commenter in [r/CryptoCurrency's discussion of the new generation of stablecoins](https://www.reddit.com/r/CryptoCurrency/comments/16ibnhy/the_new_generation_of_stablecoins_analysis_of_the/) made the same point more neutrally, describing USDY as appealing precisely because Treasury yield is real, but still noting the jurisdiction and onboarding limits.
 
 That tension is why Ondo ranks first here. It has one of the clearest products in the category, but it also shows exactly how fast RWA stops feeling open to everyone.
 
@@ -90,7 +90,7 @@ That tension is why Ondo ranks first here. It has one of the clearest products i
 
 If tokenized bonds, funds, or stablecoins are going to matter, someone has to verify reserves that sit outside the blockchain and move trusted data between chains. That is the layer where Chainlink keeps showing up through [Proof of Reserve](https://chain.link/proof-of-reserve) and CCIP.
 
-Reddit discussion around Chainlink's RWA role is usually less about using a product and more about why the rails matter. In one recent r/defi thread about RWA leaders, a commenter argued that regardless of who tokenizes the assets, they all end up needing Chainlink for verification. Another r/CryptoMarkets discussion made the same point with a practical example: tokenized assets only work if reserve backing can be checked reliably onchain.
+Reddit discussion around Chainlink's RWA role is usually less about using a product and more about why the rails matter. In [one recent r/defi thread about which RWA projects are really bridging TradFi and DeFi](https://www.reddit.com/r/defi/comments/1ite1l4/what_rwa_projects_are_bridging_the_tradfi_and/), a commenter argued that regardless of who tokenizes the assets, they all end up needing Chainlink for verification.
 
 That is the trade-off. Chainlink gives you infrastructure exposure to the theme, but not direct exposure to one Treasury or credit product.
 
@@ -109,7 +109,7 @@ That is the trade-off. Chainlink gives you infrastructure exposure to the theme,
 
 Its stablecoin system has spent years integrating Treasury exposure through vault structures and external managers. That makes the protocol one of the most battle-tested bridges between DeFi and offchain debt markets.
 
-Public user discussion around Maker's RWA side is less emotional than Ondo's because most users touch the stablecoin first and the collateral strategy second. In one MakerDAO thread, commenters framed the RWA arm as evidence that big capital still sees Maker's collateralized debt model as one of the strongest in crypto. Another RWA discussion in r/defi described Maker as the biggest protocol in the sector by a wide margin.
+Public user discussion around Maker's RWA side is less emotional than Ondo's because most users touch the stablecoin first and the collateral strategy second. In [one MakerDAO thread asking where the treasury comes from](https://www.reddit.com/r/MakerDAO/comments/1b2h8m5/where_does_the_treasury_come_from/), commenters framed the RWA arm as evidence that big capital still sees Maker's collateralized debt model as one of the strongest in crypto. Another comment in [r/defi's RWA bridge discussion](https://www.reddit.com/r/defi/comments/1ite1l4/what_rwa_projects_are_bridging_the_tradfi_and/) described Maker as the biggest protocol in the sector by a wide margin.
 
 The beginner problem is branding. If you arrive fresh, the Maker-to-Sky transition adds one more layer to an already technical system.
 
@@ -124,7 +124,7 @@ The beginner problem is branding. If you arrive fresh, the Maker-to-Sky transiti
 
 Instead of packaging Treasuries, it tokenizes assets like invoices, trade receivables, and other borrower-backed pools so DeFi capital can fund real businesses onchain.
 
-That makes the yield story more interesting, but also more fragile. In an older r/defi thread, one user said they liked Centrifuge because of the mission and the partnership overlap with Maker and Aave, while still noting that some pools were limited to accredited investors. That is a useful signal because it shows both the appeal and the gatekeeping.
+That makes the yield story more interesting, but also more fragile. In [an older r/defi thread about high-yield staking projects](https://www.reddit.com/r/defi/comments/s3ker6/the_best_high_yielding_staking_projects/), one user said they liked Centrifuge because of the mission and the partnership overlap with Maker and Aave, while still noting that some pools were limited to accredited investors. That is a useful signal because it shows both the appeal and the gatekeeping.
 
 The token side matters too. Centrifuge has long used loan-related fee flows and CFG incentives to coordinate the network, which gives the coin a role beyond simple speculation.
 
@@ -145,7 +145,7 @@ The platform is built around managed lending pools, structured credit, and count
 
 That professional focus is exactly why Maple can be useful in an RWA portfolio. It gives you exposure to a part of crypto lending that is trying to look disciplined and credit-aware instead of hype-driven.
 
-The risk is obvious in public discussion. Older but still relevant Reddit coverage around Maple's bad debt episode became a reminder that institutional branding does not erase underwriting risk. When unsecured or lightly protected lending goes wrong, the losses are very real.
+The risk is obvious in public discussion. [Reddit coverage of Maple Finance's $54 million sour-debt episode](https://www.reddit.com/r/CryptoCurrency/comments/zjoy0a/maple_finances_54m_of_sour_debt_shows_risks_of/) became a reminder that institutional branding does not erase underwriting risk. When unsecured or lightly protected lending goes wrong, the losses are very real.
 
 ![Maple Finance homepage showing institutional lending pools, RWA asset management, and MPL token governance](../media/03-maple-home-2026-07-16.png)
 
@@ -211,7 +211,7 @@ Still, it deserves a place here because yield-bearing RWA tokens become much mor
 
 It was built specifically for regulated securities, which means identity checks, permissioning, and compliance are not awkward add-ons. They are part of the design.
 
-That makes it different from almost every DeFi-native project. In Reddit discussion from the Polymath and Polymesh community, users repeatedly explain the project by stressing that security tokens mean actual ownership claims, not just another utility coin. Other commenters describe Polymesh as a hidden infrastructure play precisely because it is trying to solve the back-end compliance burden directly.
+That makes it different from almost every DeFi-native project. In [a PolymathNetwork thread on POLY and POLYX](https://www.reddit.com/r/PolymathNetwork/comments/rqja36/poly_and_polyx/), users repeatedly explain the project by stressing that security tokens mean actual ownership claims, not just another utility coin. Other commenters in [the broader PolymathNetwork community](https://www.reddit.com/r/PolymathNetwork/) describe Polymesh as a hidden infrastructure play precisely because it is trying to solve the back-end compliance burden directly.
 
 The limitation is also the selling point: this is specialized infrastructure. If you prefer open crypto apps, Polymesh will feel restrictive by design.
 
