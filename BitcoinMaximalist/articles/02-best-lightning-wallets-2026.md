@@ -89,6 +89,8 @@ When we reviewed the FAQ, the trust model is explained plainly: ACINQ operates t
 **Best for:** Most users who want self-custodial Lightning without node complexity.
 **Main tradeoff:** Depends on ACINQ's LSP for liquidity -- not fully trustless. Payment routing metadata is visible to ACINQ.
 
+**Community signal:** A [r/lightningnetwork thread on inbound liquidity in Phoenix](https://www.reddit.com/r/lightningnetwork/comments/1nn50yu/i_just_dont_understand_inbound_liquidity/) shows new users genuinely surprised by the fee model on first receive -- a real friction point Phoenix's design cannot fully abstract away. Worth knowing before recommending it to users who expect zero-surprise onboarding.
+
 ---
 
 ## Breez
@@ -99,7 +101,9 @@ Breez is strong for users who want Lightning payments with a more merchant- and 
 
 *Breez homepage, July 2026 -- payments-focused Lightning wallet and merchant integration posture confirmed.*
 
-The product page shows three distinct surface areas -- payments wallet, point-of-sale, and podcast streaming with value-for-value payments. That range of features is genuinely broader than Phoenix. We also confirmed that Breez uses an LSP model for channel management, which means the same trust tradeoffs around liquidity routing apply. What distinguishes Breez from Phoenix is product breadth, not custody model. If the use case is merchant acceptance or content-creator monetization via Lightning, Breez has more native feature coverage than any other wallet in this shortlist.
+The product page shows three distinct surface areas -- payments wallet, point-of-sale, and podcast streaming with value-for-value payments. That range of features is genuinely broader than Phoenix. We also confirmed that Breez uses an LSP model for channel management, which means the same trust tradeoffs around liquidity routing apply.
+
+What distinguishes Breez from Phoenix is product breadth, not custody model. If the use case is merchant acceptance or content-creator monetization via Lightning, Breez has more native feature coverage than any other wallet in this shortlist.
 
 ![Breez technology page showing LDK architecture, Greenlight infrastructure, and payment features](../media/breez-tech.png)
 
@@ -107,6 +111,8 @@ The product page shows three distinct surface areas -- payments wallet, point-of
 
 **Best for:** Payments and merchant use, podcast value-for-value workflows, users who want service integrations alongside Lightning.
 **Main tradeoff:** Less ideal if the goal is deeper node-level control or minimal third-party dependency.
+
+**Community signal:** In a [r/lightningnetwork wallet comparison thread](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/), Breez is ranked specifically as "best for podcasters/streaming sats" -- a consistent community signal that the product breadth is real but the audience is narrower than Phoenix or Zeus.
 
 ---
 
@@ -118,7 +124,9 @@ Zeus is the best choice for users who already run their own Lightning node. We n
 
 *Zeus homepage, July 2026 -- node-linked Lightning wallet and advanced control posture confirmed on public surface.*
 
-The interface exposes full channel management -- opening, closing, force-closing channels, routing fee control, and peer management. That is the control surface node operators want and most users do not need. We also confirmed that Zeus now offers an embedded node option for users who want stronger sovereignty without running a separate server, though this mode requires more technical comfort than LSP wallets. The positioning is clearly aimed at users who understand what a node is and why controlling one matters -- the UI shows raw Lightning data without abstracting it away.
+The interface exposes full channel management -- opening, closing, force-closing channels, routing fee control, and peer management. That is the control surface node operators want and most users do not need.
+
+We also confirmed that Zeus now offers an embedded node option for users who want stronger sovereignty without running a separate server, though this mode requires more technical comfort than LSP wallets. The positioning is clearly aimed at users who understand what a node is and why controlling one matters -- the UI shows raw Lightning data without abstracting it away.
 
 ![Zeus app page showing embedded node option and LND/Core Lightning backend compatibility](../media/zeus-app.png)
 
@@ -126,6 +134,8 @@ The interface exposes full channel management -- opening, closing, force-closing
 
 **Best for:** Users who run their own Lightning node and want direct control over channels, fees, and routing.
 **Main tradeoff:** Significantly more complex than LSP-based wallets for users without a node -- not a beginner recommendation.
+
+**Community signal:** The same [r/lightningnetwork wallet comparison thread](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/) ranks Zeus as "most powerful for advanced users" -- consistent with what the product surface signals, and a useful data point that the community consensus matches the positioning.
 
 ---
 
@@ -142,11 +152,15 @@ We reviewed the Blixt homepage and confirmed the LND-on-device architecture is t
 **Best for:** Technically engaged users who want a self-contained mobile Lightning node.
 **Main tradeoff:** Less stable than mature wallets -- not a production-grade daily driver for most users.
 
+**Community signal:** No qualifying r/lightningnetwork or r/Bitcoin thread focused specifically on Blixt was found within the past year. Its niche is well-understood among LND power users, but it has not generated mainstream discussion at the level of Phoenix or Zeus.
+
 ---
 
 ## What stood out once we looked at the actual wallet positioning
 
-What stood out immediately was not just custody. It was where each wallet puts friction. Phoenix tries to make self-custody usable without forcing the user to think like a node operator. Zeus does the opposite: it assumes that control is the point, which is a strength if you run your own stack, but a weakness if you just want smooth everyday spending. Breez sits closer to the payments end of the spectrum, which is useful for merchants, but less compelling for users who want deeper infrastructure control.
+What stood out immediately was not just custody. It was where each wallet puts friction. Phoenix tries to make self-custody usable without forcing the user to think like a node operator. Zeus does the opposite: it assumes that control is the point, which is a strength if you run your own stack, but a weakness if you just want smooth everyday spending.
+
+Breez sits closer to the payments end of the spectrum, which is useful for merchants, but less compelling for users who want deeper infrastructure control.
 
 That difference is not cosmetic. Even before a fully instrumented live test, the public flow already signals whether a wallet is optimized for onboarding, sovereignty, or node-linked control. That makes Phoenix stronger for users who want usable self-custody, but weaker for readers who want their wallet to feel like a direct node-control tool.
 
