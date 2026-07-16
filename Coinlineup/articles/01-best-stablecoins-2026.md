@@ -54,6 +54,10 @@ USDT dominates in markets where people need to escape a weak local currency fast
 
 They are both dollar stablecoins. They serve genuinely different populations.
 
+One thread summed it up: *"The holding part works. The spending part still forces people back into the same broken rails."* ([source](https://www.reddit.com/r/CryptoCurrency/comments/1sd734r/nigeria_is_ranked_1_in_global_usdt_and_usdc/))
+
+That gap -- holding a dollar stablecoin vs. actually spending it -- is the real frontier right now.
+
 **Community signal:** [r/CryptoCurrency -- Nigeria leads globally in USDT and USDC ownership, ahead of the US and UK](https://www.reddit.com/r/CryptoCurrency/comments/1sd734r/nigeria_is_ranked_1_in_global_usdt_and_usdc/). The thread explains why inflation-driven stablecoin adoption looks different from Western crypto adoption -- and why USDT reaches places USDC does not.
 
 **Community signal:** [r/CryptoCurrency -- stablecoin market tripled from $100B to $300B in one year, USDT holds 62% share, USDC 25%](https://www.reddit.com/r/CryptoCurrency/comments/1ssh7sg/the_stablecoin_market_tripled_from_100b_to_300b/). Regulatory clarity from the GENIUS Act, MiCA, and Hong Kong's Stablecoin Ordinance drove the institutional entry that accelerated the growth.
@@ -92,6 +96,8 @@ It is what shows up when a DAO pays a contributor. It is what most DeFi protocol
 
 The practical difference from USDT is not performance. It is trust framing. USDC feels like the one your accountant would accept. USDT feels like the one your trader friend prefers.
 
+A crypto insider who spent eight years at Circle, Coinbase, and Crossmint wrote on r/CryptoCurrency: *"Almost none of the original thesis happened. But something else did."* ([source](https://www.reddit.com/r/CryptoCurrency/comments/1t6djf8/ive_worked_in_crypto_for_8_years_circle_messari/)) What happened was infrastructure -- and USDC became the stablecoin that runs on top of it.
+
 **Best for:** First-time stablecoin users, payments, mainstream wallet use.
 **Not ideal for:** Users who want a fully decentralized stablecoin model.
 
@@ -119,6 +125,10 @@ The second use case is transfers. In Vietnam, Indonesia, Nigeria, and Turkey, US
 
 Someone in Lagos sends money to a supplier in Dubai. A bank transfer takes three days and costs 3-5%. A USDT transfer on Tron takes two minutes and costs less than a dollar. That gap is why USDT dominates in emerging markets.
 
+One r/CryptoCurrency post: *"When your currency loses 20-40% a year, stablecoins become the practical way to protect savings."* ([source](https://www.reddit.com/r/CryptoCurrency/comments/1sd734r/nigeria_is_ranked_1_in_global_usdt_and_usdc/))
+
+That is not a crypto trader. That is someone managing real financial risk.
+
 **Best for:** Active traders, moving value across exchanges.
 **Not ideal for:** Users who want the clearest reserve story.
 
@@ -143,6 +153,8 @@ DAI is what you find when you go deeper into DeFi. Not at the start. After.
 You have been using USDC for a few months. You learn that a company in San Francisco is controlling whether that dollar exists. That bothers you. You look for an alternative. Someone mentions DAI.
 
 DAI is backed by crypto locked in a smart contract. No bank. No company. The code holds the collateral, not a person. That makes it more complex. It also makes it the stablecoin that DeFi protocols trust most for their own liquidity.
+
+A recurring argument on r/ethereum: *"We need better decentralized stablecoins -- ones that don't depend on a company keeping money in a bank."* ([source](https://www.reddit.com/r/ethereum/comments/1n0m2ax/we_need_better_decentralized_stablecoins/)) DAI is not perfect. But it is the most tested answer to that demand.
 
 **Best for:** DeFi learners, users moving beyond exchange basics.
 **Not ideal for:** Beginners who just want a simple stable dollar.
@@ -213,6 +225,10 @@ The honest version of this is: USDe pays you a return. That is the entire reason
 It is popular on Bybit and on Pendle, a protocol where you can trade future yield. Crypto-native users hold it specifically because it earns. A regular bank savings account earns almost nothing. USDe earns more.
 
 But the yield comes from a derivatives strategy. When the derivatives market goes against the strategy, the yield drops -- or disappears. That is not a flaw they forgot to fix. It is how the product works.
+
+One r/CryptoCurrency user: *"My bank gives me 4%. Inflation is 7%. How is this good?"* ([source](https://www.reddit.com/r/CryptoCurrency/comments/1p6bq3b/my_bank_gives_me_4_inflation_is_7_how_is_this_good/))
+
+That frustration is why USDe gets attention. A savings account is also losing to inflation. The question is which risk you prefer.
 
 **Best for:** Advanced users who understand synthetic stablecoin risk.
 **Not ideal for:** Anyone looking for a simple, safe stable dollar.
