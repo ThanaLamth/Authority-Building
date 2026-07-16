@@ -17,6 +17,8 @@ This guide evaluated the top tools for data accuracy, setup friction, and analyt
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, workflow framing, and positioning of the shortlisted tools. Where a claim still depends on a paid tier, a logged-in workflow, or a deeper side-by-side test, we keep that limit explicit instead of pretending it was fully verified.
 
+**Quick take:** **Dune** for open queries, **Arkham** for wallet investigation, and **Glassnode** for cycle-level market data.
+
 ## Quick comparison
 
 Here is how the top tools shape up for different research workflows:

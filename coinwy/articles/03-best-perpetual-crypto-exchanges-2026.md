@@ -17,6 +17,8 @@ This guide tested the leading CEX and DEX perpetual platforms for fee transparen
 >
 > This article is based on live product pages, public market positioning, and current research reviewed in July 2026. We directly reviewed the public trading surfaces, product framing, and derivatives posture of the shortlisted venues. Where a claim still depends on logged-in access, regional availability, or a real order-placement test, we keep that limit explicit instead of overstating what was tested.
 
+**Quick take:** **Hyperliquid** for self-custody perps, **Binance Futures** for deep liquidity, and **Deribit** for options-led hedging.
+
 ## Quick comparison
 
 Here is how the top perpetual platforms shape up for different strategies:

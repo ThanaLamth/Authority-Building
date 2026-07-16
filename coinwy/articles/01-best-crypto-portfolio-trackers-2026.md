@@ -17,6 +17,8 @@ This guide tested the leading options for setup friction, DeFi visibility, and s
 >
 > This article is based on live product pages and current public documentation reviewed in July 2026. We directly checked the public product surfaces, positioning, and supported workflow claims of the shortlisted tools. Where a claim still depends on a logged-in sync test, tax export, or full end-to-end portfolio import, we keep that limitation explicit instead of pretending it was fully verified.
 
+**Quick take:** **Zerion/DeBank** for wallet-first portfolios, **CoinStats** for exchange plus wallet syncing, and **Koinly** for tax reporting.
+
 ## Quick comparison
 
 Here is how the top tools shape up for different tracking needs:
