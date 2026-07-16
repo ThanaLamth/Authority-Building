@@ -28,20 +28,14 @@ Here is how the top tools shape up for different tracking needs:
 | **Zerion** | Wallet-first DeFi users | Excellent mobile wallet tracking | No exchange API sync | 2/10 |
 | **DeBank** | Onchain power users | Deep protocol and address intelligence | Friendly only for crypto-natives | 1/10 |
 | **CoinGecko Portfolio** | Manual tracking | Simple, no connection required | No transaction syncing | 6/10 |
+| **Kubera** | Full net-worth view | Combines traditional and crypto assets | Expensive for crypto-only use | 4/10 |
+| **Koinly** | Tax reporting | Imports transactions and prepares tax reports | Reconciliation takes manual work | 7/10 |
 
-## Visual evidence from our July 2026 review
+The screenshots below show the public surfaces we could inspect without connecting accounts. Authenticated sync quality, tax exports, and account-level coverage still need a logged-in test.
 
-![CoinStats homepage captured during our July 2026 review of crypto portfolio trackers.](../media/coinstats-home-2026-07-13.png)
+![CoinStats homepage showing wallet and exchange connection options.](../media/coinstats-home-2026-07-13.png)
 
 *CoinStats homepage, July 2026 -- web interface showing direct wallet and exchange connection options before sign-in.*
-
-![Delta by eToro homepage captured during our July 2026 review of portfolio tracking tools.](../media/delta-home-2026-07-13.png)
-
-*Delta by eToro homepage, July 2026 -- landing screen highlighting multi-asset tracking capabilities for stocks and crypto.*
-
-![Zerion homepage captured during our July 2026 review of wallet-first portfolio tools.](../media/zerion-home-2026-07-13.png)
-
-*Zerion homepage, July 2026 -- wallet explorer dashboard highlighting support for Solana and multiple EVM chains.*
 
 ---
 
@@ -53,7 +47,7 @@ CoinStats is the most direct answer if you want to track exchange accounts and s
 
 * **Friction score:** 3/10. The initial connection is fast. But you will spend time fixing transaction labels if you move funds frequently.
 * **Not recommended for:** Users who want zero sync maintenance or deep tax optimization.
-* **Reddit user feedback:** In a [r/CryptoCurrency thread about the CoinStats security incident](https://www.reddit.com/r/CryptoCurrency/comments/1dm903k/coinstats_app_hacked_sent_out_a_notification/), users discussed the mitigation of an attack that targeted wallets created directly within CoinStats. While CEX APIs and externally connected wallets were not impacted, the community discussion highlighted the risk of using built-in software wallets over external self-custody options.
+On Reddit, a [r/CryptoCurrency thread about the CoinStats security incident](https://www.reddit.com/r/CryptoCurrency/comments/1dm903k/coinstats_app_hacked_sent_out_a_notification/) discussed an attack that targeted wallets created directly within CoinStats. CEX APIs and externally connected wallets were not impacted, but the discussion still highlighted the risk of using built-in software wallets instead of external self-custody options.
 
 ---
 
@@ -65,7 +59,11 @@ Delta is the cleanest option if your crypto is just one part of a broader invest
 
 * **Friction score:** 5/10. Connecting major exchanges is straightforward. But if you have smaller tokens or use niche wallets, you will end up typing transactions manually.
 * **Not recommended for:** Heavy DeFi users or onchain yield farmers.
-* **Reddit user feedback:** In an early [r/CryptoCurrency thread introducing Delta's desktop client](https://www.reddit.com/r/CryptoCurrency/comments/80naqt/delta_released_their_cryptocurrency_portofolio/), users highlighted the visual polish of the product but noted initial sync bugs where currency preferences (like GBP) incorrectly converted on transfer to desktop. The developers active on the thread resolved the issue, cementing Delta's reputation for responsive team support.
+On Reddit, an early [r/CryptoCurrency thread introducing Delta's desktop client](https://www.reddit.com/r/CryptoCurrency/comments/80naqt/delta_released_their_cryptocurrency_portofolio/) praised the visual polish but reported sync bugs where currency preferences such as GBP converted incorrectly during desktop transfers. Developers active on the thread resolved the issue, which gives Delta a useful record of responsive support.
+
+![Delta by eToro homepage showing a multi-asset portfolio tracking interface.](../media/delta-home-2026-07-13.png)
+
+*Delta by eToro homepage, July 2026 -- a landing screen built around tracking stocks and crypto in one portfolio.*
 
 ---
 
@@ -77,7 +75,11 @@ Zerion is built for users who keep their funds in self-custody. You do not conne
 
 * **Friction score:** 2/10. You just paste an address. No logins, no API keys, and no passwords required to view your public data.
 * **Not recommended for:** Centralized exchange traders or users with legacy stock assets.
-* **Reddit user feedback:** In a [r/CryptoCurrency DeFi wallet breakdown](https://www.reddit.com/r/CryptoCurrency/comments/mdjsrj/defi_explained_defi_wallets/), users pointed to Zerion as a top non-custodial interface for interacting with protocols like Uniswap and Aave. Commenters emphasized that managing your own keys via Zerion's wallet explorer avoids middleman risk, though it requires users to take full responsibility for their recovery phrases.
+On Reddit, a [r/CryptoCurrency DeFi wallet breakdown](https://www.reddit.com/r/CryptoCurrency/comments/mdjsrj/defi_explained_defi_wallets/) pointed to Zerion as a useful interface for protocols such as Uniswap and Aave. Users also stressed the trade-off: keeping control of your keys removes a middleman, but leaves recovery-phrase responsibility with you.
+
+![Zerion homepage showing a wallet-first DeFi portfolio surface.](../media/zerion-home-2026-07-13.png)
+
+*Zerion homepage, July 2026 -- a wallet explorer dashboard for multichain assets and DeFi positions.*
 
 ---
 
@@ -89,7 +91,11 @@ DeBank is the rawest and most powerful wallet explorer for DeFi. It tracks proto
 
 * **Friction score:** 1/10. Paste your address and you are done. The dashboard populates instantly.
 * **Not recommended for:** Traditional finance tracking or heavy centralized exchange users.
-* **Reddit user feedback:** In a [r/CryptoCurrency warning about contract vulnerabilities](https://www.reddit.com/r/CryptoCurrency/comments/r82ows/after_the_badger_dao_hack_everyone_should_get_in/), users strongly recommended using DeBank to track and revoke active smart contract approvals. The thread highlighted DeBank's utility in showing exactly which third-party protocols have permissions to transfer assets from your address, making it a critical security tool after high-profile exploits.
+On Reddit, a [r/DeFi discussion about portfolio trackers](https://www.reddit.com/r/defi/comments/1hl12kl/portfolio_trackers/) called DeBank "far and away the best DeFi portfolio tracker," while another user said it does not cover every pool. That split matches the live product impression: fast and deep for supported protocols, but not a complete accounting system.
+
+![DeBank public homepage showing its wallet and DeFi analytics product surface.](../media/debank-home-2026-07-16.png)
+
+*DeBank public homepage, July 2026 -- a wallet and DeFi analytics surface built around address-level positions rather than exchange accounts.*
 
 ---
 
@@ -101,7 +107,11 @@ If you do not want to connect your wallets or exchanges to a third-party app, Co
 
 * **Friction score:** 6/10. You have to enter every trade yourself. If you trade daily, this is not a realistic workflow.
 * **Not recommended for:** High-volume traders or users who want direct balance updates.
-* **Reddit user feedback:** Users on r/CryptoCurrency recommend CoinGecko for privacy-conscious holders who only stack a few major assets and do not want to risk API security leaks or wallet association.
+![CoinGecko support homepage captured while checking the public portfolio product surface.](../media/coingecko-portfolio-2026-07-16.png)
+
+*CoinGecko support homepage, July 2026 -- the accessible support surface confirms where users can look for product help, but it does not prove portfolio sync behavior.*
+
+The manual workflow is also the point Reddit users keep coming back to. In a [r/CryptoCurrency thread about CoinGecko portfolio performance](https://www.reddit.com/r/CryptoCurrency/comments/mzu02o/coingecko_portfolio_performance/), one user said the portfolio was easy to use but did not show enough information over time. Another used it mainly for a quick balance estimate, not a full performance record.
 
 ---
 
@@ -109,11 +119,17 @@ If you do not want to connect your wallets or exchanges to a third-party app, Co
 
 **Our pick for:** Broader net-worth context.
 
-Kubera is a paid service built to track your entire net worth, including bank accounts, real estate, brokerage accounts, and crypto. It syncs with major banks via Plaid and connects to several crypto venues. It is a clean choice if you want a complete balance sheet.
+Kubera is a paid service built to track your entire net worth, including bank accounts, real estate, brokerage accounts, and crypto. It syncs with major banks via Plaid and connects to several crypto venues. The workflow makes more sense for a household balance sheet than for a wallet-only dashboard.
+
+The useful distinction is refreshable coverage across different asset types. You can review cash, brokerage accounts, alternative assets, and crypto in one place, but that convenience depends on the quality of each account connection.
 
 * **Friction score:** 4/10. Syncing traditional accounts takes a few minutes. Crypto wallet connections are simple but limited to major chains.
 * **Not recommended for:** Active DeFi users who need real-time smart contract visibility.
-* **Reddit user feedback:** Users note that Kubera is excellent for estate planning and overall net worth tracking, but the annual subscription cost is high if you only use it for crypto.
+On Reddit, the original poster in a [r/personalfinance thread about Kubera](https://www.reddit.com/r/personalfinance/comments/10t3i1k/anyone_using_kubera/) liked hitting refresh and having multiple aggregators populate the balance sheet, while commenters questioned the price. A separate [r/Fire comparison](https://www.reddit.com/r/Fire/comments/1i0lfbr/i_tried_every_net_worth_tracking_app_so_you_dont/) rated it good for alternative assets but limited for crypto, with sync issues as the main complaint.
+
+![Kubera homepage showing its net-worth tracking product surface.](../media/kubera-home-2026-07-16.png)
+
+*Kubera homepage, July 2026 -- a net-worth dashboard positioned across bank, brokerage, property, and crypto accounts.*
 
 ---
 
@@ -121,11 +137,17 @@ Kubera is a paid service built to track your entire net worth, including bank ac
 
 **Our pick for:** Tax-first reporting.
 
-If your primary goal is tax filing and cost basis calculation, a dashboard tracker is rarely enough. Koinly is built specifically to import transaction history, reconcile transfers, and generate tax forms for multiple jurisdictions.
+If your primary goal is tax filing and cost basis calculation, a dashboard tracker is rarely enough. Koinly is built specifically to import transaction history, reconcile transfers, and generate tax reports for multiple jurisdictions. It belongs at the end of the tracking stack, after your wallet and exchange history is complete.
+
+The first pass is not glamorous: import the accounts, let Koinly match transfers, then inspect the exceptions. That extra review is where the tool earns its place, because an attractive dashboard cannot repair missing cost-basis data by itself.
 
 * **Friction score:** 7/10. Normalizing years of cross-chain swaps and exchange withdrawals takes significant work. You will spend hours fixing missing purchase prices.
 * **Not recommended for:** Daily portfolio monitoring or real-time price alerts.
-* **Reddit user feedback:** On tax subreddits, Koinly is widely recommended for its integration count and reporting output, though users warn that cross-chain bridge transactions almost always require manual adjustment to prevent incorrect tax calculations.
+On Reddit, users in a [r/ethereum comparison of crypto tax tools](https://www.reddit.com/r/ethereum/comments/1251rr6/koinly_vs_cointracker_vs_coinledger_whats_the/) described Koinly as their choice for Canadian taxes and said they liked the product, while still calling the price unpleasant. Another commenter said Koinly is stronger for international tax use, a useful distinction from US-focused alternatives.
+
+![Koinly homepage showing its crypto tax reporting product surface.](../media/koinly-home-2026-07-16.png)
+
+*Koinly homepage, July 2026 -- tax software built around transaction imports, reconciliation, and reporting rather than live portfolio monitoring.*
 
 ---
 
@@ -141,6 +163,8 @@ If you are setting up your tracking stack today, start simple:
 1. Use **Zerion** or **DeBank** if your assets are mostly in metamask or phantom wallets.
 2. Use **CoinStats** if you need to merge three exchange accounts and two wallets into one mobile dashboard.
 3. Link a dedicated layer like **Koinly** at the end of the year to handle your tax calculations.
+
+But here is what to watch for: every tracker becomes less trustworthy when transfers, bridges, or unsupported wallets enter the picture, so keep the original exchange exports and wallet history outside the app.
 
 ## FAQ
 
@@ -160,4 +184,5 @@ No, Zerion is an onchain-only explorer. You will need a tool like CoinStats or D
 * [Zerion DeFi Wallet](https://zerion.io/)
 * [DeBank Wallet Explorer](https://debank.com/)
 * [CoinGecko Portfolio](https://www.coingecko.com/en/portfolio)
+* [Kubera Net Worth Tracker](https://www.kubera.com/)
 * [Koinly Crypto Tax](https://koinly.io/)
