@@ -40,24 +40,24 @@ To maintain transparency, we define the exact limits of our testing:
 - **Verified**: We navigated the public web and mobile applications, evaluated signup requirements, verified available fiat rails, and checked official licensing registries.
 - **Not Verified**: We did not deposit local fiat (IDR or THB), execute trades, test live order book spreads, or process fiat withdrawals. 
 
-Our findings rely heavily on public product behavior and verified user feedback from regional crypto communities.
+Our findings combine public product behavior, official licensing references, and public user discussions from Reddit. We treat those Reddit comments as qualitative user experience evidence, not as verified platform performance data.
 
 ## Quick Comparison of the Top Southeast Asia Crypto Exchanges
 
 | Exchange | Primary Market | Local Fiat & Payment Rails | App Availability | Regulatory License | Main Trade-off |
 |---|---|---|---|---|---|
-| **Pintu** | Indonesia | IDR (Bank Transfer, GoPay, OVO, ShopeePay, Dana) | iOS & Android | Bappebti (Indonesia) | High instant-buy spread; lacks advanced charting tools |
-| **Indodax** | Indonesia | IDR (Bank Transfer, Virtual Accounts, e-wallets) | iOS, Android, Web | Bappebti (Indonesia) | Outdated UI/UX; app lags during high-volatility events |
-| **Bitkub** | Thailand | THB (Bank QR Code, Bank Transfer) | iOS, Android, Web | SEC Thailand | Flat 0.25% trading fee; history of system outages under heavy traffic |
-| **Binance TH** | Thailand | THB (Mobile Banking QR Code) | iOS, Android, Web | SEC Thailand | Restricted asset list; no derivatives or futures trading |
-| **Tokocrypto** | Indonesia | IDR (Virtual Accounts, GoPay) | iOS, Android, Web | Bappebti (Indonesia) | Occasional payment rail maintenance; virtual account delays |
+| **Pintu** | Indonesia | IDR (Bank Transfer, e-wallet routes) | iOS & Android | PFAK license issued by Bappebti; now under OJK transition | Simple app flow; pricing should be checked against order-book exchanges |
+| **Indodax** | Indonesia | IDR (Bank Transfer, Virtual Accounts) | iOS, Android, Web | PFAK license listed by Bappebti; now under OJK transition | Strong local liquidity; interface is less beginner-oriented |
+| **Bitkub** | Thailand | THB (Bank QR Code, Bank Transfer) | iOS, Android, Web | Licensed by Thailand's Ministry of Finance; regulated by SEC Thailand | Local THB convenience; trading and withdrawal fees need checking |
+| **Binance TH** | Thailand | THB (bank funding) | iOS, Android, Web | Operated by Gulf Binance under Thai SEC and Ministry of Finance supervision | Local Binance route; product scope differs from Binance Global |
+| **Tokocrypto** | Indonesia | IDR (Virtual Accounts, bank routes) | iOS, Android, Web | PFAK license issued by Bappebti; now under OJK transition | Better trading-style flow; bank-route reliability still matters |
 
 ## How We Evaluated Southeast Asia Exchanges
 
 Our evaluation prioritizes:
 - **Fiat rails practicality**: How easily a retail user can deposit and withdraw local currencies like IDR and THB.
 - **Mobile optimization**: Whether the mobile apps provide stable navigation and clear deposit interfaces for mobile-first users.
-- **Regulatory alignment**: Clear licensing status with local agencies such as Bappebti in Indonesia and the SEC in Thailand.
+- **Regulatory alignment**: Clear licensing or supervision status with local agencies such as OJK/Bappebti in Indonesia and the SEC in Thailand.
 - **Everyday liquidity**: Sufficient order book depth for retail-sized spot purchases of major assets.
 
 ## What We Checked Ourselves
@@ -113,7 +113,7 @@ Pintu targets mobile-first beginners in Indonesia by presenting a clean interfac
 - Wide buy/sell spreads compared to order-book exchanges.
 - Lacks advanced technical indicators and order types.
 
-In popular retail discussion spaces like [r/indonesia](https://reddit.com/r/indonesia/comments/1buk1iv), users regularly praise Pintu's clean layout and fast deposit speeds. However, experienced traders on Reddit advise against using the app for frequent trading due to its high spread costs, noting that the instant-buy model charges a premium compared to peer-to-peer or order-book platforms. This trade-off makes Pintu an efficient entry point, but it leaves unresolved whether retail investors will look for cheaper alternatives once they start trading larger volumes.
+A practical pattern appears in Indonesian Reddit discussions: users often mention Pintu alongside Tokocrypto and Indodax as local routes that can connect crypto activity back to Indonesian bank accounts. In a [r/indonesia thread about Coinbase access from Indonesia](https://www.reddit.com/r/indonesia/comments/s1dkyj/coinbase_indonesia/), one user advised using local exchanges such as Tokocrypto, Indodax, Pintu, or Luno because they support direct bank deposit and withdrawal. In a separate [discussion about converting foreign currency to IDR](https://www.reddit.com/r/indonesia/comments/tjw8nj/convert_uang_asing_ke_idr_dalam_jumlah_besar/), users compared Pintu with Tokocrypto on cost. That makes Pintu a useful first account for IDR access, but it leaves unresolved whether larger-volume users will eventually move to cheaper order-book routes.
 
 ### Indodax
 
@@ -128,7 +128,7 @@ As one of the oldest crypto platforms in Indonesia, Indodax offers deep rupiah l
 - Outdated mobile interface that feels cluttered.
 - Occasional order execution lag during high-volume events.
 
-Active traders on [r/indonesia](https://reddit.com/r/indonesia/comments/1btnjjw) frequently debate Indodax's technical stability. While users appreciate the depth of its order books, they often report that the interface feels slow during major market swings, sometimes leading to delayed trades. These performance issues raise a persistent concern about whether Indodax can upgrade its legacy architecture fast enough to match the speed of newer, cloud-native apps entering the ASEAN market.
+Indodax's strongest user-side case is liquidity. In an older but still useful [r/indonesia daily discussion](https://www.reddit.com/r/indonesia/comments/mm6r5h/08_april_2021_daily_chat_thread/), a user described Indodax as the strongest IDR on/off-ramp because its IDR pairs had better volume and liquidity than smaller local alternatives. That kind of user feedback fits the platform's role in Indonesia: Indodax may not feel as clean as newer mobile apps, but traders still care about whether local order books can absorb larger IDR trades when market volatility rises.
 
 ### Bitkub
 
@@ -143,7 +143,7 @@ Bitkub dominates the Thai crypto market, providing the primary liquidity hub for
 - Flat 0.25% trading fee is higher than global standards.
 - Past issues with server downtime during peak bull runs.
 
-A review of discussions on [r/Thailand](https://reddit.com/r/Thailand/comments/18na7m4) shows that while Thai users rely on Bitkub for its unmatched THB fiat gateway, they remain highly critical of its trading fees. Redditors point out that a 0.25% flat fee eats into trading profits compared to global platforms charging less than half that rate. This pricing model keeps Bitkub highly profitable, but it invites speculation on whether the exchange will lower its fees as cheaper, regulated competitors launch in Thailand.
+Thai Reddit discussions show why Bitkub remains important even when users criticize its costs. In a [r/Thailand thread about moving crypto into Thai baht](https://www.reddit.com/r/Thailand/comments/pgcqbs/what_is_the_best_way_to_get_crypto_from_my_wallet/), users described Bitkub as reliable and easy for linked Thai bank accounts, while also noting that its 0.25% trading fee is higher than Binance. Another [r/Thailand discussion about Bitkub and Satang](https://www.reddit.com/r/Thailand/comments/n8ykp9/hi_does_anyone_has_any_experiences_with_bitkub_or/) highlighted instant Thai bank withdrawals and QR deposits, but also warned that registration can take time when new-user demand rises. The THB rail remains the draw, but pricing and KYC friction leave room for regulated competitors.
 
 ### Binance TH
 
@@ -156,9 +156,9 @@ Binance TH is a regulated joint venture between Gulf Energy and Binance, designe
 
 **Trade-offs:**
 - Token selection is limited by Thai SEC regulations.
-- Lacks advanced Binance products like Futures, options, and high-yield staking.
+- Product scope may be narrower than Binance Global, so futures, token listings, and yield products need direct checking.
 
-On [r/Thailand](https://reddit.com/r/Thailand/comments/k045gt), users frequently share their experiences comparing Binance TH with the global Binance platform. Many express disappointment that the Thai version lacks futures contracts and limits token listings to comply with local laws. This regulatory alignment shields Thai traders from compliance actions, but it leaves open the question of whether active traders will eventually return to VPN-accessed offshore platforms to find broader trading options.
+Binance TH solves a different problem from Binance Global. Binance TH says eligible users can fund accounts from Thai bank accounts, while Thai Reddit users still frame local platforms mainly as fiat on-ramps and off-ramps. In a recent [r/Thailand trading discussion](https://www.reddit.com/r/Thailand/comments/1sxm3zq/trading_crypto_in_thailand/), one user noted that Binance TH can be used if the user has the required documents. That makes the regulated route clearer for Thai residents, but active traders still need to check which assets and order types Binance TH currently supports before assuming global-platform parity.
 
 ### Tokocrypto
 
@@ -167,13 +167,13 @@ Tokocrypto is an established Indonesian exchange backed heavily by Binance, usin
 **Best for:**
 - Indonesian traders seeking low maker-taker fees.
 - Users who want smooth integrations with Binance accounts.
-- Retail buyers who need official tax reporting for crypto transactions.
+- Retail buyers who want clearer local records for crypto transactions.
 
 **Trade-offs:**
 - Frequent virtual account maintenance windows.
 - Complex account migration steps for legacy users.
 
-Reddit users on [r/indonesia](https://reddit.com/r/indonesia/comments/1c2ptrp) generally rank Tokocrypto as the best local option for active trading, pointing to its low fee structure and clean order book display. However, several comments highlight occasional delays when transferring funds via virtual banking channels during peak hours. This routing reliance on local commercial banks represents a continuous vulnerability, especially as Indonesian tax laws on digital assets continue to evolve.
+Tokocrypto appears repeatedly in Indonesian Reddit threads as a practical local exchange rather than only as a brand name. In the [Coinbase Indonesia discussion](https://www.reddit.com/r/indonesia/comments/s1dkyj/coinbase_indonesia/), users pointed readers toward Tokocrypto, Indodax, Pintu, and Luno because local bank routes matter more than Coinbase-style global access. In a [thread about sending money from Canada to Indonesia](https://www.reddit.com/r/indonesia/comments/1kig896/cheapest_simplest_way_to_send_money_from_canada/), one user said they used Tokocrypto for crypto payments from overseas work before converting to IDR. That supports Tokocrypto's use case as a practical IDR bridge, but bank-route reliability and Indonesia's OJK transition still need fresh checks before large transfers.
 
 ## Country-by-Country Notes for ASEAN Users
 
@@ -181,10 +181,10 @@ Reddit users on [r/indonesia](https://reddit.com/r/indonesia/comments/1c2ptrp) g
 Vietnam remains a leading market for retail crypto activity, but users rely almost exclusively on global platforms like Binance, OKX, and Bybit due to the lack of licensed domestic retail exchanges. Most transactions occur via peer-to-peer (P2P) bank transfers in Vietnamese Dong (VND). While Vietnam's draft regulatory frameworks aim to define digital assets, the current absence of licensed local exchanges keeps retail investors exposed to P2P counterparty risks.
 
 ### Indonesia
-Indonesia operates a strict licensing regime under Bappebti. If you transact in IDR, you must use local exchanges like Pintu, Tokocrypto, or Indodax to comply with local laws and access direct bank virtual accounts. These local entities handle automated tax withholding, simplifying compliance but adding a small cost burden to every transaction.
+Indonesia's crypto oversight has shifted from Bappebti toward OJK, while Bappebti-issued PFAK licenses remain important historical license markers. If you transact in IDR, local platforms such as Pintu, Tokocrypto, or Indodax usually offer clearer bank-routing and local compliance context than offshore-only exchanges. Users should still check current OJK guidance and platform fee pages before assuming tax treatment or withdrawal limits.
 
 ### Thailand
-Thailand provides a highly structured environment overseen by the SEC. Registered platforms like Bitkub and Binance TH are fully regulated, making THB bank transfers highly secure and efficient. However, this tight oversight limits the availability of speculative products, forcing Thai traders to choose between local compliance and offshore features.
+Thailand provides a highly structured environment overseen by the SEC and Ministry of Finance licensing framework. Platforms such as Bitkub and Binance TH operate inside that local framework, which makes THB bank transfers more straightforward than offshore-only routes. However, this oversight can limit product scope, forcing Thai traders to choose between local compliance and broader offshore features.
 
 ### Singapore
 Singapore is the financial hub of the region, and its regulator, MAS, enforces strict anti-money laundering rules. The market favors institutional and accredited investors, meaning retail users face high onboarding barriers and limited local exchange choices compared to neighboring markets.
@@ -211,7 +211,7 @@ When selecting a platform in Southeast Asia, evaluate these operational realitie
 - **Tax withholding rules**: Understand how the platform handles local transaction taxes.
 - **Customer support access**: Verify whether the exchange provides local language support for rapid dispute resolution.
 
-Focusing on these parameters ensures that your capital remains accessible when you need to exit a position quickly.
+Focusing on these parameters helps you judge whether a platform can support your normal exit route when market conditions change quickly.
 
 ## FAQ
 
@@ -234,7 +234,16 @@ Yes, regulated regional exchanges often charge higher fees (such as Bitkub’s 0
 - Bitkub, [official site](https://www.bitkub.com/)
 - Binance TH, [official site](https://www.binance.th/)
 - Tokocrypto, [official site](https://www.tokocrypto.com/)
-- Community discussions on [r/indonesia](https://reddit.com/r/indonesia) and [r/Thailand](https://reddit.com/r/Thailand)
+- Reddit, [Coinbase Indonesia discussion on local exchange access](https://www.reddit.com/r/indonesia/comments/s1dkyj/coinbase_indonesia/)
+- Reddit, [r/indonesia discussion on converting foreign currency to IDR](https://www.reddit.com/r/indonesia/comments/tjw8nj/convert_uang_asing_ke_idr_dalam_jumlah_besar/)
+- Reddit, [r/indonesia discussion on crypto wallets and local exchanges](https://www.reddit.com/r/indonesia/comments/vk5w70/pengalaman_atau_review_wallet_krypto_di_indonesia/)
+- Reddit, [r/Thailand discussion on Bitkub and Thai bank withdrawals](https://www.reddit.com/r/Thailand/comments/pgcqbs/what_is_the_best_way_to_get_crypto_from_my_wallet/)
+- Reddit, [r/Thailand discussion on Bitkub and Satang Pro](https://www.reddit.com/r/Thailand/comments/n8ykp9/hi_does_anyone_has_any_experiences_with_bitkub_or/)
+- Reddit, [r/Thailand discussion on trading crypto in Thailand](https://www.reddit.com/r/Thailand/comments/1sxm3zq/trading_crypto_in_thailand/)
+- OJK, [Bappebti transfers regulation and supervision duties to OJK and BI](https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI.aspx)
+- Bappebti, [licensed physical crypto asset traders list](https://bappebti.go.id/pedagang_aset_kripto)
+- SEC Thailand, [digital asset business operators framework](https://www.sec.or.th/EN/pages/lawandregulations/digitalassetbusiness.aspx)
+- Binance TH, [official FAQ on Thai licensing](https://www.binance.th/en/faq/binance-th-activities/5422dacb5b6e46e09a75d3b9711f7817)
 
 ## Related Internal Links
 
