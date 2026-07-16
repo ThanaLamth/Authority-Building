@@ -89,7 +89,7 @@ When we reviewed the FAQ, the trust model is explained plainly: ACINQ operates t
 **Best for:** Most users who want self-custodial Lightning without node complexity.
 **Main tradeoff:** Depends on ACINQ's LSP for liquidity -- not fully trustless. Payment routing metadata is visible to ACINQ.
 
-**Community signal:** A [r/lightningnetwork thread on inbound liquidity in Phoenix](https://www.reddit.com/r/lightningnetwork/comments/1nn50yu/i_just_dont_understand_inbound_liquidity/) shows new users genuinely surprised by the fee model on first receive -- a real friction point Phoenix's design cannot fully abstract away. Worth knowing before recommending it to users who expect zero-surprise onboarding.
+One user on r/lightningnetwork [spent 1,200 words trying to understand why Phoenix charged a fee on their very first receive](https://www.reddit.com/r/lightningnetwork/comments/1nn50yu/i_just_dont_understand_inbound_liquidity/): "I can't just receive those sats! Phoenix charges me '1%, plus mining fees, plus a one-time 1,000 Sat channel creation fee'?! DO WHAT?!" The replies explained the inbound liquidity mechanics clearly -- and one commenter noted that Phoenix is still "the most convenient" self-custodial option they had tried. Both halves of that conversation are true: the fee model is genuinely confusing on first encounter, and the alternative is doing all of that channel management yourself.
 
 ---
 
@@ -112,7 +112,7 @@ What distinguishes Breez from Phoenix is product breadth, not custody model. If 
 **Best for:** Payments and merchant use, podcast value-for-value workflows, users who want service integrations alongside Lightning.
 **Main tradeoff:** Less ideal if the goal is deeper node-level control or minimal third-party dependency.
 
-**Community signal:** In a [r/lightningnetwork wallet comparison thread](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/), Breez is ranked specifically as "best for podcasters/streaming sats" -- a consistent community signal that the product breadth is real but the audience is narrower than Phoenix or Zeus.
+In a [r/lightningnetwork post where someone ran through seven Lightning wallets](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/), Breez landed last in the list specifically because the use case is narrow: "best for podcasters/streaming sats." That is not a weak review -- it is a precise one. Breez was not built to be everything; it was built for a payments-and-podcasting stack that most Lightning wallet reviewers barely touch. If that is your workflow, no other wallet in this shortlist is better equipped for it.
 
 ---
 
@@ -135,7 +135,7 @@ We also confirmed that Zeus now offers an embedded node option for users who wan
 **Best for:** Users who run their own Lightning node and want direct control over channels, fees, and routing.
 **Main tradeoff:** Significantly more complex than LSP-based wallets for users without a node -- not a beginner recommendation.
 
-**Community signal:** The same [r/lightningnetwork wallet comparison thread](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/) ranks Zeus as "most powerful for advanced users" -- consistent with what the product surface signals, and a useful data point that the community consensus matches the positioning.
+In the same [r/lightningnetwork wallet comparison thread](https://www.reddit.com/r/lightningnetwork/comments/1rr3g9z/i_did_a_deep_dive_of_the_7_best_lightning_wallets/), Zeus ranked fourth overall and was described as "most powerful for advanced users" -- behind Phoenix for self-custody purists, not because it is weaker, but because most users do not run a node. A commenter in the same thread mentioned Bitbanana as an alternative "with feature parity with Zeus" that gets less coverage. Worth knowing if the goal is node-linked control and you want to shop the space before deciding.
 
 ---
 
@@ -152,7 +152,7 @@ We reviewed the Blixt homepage and confirmed the LND-on-device architecture is t
 **Best for:** Technically engaged users who want a self-contained mobile Lightning node.
 **Main tradeoff:** Less stable than mature wallets -- not a production-grade daily driver for most users.
 
-**Community signal:** No qualifying r/lightningnetwork or r/Bitcoin thread focused specifically on Blixt was found within the past year. Its niche is well-understood among LND power users, but it has not generated mainstream discussion at the level of Phoenix or Zeus.
+Blixt does not generate the kind of Reddit discussion Phoenix or Zeus does -- the user base is small, technically self-selecting, and mostly sharing build notes in GitHub issues rather than r/lightningnetwork threads. That absence is itself a signal: this is a tool for people who already know what an embedded LND node means and why they want one. If you are still reading product reviews to decide, Blixt is probably not the right starting point.
 
 ---
 

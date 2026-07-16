@@ -100,7 +100,7 @@ When we went through the quick-start documentation, the first step is key genera
 **Best for:** Advanced self-custody users, multisig setups, air-gapped signing workflows.
 **Main tradeoff:** Higher learning curve than most competing devices -- the setup documentation assumes familiarity with PSBT and watch-only wallets.
 
-**Community signal:** A [r/Bitcoin thread on Coldcard's open-standards pairing model](https://www.reddit.com/r/Bitcoin/comments/1s8pn2d/coldcard_built_on_open_standards/) highlights community preference for Sparrow and Blue Wallet as companion wallets -- a sign that advanced users treat Coldcard as the signing layer in a broader software stack, not a standalone tool.
+One user on r/Bitcoin [described exactly this pairing in practice](https://www.reddit.com/r/Bitcoin/comments/1s8pn2d/coldcard_built_on_open_standards/): "Some of my favorites is sparrow and blue wallet" -- a response to a post about Coldcard's open-standards model that drew nods from others running similar setups. A different user in the same thread described stripping the wireless card from an old netbook, installing Linux and Sparrow, and pairing it with Coldcard for what they called the same level of security at nearly zero cost. That pairing pattern -- Coldcard as the signing layer, Sparrow as the coordination surface -- comes up consistently when r/Bitcoin users describe their actual production setups.
 
 ---
 
@@ -131,7 +131,7 @@ When we loaded the setup documentation, the onboarding path is clearly documente
 **Best for:** Value-focused Bitcoin users who want strong security without premium pricing.
 **Main tradeoff:** Blind oracle PIN introduces a server dependency -- read the documentation before relying on it for meaningful balances.
 
-**Community signal:** A [r/Bitcoin thread comparing Bitcoin-only hardware wallets](https://www.reddit.com/r/Bitcoin/comments/1qqnna6/what_is_the_recommended_btc_only_hardware_wallet/) lists Jade Plus alongside Coldcard and BitBox02 as a recommended open-source option -- with the Jade Classic cited as the most accessible entry point for users moving away from Ledger.
+In a [r/Bitcoin thread where someone was ditching Ledger for a Bitcoin-only device](https://www.reddit.com/r/Bitcoin/comments/1qqnna6/what_is_the_recommended_btc_only_hardware_wallet/), one experienced commenter ran through six open-source options and landed Jade Plus in the same tier as Coldcard Q and BitBox02. The OP replied "I'm leaning more with Blockstream Jade tbh" -- a response that reflects what actually moves buyers at that price point. One dissenting voice in the same thread said they tried Jade Plus and found the blind oracle setup "cumbersome" and the buttons "a pain." Both reactions are worth knowing before recommending it.
 
 ---
 
@@ -156,7 +156,7 @@ That accessibility is genuine, not a compromise on security. We navigated the Bi
 **Best for:** Beginners who still want a quality device, users who want the least friction in self-custody setup.
 **Main tradeoff:** Less raw feature depth than Coldcard for advanced workflows -- not the right tool for complex multisig or scripting use cases.
 
-**Community signal:** In a [r/Bitcoin self-custody thread](https://www.reddit.com/r/Bitcoin/comments/1n6ttha/op_moved_to_self_custody/), a user who moved from exchange to cold storage chose BitBox02 as a budget-to-security fit -- with community replies specifically recommending the Bitcoin-only edition and pairing with Sparrow or Electrum over the default companion app.
+One user on r/Bitcoin [posted that they had moved to cold storage after three years](https://www.reddit.com/r/Bitcoin/comments/1n6ttha/op_moved_to_self_custody/) and chose BitBox02 specifically because Coldcard was out of reach on budget. "I know coldcard is the GOAT but as per my requirement and budget, Bitbox was the best fit." The replies pushed back on one thing: they had bought the multi-edition instead of Bitcoin-only. "You got the shitcoin version = more lines of code, more attack vectors," wrote one commenter. A second told them to ditch the companion app entirely and pair with Sparrow or Electrum instead. Both are honest corrections that affect how the device should be set up.
 
 ---
 
@@ -181,7 +181,7 @@ We navigated the Foundation Devices documentation at docs.foundationdevices.com 
 **Best for:** Users who want premium build quality, open-source hardware, and a more intuitive air-gapped experience than Coldcard.
 **Main tradeoff:** Higher price point than Jade or BitBox02.
 
-**Community signal:** No qualifying r/Bitcoin thread focused specifically on Passport was found within the past year. The Foundation Devices product page and documentation are the recommended primary sources for pre-purchase research.
+Community discussion specifically on Passport is sparse relative to Coldcard, Jade, and BitBox02 -- no qualifying r/Bitcoin thread from the past year focused on actual user experience with Foundation Devices' product. The documentation at docs.foundationdevices.com is where the honest pre-purchase research lives.
 
 ---
 
@@ -206,7 +206,7 @@ The software build process is well-documented and the project is actively mainta
 **Best for:** DIY and multisig tinkerers, users who want component-level transparency and stateless signing.
 **Main tradeoff:** Not a plug-and-play product -- requires component sourcing, assembly, and comfort with DIY hardware and software builds.
 
-**Community signal:** A [r/Bitcoin thread on DIY seed generation with SeedSigner](https://www.reddit.com/r/Bitcoin/comments/1s87mqm/made_my_own_seed_phrase/) shows a user combining the BIP39 word list and SeedSigner's checksum calculation for fully offline, component-verified key generation -- the kind of workflow SeedSigner is built for, and one that no commercial device can replicate at the same trust level.
+A user on r/Bitcoin [posted a detailed account of how they generated a seed phrase](https://www.reddit.com/r/Bitcoin/comments/1s87mqm/made_my_own_seed_phrase/) using SeedSigner alongside physical BIP39 word cards -- 2048 words printed and cut out, 23 chosen by hand from a box, the 24th checksum calculated by SeedSigner offline. "I also verified seedsigner os before running it on the seedsigner hardware," they wrote. "This should be the best trustless way to generate a seed phrase." The thread pushed back on a few entropy details but validated the core approach. No commercial device supports this kind of end-to-end physical verification.
 
 ---
 

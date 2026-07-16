@@ -90,6 +90,8 @@ The pricing page lays out free and premium tiers clearly, and the product docume
 **Best for:** Self-directed multisig users who want modern coordination tools without service dependency.
 **Main tradeoff:** Requires real understanding of multisig setup -- not a beginner product.
 
+On r/Bitcoin, [someone asked specifically about Nunchuk's Iron Hand service](https://www.reddit.com/r/Bitcoin/comments/1uc2by4/nunchuk_iron_hand_multisig/) and got two candid replies from users who had worked with the product. One described Nunchuk as "possibly the best for mobile" and said it was "run by great Bitcoiners" -- while noting they had only used the DIY collaborative multisig path, not the managed Iron Hand tier. Another called the interface "cleaner than most alternatives" and singled out the inheritance and recovery setup as what makes it stand apart. That combination -- mobile-first, credible with the technical crowd, strong on recovery -- is consistent with what the product surface shows.
+
 ---
 
 ## Sparrow Wallet
@@ -117,6 +119,8 @@ The documentation site separately covers setup guides, multisig wallet creation 
 **Best for:** Advanced users who want full visibility into every transaction and maximum hardware-wallet compatibility.
 **Main tradeoff:** Steeper learning curve than consumer-facing products.
 
+In a [r/Bitcoin thread encouraging self-custody users to run their own nodes](https://www.reddit.com/r/Bitcoin/comments/1n8sp5p/how_many_people_on_this_sub_run_their_own_nodes/), the recommended stack was exactly what you would expect from experienced holders: Bitcoin Core or Knots as the node, Sparrow as the wallet interface, hardware device connected to Sparrow. "Download bitcoinknots or bitcoincore > let it run > download sparrow > connect your sparrow to your own nodes > connect your hardware wallet to the sparrow. That is it," wrote one commenter. That setup -- Sparrow as the coordination layer between node and device -- comes up consistently in r/Bitcoin when the conversation is about maximizing sovereignty rather than minimizing friction.
+
 ---
 
 ## Casa
@@ -137,6 +141,8 @@ The pricing page confirms that higher-tier plans include dedicated key recovery 
 
 **Best for:** Users who want managed multisig with strong support and guided key recovery.
 **Main tradeoff:** Recovery depends partly on Casa's infrastructure -- not fully self-sovereign.
+
+Community discussion around Casa tends to show up in the context of inheritance planning and high-value custody rather than everyday wallet comparisons. The product's co-founder Jameson Lopp is a visible presence in Bitcoin security research, which gives the company credibility that most managed multisig products do not have. That said, no qualifying r/Bitcoin thread with firsthand Casa user experience was found in the past year -- most Casa discussion happens in premium communities and direct support channels, which is consistent with the product's audience.
 
 ---
 
@@ -159,6 +165,8 @@ The financial services layer -- including Bitcoin-collateralized loans -- is pre
 **Best for:** Users who want collaborative custody, structured recovery support, and Bitcoin-native financial services.
 **Main tradeoff:** Partial trust in Unchained's operations required.
 
+In a [r/Bitcoin thread comparing Bitcoin-backed loan providers](https://www.reddit.com/r/Bitcoin/comments/1qpjn45/bitcoin_backed_loans_more_and_more_options/), Unchained was described as "true multisig" -- and then immediately flagged for two specific gaps: a $10k minimum and the fact that it "still doesn't integrate with Jade or Foundation for signing devices." That second point is the kind of detail that matters when someone is building a long-term custody stack around particular hardware. The collaborative custody model is structurally sound, but the hardware compatibility gap means some users will need to confirm their signer setup works with Unchained before committing.
+
 ---
 
 ## Multisig is not automatically safer unless the setup matches the user
@@ -167,7 +175,7 @@ The core mistake in multisig marketing is ignoring human failure. A 2-of-3 or 3-
 
 The right way to judge a multisig wallet is to ask what happens when something goes wrong. If a device dies, can the user recover? If one signer is lost, can funds still move safely? If the vendor disappears, can the user migrate to another coordinator without rebuilding the whole stack?
 
-These questions matter more than branding. They are the difference between robust custody and decorative complexity. They also connect directly to the choice of [hardware wallets](/bitcoin-guides/wallets/best-bitcoin-hardware-wallets-2026/) that sit underneath the setup.
+These questions matter more than branding. They are the difference between genuine custody and decorative complexity. They also connect directly to the choice of [hardware wallets](/bitcoin-guides/wallets/best-bitcoin-hardware-wallets-2026/) that sit underneath the setup.
 
 ## What stood out once we looked at the actual multisig positioning
 
