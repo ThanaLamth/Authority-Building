@@ -487,3 +487,256 @@ Exceptions: blockquotes, captions, tables, lists, headings.
 ## Word filter (run before every commit)
 Scan article files for the banned word list above.
 Fix all hits. Confirm 0 matches before pushing.
+
+---
+
+# Writing craft rules (from source reading)
+
+These three rules apply across all 10 sites. They address gaps between "what the style guide defines"
+and "what good writing actually does at the sentence and paragraph level."
+
+---
+
+## Rule 1: Tension carry (Stein On Writing)
+
+Every section must leave one thread unresolved before closing.
+This is not a cliffhanger. It is the reader's reason to keep moving.
+
+**How it works:**
+At the end of each platform section, comparison block, or analytical paragraph,
+do not summarize what was just said. Instead, open the next question.
+
+Good: "That restraint felt earned -- but it raises a harder question about what happens when the audience outgrows the product."
+Bad: "Overall, DappRadar is a strong choice for orientation-focused users."
+
+**Site-specific application:**
+- NFTEnex: tension in verdict paragraph -- "That is a strength if... It is a weakness if..."
+- CCpress: end each section with the unresolved consequence, not the settled verdict
+- Coincu: "What this changes" section carries the tension forward
+- Tokentopnews: "What breaks the thesis" section is the required tension carry
+- Coinlineup, Coinwy: even beginner articles need a "but here is what to watch for" before closing each section
+- MarketBit: "What to watch" with a specific threshold is the tension mechanism
+- BitcoinMaximalist: security failure modes at the end of each product section
+- Kanalcoin: the unresolved question is always local regulatory change -- flag it
+- AiCryptoCore: the skepticism paragraph at the end of each project section
+
+**Test:** Read the last sentence of each section. Does it close everything down, or does it open something?
+If it closes everything, rewrite the last sentence.
+
+---
+
+## Rule 2: Subject-verb-object clarity (The Sense of Style -- Pinker)
+
+The verb is the most important word in a sentence.
+Do not bury it. Do not nominalize it. Do not replace it with a noun phrase.
+
+**The buried verb problem:**
+Bad: "The implementation of the wallet connection feature resulted in a reduction of friction."
+Good: "The wallet connection reduced friction."
+
+Bad: "There is a strong case to be made for the argument that Nansen provides superior wallet intelligence."
+Good: "Nansen tracks wallet flows better than any other tool in this list."
+
+**The nominalization problem (turning verbs into nouns):**
+Bad: "We conducted an investigation into..." -- Good: "We investigated..."
+Bad: "The platform provides support for..." -- Good: "The platform supports..."
+Bad: "There is a need for..." -- Good: "Teams need..."
+
+**Site-specific pressure:**
+- MarketBit: highest risk of buried verbs because quantitative writing tempts passive construction.
+  Every metric sentence must name the actor: not "funding rates were observed to decline" but "funding rates fell."
+- Coincu: institutional voice tempts nominalization. Every paragraph: find the real verb.
+- CCpress: passive voice is banned for named actors. "FTX collapsed" not "FTX's collapse was announced."
+- All sites: run a quick verb check before finalizing any section. Find the main verb of each sentence.
+  If it is buried after 8+ words of subject phrase, restructure.
+
+**Test:** Circle the main verb in each sentence. If it took more than 4 words to reach it, restructure.
+
+---
+
+## Rule 3: First-reaction capture, then shape (Writing Down the Bones -- Goldberg + Zen in the Art of Writing -- Bradbury)
+
+The experience paragraph, the verdict, and the "what stood out" observation
+must be written from the first honest reaction -- then edited for precision.
+Never write those sections by first asking "what should I say about this product?"
+
+**The wrong process:**
+1. Open product
+2. Think: "What is the professionally correct observation about this?"
+3. Write a paragraph that sounds like an observation but is actually a safe generalization
+
+**The right process:**
+1. Open product -- navigate it for 60 seconds
+2. Write the first thing that is actually true about the experience, no filter
+3. Then shape that for the target site's voice and word limit
+
+**Why this matters:**
+Generic content fails not because it is wrong but because it is pre-filtered.
+Readers who use NFT minting tools every week can feel when a review was written by someone
+who noticed something real vs. someone who assembled expected observations.
+Bradbury's "jump out of bed and step on the landmine" is about this:
+the interesting sentence is the one that surprises the writer first.
+
+**Site-specific application:**
+- NFTEnex: experience paragraphs MUST start from a real reaction ("Landing on Thirdweb felt...")
+  not a structural observation ("Thirdweb's homepage displays three main sections...")
+- CCpress: the opening sentence of every article should be the thing that actually surprised the journalist
+- Tokentopnews: "what the market is debating" should come from a real tension noticed in the data, not a label
+- AiCryptoCore: the "real vs narrative" callout should come from a genuine moment of skepticism, not a performance of skepticism
+- Coinlineup, Coinwy: even utility writing has a moment of honest judgment -- don't filter it out
+- BitcoinMaximalist: the signing model explanation should start from why the writer found it interesting
+
+**Test:** Read the first sentence of each experience paragraph or verdict.
+Does it tell you something the writer actually noticed? Or does it tell you what category of thing to notice?
+If it is the second, throw it out and start again from what was genuinely true.
+
+---
+
+---
+
+# Specialist agent integration
+
+## When to call a specialist agent
+
+This network's articles span 10 different domains. No single writing approach covers all of them.
+The agency-agents framework (https://github.com/msitarzewski/agency-agents) provides
+domain-specialist agents that can be invoked when the work enters their territory.
+
+The model is sequential, not parallel: the article gets written first, then the relevant specialist
+reviews or contributes their section. Do not run all specialists at once -- that produces
+incoherent output with no unified voice.
+
+---
+
+## Specialist-to-site mapping
+
+| When writing for... | Agent slug (`~/.codex/agents/*.toml`) | For what |
+|---|---|---|
+| **Coinlineup** | `content-creator` | Beginner-language check -- flag jargon the reader may not know |
+| **Coinwy** | `content-creator` | Clarity check -- does each tool section give the reader a clear next action? |
+| **Kanalcoin** | `china-market-localization-strategist` | Local market framing -- fiat rails, regulation, platform availability |
+| **BitcoinMaximalist** | `technical-writer` | Security model accuracy -- signing, backup, multisig descriptions |
+| **CCpress** | `pr-communications-manager` | Source quality -- are named-actor claims defensible and cited? |
+| **Coincu** | `investment-researcher` | Structural accuracy -- issuer type, access model, risk framing |
+| **MarketBit** | `investment-researcher` | Data chain validity -- metric -> mechanism -> implication |
+| **Tokentopnews** | `agentic-search-optimizer` | Narrative validity -- does the macro framing hold against real data? |
+| **AiCryptoCore** | `ai-engineer` | Technical stack accuracy -- layer-0/1/2 descriptions |
+| **NFTEnex** | `seo-specialist` + `aeo-foundations-architect` | Caption SEO + AIO extraction readiness before publish |
+
+---
+
+## How to invoke a specialist mid-article
+
+### Trigger phrases (add to your prompt when switching domain):
+
+**SEO / AIO layer (any site before publishing):**
+> "Invoke marketing-seo-specialist: review the captions and meta description for keyword density,
+> extractable facts, and AIO citation readiness."
+
+**Technical accuracy (AiCryptoCore, BitcoinMaximalist):**
+> "Invoke engineering specialist: check whether the technical description of [project/product]
+> is accurate at the layer level. Flag anything that is vague or unverifiable."
+
+**Financial structure (Coincu, MarketBit):**
+> "Invoke finance specialist: review the product structure section for [fund/product].
+> Confirm issuer type, access model, and risk framing are accurate and not misleading."
+
+**Local market (Kanalcoin):**
+> "Invoke localization specialist: check whether the [country] section correctly represents
+> local fiat rails, regulation status, and platform availability. Flag Western assumptions."
+
+**Investigative sourcing (CCpress):**
+> "Invoke PR/communications specialist: audit the named-actor claims in this article.
+> Identify any statement that needs a primary source before publication."
+
+**Content accessibility (Coinlineup):**
+> "Invoke content-creator specialist: read this article as a crypto beginner.
+> Flag any sentence that assumes knowledge the reader may not have."
+
+---
+
+## Specialist call rules
+
+1. **One specialist per review pass** -- calling multiple specialists in one pass dilutes focus.
+   Finish one specialist's review, implement changes, then call the next if needed.
+
+2. **The specialist reviews, the site voice decides** -- if a specialist suggests language that
+   does not match the site's signature voice, keep the site voice and take only the factual correction.
+
+3. **Mandatory specialist before publish:**
+   - NFTEnex: marketing-seo-specialist (caption + AIO check)
+   - CCpress: pr-communications-manager (source audit)
+   - AiCryptoCore: engineering specialist (technical accuracy)
+   - Coincu / MarketBit: finance specialist (structural accuracy)
+   - All others: optional but recommended for first article in a new category
+
+4. **Do not use a specialist to write the article** -- specialists review and correct.
+   The article is written by the site's voice first. Specialists sharpen, not replace.
+
+---
+
+## Installed agents index (agency-agents 2026-07-16)
+
+All 248 agents installed as TOML in `~/.codex/agents/`. Key agents for this 10-site content workflow:
+
+| Task | Agent slug | TOML file |
+|---|---|---|
+| SEO caption review | `seo-specialist` | seo-specialist.toml |
+| AIO / AEO readiness | `aeo-foundations-architect` | aeo-foundations-architect.toml |
+| Agentic search optimization | `agentic-search-optimizer` | agentic-search-optimizer.toml |
+| AI citation strategy | `ai-citation-strategist` | ai-citation-strategist.toml |
+| Reddit community research | `reddit-community-builder` | reddit-community-builder.toml |
+| General content creation | `content-creator` | content-creator.toml |
+| Book-style co-authoring | `book-co-author` | book-co-author.toml |
+| PR / sourcing audit | `pr-communications-manager` | pr-communications-manager.toml |
+| Financial accuracy review | `investment-researcher` | investment-researcher.toml |
+| AI/tech stack accuracy | `ai-engineer` | ai-engineer.toml |
+| Technical writing clarity | `technical-writer` | technical-writer.toml |
+| Trend / data research | `trend-researcher` | trend-researcher.toml |
+| Localization (SEA/MENA) | `china-market-localization-strategist` | china-market-localization-strategist.toml |
+| Brand voice consistency | `brand-guardian` | brand-guardian.toml |
+
+List all: `Get-ChildItem ~/.codex/agents/*.toml | Select-Object Name`
+
+Source repo: https://github.com/msitarzewski/agency-agents (cloned 2026-07-16)
+
+---
+
+## Agent format reference (for creating custom specialists)
+
+If a needed specialist does not exist in the agency-agents roster, create one using this format:
+
+`markdown
+---
+name: [Specialist Name]
+description: [One-line specialty and focus]
+color: "#hexcode"
+emoji: [emoji]
+vibe: [One-line personality hook]
+---
+
+# [Specialist Name]
+
+## Identity and Memory
+- Role: [what this specialist does]
+- Perspective: [what domain experience shapes their judgment]
+- Critical knowledge: [what they know that general writers don't]
+
+## Core Mission
+- [Primary review responsibility 1]
+- [Primary review responsibility 2]
+- [What they flag vs what they approve]
+
+## Critical Rules
+1. [Non-negotiable standard 1]
+2. [Non-negotiable standard 2]
+3. [When to reject vs when to suggest]
+
+## Communication Style
+- Flag issues as: BLOCK (must fix before publish) | SUGGEST (improves quality) | NOTE (awareness only)
+- Always cite the specific line or claim being flagged
+- Never rewrite in a different site voice -- correct facts, not voice
+`
+
+Custom specialists for this network should be stored in:
+docs/specialists/ within the Authority-Building repo.
