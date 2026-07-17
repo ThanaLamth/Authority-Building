@@ -40,7 +40,7 @@ Kraken, Coinbase, and Binance all announced European USDT delistings in the same
 
 The pattern was not simply about compliance. It was about competitive positioning. Circle obtained the necessary authorisation for USDC and EURC to operate as compliant EMTs in Europe. Tether did not pursue the same authorisation path. That strategic divergence determined which stablecoin kept its European distribution access.
 
-When Kraken delisted USDT and four other stablecoins for its European Economic Area clients, a [thread in r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/1ifalt1/kraken_will_delist_usdt_and_four_other_stablecoins/) captured the community's read precisely: "USDC is MiCA compliant. USDC is also backed  USD : 1 USDC. If Tether was willing to do the same thing it would be MiCA compliant as well." And then, separately: "Tether: no. I don't think I will." That exchange -- blunt as it is -- accurately maps the regulatory and strategic divergence driving European stablecoin market share shifts.
+When Kraken delisted USDT and four other stablecoins for its European Economic Area clients, a [thread in r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/1ifalt1/kraken_will_delist_usdt_and_four_other_stablecoins/) captured the community's read precisely: "USDC is MiCA compliant. USDC is also backed  USD : 1 USDC. If Tether was willing to do the same thing it would be MiCA compliant as well." And then, separately: "Tether: no. I don't think I will." That exchange, blunt as it is, accurately maps the regulatory and strategic divergence driving European stablecoin market share shifts.
 
 ## What MiCA requires from issuers
 
