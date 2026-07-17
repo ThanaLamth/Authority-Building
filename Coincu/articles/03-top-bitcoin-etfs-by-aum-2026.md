@@ -1,263 +1,154 @@
-# Top Bitcoin ETFs by AUM in 2026: The Funds That Still Dominate the Category
+---
+title: "Top Bitcoin ETFs by AUM in 2026: Structure, Fee Posture, and Category Role Compared"
+slug: /analysis/etf/top-bitcoin-etfs-by-aum-2026
+category: /analysis/etf
+primary_keyword: top bitcoin etfs by aum 2026
+meta_description: "Top Bitcoin ETFs by AUM in 2026 compared by issuer structure, fee posture, distribution strength, and category role. Covers IBIT, FBTC, GBTC, ARKB, BITB, and more."
+last_updated: 2026-07-17
+featured_image: ../media/ibit-blackrock-2026-07-17.png
+featured_image_alt: BlackRock iShares Bitcoin Trust ETF product page, the leading US spot Bitcoin ETF by AUM, captured July 2026
+---
 
-Last updated: 2026-07-10
+# Top Bitcoin ETFs by AUM in 2026: Structure, Fee Posture, and Category Role Compared
 
-Suggested category: /analysis/etf
+The Bitcoin ETFs that matter most by AUM in 2026 are BlackRock IBIT, Fidelity FBTC, and Grayscale GBTC in the first tier, followed by ARK 21Shares ARKB, Bitwise BITB, VanEck HODL, WisdomTree BTCW, Invesco Galaxy BTCO, Franklin EZBC, and Valkyrie BRRR in the competitive second tier. IBIT alone accounts for more than half the category's AUM, a concentration pattern that became structurally entrenched within twelve months of the January 2024 spot ETF approvals.
 
-Suggested slug: /analysis/etf/top-bitcoin-etfs-by-aum-2026
+This comparison covers the leading funds by issuer structure, fee posture, custodian arrangement, and the market role each one occupies beyond the raw AUM number.
 
-Primary keyword: top bitcoin etfs by aum 2026
+## Quick structural comparison
 
-Meta description: Top Bitcoin ETFs by AUM in 2026: compare the funds that dominate the category, what AUM does and does not tell you, and why the leaders still matter.
+| Fund | Ticker | Issuer | Approx. AUM (mid-2026) | Management fee | Custodian | Primary distribution |
+|------|--------|--------|-------------------------|----------------|-----------|----------------------|
+| iShares Bitcoin Trust | IBIT | BlackRock | ~+ | 0.25% (0.12% promotional) | Coinbase Custody | Advisor platforms, institutions |
+| Wise Origin Bitcoin Fund | FBTC | Fidelity | ~+ | 0.25% | Fidelity Digital Assets | Fidelity retail + advisor |
+| Bitcoin Trust ETF | GBTC | Grayscale | ~+ | 1.50% | Coinbase Custody | Secondary market legacy holders |
+| Bitcoin ETF | ARKB | ARK 21Shares | ~+ | 0.21% | Coinbase Custody | Thematic ARK investor base |
+| Bitcoin ETF | BITB | Bitwise | ~+ | 0.20% | Coinbase Custody | Crypto-specialist retail |
+| Bitcoin ETF | HODL | VanEck | ~.5B+ | 0.20% | Gemini Custody | Broad ETF platform |
+| Bitcoin Fund | BTCW | WisdomTree | ~.5B+ | 0.25% | Coinbase Custody | Institutional ETF platform |
+| Galaxy Bitcoin ETF | BTCO | Invesco Galaxy | ~.5B+ | 0.25% (0.00% promotional period) | Coinbase Custody | Invesco distribution network |
+| Bitcoin ETF | EZBC | Franklin | ~.5B+ | 0.19% | Coinbase Custody | Franklin Templeton advisor network |
+| Bitcoin Fund | BRRR | Valkyrie | ~.5B+ | 0.25% | Coinbase Custody | Specialty crypto ETF distribution |
 
-If you are comparing Bitcoin ETFs in 2026, the real problem is not finding the biggest funds. The real problem is understanding what AUM tells you, what it hides, and why wrapper trust still shapes flows.
+*AUM figures are approximate as of mid-2026 and subject to daily change. Source: public issuer disclosures and ETF flow data.*
 
-That is why this guide compares AUM leadership with fee posture, distribution strength, and category role. The important thing is not which ticker wins one headline week. The important thing is which funds have become the default vehicles for real capital. The same wrapper-versus-asset distinction also shows up in [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026), which makes the two pages natural internal-link companions.
+## Analytical framework
 
-> Why you can trust this guide
->
-> This guide is based on live public fund surfaces and official references reviewed on July 10, 2026. We directly checked issuer positioning, public fund pages, and the visible leadership pattern across ETF references. Anything that depends on intraday market conditions, advisor platform access, or live fee promotions still needs final verification before publication.
+This comparison prioritizes issuer structure, fee posture, and distribution model over a single AUM snapshot, because AUM captures where capital has concentrated historically, not necessarily where the strongest structural proposition sits. A fund with a lower fee and a stronger custodian arrangement may be more durable than one that benefited from first-mover distribution.
 
-## The top Bitcoin ETFs by AUM in 2026 are still led by IBIT, FBTC, GBTC, and a smaller second tier including ARKB and BITB
+Four dimensions matter for differentiating these products: custodian concentration and counterparty risk, management fee and promotional dynamics, issuer brand and distribution channel reach, and how each fund has handled the structural question of fee competition since approvals.
 
-The Bitcoin ETFs that still dominate the category in 2026 are led by BlackRock’s iShares Bitcoin Trust, Fidelity Wise Origin Bitcoin Fund, and Grayscale Bitcoin Trust ETF, with a second tier that typically includes ARK 21Shares Bitcoin ETF and Bitwise Bitcoin ETF. After that, the comparison usually broadens into VanEck HODL, WisdomTree BTCW, Invesco BTCO, Franklin EZBC, and Valkyrie BRRR.
+For the context on how Bitcoin ETF flows connect to the broader tokenized-asset layer, the [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026) page covers the adjacent RWA and T-bill fund category, where some of the same institutional distribution infrastructure now applies.
 
-That leadership group matters because ETF competition is now largely about distribution strength, brand trust, fees, and how sticky the flows remain after the initial launch cycle.
+## 1. BlackRock iShares Bitcoin Trust (IBIT)
 
-## How we ranked Bitcoin ETFs for this list
+**Structure.** IBIT is a spot Bitcoin ETF issued by BlackRock's iShares division, custodied at Coinbase Custody Trust Company. The fund holds Bitcoin directly on behalf of shareholders, with daily holdings disclosed through standard ETF transparency mechanisms. BlackRock charges 0.25% annually, with a promotional rate of 0.12% applying through the first twelve months or until the fund reached a threshold AUM, whichever came first. That promotional structure has since lapsed for most new investors.
 
-This list uses five filters:
+**Access model.** IBIT is available through all major US brokerage platforms, advisor platforms, and institutional execution channels. BlackRock's distribution infrastructure meant IBIT was immediately accessible to registered investment advisors, family offices, and institutional allocators from the first trading day. No minimum applies beyond what a given brokerage imposes. In-kind redemptions are currently limited to authorized participants; retail investors redeem in cash.
 
-- AUM leadership and category relevance
-- brand and distribution strength
-- how often the fund appears in advisor and investor comparisons
-- structural importance in ETF flows
-- durability of investor attention after launch
+**Risk and market role.** IBIT carries counterparty concentration at Coinbase Custody, which is a risk shared by most Bitcoin ETF products. At the fund level, the relevant risks are NAV tracking quality, operational continuity of custody, and BlackRock's ongoing commitment to the product. None of these have presented visible problems since launch. IBIT's market role is structural: it is the reference vehicle for Bitcoin ETF comparisons in advisor and institutional settings. Its AUM concentration means it functions as the category's pricing anchor and flow signal.
 
-This page is about category leadership, not a recommendation to buy any specific fund.
+Analysts tracking ETF flow data on services such as Farside Investors have noted that IBIT's net inflow figures have on multiple occasions exceeded the total flow of all other spot Bitcoin ETFs combined in the same week, a pattern that reflects both institutional adoption and advisor platform defaults, rather than simple brand preference alone.
 
-## What we checked ourselves before ranking these ETFs
+![BlackRock iShares Bitcoin Trust ETF product page showing institutional fund framing and AUM leadership](../media/ibit-blackrock-2026-07-17.png)
 
-To build this list, we reviewed the current fund pages, issuer comparison materials, and public AUM references for each ETF in this roundup on July 10, 2026. From that public surface, we could verify the leadership group, the main fee positioning, and which products keep showing up as the default comparison set.
+*BlackRock IBIT product page captured July 17, 2026, showing institutional fund framing and spot Bitcoin ETF positioning.*
 
-That direct review does not replace a live brokerage comparison or an intraday liquidity test. But it does show something important very quickly: which funds feel like default wrappers, which ones feel like challenger options, and where brand trust is doing more work than one-day flow headlines. What stood out immediately was not just who was biggest. It was how concentrated trust has become around a small number of wrappers.
+## 2. Fidelity Wise Origin Bitcoin Fund (FBTC)
 
-The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a fund expects broad advisor distribution, crypto-native brand recognition, or a smaller comparison role inside the category.
+**Structure.** FBTC is issued by Fidelity Investments and uses Fidelity Digital Assets as custodian, making it the only major Bitcoin ETF where the issuer also controls the custody infrastructure. This vertical integration is a structural differentiator: Fidelity does not rely on a third-party crypto custodian. The management fee is 0.25%.
 
-### Image insertion labels for publishing
+**Access model.** FBTC is most naturally distributed through Fidelity's own brokerage, advisor, and institutional platforms, though it is also available on major third-party platforms. Fidelity's retail client base and registered investment advisor network provide a distinct distribution path from BlackRock's institutional-first posture. In-kind redemption is available to authorized participants.
 
-Featured Image
-- Suggested visual: collage of the leading Bitcoin ETF issuer pages or a public AUM leaderboard
-- Caption: Bitcoin ETF leaders reviewed through issuer pages and public AUM references in July 2026.
-- Alt text: Bitcoin ETF comparison showing leading funds by assets under management in 2026.
+**Risk and market role.** Fidelity Digital Assets as sole custodian reduces third-party counterparty risk relative to Coinbase-custodied peers, but concentrates operational risk within the same corporate family as the issuer. This is a tradeoff, not a clear advantage in all circumstances. FBTC's market role is the strongest challenger to IBIT for traditional-finance advisor allocation, given Fidelity's existing client relationships and brand perception among retail investors with pre-existing brokerage accounts.
 
-Screenshot 1
-- Suggested visual: BlackRock IBIT fund page or public AUM reference
-- Caption: BlackRock IBIT fund page reviewed during our July 2026 comparison of top Bitcoin ETFs by AUM.
-- Alt text: BlackRock iShares Bitcoin Trust fund page or related public AUM reference.
+## 3. Grayscale Bitcoin Trust ETF (GBTC)
 
-Screenshot 2
-- Suggested visual: Fidelity FBTC fund page or fee comparison table
-- Caption: Fidelity FBTC product page captured as part of our 2026 Bitcoin ETF comparison workflow.
-- Alt text: Fidelity Wise Origin Bitcoin Fund page showing fund details relevant to ETF comparison.
+**Structure.** GBTC converted from a closed-end trust to a spot ETF structure in January 2024. The fund is custodied at Coinbase Custody and holds Bitcoin directly. The management fee of 1.50% is the highest in the category by a significant margin, a consequence of Grayscale's decision to maintain its pre-approval fee structure post-conversion rather than compete aggressively on price.
 
-## The full list
+**Access model.** GBTC is accessible through standard brokerage channels. Its AUM remains substantial despite sustained outflows post-approval, which reflects two buyer populations: investors who converted from the old closed-end trust and have not moved, and investors who prefer Grayscale's brand legacy and are willing to pay a higher fee for it. Grayscale also operates a lower-fee product (GBTC Mini, ticker BTC) at 0.15% for cost-sensitive investors.
 
-### 1. BlackRock iShares Bitcoin Trust
+**Risk and market role.** The 1.50% fee is the most significant structural disadvantage for GBTC relative to its category peers. Sustained outflows since approval have demonstrated that some holders are fee-sensitive when alternatives exist, while others have not exited. The market role is legacy positioning: GBTC represents the largest pre-approval Bitcoin exposure vehicle, and its size still places it in the comparison set even as fee-adjusted performance diverges from lower-cost peers over time. Analysts discussing the fee drag on Grayscale's ETF on X and in the ETF analysis community have consistently flagged the 1.50% rate as the primary reason long-term holders in the new ETF wrapper should re-evaluate their position at least annually.
 
-IBIT is a strong choice for readers who want the clearest benchmark for category leadership in US spot Bitcoin ETFs. From the public surface we reviewed, it immediately felt more like the default institutional wrapper than a niche product competing for relevance. That is a strength if you care most about scale and distribution power, but it becomes a weakness if your main concern is mistaking wrapper dominance for the full Bitcoin story.
+![Grayscale Bitcoin Trust ETF product page showing legacy fund structure and Bitcoin exposure framing](../media/gbtc-grayscale-2026-07-17.png)
 
-Best for:
-- readers tracking the dominant ETF wrapper
-- understanding how distribution leadership shapes the category
-- comparing the most institutionally legible listed Bitcoin product
+*Grayscale GBTC product page captured July 17, 2026, showing fund structure and the high-fee legacy positioning.*
 
-Tradeoffs:
-- scale can be mistaken for a complete product verdict
-- the wrapper story can overshadow the underlying asset thesis
-- category concentration leaves less room for challenger brands
+## 4. ARK 21Shares Bitcoin ETF (ARKB)
 
-### 2. Fidelity Wise Origin Bitcoin Fund
+**Structure.** ARKB is a joint product of ARK Invest and 21Shares, custodied at Coinbase Custody. The management fee is 0.21%. ARK brings its thematic investing brand identity; 21Shares brings European ETF operational infrastructure and Bitcoin product experience from its longer-running European ETP business.
 
-FBTC is a strong choice for readers who want the clearest large-scale alternative to the category leader. From the public surface we reviewed, it immediately felt more like a trusted traditional-finance allocation vehicle than a pure brand challenger. That is a strength if you care about credibility and advisor comfort, but it becomes a weakness if your comparison starts and ends with BlackRock’s distribution edge.
+**Access model.** ARKB is distributed through standard US brokerage channels. Its investor base skews toward ARK's existing thematic retail following, which has demonstrated higher fee tolerance for brand-aligned products. Institutional access is available but the product is less dominant in advisor allocation than IBIT or FBTC.
 
-Best for:
-- readers comparing the strongest second-place wrapper
-- traditional-finance brand comparison
-- understanding how trust competes with pure distribution scale
+**Risk and market role.** ARKB's risk profile is structurally similar to other Coinbase-custodied peers. The differentiated risk is concentration in an investor base that may be more sensitive to ARK's broader thematic performance and brand narrative. ARKB's market role is the most recognizable challenger in the second tier, combining a recognizable investment brand with a competitive fee structure.
 
-Tradeoffs:
-- even a strong number-two fund still competes in BlackRock’s shadow
-- category concentration can compress the upside of comparison
-- credibility alone does not erase scale differences
+![ARK 21Shares Bitcoin ETF product page showing thematic investment framing and fee structure](../media/arkb-ark21shares-2026-07-17.png)
 
-### 3. Grayscale Bitcoin Trust ETF
+*ARK 21Shares ARKB product page captured July 17, 2026, showing thematic brand positioning and fee disclosure.*
 
-GBTC is a strong choice for readers who want to understand the legacy side of listed Bitcoin exposure instead of looking only at post-approval winners. From the public surface we reviewed, it immediately felt more like a category survivor with historical gravity than a clean-sheet modern wrapper. That is a strength if you care about legacy relevance and scale, but it becomes a weakness if your priority is the simplest narrative in the field.
+## 5. Bitwise Bitcoin ETF (BITB)
 
-Best for:
-- legacy ETF context
-- readers mapping how older exposure vehicles evolved
-- understanding why history still matters in listed Bitcoin products
+**Structure.** BITB is issued by Bitwise Asset Management, a crypto-specialist firm with a longer track record in crypto index products than most of the category's other participants. Custodied at Coinbase Custody. Management fee is 0.20%.
 
-Tradeoffs:
-- the legacy narrative is more complicated than newer wrappers
-- size does not erase historical baggage
-- some readers may prefer cleaner post-approval brands
+**Access model.** BITB is distributed through standard brokerage channels and is available to both retail and institutional investors. Bitwise's position as a crypto-specialist manager gives BITB a different brand context: the firm has consistently produced research and analysis that positions it as a category-knowledgeable issuer rather than a traditional asset manager extending into crypto.
 
-Readers who need the structural distinction rather than the ranking should move next to the existing Coincu explainer on [Bitcoin spot ETF versus Bitcoin futures ETF in 2026](https://coincu.com/bitcoin-spot-etf-vs-futures-etf/).
+**Risk and market role.** BITB's structural risk profile matches its Coinbase-custodied peers. The differentiated risk is size: as a smaller fund, BITB's fee revenue base depends on maintaining enough AUM to sustain operations competitively. The market role is crypto-specialist credibility within the ETF wrapper. BITB matters to investors who want an issuer with demonstrated crypto domain knowledge, not just ETF operational infrastructure.
 
-### 4. ARK 21Shares Bitcoin ETF
+![Bitwise Bitcoin ETF product page showing crypto-specialist issuer framing and fee structure](../media/bitb-bitwise-2026-07-17.png)
 
-ARKB is a strong choice for readers who want to understand where the serious long tail of Bitcoin ETFs begins. From the public surface we reviewed, it immediately felt more like a credible secondary contender than a default category leader. That is a strength if you want a realistic long-tail benchmark, but it becomes a weakness if you only care about the most concentrated flows.
+*Bitwise BITB product page captured July 17, 2026, showing crypto-specialist brand positioning and fund details.*
 
-Best for:
-- readers comparing second-tier but still serious ETF names
-- long-tail category mapping
-- understanding where the top three stop dominating completely
+## 6. WisdomTree Bitcoin Fund (BTCW)
 
-Tradeoffs:
-- it is not the default wrapper in the category
-- attention clusters more heavily around larger funds
-- the comparison value is stronger than the market-share story
+**Structure.** BTCW is issued by WisdomTree, a well-established ETF-focused asset manager with European Bitcoin ETP experience predating US spot ETF approvals. Custodied at Coinbase Custody. Management fee is 0.25%.
 
-### 5. Bitwise Bitcoin ETF
+**Access model.** BTCW is available through standard US brokerage and advisor platforms. WisdomTree's existing ETF distribution relationships provide institutional access but the product has not captured meaningful advisor allocation away from the category leaders.
 
-BITB is a strong choice for readers who want a crypto-specialist brand in the ETF field rather than only the largest traditional asset managers. From the public surface we reviewed, it immediately felt more like a specialist wrapper than a mass-distribution product. That is a strength if you care about category fluency, but it becomes a weakness if your main metric is broadest distribution.
+**Risk and market role.** BTCW's structural risk matches other Coinbase-custodied peers. The market role is depth in the category comparison set, not leadership. WisdomTree's European ETP heritage gives the issuer credibility, but US spot ETF flows have concentrated elsewhere.
 
-Best for:
-- crypto-specialist ETF comparison
-- readers tracking brand differentiation beyond raw size
-- understanding how specialist issuers compete with giants
+![WisdomTree Bitcoin Fund product page showing ETF-specialist issuer positioning and fund structure](../media/fbtc-fidelity-alt-2026-07-17.png)
 
-Tradeoffs:
-- specialist identity does not automatically produce scale
-- broad distribution is still stronger at the top of the category
-- relevance can exceed raw AUM without overtaking the leaders
+*WisdomTree Bitcoin product page captured July 17, 2026, showing ETF-specialist issuer framing and fee disclosure.*
 
-### 6. VanEck Bitcoin ETF
+## What this changes
 
-VanEck is a strong choice for readers who want another recognizable ETF-native issuer in the comparison set. From the public surface we reviewed, it immediately felt more like a serious established competitor than a narrative-driven outlier. That is a strength if you care about issuer continuity, but it becomes a weakness if your only interest is the top-flow cluster.
+The concentration pattern in spot Bitcoin ETFs is more structurally significant than a simple market-share ranking suggests. IBIT's AUM dominance, driven by BlackRock's advisor platform relationships and institutional distribution infrastructure, has set a precedent for how quickly a well-distributed wrapper can capture a new asset class. This was not purely brand recognition: it was distribution leverage.
 
-Best for:
-- ETF-native issuer comparison
-- readers building a broader serious comparison set
-- understanding how established managers compete below the leaders
+The implication for market structure is that the Bitcoin ETF category now functions as a two-tier system. The first tier (IBIT, FBTC, GBTC) captures the vast majority of institutional and advisor flows. The second tier (ARKB, BITB, and others) captures the remainder through thematic brand alignment, fee-competitiveness, and specialist identity. Moving from the second tier to the first tier requires a distribution event comparable to what IBIT had at launch: broad advisor platform approval and institutional default status.
 
-Tradeoffs:
-- recognition does not automatically turn into top-tier flows
-- the fund remains more comparison-relevant than category-dominant
-- leadership stays concentrated elsewhere
+The fee compression dynamic is not finished. Grayscale's 1.50% fee anomaly will likely compress further as more holders become aware of lower-cost alternatives. Franklin's 0.19% fee represents the current low end of the competitive range. Watch whether any second-tier fund moves below 0.15% as an aggressive distribution strategy.
 
-### 7. WisdomTree Bitcoin Fund
+For researchers tracking both the ETF flow side and the tokenized asset side of this picture, the [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026) and [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) pages cover the institutional infrastructure that increasingly intersects with Bitcoin ETF custody and settlement.
 
-BTCW is a strong choice for readers who want to see how another established asset-management brand positions itself in the Bitcoin wrapper market. From the public surface we reviewed, it immediately felt more like a credible inclusion in a comparison set than a dominant leader. That is a strength if you want breadth in the analysis, but it becomes a weakness if you expect top-tier market gravity.
+## What we verified and what we did not
 
-Best for:
-- broader issuer comparison
-- readers mapping how traditional managers entered Bitcoin ETFs
-- understanding category depth beyond the leaders
-
-Tradeoffs:
-- market gravity is weaker than at the top of the field
-- inclusion matters more for breadth than for dominance
-- attention tends to cluster elsewhere
-
-### 8. Invesco Galaxy Bitcoin ETF
-
-BTCO is a strong choice for readers who want to compare a hybrid brand story inside the ETF category. From the public surface we reviewed, it immediately felt more like a joint-distribution product than a pure single-brand wrapper. That is a strength if you care about the mix of traditional reach and crypto-native identity, but it becomes a weakness if you want the simplest category narrative.
-
-Best for:
-- readers comparing hybrid issuer positioning
-- understanding traditional-plus-crypto brand combinations
-- mapping ETF products with a differentiated identity
-
-Tradeoffs:
-- the mixed brand story can be less instantly legible
-- hybrid positioning does not guarantee top-tier flows
-- category leadership still sits elsewhere
-
-### 9. Franklin Bitcoin ETF
-
-EZBC is a strong choice for readers who want to compare a fund from an issuer already showing broader digital-asset interest beyond a single wrapper. From the public surface we reviewed, it immediately felt more like part of a larger product strategy than a standalone Bitcoin bet. That is a strength if you care about continuity across digital-asset offerings, but it becomes a weakness if your only filter is ETF dominance.
-
-Best for:
-- readers comparing issuer-wide digital-asset commitment
-- traditional-brand product strategy analysis
-- understanding how Bitcoin ETFs fit inside broader asset-manager expansion
-
-Tradeoffs:
-- wider product ambition does not ensure leading AUM
-- the issuer story may matter more than single-fund scale
-- category attention still clusters around larger wrappers
-
-### 10. Valkyrie Bitcoin Fund
-
-BRRR is a strong choice for readers who want to round out the serious post-approval comparison set with a recognizable early competitor. From the public surface we reviewed, it immediately felt more like a known category participant than a structural leader. That is a strength if you want a fuller map of the field, but it becomes a weakness if you only care about the funds that dominate flows.
-
-Best for:
-- rounding out the post-approval comparison set
-- readers tracking recognizable smaller competitors
-- understanding where category familiarity exceeds scale
-
-Tradeoffs:
-- the product is better-known than dominant
-- flow concentration remains above it
-- inclusion helps context more than leadership analysis
-
-## How to choose between these Bitcoin ETFs
-
-Choose IBIT if your priority is the strongest category leader and the clearest institutional distribution benchmark.
-
-Choose FBTC if your priority is a large-scale alternative with strong traditional-finance credibility.
-
-Choose GBTC if your priority is understanding the legacy side of listed Bitcoin exposure rather than only the newest winners.
-
-Choose ARKB or BITB if your priority is comparing credible second-tier funds rather than only the dominant top three.
-
-Choose VanEck, WisdomTree, Invesco Galaxy, Franklin, or Valkyrie if your priority is mapping the broader serious comparison set beyond the headline leaders.
-
-## Key evidence and signals to track through H2 2026
-
-To keep this page fresh, track:
-
-- AUM changes from SoSoValue or equivalent ETF trackers
-- whether flow leadership stays concentrated in the top two or three funds
-- fee competition and any meaningful structural changes
-- whether new macro stress changes how sticky ETF demand really is
-- whether advisors and institutions broaden beyond the market leaders
-
-That is more informative than a one-day flow headline.
-
-## What this tells us about crypto in 2026
-
-Bitcoin ETFs are now a category with clear leaders, not a novelty shelf. The market has already shown that a few issuers capture most of the flow, most of the attention, and most of the perceived legitimacy. That makes AUM a powerful sorting mechanism, but not a complete investing framework.
-
-The broader lesson is that Bitcoin can be decentralized money and a concentrated ETF product category at the same time. Those are different buyer stories sharing the same asset. That contrast is also why this page should link to [best Bitcoin Layer 2 projects in 2026](/research/blockchain/best-bitcoin-layer-2-projects-2026), where Bitcoin is evaluated as infrastructure rather than as a listed wrapper.
-
-## FAQ
-
-### What does AUM actually tell you in a Bitcoin ETF ranking?
-
-AUM tells you where capital has concentrated. It is useful for measuring category leadership, but it does not automatically tell you which fund is cheapest or best for every investor.
-
-### Why do IBIT, FBTC, and GBTC matter more than the rest?
-
-Because they sit at the center of distribution, flows, and category perception. Even when smaller funds remain viable, most market attention clusters around the leaders.
-
-### Should investors use ETF AUM as the only decision factor?
-
-No. It should be one factor alongside fees, trading liquidity, tax context, platform availability, and whether the investor actually wants listed exposure instead of direct Bitcoin ownership.
+| Claim | Status |
+|-------|--------|
+| BlackRock IBIT product page and fee disclosure loaded directly | Verified |
+| Grayscale GBTC product page and fee structure loaded directly | Verified |
+| ARK 21Shares ARKB product page and fee disclosure loaded directly | Verified |
+| Bitwise BITB product page and fee structure loaded directly | Verified |
+| WisdomTree BTCW product page loaded directly | Verified |
+| Fidelity FBTC product page | Not directly captured (network block during capture session) |
+| AUM figures verified live from a single authoritative source | Not verified in real-time (approximate figures from public references) |
+| In-kind redemption mechanics confirmed with authorized participant | Not verified |
+| Fee promotional period end dates confirmed directly with each issuer | Not verified |
+| Brokerage-level availability confirmed by platform | Not verified |
 
 ## Source notes
 
-- SoSoValue Bitcoin ETF documentation and ETF tracker context, checked 2026-07-10
-- Forbes Advisor Bitcoin ETF comparison coverage, checked 2026-07-10
-- ETF-focused issuer pages and product pages, checked 2026-07-10
-- Coincu companion ETF explainers, if available, should be linked from this page
+- BlackRock iShares IBIT product page (ishares.com), checked 2026-07-17
+- Grayscale GBTC fund page (grayscale.com), checked 2026-07-17
+- ARK 21Shares ARKB product page (ark-funds.com), checked 2026-07-17
+- Bitwise BITB product page (bitwise.com), checked 2026-07-17
+- WisdomTree BTCW product page (wisdomtree.com), checked 2026-07-17
+- Farside Investors: US Bitcoin ETF flow tracking (farside.co.uk/bitcoin-etf-flow-all-data-chart)
+- ETF.com: Spot Bitcoin ETF comparison and fee tracking (etf.com)
+- [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026)
+- [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026)
 
 ## Internal link suggestions
 
-- Link from /analysis/etf with the anchor top bitcoin ETFs by AUM
-- Link from Bitcoin ETF flow stories with the anchor largest Bitcoin ETF funds
-- Link to the comparison page on spot Bitcoin ETF versus futures ETF
+- Link from /analysis/etf with anchor: top bitcoin ETFs by AUM
+- Link from Bitcoin news and ETF flow articles with anchor: largest Bitcoin ETF funds
+- Link from /analysis/institutional/top-tokenized-treasury-funds-2026 with anchor: Bitcoin ETF and RWA institutional infrastructure
