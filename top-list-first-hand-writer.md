@@ -271,3 +271,80 @@ Example:
 - Did we keep captions editorial and SEO-clean?
 - Did we avoid hype?
 - Did the ending help the reader choose?
+
+## Additional editorial rules (added 2026-07-17)
+
+### No em dash
+
+Do not use `--` anywhere in the article body, headings, captions, or YAML. Use a comma, period, or rewrite the sentence instead.
+
+### No placeholder blocks
+
+Remove any section that exists only as instructions to the writer or editor, not actual content. This includes blocks like:
+
+> If your team runs live checks, add a measured comparison row under the main table:
+>
+> | Wallet | Time to first invoice | ... |
+> | [insert wallet] | [insert measured time] | ... |
+
+Any table, paragraph, or note that contains `[insert X]`, `add a ... row`, `your team should`, or similar instructional language must be deleted before the article is published. These blocks are draft scaffolding, not content.
+
+### Opening paragraph rule
+
+The first paragraph must answer the article title directly. Name the answer — the best tool, the top pick, the direct recommendation — in the first two sentences.
+
+Do not open with:
+
+- a problem framing paragraph
+- a "why this is hard" setup
+- a trust block
+- methodology text
+
+Push all of the following to the bottom of the article, above the FAQ section:
+
+- "Why you can trust this guide"
+- "What we checked ourselves before ranking..."
+- "What this review verified and what it did not" table
+- Any section explaining the editorial process or verification limits
+
+**Wrong opening (do not use):**
+
+> If you are choosing a Bitcoin hardware wallet in 2026, the real problem is usually not feature count. The real problem is which wallet gives you a setup you can actually trust, recover, and live with once real money is on the device.
+>
+> That is why this article does not rank wallets by marketing polish or raw feature list alone...
+
+**Correct opening:**
+
+> The best Bitcoin hardware wallets in 2026 are Coldcard, Blockstream Jade, BitBox02 Bitcoin-only, Passport, and SeedSigner.
+>
+> [Then: quick take sentence on who each one fits. Then: comparison table. Then: breakdown by product.]
+
+### Summary comparison table
+
+Every article must include a summary table that lists all products or projects covered, with three columns: outstanding point, score (out of 5 or short label), and one-line editorial note. Place this table immediately after the opening answer paragraph and before the detailed breakdown.
+
+Example format:
+
+| Product | Outstanding point | Score | One-line note |
+|---------|------------------|-------|---------------|
+| Coldcard | Best signing security | 5/5 | Steepest setup curve in the list |
+| Jade | Best value for sovereignty | 4.5/5 | Requires Blockstream Green or Sparrow |
+| BitBox02 | Best balanced experience | 4.5/5 | Bitcoin-only edition only |
+| Passport | Best interface + open hardware | 4/5 | Premium price for premium feel |
+| SeedSigner | Best stateless DIY option | 4/5 | Not for users who want convenience |
+
+### Community signal — no label, natural prose
+
+Do not write `Community signal:` as a header or bold label before Reddit or social references.
+
+Instead, weave the community reaction directly into the product prose as a natural sentence, then hyperlink the source inline.
+
+**Wrong:**
+
+> **Community signal:** Reddit users in r/Bitcoin frequently recommend Coldcard for advanced users.
+
+**Correct:**
+
+> Coldcard comes up consistently in [r/Bitcoin hardware wallet threads](https://reddit.com/r/...) as the default recommendation for users who want full signing sovereignty without trusting any vendor software.
+
+The link should sit on the most descriptive phrase, not on "here" or "source" or "Reddit". The community reference should feel like editorial context, not a citation box.
