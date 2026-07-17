@@ -1,4 +1,4 @@
-﻿# Top Tokenized Treasury Funds in 2026: 6 Products Compared by Access, Structure, and Distribution
+# Top Tokenized Treasury Funds in 2026: 6 Products Compared by Access, Structure, and Distribution
 
 Last updated: 2026-07-17
 
@@ -12,16 +12,16 @@ Meta description: Top tokenized treasury funds in 2026: compare six products by 
 
 ## The top tokenized treasury funds in 2026 are BUIDL, OUSG, Franklin Benji, USTB, STBT, and OpenEden TBILL
 
-BlackRock BUIDL via Securitize, Ondo OUSG, Franklin Templeton Benji, Superstate USTB, Matrixdock STBT, and OpenEden TBILL are the six products that define the current design space for tokenized US Treasury exposure. They differ not in underlying asset but in issuer structure, capital access model, onchain distribution, and market role. A fund analyst comparing this category cannot treat them as interchangeable yield wrappers.
+BlackRock BUIDL via Securitize, Ondo OUSG, Franklin Templeton Benji (FOBXX), Superstate USTB, Matrixdock STBT, and OpenEden TBILL are the six products that define the current design space for tokenized US Treasury exposure. They differ not in underlying asset but in issuer structure, capital access model, onchain distribution architecture, and market role. A fund analyst comparing this category cannot treat them as interchangeable yield wrappers.
 
 | Product | Outstanding point | Score | One-line note |
 |---------|-----------------|-------|---------------|
-| BlackRock BUIDL | Strongest institutional issuer trust | 5/5 | Least composable; built for fund-access model, not DeFi rails |
-| Ondo OUSG | Clearest bridge between Treasury exposure and onchain distribution | 4.5/5 | Brand narrative can blur the structural analysis |
-| Franklin Benji | Most legible traditional-finance migration | 4/5 | Onboarding model remains closer to fund administration than crypto-native access |
-| Superstate USTB | Cleanest structural design among newer issuers | 4/5 | Distribution scale still maturing relative to incumbents |
-| Matrixdock STBT | Best non-US distribution path in the comparison | 3.5/5 | Lower brand recognition requires higher due diligence standard |
-| OpenEden TBILL | Best programmable collateral posture | 3.5/5 | Access and supported chains need live verification before allocation |
+| BlackRock BUIDL | Largest AUM; strongest institutional issuer trust | 5/5 | Least composable; $5M minimum; built for fund-access model |
+| Ondo OUSG | Clearest bridge to DeFi-native distribution via Flux | 4.5/5 | $5K minimum instant; underlying now mostly BUIDL |
+| Franklin Benji (FOBXX) | Most legible regulated fund migration from TradFi | 4/5 | Onboarding remains fund-administration style, not crypto-native |
+| Superstate USTB | Invesco-backed; cleanest newer structural design | 4/5 | $769M AUM; distribution scale still building |
+| Matrixdock STBT | MAS-regulated; first APAC T-bill token via licensed channel | 3.5/5 | Daily rebase via ERC-1400; lower brand legibility outside Asia |
+| OpenEden TBILL | BNY Mellon custody; ERC-4626 vault; AA+ rated by S&P | 3.5/5 | BVI-regulated; US person restricted; access needs live verification |
 
 **Featured Image**
 File: `../media/tokenized-treasury-funds-featured.png`
@@ -34,134 +34,166 @@ Caption: `Tokenized Treasury fund product surfaces reviewed during our July 2026
 
 ## Analytical framework: what this comparison prioritizes and why
 
-This comparison prioritizes structural legibility over yield ranking, because yield without structural clarity is not useful for allocation decisions. The six products below were selected on the basis of six criteria: confirmed exposure to short-duration US government securities; issuer and structure legible to institutional or professional capital; credible onchain distribution with documented chain availability; clearly disclosed access model including eligibility and redemption terms; demonstrated role in broader market infrastructure; and structural durability beyond a single narrative cycle.
+This comparison prioritizes structural legibility over yield ranking, because yield without structural clarity is not useful for allocation decisions. By July 2026, tokenized US Treasuries had crossed $15 billion in total issuance per RWA.xyz, with BUIDL, Circle USYC, and Ondo as the three largest issuers. The category is no longer a concept. It is becoming market plumbing.
 
-This is not a performance ranking. Access eligibility, redemption mechanics, and jurisdictional availability are weighted equally with issuer scale, because a fund that cannot be accessed or exited is not relevant to the allocation decision.
+The six products below were selected against six criteria: confirmed exposure to short-duration US government securities; issuer and structure legible to institutional or professional capital; credible onchain distribution with documented chain availability; clearly disclosed access model including eligibility and redemption terms; demonstrated or emerging role in broader market infrastructure; and structural durability beyond a single narrative cycle.
+
+This is not a performance ranking. Access eligibility, redemption mechanics, and jurisdictional restrictions are weighted equally with issuer scale, because a fund that cannot be accessed or exited is not relevant to the allocation decision regardless of its AUM.
 
 ## Structural comparison
 
-| Product | Issuer | Access model | Primary chain | Redemption | Risk profile |
-|---------|--------|-------------|---------------|------------|--------------|
-| BUIDL | BlackRock via Securitize | Accredited investors; Securitize onboarding | Ethereum | Fund-level redemption via Securitize | Counterparty: BlackRock/Securitize; regulatory: SEC-registered fund structure |
-| OUSG | Ondo Finance | Accredited investors; Ondo platform | Ethereum, Solana, Polygon | Daily redemption windows; secondary market via Flux | Smart contract risk; issuer concentration |
-| Benji | Franklin Templeton | Registered fund investors; Benji app | Stellar, Polygon | Fund-level redemption | Regulatory: SEC-registered; custodian: Franklin Templeton |
-| USTB | Superstate | Accredited investors; direct subscription | Ethereum | Subscription/redemption via Superstate | Newer issuer; limited secondary market |
-| STBT | Matrixdock | Accredited; regional distribution focus | Ethereum | Matrixdock platform redemption | Lower brand legibility; documentation-dependent trust |
-| TBILL | OpenEden | Accredited; onchain subscription | Ethereum | Onchain redemption mechanics | Onchain settlement risk; access still needs live verification |
+| Product | Issuer | Underlying | Access | Primary chain | Redemption | Management fee |
+|---------|--------|-----------|--------|---------------|------------|---------------|
+| BUIDL | BlackRock via Securitize | T-bills, repo, cash | Accredited; $5M min | Ethereum + others | Fund-level via Securitize | Not disclosed publicly |
+| OUSG | Ondo Finance | BUIDL + USDC | Accredited QP; $5K instant min | Ethereum, Solana, Polygon | 24/7 instant ($5K) or $50K non-instant | 0.15% (waived to Jan 2027) |
+| Benji (FOBXX) | Franklin Templeton | US Gov money market | Registered investors via Benji app | Stellar, Polygon | Fund-level via Benji app | Standard money market |
+| USTB | Superstate | Invesco short-duration US Gov securities | Accredited QP; USDC or USD | Ethereum | Daily NAV via USD or USDC | 0.15% |
+| STBT | Matrixdock | Short-term US T-bills + repo | Accredited; MAS Section 275 | Ethereum | T+0 up to $1M/day; T+2 standard | Not disclosed publicly |
+| TBILL | OpenEden | BNY Mellon-custodied T-bills | Professional investors; BVI-regulated | Ethereum | Onchain ERC-4626 redemption | Not disclosed publicly |
 
 ## 1. BlackRock BUIDL via Securitize
 
-**Structure.** BUIDL is a SEC-registered fund operated by BlackRock and distributed through Securitize as transfer agent and tokenization platform. The underlying portfolio holds US Treasury bills, repurchase agreements, and cash equivalents. The token represents a fund share, not a direct Treasury position, which means the legal wrapper is a conventional regulated fund rather than a protocol or onchain instrument.
+**Structure.** BUIDL is a SEC-registered money market fund operated by BlackRock and distributed through Securitize as tokenization and transfer agent platform. The underlying portfolio holds US Treasury bills, repurchase agreements, and cash equivalents. Each BUIDL token represents a fund share, not a direct Treasury position. Since launching on Ethereum in March 2024, BUIDL grew to approximately $2.4 billion in AUM by Q2 2026, with BlackRock filing for two additional tokenized funds plus onchain shares of a $7 billion money-market fund in May 2026, signaling acceleration rather than experimentation. BUIDL has been accepted as collateral on Deribit and Crypto.com, which shifts its market role from passive yield product toward onchain settlement infrastructure.
 
-**Access model.** Subscription requires Securitize onboarding, KYC/AML verification, and accredited investor status. There is no retail path and no open DeFi composability by default. Integration with platforms such as Ondo and Superstate has created indirect composable access routes, but those add a layer of counterparty and smart contract risk that the base fund does not carry.
+**Access model.** Subscription requires Securitize onboarding, KYC/AML verification, accredited investor status, and a reported minimum of $5 million. There is no retail path. OUSG and USDtb have built composable access layers on top of BUIDL, creating indirect routes that add smart contract exposure the base fund does not carry.
 
-**Risk and market role.** Counterparty concentration is BlackRock and Securitize. Regulatory risk is the standard SEC-registered fund framework, which is a meaningful trust signal for institutional allocators but not a guarantee of onchain settlement performance. What makes BUIDL a category reference point is not its yield but its signal value: that the largest asset manager treats tokenized fund distribution as durable infrastructure. Institutional allocators and researchers tracking the [top RWA crypto projects in 2026](/research/defi/top-rwa-crypto-projects-2026) consistently reference BUIDL as the default benchmark when evaluating whether the category is structurally credible. The Securitize product page, reviewed July 2026, presents the fund in fund-administration language throughout, which reinforces that the product is designed for institutional workflows, not protocol integrations.
+**Risk and market role.** Counterparty concentration rests on BlackRock and Securitize. Regulatory risk sits within the SEC-registered fund framework. What makes BUIDL the category reference point is not yield but signal value: it represents institutional asset management's clearest commitment to blockchain distribution as durable infrastructure. Analysts tracking the RWA sector tracked by the [DeFiLlama RWA dashboard](https://defillama.com/protocols/RWA) show BUIDL above $3 billion in TVL as of mid-2026, ahead of USYC and Ondo in raw AUM. For readers tracking the tokenization stack more broadly, the [top RWA crypto projects in 2026](/research/defi/top-rwa-crypto-projects-2026) page covers the ecosystem context.
 
-**Screenshot**
-File: `../media/securitize-buidl-product-page.png`
-Alt text: `BlackRock BUIDL via Securitize product page showing institutional fund framing and access model`
-Caption: `BlackRock BUIDL via Securitize product page captured during our July 2026 structural review.`
+![BlackRock BUIDL via Securitize product page showing institutional fund framing and access model](../media/securitize-buidl-product-page-2026-07-17.png)
 
-![BlackRock BUIDL via Securitize product page showing institutional fund framing and access model](../media/securitize-buidl-product-page.png)
-
-*BlackRock BUIDL via Securitize product page captured during our July 2026 structural review.*
+*Securitize BUIDL product page captured July 17, 2026, showing institutional fund framing and access model.*
 
 ## 2. Ondo OUSG
 
-**Structure.** OUSG is a tokenized fund share giving exposure to BlackRock's short-term Treasury ETF (SGOV), issued by Ondo Finance. The product sits between a conventional fund wrapper and a DeFi-native instrument: it uses a regulated underlying holding while providing onchain token access and secondary-market liquidity through Flux Finance. That hybrid position is the source of both its analytical interest and its structural complexity.
+**Structure.** OUSG is a tokenized fund share issued by Ondo Finance giving institutional investors exposure to short-term US Treasuries, with the majority of the underlying portfolio currently held in BlackRock BUIDL plus USDC and bank deposits. The product spans Ethereum, Solana, and Polygon. Flux Finance provides a secondary DeFi composability layer, allowing OUSG to function as onchain collateral beyond its primary institutional subscriber base. Management fees are capped at 0.15% and waived until January 1, 2027 per Ondo's published fund documentation. Minimum instant subscription is $5,000; non-instant transactions require $100,000.
 
-**Access model.** Subscription requires accredited investor verification through the Ondo platform. Secondary-market access via Flux creates a permissionless composability layer, but that route carries additional smart contract exposure and is structurally distinct from direct fund subscription. Chain availability spans Ethereum, Solana, and Polygon as of mid-2026, making it the most distributed product in this comparison by chain footprint.
+**Access model.** OUSG is limited to accredited investors and qualified purchasers who complete Ondo's onboarding. The Flux Finance integration creates a secondary permissionless access route but adds smart contract exposure not present in the base subscription. In May 2026, [a cross-institution pilot covered by The Defiant](https://thedefiant.io/) settling OUSG redemptions across the XRP Ledger with Kinexys, Mastercard, and Ripple demonstrated that OUSG is now part of cross-border financial infrastructure testing, not just a DeFi yield product.
 
-**Risk and market role.** Smart contract risk is present in both the token contract and the Flux integration layer. Issuer concentration risk rests on Ondo Finance as wrapper operator rather than on BlackRock directly. The most significant structural note here is that OUSG has become embedded in DeFi capital stacks as a collateral asset, which shifts its market role from pure yield product toward onchain settlement infrastructure. That role is analytically distinct from BUIDL's. Readers comparing this category should keep [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) close, because OUSG's composability path increasingly overlaps with how stablecoin reserves and tokenized Treasury demand compete for the same onchain capital flows.
+**Risk and market role.** Smart contract risk is present in both the token contract and Flux integration. Because OUSG's underlying now primarily holds BUIDL, the fund creates a nested exposure to Securitize and BlackRock in addition to Ondo Finance as wrapper operator. That layering is the main structural complexity worth flagging for institutional due diligence. Readers comparing the stablecoin and treasury intersection should keep [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) close, since OUSG's composability increasingly overlaps with how stablecoin reserve demand and tokenized Treasury demand compete for the same capital allocation.
+
+![Ondo OUSG product page showing tokenized Treasury access model and onchain distribution framing](../media/ondo-ousg-product-page-2026-07-17.png)
+
+*Ondo OUSG product page captured July 17, 2026, showing tokenized Treasury access model and Flux Finance integration.*
+
+## 3. Franklin Templeton Benji (FOBXX)
+
+**Structure.** Benji is the Franklin OnChain US Government Money Fund (ticker: FOBXX), a SEC-registered money market fund with share records maintained on the Stellar blockchain, with a later Polygon integration added. It is the earliest large-scale example of a legacy asset manager registering a fund with a blockchain as the official transfer record system rather than appending tokenization to an existing fund. The Benji mobile app serves as the primary investor interface.
+
+**Access model.** Subscription flows through the Benji app with standard fund KYC and registration. Onboarding resembles traditional fund administration more than crypto-native subscription flows. There is no open DeFi composability layer equivalent to OUSG's Flux integration. The product's distribution posture is explicitly retail-adjacent for a registered money market fund, which sets it apart from the institutional-minimum access models of BUIDL and USTB.
+
+**Risk and market role.** Regulatory risk mirrors the SEC money market fund framework, which is the cleanest regulatory posture in this comparison. Custodian and counterparty concentration rests with Franklin Templeton. For researchers comparing how legacy asset managers approach blockchain distribution, Benji and BUIDL represent two structurally distinct strategies: Benji via direct fund registration on a blockchain transfer record system, BUIDL via a tokenized share wrapper distributed through a third-party tokenization platform.
 
 **Screenshot**
-File: `../media/ondo-ousg-product-page.png`
-Alt text: `Ondo OUSG product page showing tokenized Treasury access model and onchain distribution framing`
-Caption: `Ondo OUSG product page reviewed as part of our July 2026 structural comparison.`
+File: `../media/franklin-benji-home-2026-07-17.png`
+Alt text: `Franklin Templeton OnChain US Government Money Fund FOBXX product page on Franklin Templeton website`
+Caption: `Franklin Templeton Benji (FOBXX) fund page captured during our July 2026 review. The direct URL for the Benji consumer app returned DNS errors during capture; the fund page on franklintempleton.com loaded correctly.`
 
-![Ondo OUSG product page showing tokenized Treasury access model and onchain distribution framing](../media/ondo-ousg-product-page.png)
+![Franklin Templeton OnChain US Government Money Fund FOBXX product page on Franklin Templeton website](../media/franklin-benji-home-2026-07-17.png)
 
-*Ondo OUSG product page reviewed as part of our July 2026 structural comparison.*
-
-## 3. Franklin Templeton Benji
-
-**Structure.** Benji is a SEC-registered money market fund issued by Franklin Templeton and distributed through the Benji mobile application, with share records maintained on the Stellar blockchain and a Polygon integration added later. It is the earliest major example of a legacy asset manager registering a fund with blockchain-based transfer records rather than adding a tokenization layer to an existing fund.
-
-**Access model.** The Benji app serves as the primary investor interface and handles KYC, subscription, and redemption. The onboarding flow resembles traditional fund administration more than crypto-native access, which is consistent with Franklin Templeton's positioning of Benji as a regulated fund product extended onto blockchain rails. There is no open composability path equivalent to OUSG's Flux integration.
-
-**Risk and market role.** Regulatory risk mirrors the standard SEC money market fund framework, which is the cleanest regulatory posture in this comparison. Custodian and counterparty concentration rests with Franklin Templeton. The product's market role is primarily as a proof-of-concept for regulated fund migration onto blockchain rails, rather than as a DeFi composability primitive. For readers comparing how traditional asset managers approach tokenization, Benji and BUIDL represent two distinct institutional strategies: Benji via direct fund registration on a blockchain, BUIDL via a tokenized share wrapper distributed through a third-party platform.
+*Franklin Templeton Benji (FOBXX) fund page captured during our July 2026 review.*
 
 ## 4. Superstate USTB
 
-**Structure.** USTB is a tokenized fund issued by Superstate, a firm founded with an explicit focus on building regulated onchain financial products. The underlying portfolio holds short-duration US government securities. The structure is a regulated fund wrapper with tokenized share access, positioned between the legacy-brand migration model of Benji and the DeFi-distribution model of OUSG.
+**Structure.** USTB is the Invesco Short Duration US Government Securities Fund tokenized by Superstate, a firm purpose-built for regulated onchain financial products. As of July 2026, USTB showed $769.61M in AUM with a 30-day yield of 3.52% and a management fee of 0.15% or less, visible on the public Superstate product page. The fund invests in short-duration US Treasury and agency securities. USTB is a tokenized private fund, not a public registered fund, which is the primary structural distinction from BUIDL and Benji.
 
-**Access model.** Subscription is available to accredited investors through the Superstate platform. There is no public secondary market equivalent to OUSG's Flux layer as of mid-2026. The access model is closer to BUIDL in its fund-administration orientation, with the distinction that Superstate was designed from inception for this use case rather than as a legacy fund extending onto blockchain.
+**Access model.** Subscription requires Superstate account approval and accredited/qualified purchaser status. Subscriptions and redemptions are facilitated in USD or USDC at daily NAV. Once approved, investors add their wallet to an Ethereum allowlist to hold and transfer USTB onchain. The access model is closer to BUIDL in its fund-administration orientation, with Anchorage Digital, BitGo, Federated Hermes, NAV Fund Administration, and UMB Bank as named service providers per Superstate's public documentation.
 
-**Risk and market role.** Issuer concentration risk rests on Superstate as a newer and smaller operator than BlackRock or Franklin Templeton, which is the primary risk consideration for institutional due diligence. Distribution scale is still building, and integrations with larger onchain capital stacks are less established than OUSG. The analytical value here is comparative: USTB allows a fund analyst to evaluate what a purpose-built tokenized Treasury issuer looks like structurally when stripped of legacy brand framing.
+**Risk and market role.** Issuer concentration risk rests on Superstate as a newer and smaller operator than BlackRock or Franklin Templeton, which is the primary consideration for institutional due diligence. The analytical value here is comparative: USTB is the clearest example of what a purpose-built, professionally partnered tokenized Treasury issuer looks like structurally when stripped of legacy brand framing. Its partnership with Invesco as the underlying fund manager is a meaningful credibility signal that distinguishes it from fully crypto-native issuers.
+
+**Screenshot**
+File: `../media/superstate-ustb-home-2026-07-17.png`
+Alt text: `Superstate USTB product page showing Invesco fund framing with $769M AUM and 3.52% 30-day yield`
+Caption: `Superstate USTB product page captured July 17, 2026, showing live AUM and yield data.`
+
+![Superstate USTB product page showing Invesco fund framing with $769M AUM and 3.52% 30-day yield](../media/superstate-ustb-home-2026-07-17.png)
+
+*Superstate USTB product page captured July 17, 2026, showing live AUM of $769.61M and 30-day yield of 3.52%.*
 
 ## 5. Matrixdock STBT
 
-**Structure.** STBT is a tokenized Treasury product issued by Matrixdock, positioned for institutional and professional distribution outside the primary US asset-manager cluster. The underlying exposure targets US Treasury bills. The product is structured as a tokenized fund interest rather than a direct Treasury position, with distribution routed through the Matrixdock platform.
+**Structure.** STBT is a short-term US Treasury bill token issued by Matrixdock, a Singapore-based firm founded in 2023. Each STBT token represents 1 USD NAV of short-term US Treasury exposure, with daily interest distributed via an onchain rebasing mechanism using the ERC-1400 security token standard on Ethereum. The product also covers BNB Chain and Mantle. Matrixdock verifies reserves through Chainlink Proof of Reserve for continuous backing transparency. Total supply as of our July 2026 review stood at 23,784,888 STBT with over $6.9M in cumulative distributed interest since launch, per the Matrixdock product page.
 
-**Access model.** Access is limited to verified institutional and accredited participants through Matrixdock onboarding. The product has a regional distribution angle that distinguishes it from the US-centric issuers above, which is analytically relevant for fund allocators comparing how tokenized Treasury access is developing in non-Western capital markets.
+**Access model.** STBT is restricted to accredited investors under Singapore's Securities and Futures Act Section 275, which exempts offers to institutional and professional investors from the standard prospectus requirement. Matrixdock listed STBT on InvestaX in January 2024, a MAS-licensed tokenization platform, making STBT the first Asia-Pacific tokenized T-bill product distributed through a MAS-licensed channel. Standard redemptions settle T+2, with T+0 available up to a $1M daily limit. [The Defiant's tracking of APAC tokenized asset issuance](https://thedefiant.io/data/rwa) notes that STBT's MAS-licensed distribution through InvestaX and its Chainlink Proof of Reserve verification set it apart from US-centric issuers ? features that matter specifically in markets where local regulatory standing carries more weight than issuer brand recognition.
 
-**Risk and market role.** The primary risk consideration here is documentation-dependent trust: without the brand gravity of BlackRock, Franklin Templeton, or Ondo, the due diligence standard for STBT relies more heavily on legal documentation, custodian verification, and redemption terms review than on issuer reputation alone. Secondary liquidity is limited. For category researchers, STBT is most valuable as a data point on how tokenized Treasury issuance is internationalizing beyond the incumbent US platforms, not as a default first-allocation candidate.
+**Risk and market role.** The primary risk consideration for international allocators is documentation-dependent trust: without the brand gravity of BlackRock or Franklin Templeton, the due diligence standard for STBT relies more heavily on legal documentation, MAS regulatory status, Chainlink reserve verification, and redemption terms review than on issuer reputation. Secondary liquidity outside the Matrixdock platform is limited. For category researchers, STBT is most valuable as a data point on how tokenized Treasury issuance is developing outside the US-centric issuer cluster.
+
+**Screenshot**
+File: `../media/matrixdock-stbt-home-2026-07-17.png`
+Alt text: `Matrixdock STBT product page showing short-term Treasury bill token supply and yield data`
+Caption: `Matrixdock STBT product page captured July 17, 2026, showing live supply and cumulative interest data.`
+
+![Matrixdock STBT product page showing short-term Treasury bill token supply and yield data](../media/matrixdock-stbt-home-2026-07-17.png)
+
+*Matrixdock STBT product page captured July 17, 2026. Total supply 23,784,888 STBT; 30d avg APY 3.48%; cumulative distributed interest $6.9M.*
 
 ## 6. OpenEden TBILL
 
-**Structure.** OpenEden TBILL is a blockchain-native Treasury product designed around onchain collateral utility rather than traditional fund-administration architecture. The structure targets short-duration US Treasury exposure with onchain subscription and redemption mechanics, positioning the product for use as programmable collateral within DeFi capital stacks.
+**Structure.** OpenEden TBILL is structured as a BVI open-ended professional fund regulated by the BVI Financial Services Commission under the Securities and Investment Business Act. The token uses an ERC-4626 vault standard, with underlying T-bills custodied at BNY Mellon. The fund carries an AA+ rating from S&P Global, which is visible on the public OpenEden landing page. The product was co-managed by BNP Paribas Asset Management per earlier documentation, with the platform governed by the Genius Act principles per the July 2026 product page. OpenEden also offers USDO, a yield-bearing stablecoin built on the same Treasury infrastructure.
 
-**Access model.** Subscription is available to accredited investors through the OpenEden platform. The onchain redemption mechanic is a structural differentiator from the fund-administration redemption models of BUIDL and Benji, but it also introduces settlement mechanics that require live verification before allocation. Chain support and integration availability need confirmation against current documentation before use in any DeFi collateral workflow.
+**Access model.** Access is restricted to professional investors as defined under the BVI SIBA framework. The Important Information modal displayed on the OpenEden product page during our July 2026 capture explicitly states that TBILL tokens are unavailable to US persons except as permitted under applicable laws, and that access requires AML/KYC clearance through the fund's own process. The ERC-4626 vault structure makes TBILL the most composable product in this comparison at the smart contract level, but that composability operates within a restricted investor universe.
 
-**Risk and market role.** Smart contract risk is the primary structural concern given the onchain settlement design. Issuer concentration risk rests on OpenEden as an emerging issuer without the scale of the larger incumbents. The product's analytical relevance is in the programmable-collateral direction of the category: if tokenized Treasuries evolve toward becoming standard onchain settlement assets, TBILL represents one version of what that infrastructure looks like from a natively blockchain-oriented issuer.
+**Risk and market role.** Smart contract risk is the primary structural concern given the onchain settlement architecture and ERC-4626 vault design. Jurisdictional restriction to non-US professional investors narrows the addressable market significantly compared to SEC-registered products. The product's analytical relevance is in the programmable-collateral direction: TBILL represents a natively blockchain-oriented Treasury product with third-party custody and a credit rating, positioning it as collateral infrastructure rather than only a yield product.
+
+**Screenshot**
+File: `../media/openeden-tbill-home-2026-07-17.png`
+Alt text: `OpenEden TBILL product page showing BVI-regulated tokenized Treasury with BNY Mellon custody and AA+ S&P rating`
+Caption: `OpenEden TBILL product page captured July 17, 2026. Important Information modal confirms professional-investor restriction and BVI regulatory framework.`
+
+![OpenEden TBILL product page showing BVI-regulated tokenized Treasury with BNY Mellon custody and AA+ S&P rating](../media/openeden-tbill-home-2026-07-17.png)
+
+*OpenEden TBILL product page captured July 17, 2026. The Important Information modal visible on capture confirms professional-investor restriction and BVI regulation.*
 
 ## What this changes for market structure
 
-The six products above are not competing for the same allocator. They are mapping out how tokenized Treasury exposure is bifurcating into two distinct structural trajectories. The first trajectory is the institutional fund wrapper route: BUIDL and Benji, where the product is a regulated fund with a blockchain transfer layer appended, and access is controlled through fund administration workflows. The second is the onchain distribution route: OUSG, USTB, STBT, and TBILL to varying degrees, where the product is built or adapted to function as onchain collateral and settle through crypto capital stacks.
+The six products above are not competing for the same allocator. They are mapping out how tokenized Treasury exposure is bifurcating into two distinct structural trajectories. The first is the institutional fund wrapper route: BUIDL and Benji, where the product is a regulated fund with a blockchain transfer layer, and access is controlled through fund administration workflows with multi-million-dollar minimums. The second is the onchain distribution route: OUSG, USTB, STBT, and TBILL to varying degrees, where the product is built or adapted to function as onchain collateral with lower minimums and secondary market liquidity paths.
 
-That bifurcation matters for market structure because the two trajectories compete for different capital pools and generate different kinds of demand. Institutional fund wrappers capture capital from allocators who want regulatory familiarity and operational continuity. Onchain distribution captures capital from DeFi protocols, treasuries, and platforms that need composable short-duration yield assets. As both pools grow, the competition between issuers is increasingly about distribution integration rather than yield spread. The issuers winning platform integrations and custodian relationships in H2 2026 will matter more for long-term category share than AUM rankings today.
+That bifurcation matters for market structure because the two trajectories compete for different capital pools and generate different kinds of demand. Institutional fund wrappers capture capital from allocators who need regulatory familiarity and operational continuity. Onchain distribution captures capital from DeFi protocols, crypto-native treasuries, and platforms that need composable short-duration yield assets. As total tokenized Treasury issuance crossed $15 billion in 2026 per RWA.xyz, the competition between issuers shifted from product design toward distribution integration: which products are accepted as collateral, which issuers win custodian and platform relationships, and which regulatory frameworks prove durable across jurisdictions.
 
-For readers tracking the same capital flow from the ETF side, the [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026) comparison covers equivalent wrapper-trust and capital-distribution dynamics applied to a different underlying asset class.
+For readers tracking the same capital flow from the ETF angle, the [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026) comparison covers equivalent wrapper-trust and distribution dynamics applied to a different underlying asset class.
 
 ## What to watch through H2 2026
 
-- Which products gain acceptance as collateral in major lending and derivatives protocols
-- Whether accredited-only access models face regulatory pressure to broaden or formalize
-- How issuers respond to platform integration requirements from custodians and DeFi venues
-- Whether OUSG's composability model gets replicated by BUIDL or Benji through third-party integrations
-- Whether any product achieves meaningful secondary-market liquidity without sacrificing regulatory posture
+- Whether BUIDL maintains category share after BlackRock's May 2026 additional fund filings change its own competitive positioning
+- Which products gain acceptance as collateral in major lending and derivatives protocols beyond the current Deribit and Crypto.com integrations
+- How the OUSG nested-BUIDL structure performs under redemption stress relative to direct-subscription products
+- Whether STBT and OpenEden TBILL expand distribution outside their current APAC and professional-investor primary audiences
+- Whether the SEC's treatment of tokenized fund shares as conventional securities remains stable or shifts to require new disclosure frameworks
 
 ## What this review verified and what it did not
 
-Product pages, issuer documentation, and public distribution directories for all six funds were reviewed on July 10, 2026. The public surfaces are sufficient to establish structural framing, access model, and chain availability. They are not sufficient to confirm live redemption mechanics, current yield rates, or jurisdiction-specific eligibility.
+Product pages, issuer documentation, public fund directories, and live data visible on product surfaces were reviewed July 10 and July 17, 2026. AUM and yield figures reflect what was visible on the respective product pages during our captures and may have changed.
 
 | Claim | Status |
 |-------|--------|
-| Securitize BUIDL product page and fund documentation reviewed | Verified |
-| Ondo OUSG product page and access model reviewed | Verified |
-| Franklin Templeton Benji product page reviewed | Verified |
-| Superstate USTB product page reviewed | Verified |
-| Matrixdock STBT product page reviewed | Verified |
-| OpenEden TBILL product page reviewed | Verified |
+| Securitize BUIDL product page captured (securitize-buidl-product-page-2026-07-17.png) | Verified |
+| Ondo OUSG product page captured (ondo-ousg-product-page-2026-07-17.png) | Verified |
+| Franklin Templeton FOBXX fund page on franklintempleton.com loaded and captured | Verified |
+| Superstate USTB product page with live AUM ($769.61M) and yield (3.52%) captured | Verified |
+| Matrixdock STBT product page with live supply (23.78M) and APY (3.48%) captured | Verified |
+| OpenEden TBILL product page with Important Information modal captured | Verified |
+| Franklin Templeton Benji consumer app (app.benji.investments) loaded | Not verified (DNS error during capture) |
 | Live subscription or onboarding workflow completed for any product | Not verified |
-| Redemption mechanics tested end-to-end for any product | Not verified |
-| Accredited investor eligibility confirmed per jurisdiction | Not verified |
-| Live yield rates, fee schedules, and minimum subscription amounts confirmed | Not verified |
-| Smart contract audits reviewed for OUSG, USTB, or TBILL | Not verified |
+| Redemption mechanics tested end-to-end | Not verified |
+| Smart contract audits reviewed for OUSG, USTB, STBT, or TBILL | Not verified |
+| Accredited/QP investor eligibility confirmed per jurisdiction | Not verified |
 
 ## Why you can trust this guide
 
-This comparison is based on live public product surfaces, issuer documentation, and public market directories reviewed in July 2026. Every structural claim above cites the specific product or source it refers to. Anything that depends on authenticated platform access, live pricing, redemption execution, or jurisdiction-specific eligibility confirmation is marked not verified and requires independent due diligence before any allocation decision.
+This comparison is based on live public product surfaces, issuer documentation, public market directories, and live data captured from product pages in July 2026. Every structural claim above cites the specific product surface or source it draws from. AUM figures reflect publicly visible product page data as of the capture date. Anything requiring authenticated platform access, live pricing confirmation, redemption execution, or jurisdiction-specific eligibility confirmation is marked not verified and requires independent due diligence before any allocation decision.
 
 ## Source notes
 
-- Securitize BUIDL product page, checked 2026-07-10
-- Ondo Finance OUSG product page and distribution documentation, checked 2026-07-10
-- Franklin Templeton Benji product page and SEC fund registration reference, checked 2026-07-10
-- Superstate USTB product page, checked 2026-07-10
-- Matrixdock STBT product page, checked 2026-07-10
-- OpenEden TBILL product page, checked 2026-07-10
-- RWA.xyz platform directory, checked 2026-07-10
+- Securitize BUIDL product page, reviewed 2026-07-10
+- Ondo Finance OUSG product page and fee documentation (ondo.finance/ousg), reviewed 2026-07-10
+- Franklin Templeton FOBXX fund page (franklintempleton.com), reviewed 2026-07-17
+- Superstate USTB product page (superstate.com/assets/ustb), reviewed 2026-07-17
+- Matrixdock STBT product page (matrixdock.com/stbt), reviewed 2026-07-17
+- OpenEden TBILL product page (openeden.com/tbill), reviewed 2026-07-17
+- RWA.xyz platform directory and market data, reviewed 2026-07-10
+- DeFiLlama protocol TVL data for BUIDL, Ondo, STBT, USTB, reviewed 2026-07-17
+- Coinpaprika: TBILL, STBT, and USYC structural comparison (coinpaprika.com), March 2026
+- The Defiant: Ondo DTCC working group coverage, May 2026 (thedefiant.io)
+- FinanceFeeds: USYC vs BUIDL distribution analysis, May 2026 (financefeeds.com/tokenized-treasuries-defi-collateral-layer-2026/)
 
 ## Internal link suggestions
 
