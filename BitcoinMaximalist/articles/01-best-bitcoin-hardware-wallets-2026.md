@@ -39,6 +39,32 @@ BitBox02 Bitcoin-only is still one of the best balanced choices for users who wa
 
 Bottom line: if you want the highest signal-to-noise ratio, start with Coldcard or Jade. If you want the least friction, start with BitBox02 Bitcoin-only. If you want advanced operational sovereignty, look hard at Passport or SeedSigner.
 
+
+## Quick comparison: best Bitcoin hardware wallets 2026
+
+| Wallet | Price (approx.) | Best for | Air-gap method | Open source | Setup difficulty |
+| --- | --- | --- | --- | --- | --- |
+| Coldcard Mk4 / Q | $149 -- $239 | Advanced self-custody, multisig | microSD (PSBT) | Partial (secure element closed) | High |
+| Blockstream Jade | ~$65 | Value-focused Bitcoin users | QR code | Full (firmware) | Moderate |
+| BitBox02 Bitcoin-only | ~$149 | Beginners who want quality | USB only | Full (firmware + app) | Easy |
+| Passport (Gen 2) | ~$199 | Premium, open-hardware sovereignty | QR code | Full (firmware + schematics) | Moderate |
+| SeedSigner | ~$50 (DIY parts) | DIY / multisig tinkerers | QR code | Full (all components) | DIY required |
+
+## Ranking scorecard
+
+Scored out of 10 per category. Total out of 70.
+
+| Wallet | Security model | Setup ease | Value for money | Bitcoin focus | Open source | Air-gap | Multisig & interop | **Total** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coldcard | 10 | 5 | 7 | 10 | 7 | 10 | 10 | **59** |
+| Blockstream Jade | 8 | 7 | 10 | 9 | 10 | 8 | 8 | **60** |
+| BitBox02 Bitcoin-only | 8 | 10 | 7 | 10 | 10 | 5 | 7 | **57** |
+| Passport | 9 | 8 | 6 | 10 | 10 | 10 | 9 | **62** |
+| SeedSigner | 10 | 3 | 10 | 10 | 10 | 10 | 10 | **63** |
+
+**Scoring notes:** Security model weighs secure element quality, signing posture, and attack surface. Setup ease reflects time-to-first-receive for a new user with no prior hardware wallet experience. Value for money accounts for feature set relative to street price. Open source covers both firmware and hardware schematics where applicable. Air-gap scores reflect how completely the device can sign without any live network or USB dependency. Multisig and interop reflects how cleanly the device pairs with Sparrow, Electrum, and coordinator software.
+
+SeedSigner scores highest on the scorecard but is not the top recommendation for most readers -- that gap reflects the tradeoff between sovereignty ceiling and practical accessibility. Passport scores highest among commercial devices. Coldcard and Jade sit close together and the right call between them depends almost entirely on budget and how much setup friction the reader is willing to accept.
 ## What we checked ourselves before ranking these wallets
 
 To build this ranking, we reviewed the public-facing product positioning of the shortlisted wallets and compared how each one presents its custody model, setup flow, signing posture, and Bitcoin-specific feature set. We did that so the article would not depend only on generic wallet roundups or brand familiarity.
