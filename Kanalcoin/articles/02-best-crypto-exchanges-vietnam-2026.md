@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Crypto Exchanges in Vietnam 2026"
 slug: "/asia/vietnam/best-crypto-exchanges-vietnam-2026"
 meta_title: "Best Crypto Exchanges in Vietnam 2026: Top Platforms for VND, P2P, and Trading"
@@ -40,23 +40,27 @@ For context on how Vietnam compares to neighboring markets, see our [Best Crypto
 | OKX | Best exchange plus Web3 wallet ecosystem | 4/5 | Dense interface, not suited for casual buyers |
 | MEXC | Widest altcoin breadth available to Vietnam users | 3/5 | Higher personal due-diligence demands |
 
-## Vietnam's regulatory context: what SSC oversight means for exchange selection
+## Vietnam’s regulatory context: what the 2026 licensing framework means for exchange selection
 
-Vietnam does not currently have a licensed domestic retail crypto exchange framework comparable to Indonesia's OJK system or Thailand's SEC. The State Securities Commission (SSC Vietnam) oversees the broader financial and digital asset policy direction following the 2025 Law on Digital Technology Industry, but as of July 2026 no global exchange operates under a Vietnam-specific retail crypto exchange license.
+Vietnam’s crypto regulatory landscape shifted decisively in early 2026. The [Law on Digital Technology Industry (Law No. 71/2025/QH15)](https://english.mic.gov.vn/national-assembly-adopts-law-on-digital-technology-industry-197250616203643956.htm), passed by the National Assembly in June 2025 and effective January 1, 2026, formally recognizes digital assets as property under Vietnamese civil law. [Government Resolution No. 05/2025/NQ-CP](https://lawnet.vn/en/vb/Resolution-05-2025-NQ-CP-pilot-mechanism-for-crypto-asset-trading-market-in-Vietnam-9E474.html), issued in September 2025, established a five-year pilot program for licensed crypto-asset trading markets. In January 2026, the Ministry of Finance issued [Decision No. 96/QD-BTC](https://mof.gov.vn/webcenter/portal/btcen), launching the formal licensing procedures, and the State Securities Commission (SSC) began accepting applications on January 20, 2026.
 
-This means Vietnamese users access all five platforms in this list as offshore accounts. That does not make them unavailable, but it does mean that SSC Vietnam's evolving rules, including any future licensing framework, could change access conditions with less notice than in a fully licensed domestic market. Users in Vietnam should treat the regulatory context as a live variable, not a settled fact.
+The licensing requirements are among the most restrictive in Asia. Applicants must be Vietnamese-incorporated companies with minimum charter capital of VND 10 trillion (approximately USD 400 million). At least 65% of that capital must come from domestic institutional shareholders such as banks, securities firms, insurers, or technology companies. Foreign ownership is capped at 49%. Platforms must meet Level 4 cybersecurity standards, and exchanges are regulated as market infrastructure similar to securities exchanges, not as fintech payment companies.
 
-Geo-restriction is not currently the primary concern for any of the five platforms in this list. All five are accessible from Vietnam as of July 2026. The more practical constraint is VND: none of these platforms support direct VND bank transfer. Vietnamese users reach them through P2P desks, which work, but which add a counterparty step that direct bank routes do not have.
+As of March 2026, five companies cleared the initial screening round: affiliates of Techcombank, VPBank, LPBank, VIX Securities, and the Sun Group conglomerate. Deputy Finance Minister Nguyen Duc Chi confirmed in May 2026 that the government targets Q3 2026 for the first licensed domestic exchanges to begin operations. However, as of this review in July 2026, no domestic exchange has received a full operating license, and detailed custody, AML, and KYC regulations are still being finalized.
+
+Simultaneously, the Ministry of Finance is drafting rules that would restrict Vietnamese users from trading on offshore platforms such as Binance, OKX, and Bybit. [Reuters reported in March 2026](https://www.reuters.com/technology/vietnam-moves-ban-offshore-crypto-exchanges-2026-03-17/) that traders may have a six-month transition window to move funds to licensed domestic platforms once the ban takes effect. A proposed 0.1% personal income tax on gross transaction value would apply to all trades on licensed platforms, with the tax withheld automatically at the point of transaction. All transactions must settle exclusively in Vietnamese dong through licensed commercial banks.
+
+This means that while all five offshore platforms in this list remain accessible to Vietnamese users as of July 2026, the access window is narrowing. Vietnam is actively building a domestic-only exchange model that could restrict or eliminate direct access to global platforms. Users in Vietnam should treat the current offshore access as a transitional state, not a permanent arrangement. The practical constraint remains VND: none of these offshore platforms support direct VND bank transfer, so Vietnamese users still reach them through P2P desks.
 
 ## Quick comparison of the best crypto exchanges in Vietnam
 
 | Exchange | Best for | VND access | Language support | App availability | Regulation context | Main tradeoff |
 |---|---|---|---|---|---|---|
-| Binance | Overall use and P2P familiarity | P2P (no direct VND bank route) | Vietnamese, English | iOS, Android, Web | No Vietnam-specific license; global entity used by Vietnamese users | Product complexity can overwhelm new users |
-| Bybit | Active and derivatives traders | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam-specific license; accessible to Vietnamese users | Less beginner-friendly than simpler apps |
-| Bitget | Retail users moving into more active trading | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam-specific license; accessible to Vietnamese users | Copy-trading framing can distract from independent risk control |
-| OKX | Exchange plus wallet and onchain tools | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam-specific license; accessible to Vietnamese users | Interface can feel dense for first-time buyers |
-| MEXC | Long-tail altcoin hunters | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam-specific license; accessible to Vietnamese users | Trust and withdrawal checks matter more before funding |
+| Binance | Overall use and P2P familiarity | P2P (no direct VND bank route) | Vietnamese, English | iOS, Android, Web | No Vietnam license yet; offshore ban being drafted; five domestic firms in licensing pipeline | Product complexity can overwhelm new users |
+| Bybit | Active and derivatives traders | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam license yet; named in draft offshore restriction rules | Less beginner-friendly than simpler apps |
+| Bitget | Retail users moving into more active trading | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam license yet; accessible but offshore access window narrowing | Copy-trading framing can distract from independent risk control |
+| OKX | Exchange plus wallet and onchain tools | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam license yet; named in draft offshore restriction rules | Interface can feel dense for first-time buyers |
+| MEXC | Long-tail altcoin hunters | P2P available | Vietnamese, English | iOS, Android, Web | No Vietnam license yet; accessible but offshore access window narrowing | Trust and withdrawal checks matter more before funding |
 
 ## Binance
 
@@ -139,7 +143,7 @@ The version of MEXC that works well is one where the user already understands wh
 
 What stood out was how consistently VND access, not product features, drives the real exchange decision for Vietnamese users. All five platforms in this list face the same VND constraint: no direct bank transfer, P2P as the main entry route. That changes the comparison from a feature race into a question of P2P depth, counterparty familiarity, and whether the platform's Vietnamese-language support is good enough to use without friction.
 
-The policy context adds a second layer. Because SSC Vietnam has not yet issued a licensed domestic exchange framework, every user in this list is operating offshore. That is not unusual: it describes most Vietnamese crypto users today. But it does mean the regulatory baseline can shift faster here than in Indonesia or Thailand, where licensed domestic exchanges already exist and give users a clearer set of rules to reference.
+The policy context adds a second layer. Vietnam's domestic exchange licensing framework is live but no platform has launched yet. Every user in this list is still operating offshore as of July 2026, but the government has cleared five firms for licensing and targets Q3 2026 for the first domestic exchanges. The Ministry of Finance is also drafting rules to restrict access to offshore platforms. That means the regulatory baseline is shifting faster here than in most Southeast Asian markets, and the current offshore access model may not last.
 
 ## Fees, spreads, and hidden friction matter more than headlines
 
@@ -199,17 +203,20 @@ Binance and Bitget are usually the easiest starting points because they balance 
 
 ### Does Vietnam have a licensed domestic crypto exchange?
 
-Not as of July 2026. SSC Vietnam has not yet issued a licensed domestic retail exchange framework. Vietnamese users access all major exchanges as offshore accounts. The 2025 Law on Digital Technology Industry created a policy direction, but a final licensing framework for retail exchange operations had not been published as of this review.
+Not yet as of July 2026, but the framework is live and moving fast. The Law on Digital Technology Industry (effective January 2026) formally recognizes digital assets as property. Resolution 05/2025 established a five-year pilot licensing program, and the SSC has been accepting exchange license applications since January 20, 2026. Five companies linked to major banks and conglomerates cleared initial screening in March 2026, and the government targets Q3 2026 for the first licensed platforms to begin operations. Until then, Vietnamese users still access all major exchanges as offshore accounts.
 
 ## Sources
 
-- Ministry of Information and Communications of Vietnam, [Law on Digital Technology Industry](https://english.mic.gov.vn/national-assembly-adopts-law-on-digital-technology-industry-197250616203643956.htm)
 - Chainalysis, [The 2025 Global Crypto Adoption Index](https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/)
 - Binance, [P2P trading platform](https://www.binance.com/en/p2p)
 - Bybit, [official site](https://www.bybit.com/)
 - Bitget, [official site](https://www.bitget.com/)
 - OKX, [official site](https://www.okx.com/)
 - MEXC, [official site](https://www.mexc.com/)
+- National Assembly of Vietnam, [Law on Digital Technology Industry (Law No. 71/2025/QH15)](https://english.mic.gov.vn/national-assembly-adopts-law-on-digital-technology-industry-197250616203643956.htm)
+- Government of Vietnam, [Resolution No. 05/2025/NQ-CP on crypto-asset trading market pilot program](https://lawnet.vn/en/vb/Resolution-05-2025-NQ-CP-pilot-mechanism-for-crypto-asset-trading-market-in-Vietnam-9E474.html)
+- Ministry of Finance of Vietnam, [Decision No. 96/QD-BTC on crypto exchange licensing procedures](https://mof.gov.vn/webcenter/portal/btcen)
+- Reuters, [Vietnam drafts rules to ban offshore crypto exchanges](https://www.reuters.com/technology/vietnam-moves-ban-offshore-crypto-exchanges-2026-03-17/)
 - Reddit, [r/VietNam: how to cash out crypto in Vietnam](https://www.reddit.com/r/VietNam/comments/1ncivit/how_to_cash_out_crypto_in_vietnam/)
 - Reddit, [r/VietNam: cashing out on Binance P2P safely in Vietnam](https://www.reddit.com/r/VietNam/comments/1pp4nly/cashing_out_on_binance_p2p_safely_in_vietnam/)
 - Reddit, [r/VietNam: why do people P2P trade crypto in Vietnam](https://www.reddit.com/r/VietNam/comments/1niy0jx/why_do_people_p2p_trade_crypto_in_vietnam/)
