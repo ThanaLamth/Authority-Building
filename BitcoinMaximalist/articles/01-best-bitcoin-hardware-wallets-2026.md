@@ -240,12 +240,6 @@ If this article is upgraded with real test data later, this is the section where
 | Passport | Users who want premium sovereignty | Strong interface, solid signing model, good operational feel | Higher price |
 | SeedSigner | DIY and multisig tinkerers | Open components, stateless model, excellent sovereignty profile | Not ideal for mainstream beginners |
 
-If your team runs direct tests, add measured observations under the live comparison table:
-
-| Wallet | Setup time | Firmware update time | Recovery test time | PSBT signing notes |
-| --- | --- | --- | --- | --- |
-| `[insert wallet]` | `[insert measured time]` | `[insert measured time]` | `[insert measured time]` | `[insert note]` |
-
 Coldcard is still the benchmark when the job is secure signing rather than marketing polish. It is strongest in setups where the user already understands UTXOs, PSBT flow, and the difference between convenience and safety. It also pairs naturally with more advanced [multisig planning](/bitcoin-guides/security/best-bitcoin-multisig-wallets-2026/).
 
 Jade wins when price discipline matters. It gives users access to a serious Bitcoin-only stack without forcing them into generic altcoin wallet design. That makes it one of the most useful recommendation targets for first-time self-custody users.
