@@ -69,6 +69,16 @@ A funding spike on one exchange with neutral funding everywhere else is noise. A
 
 ### 1. Coinglass
 
+**Featured Image**
+File: `../media/coinglass-funding-2026-07-17.png`
+Alt text: `Coinglass funding rate dashboard, July 2026.`
+Caption: `Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.`
+
+![Coinglass funding rate dashboard, July 2026.](../media/coinglass-funding-2026-07-17.png)
+
+*Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.*
+
+
 Coinglass is the easiest and most complete starting point for funding rate monitoring. The cross-exchange comparison screen aggregates live funding from Binance, Bybit, OKX, Deribit, and other major venues into one view, with color coding that makes rate dispersion immediately visible. For most MarketBit readers, this is the first screen to open when checking whether a funding extreme is meaningful.
 
 In a [crypto futures trading thread on Reddit](https://www.reddit.com/r/CryptoMarkets/comments/1l2pomy/why_you_need_understand_funding_rates_in_crypto), one trader described Coinglass as "great for funding heatmaps and live rate tracking" and listed it first among the tools they check before entering a trade. A separate [CryptoCurrency thread on watching funding rates](https://www.reddit.com/r/CryptoCurrency/comments/quj6sn/if_you_want_to_know_where_the_market_is_going) bookmarked the Coinglass funding page directly and offered specific thresholds: anything above 0.01% is overheated, above 0.03% means "it's only a matter of time" before a liquidation sweep.
@@ -77,6 +87,16 @@ In a [crypto futures trading thread on Reddit](https://www.reddit.com/r/CryptoMa
 **Main tradeoff:** the broad layout includes more market context than a trader who only wants funding data needs to parse. Whether that density helps or hurts depends on how many derivatives signals the trader actually checks each session.
 
 ### 2. CoinAnk
+
+**Screenshot 1**
+File: `../media/coinank-home-2026-07-10.png`
+Alt text: `CoinAnk homepage, July 2026.`
+Caption: `CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.`
+
+![CoinAnk homepage, July 2026.](../media/coinank-home-2026-07-10.png)
+
+*CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.*
+
 
 CoinAnk presents funding rate data inside a derivatives-native layout that integrates OI change and long-short context on the same screen. The product feels built for traders who think about funding as part of a positioning picture, not as an isolated number.
 
@@ -87,6 +107,16 @@ CoinAnk's derivatives screenshots circulate in [Bitcoin](https://www.reddit.com/
 
 ### 3. CryptoQuant
 
+**Screenshot 2**
+File: `../media/cryptoquant-home-2026-07-17.png`
+Alt text: `CryptoQuant homepage, July 2026.`
+Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.`
+
+![CryptoQuant homepage, July 2026.](../media/cryptoquant-home-2026-07-17.png)
+
+*CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.*
+
+
 CryptoQuant provides funding rate data embedded within a broader on-chain and market interpretation layer. The platform adds narrative framing around its metrics, which makes it more useful for analysts who want to understand why funding is moving, not just that it moved.
 
 CryptoQuant appears in [crypto fund discussions on Reddit](https://www.reddit.com/r/quant/comments/1cen4g4/whats_it_like_working_at_a_crypto_fund) as part of the institutional analytics stack, though traders focused purely on funding rate speed tend to default to Coinglass or exchange-native dashboards first.
@@ -95,6 +125,16 @@ CryptoQuant appears in [crypto fund discussions on Reddit](https://www.reddit.co
 **Main tradeoff:** less visual speed on pure funding monitoring than Coinglass or CoinAnk. Whether the narrative framing adds clarity or delays the read depends on whether the trader is researching or executing.
 
 ### 4. Laevitas
+
+**Screenshot 3**
+File: `../media/laevitas-home-2026-07-17.png`
+Alt text: `Laevitas homepage, July 2026.`
+Caption: `Laevitas homepage, July 2026: derivatives analytics including options vol and funding context reviewed directly.`
+
+![Laevitas homepage, July 2026.](../media/laevitas-home-2026-07-17.png)
+
+*Laevitas homepage, July 2026: derivatives analytics including options vol and funding context reviewed directly.*
+
 
 Laevitas is the strongest choice when funding rate tracking needs to sit alongside options implied volatility, term structure, and structured product analytics. The platform serves multi-product derivatives desks that monitor perpetuals and options in the same workflow.
 
@@ -230,42 +270,6 @@ The tools that provide raw, cross-exchange data with clear sourcing are the ones
 ## What we checked ourselves before ranking these tools
 
 For this article, we reviewed the live public product pages of Coinglass, CoinAnk, CryptoQuant, and Laevitas directly in July 2026. Screenshots were captured from each to verify what information the product surfaces on first load and how that information is framed for a derivatives trader.
-
-**Featured Image**
-File: `../media/coinglass-funding-2026-07-17.png`
-Alt text: `Coinglass funding rate dashboard, July 2026.`
-Caption: `Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.`
-
-![Coinglass funding rate dashboard, July 2026.](../media/coinglass-funding-2026-07-17.png)
-
-*Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.*
-
-**Screenshot 1**
-File: `../media/coinank-home-2026-07-10.png`
-Alt text: `CoinAnk homepage, July 2026.`
-Caption: `CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.`
-
-![CoinAnk homepage, July 2026.](../media/coinank-home-2026-07-10.png)
-
-*CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.*
-
-**Screenshot 2**
-File: `../media/cryptoquant-home-2026-07-17.png`
-Alt text: `CryptoQuant homepage, July 2026.`
-Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.`
-
-![CryptoQuant homepage, July 2026.](../media/cryptoquant-home-2026-07-17.png)
-
-*CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.*
-
-**Screenshot 3**
-File: `../media/laevitas-home-2026-07-17.png`
-Alt text: `Laevitas homepage, July 2026.`
-Caption: `Laevitas homepage, July 2026: derivatives analytics including options vol and funding context reviewed directly.`
-
-![Laevitas homepage, July 2026.](../media/laevitas-home-2026-07-17.png)
-
-*Laevitas homepage, July 2026: derivatives analytics including options vol and funding context reviewed directly.*
 
 What stood out immediately in Coinglass was the density of the cross-exchange comparison. The funding rate page aggregated data across a broad exchange set, with color coding that made it fast to spot which venues were running hot or cold relative to one another. That is the most critical feature for a funding tracker: not just showing one number, but letting a trader instantly see whether an extreme is isolated or synchronized.
 

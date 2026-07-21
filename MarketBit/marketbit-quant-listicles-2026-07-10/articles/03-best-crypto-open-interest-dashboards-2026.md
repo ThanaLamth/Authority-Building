@@ -70,6 +70,16 @@ For every OI reading, the MarketBit team also checks [funding rates](/derivative
 
 ### 1. Coinglass
 
+**Featured Image**
+File: `../media/coinglass-oi-2026-07-17.png`
+Alt text: `Coinglass open interest dashboard, July 2026.`
+Caption: `Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.`
+
+![Coinglass open interest dashboard, July 2026.](../media/coinglass-oi-2026-07-17.png)
+
+*Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.*
+
+
 Coinglass provides the broadest OI monitoring environment on this list. Exchange-level OI, asset-level OI, and OI change data appear together and link directly to [funding rate data](/derivatives/funding-rate/best-crypto-funding-rate-trackers-2026) and [liquidation maps](/derivatives/liquidations/best-crypto-liquidation-heatmaps-2026) in the same workflow. For daily monitoring, that integration matters more than any single feature.
 
 A [CryptoCurrency thread analyzing OI movements during a crash](https://www.reddit.com/r/CryptoCurrency/comments/15v8s65/open_interest_in_crypto_trading_definition) noted that rising OI despite flat price was a clear volatility signal, and used Coinglass data to illustrate the pattern. In a [TradingView thread](https://www.reddit.com/r/TradingView/comments/1ber6nb/help_me_bring_more_crypto_data_to_tradingv), a full-time crypto trader called out Coinglass by name as providing OI and funding data for free that TradingView itself still lacks natively.
@@ -78,6 +88,16 @@ A [CryptoCurrency thread analyzing OI movements during a crash](https://www.redd
 **Main tradeoff:** the broad layout is more information-dense than a trader who only wants a single OI number needs to parse. Whether that density helps or hurts depends on how many derivatives signals the trader monitors daily.
 
 ### 2. CoinAnk
+
+**Screenshot 1**
+File: `../media/coinank-home-2026-07-10.png`
+Alt text: `CoinAnk homepage, July 2026.`
+Caption: `CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.`
+
+![CoinAnk homepage, July 2026.](../media/coinank-home-2026-07-10.png)
+
+*CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.*
+
 
 CoinAnk presents OI change as a first-class signal rather than a secondary data layer. The product framing is built around derivatives operators who monitor OI directionally and want it displayed alongside long-short ratios and funding context from the same screen.
 
@@ -88,6 +108,16 @@ CoinAnk shows up in [TradingView feature request threads](https://www.reddit.com
 
 ### 3. CryptoQuant
 
+**Screenshot 2**
+File: `../media/cryptoquant-home-2026-07-17.png`
+Alt text: `CryptoQuant homepage, July 2026.`
+Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.`
+
+![CryptoQuant homepage, July 2026.](../media/cryptoquant-home-2026-07-17.png)
+
+*CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.*
+
+
 CryptoQuant combines OI data with on-chain signals and narrative market framing. The platform is used by analysts who want to connect a change in OI to a broader market structure story, including miner behavior, exchange reserve flows, and spot demand signals.
 
 CryptoQuant's OI analysis gets cited regularly in [Bitcoin community threads](https://www.reddit.com/r/btc/comments/1t9przb/bitcoin_open_interest_just_hit_an_alltime_) when open interest hits structural milestones. One post referencing CryptoQuant data noted that BTC OI hit an all-time high at $82K, higher than the peak before the $126K ATH, framing it as "something is building here." A [separate thread](https://www.reddit.com/r/CryptoCurrency/comments/1oc65nk/open_interest_hits_2025_low_and_nears_extr) cited a CryptoQuant analyst on OI hitting a 2025 low near "Extreme Fear" as a potential selling exhaustion signal.
@@ -97,6 +127,16 @@ CryptoQuant's OI analysis gets cited regularly in [Bitcoin community threads](ht
 
 ### 4. Glassnode
 
+**Screenshot 3**
+File: `../media/glassnode-home-2026-07-17.png`
+Alt text: `Glassnode homepage, July 2026.`
+Caption: `Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.`
+
+![Glassnode homepage, July 2026.](../media/glassnode-home-2026-07-17.png)
+
+*Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.*
+
+
 Glassnode provides the deepest historical context for OI on this list. Its derivatives module includes perpetual OI, long-term OI trend data, and OI relative to market cap metrics that allow cycle-level comparison. For researchers assessing whether current OI levels are elevated relative to historical norms, Glassnode is the best reference.
 
 When traders in [algo trading forums on Reddit](https://www.reddit.com/r/algotrading/comments/1pbnc5x/help_getting_btc_historical_open_interest_and) ask for 10+ years of BTC OI history, Glassnode is one of the few paid services recommended for that depth. A [Glassnode analysis summary thread](https://www.reddit.com/r/CryptoCurrency/comments/rawyqh/short_summary_of_todays_yt_glassnode_analys) in CryptoCurrency documented how the platform explained a $5.4B liquidation cascade through its on-chain OI framework.
@@ -105,6 +145,16 @@ When traders in [algo trading forums on Reddit](https://www.reddit.com/r/algotra
 **Main tradeoff:** not built for real-time tactical monitoring, and premium access is required for full historical depth. Whether the cycle-level context justifies that cost depends on the trader's time horizon.
 
 ### 5. Laevitas
+
+**Screenshot 4**
+File: `../media/laevitas-home-2026-07-17.png`
+Alt text: `Laevitas homepage, July 2026.`
+Caption: `Laevitas homepage, July 2026: multi-product derivatives analytics including OI and options vol reviewed directly.`
+
+![Laevitas homepage, July 2026.](../media/laevitas-home-2026-07-17.png)
+
+*Laevitas homepage, July 2026: multi-product derivatives analytics including OI and options vol reviewed directly.*
+
 
 Laevitas provides OI data alongside options implied volatility, term structure, and multi-product derivatives analytics. For desks that trade both perpetuals and structured products, Laevitas offers the most complete derivatives analytics environment on this list.
 
@@ -214,51 +264,6 @@ Once you see them leaning towards one side or the other more than once, engage d
 ## What we checked ourselves before ranking these tools
 
 For this article, we reviewed the live public product pages of Coinglass, CoinAnk, CryptoQuant, Glassnode, and Laevitas directly in July 2026. Screenshots were captured from each to verify first-screen framing and what data each product surfaces for a derivatives trader on arrival.
-
-**Featured Image**
-File: `../media/coinglass-oi-2026-07-17.png`
-Alt text: `Coinglass open interest dashboard, July 2026.`
-Caption: `Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.`
-
-![Coinglass open interest dashboard, July 2026.](../media/coinglass-oi-2026-07-17.png)
-
-*Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.*
-
-**Screenshot 1**
-File: `../media/coinank-home-2026-07-10.png`
-Alt text: `CoinAnk homepage, July 2026.`
-Caption: `CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.`
-
-![CoinAnk homepage, July 2026.](../media/coinank-home-2026-07-10.png)
-
-*CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.*
-
-**Screenshot 2**
-File: `../media/cryptoquant-home-2026-07-17.png`
-Alt text: `CryptoQuant homepage, July 2026.`
-Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.`
-
-![CryptoQuant homepage, July 2026.](../media/cryptoquant-home-2026-07-17.png)
-
-*CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.*
-
-**Screenshot 3**
-File: `../media/glassnode-home-2026-07-17.png`
-Alt text: `Glassnode homepage, July 2026.`
-Caption: `Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.`
-
-![Glassnode homepage, July 2026.](../media/glassnode-home-2026-07-17.png)
-
-*Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.*
-
-**Screenshot 4**
-File: `../media/laevitas-home-2026-07-17.png`
-Alt text: `Laevitas homepage, July 2026.`
-Caption: `Laevitas homepage, July 2026: multi-product derivatives analytics including OI and options vol reviewed directly.`
-
-![Laevitas homepage, July 2026.](../media/laevitas-home-2026-07-17.png)
-
-*Laevitas homepage, July 2026: multi-product derivatives analytics including OI and options vol reviewed directly.*
 
 What stood out immediately in Coinglass was the breadth of exchange coverage in the OI view. The dashboard aggregated OI by exchange, by asset, and across market type in a single page, which makes it easy to see where open interest is concentrated versus distributed. That breadth is the core reason Coinglass leads this list: a trader can look at total BTC OI, then drill to individual exchange OI, then pivot to altcoin OI, without leaving the tool.
 
