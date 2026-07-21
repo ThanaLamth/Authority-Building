@@ -92,7 +92,7 @@ We reviewed live public product surfaces, docs, and positioning in July 2026. Bi
 
 ### 1. Bittensor
 
-Bittensor presents itself as an open incentive network around machine intelligence, organized through subnets, validators, miners, and staking mechanics. What stood out immediately from the docs we reviewed was the density of the technical framing. The homepage and documentation do not lead with AI marketing language. They lead with network participation mechanics.
+[Bittensor](https://bittensor.com/) presents itself as an open incentive network around machine intelligence, organized through subnets, validators, miners, and staking mechanics. What stood out immediately from the docs we reviewed was the density of the technical framing. The homepage and documentation do not lead with AI marketing language. They lead with network participation mechanics.
 
 The numbers back the framing. As of Q1 2026, Bittensor's 128 active subnets generated $43 million in real AI usage revenue, and subnet Alpha tokens reached a cumulative market cap of approximately $1.12 billion, roughly 27% of TAO's own market cap. Two subnets have broken $100 million individually. The December 2025 halving cut daily emissions from ~7,200 to ~3,600 TAO against a 21 million hard cap, and a Grayscale TAO Trust already exists with potential ETF conversion by late 2026.
 
@@ -108,7 +108,7 @@ The market has rewarded that framing through multiple volatility cycles. Bittens
 
 ### 2. Render Network
 
-Render is the clearest AI-adjacent narrative in crypto precisely because the value proposition is legible outside the crypto ecosystem. GPU compute for rendering and AI workloads is an industry-standard need. Render is selling access to distributed GPU capacity to buyers who already understand why GPU capacity matters.
+[Render](https://rendernetwork.com/) is the clearest AI-adjacent narrative in crypto precisely because the value proposition is legible outside the crypto ecosystem. GPU compute for rendering and AI workloads is an industry-standard need. Render is selling access to distributed GPU capacity to buyers who already understand why GPU capacity matters.
 
 The adoption data confirms the positioning. Render processed over 22 million frames in 2025. The 2024 baseline was 15,000 nodes processing 850,000 monthly jobs generating $42 million in revenue, with forecasts projecting 45,000 nodes and $180 million revenue by the end of 2026. The Burn-Mint-Equilibrium model creates a direct feedback loop: jobs are priced in fiat, converted to RENDER, and burned after completion, so token supply responds to actual network usage rather than just speculation.
 
@@ -122,7 +122,7 @@ That combination of real job volume, expanding AI compute capability, and broade
 
 ### 3. Akash Network
 
-Akash positions itself as decentralized cloud infrastructure, and the docs are specific enough that the pitch makes sense before you need to understand crypto. The value proposition is access to permissionless GPU and CPU compute at rates competitive with centralized cloud, paid in AKT.
+[Akash](https://akash.network/) positions itself as decentralized cloud infrastructure, and the docs are specific enough that the pitch makes sense before you need to understand crypto. The value proposition is access to permissionless GPU and CPU compute at rates competitive with centralized cloud, paid in AKT.
 
 What is notable about Akash in 2026 is that the thesis has graduated from theoretical to operational: the network has real workloads, documented pricing, and developer tooling that competes with paid-tier cloud products for specific use cases. The limitation is that infrastructure markets tend to be winner-take-most. Akash can be technically superior and still underperform if it does not achieve the distribution scale that turns it into a default choice.
 
@@ -132,13 +132,13 @@ What is notable about Akash in 2026 is that the thesis has graduated from theore
 
 ### 4. Artificial Superintelligence Alliance
 
-The ASI Alliance matters because it represents the closest thing the AI crypto sector has to a consolidation move. Combining Fetch.ai, Ocean Protocol, and SingularityNET under a shared token reduces the fragmentation problem that makes many small AI crypto names individually too thin to sustain institutional attention.
+The [ASI Alliance](https://superintelligence.io/)  matters because it represents the closest thing the AI crypto sector has to a consolidation move. Combining Fetch.ai, Ocean Protocol, and SingularityNET under a shared token reduces the fragmentation problem that makes many small AI crypto names individually too thin to sustain institutional attention.
 
 The alliance narrative also generates a second-order effect: it signals to the market that serious players in the AI crypto space are willing to coordinate rather than compete for the same capital pool. That changes how the category is perceived by fund allocators evaluating sector exposure.
 
 ### 5. Virtuals Protocol
 
-Virtuals earns a place on the 2026 watchlist because the agent and social-AI token category is a legitimate market force whether infrastructure investors like it or not. The Virtuals framing, tokenized AI agents with social distribution and creator incentives, captured a distinct investor population in 2024-2025 that is still active.
+[Virtuals](https://virtuals.io/) earns a place on the 2026 watchlist because the agent and social-AI token category is a legitimate market force whether infrastructure investors like it or not. The Virtuals framing, tokenized AI agents with social distribution and creator incentives, captured a distinct investor population in 2024-2025 that is still active.
 
 The positioning is clearer than most agent tokens: Virtuals is explicitly about on-chain AI personality as a product, not just a vague agent infrastructure claim.
 
@@ -148,7 +148,7 @@ The positioning is clearer than most agent tokens: Virtuals is explicitly about 
 
 ### 6. Grass
 
-Grass is a decentralized data and bandwidth network where users contribute unused internet capacity in exchange for token rewards. The positioning fits the AI supply chain more precisely than most casual observers realize: data collection and distribution infrastructure is a genuine bottleneck in AI development pipelines.
+[Grass](https://getgrass.io/) is a decentralized data and bandwidth network where users contribute unused internet capacity in exchange for token rewards. The positioning fits the AI supply chain more precisely than most casual observers realize: data collection and distribution infrastructure is a genuine bottleneck in AI development pipelines.
 
 ![Grass homepage captured July 2026 showing decentralized bandwidth and data network framing](../assets/article-01-ai-crypto-coins/grass-home-2026-07-17.png)
 
@@ -156,17 +156,17 @@ Grass is a decentralized data and bandwidth network where users contribute unuse
 
 ### 7-12. The rest of the watchlist
 
-**io.net** remains relevant because compute marketplace narratives are among the most intuitive AI-adjacent stories in crypto. The crowding risk is real, this is now a competitive lane, but io.net has distribution and exchange presence that smaller compute names lack.
+[**io.net**](https://io.net/) remains relevant because compute marketplace narratives are among the most intuitive AI-adjacent stories in crypto. The crowding risk is real, this is now a competitive lane, but io.net has distribution and exchange presence that smaller compute names lack.
 
-**Near Protocol** belongs on the AI watchlist not because it is a pure AI play but because platforms that become preferred rails for AI-native applications tend to benefit structurally. Near's account abstraction and user-experience focus positions it as an onboarding layer for AI apps built on crypto rails. The risk is category confusion: Near has many narratives, and diluted conviction rarely produces the conviction-weighted position sizing that drives serious outperformance.
+[**Near Protocol**](https://near.org/) belongs on the AI watchlist not because it is a pure AI play but because platforms that become preferred rails for AI-native applications tend to benefit structurally. Near's account abstraction and user-experience focus positions it as an onboarding layer for AI apps built on crypto rails. The risk is category confusion: Near has many narratives, and diluted conviction rarely produces the conviction-weighted position sizing that drives serious outperformance.
 
-**The Graph** is better described as AI-adjacent infrastructure than as an AI coin. Indexed, queryable onchain data is a prerequisite for any AI system operating over blockchain state. The market tends to value The Graph as general Web3 infrastructure rather than as pure AI exposure, which can be frustrating for AI-narrative traders but reflects the actual product breadth correctly.
+[**The Graph**](https://thegraph.com/) is better described as AI-adjacent infrastructure than as an AI coin. Indexed, queryable onchain data is a prerequisite for any AI system operating over blockchain state. The market tends to value The Graph as general Web3 infrastructure rather than as pure AI exposure, which can be frustrating for AI-narrative traders but reflects the actual product breadth correctly.
 
-**Filecoin** closes the list on the same logic. Storage is part of the AI stack. Model weights, training datasets, and inference output need durable, verifiable storage infrastructure. Filecoin moves more on storage narratives than on AI headlines, but its category relevance in a world of scaling AI data requirements is real.
+[**Filecoin**](https://filecoin.io/) closes the list on the same logic. Storage is part of the AI stack. Model weights, training datasets, and inference output need durable, verifiable storage infrastructure. Filecoin moves more on storage narratives than on AI headlines, but its category relevance in a world of scaling AI data requirements is real.
 
-**Nosana** stays in the speculative tier. Decentralized GPU job scheduling is a real need, and Nosana has a live product. But the adoption evidence is still thin and the liquidity profile means position sizing should reflect the risk of sharp reversals relative to larger names.
+[**Nosana**](https://nosana.io/) stays in the speculative tier. Decentralized GPU job scheduling is a real need, and Nosana has a live product. But the adoption evidence is still thin and the liquidity profile means position sizing should reflect the risk of sharp reversals relative to larger names.
 
-**AIOZ Network** fits the multi-theme intersection of AI, content delivery, and decentralized streaming. The thesis is coherent but the brand is less immediately legible than Render or Akash. Multi-theme exposure can reward investors who got in early, but it creates fuzzy conviction for new entrants.
+[**AIOZ Network**](https://aioz.network/) fits the multi-theme intersection of AI, content delivery, and decentralized streaming. The thesis is coherent but the brand is less immediately legible than Render or Akash. Multi-theme exposure can reward investors who got in early, but it creates fuzzy conviction for new entrants.
 
 ## Pros and cons by project
 
