@@ -102,8 +102,6 @@ The governance risk is also real. Covenant AI exited in April 2026, selling appr
 
 The market has rewarded that framing through multiple volatility cycles. Bittensor consistently resurfaces in [CryptoCurrency Reddit thread comparing infrastructure vs narrative AI tokens](https://www.reddit.com/r/CryptoCurrency/comments/1nb1kr1/crypto_bros_2013_vs_2025/) as one of the few names where the product design predates and outlasts the hype cycle.
 
-**What breaks the thesis:** If the subnet network effect weakens, if validators and miners find the reward structure unattractive relative to alternatives, Bittensor reverts to a governance token for an academic concept rather than a live network. The story is harder to explain than Render, which is a risk when retail attention rotates.
-
 ![Bittensor homepage captured July 2026 showing decentralized AI network and subnet architecture framing](../assets/article-01-ai-crypto-coins/bittensor-home-2026-07-17.png)
 
 *Bittensor homepage captured July 17, 2026, showing subnet and validator-first framing rather than marketing-first AI language.*
@@ -118,8 +116,6 @@ The AI compute expansion is already in governance. Dispersed received H100 and H
 
 That combination of real job volume, expanding AI compute capability, and broadening exchange access is what makes Render's narrative durability score the highest in this list.
 
-**What breaks the thesis:** The thesis weakens if centralized cloud providers structurally close the cost gap on GPU compute. If AWS, Google, and Azure keep expanding Spot GPU availability and driving prices toward commodity levels, the premium for decentralized compute compresses. The other risk is if the creative workload segment (3D rendering, VFX) declines relative to pure AI inference, where Render's brand identity is less established.
-
 ![Render Network homepage captured July 2026 showing GPU compute and creative infrastructure positioning](../assets/article-01-ai-crypto-coins/render-home-2026-07-17.png)
 
 *Render Network homepage captured July 17, 2026, showing GPU-compute and decentralized rendering framing.*
@@ -129,8 +125,6 @@ That combination of real job volume, expanding AI compute capability, and broade
 Akash positions itself as decentralized cloud infrastructure, and the docs are specific enough that the pitch makes sense before you need to understand crypto. The value proposition is access to permissionless GPU and CPU compute at rates competitive with centralized cloud, paid in AKT.
 
 What is notable about Akash in 2026 is that the thesis has graduated from theoretical to operational: the network has real workloads, documented pricing, and developer tooling that competes with paid-tier cloud products for specific use cases. The limitation is that infrastructure markets tend to be winner-take-most. Akash can be technically superior and still underperform if it does not achieve the distribution scale that turns it into a default choice.
-
-**What breaks the thesis:** If the token does not capture meaningful value from compute usage growth, if AKT remains more a governance instrument than a utility token with real demand pressure, the network can succeed while the token stagnates. Infrastructure excellence and token performance are not the same thing.
 
 ![Akash Network homepage captured July 2026 showing decentralized cloud compute and developer-first positioning](../assets/article-01-ai-crypto-coins/akash-home-2026-07-17.png)
 
@@ -142,15 +136,11 @@ The ASI Alliance matters because it represents the closest thing the AI crypto s
 
 The alliance narrative also generates a second-order effect: it signals to the market that serious players in the AI crypto space are willing to coordinate rather than compete for the same capital pool. That changes how the category is perceived by fund allocators evaluating sector exposure.
 
-**What breaks the thesis:** Integration complexity is the primary execution risk. Mergers and alliance narratives sound stronger in presentations than they do in the day-to-day experience of actual users trying to use the combined network. If the technical integration lags, the narrative advantage fades faster than the token reprices.
-
 ### 5. Virtuals Protocol
 
 Virtuals earns a place on the 2026 watchlist because the agent and social-AI token category is a legitimate market force whether infrastructure investors like it or not. The Virtuals framing, tokenized AI agents with social distribution and creator incentives, captured a distinct investor population in 2024-2025 that is still active.
 
 The positioning is clearer than most agent tokens: Virtuals is explicitly about on-chain AI personality as a product, not just a vague agent infrastructure claim.
-
-**What breaks the thesis:** This is the segment of the AI crypto market most exposed to attention reversal. The moment the AI agent hype cycle loses momentum at the consumer level, Virtuals faces a token with social-media velocity as its primary value driver. Rebuilding that from a lower base is hard.
 
 ![Virtuals Protocol homepage captured July 2026 showing AI agent and tokenized personality framing](../assets/article-01-ai-crypto-coins/virtuals-home-2026-07-17.png)
 
@@ -159,8 +149,6 @@ The positioning is clearer than most agent tokens: Virtuals is explicitly about 
 ### 6. Grass
 
 Grass is a decentralized data and bandwidth network where users contribute unused internet capacity in exchange for token rewards. The positioning fits the AI supply chain more precisely than most casual observers realize: data collection and distribution infrastructure is a genuine bottleneck in AI development pipelines.
-
-**What breaks the thesis:** The core risk for Grass is the token capture problem. A network can be genuinely useful without that utility flowing back through the token in a way that creates durable price support. If Grass cannot demonstrate that buyers of data bandwidth are creating real demand pressure on GRT, the network utility and the token investment thesis are separated.
 
 ![Grass homepage captured July 2026 showing decentralized bandwidth and data network framing](../assets/article-01-ai-crypto-coins/grass-home-2026-07-17.png)
 
@@ -179,6 +167,23 @@ Grass is a decentralized data and bandwidth network where users contribute unuse
 **Nosana** stays in the speculative tier. Decentralized GPU job scheduling is a real need, and Nosana has a live product. But the adoption evidence is still thin and the liquidity profile means position sizing should reflect the risk of sharp reversals relative to larger names.
 
 **AIOZ Network** fits the multi-theme intersection of AI, content delivery, and decentralized streaming. The thesis is coherent but the brand is less immediately legible than Render or Akash. Multi-theme exposure can reward investors who got in early, but it creates fuzzy conviction for new entrants.
+
+## Pros and cons by project
+
+| Project | Strengths | Risks |
+|---------|-----------|-------|
+| Bittensor | 128 active subnets with real revenue ($43M Q1 2026); Covenant-72B proves decentralized training works; subnet composability creates expansion path competitors cannot replicate | Network effect weakens if reward structure loses credibility; complexity makes the story harder to explain than Render, limiting retail rotation upside; governance concentration risk (Covenant AI exit) |
+| Render | Most legible AI narrative in crypto; 22M+ frames rendered in 2025; Burn-Mint-Equilibrium links token supply to actual job volume; Dispersed subnet expanding into AI inference | Centralized cloud closes the GPU cost gap; creative workload segment declines relative to pure AI inference where Render is less established |
+| Akash | Thesis graduated from theoretical to operational; real workloads at competitive pricing; developer tooling competes with paid-tier cloud | Token may not capture value from compute growth; AKT stays a governance instrument while the network succeeds; infrastructure markets are winner-take-most |
+| ASI Alliance | Reduces AI crypto fragmentation; signals coordination to institutional allocators; shared token creates thicker liquidity than individual components | Integration complexity lags behind narrative; merged products may not produce unified user experience; alliance narrative fades if technical delivery stalls |
+| Virtuals Protocol | Clear product framing (on-chain AI personality); captured a distinct investor population in 2024-2025; explicitly about agent product, not vague infrastructure | Most exposed to attention reversal in the list; social-media velocity as primary value driver is fragile; rebuilding from a lower base after hype fades is hard |
+| Grass | Precise AI supply chain fit; data and bandwidth are a genuine bottleneck in AI pipelines | Token capture problem: useful network may not create durable price support; data bandwidth buyers may not generate real demand pressure on the token |
+| io.net | Intuitive compute marketplace narrative; distribution and exchange presence larger than smaller compute names | Crowded lane; market stops rewarding every compute marketplace equally |
+| Near Protocol | Account abstraction positions it as onboarding layer for AI apps on crypto rails | Category confusion; many narratives dilute conviction-weighted position sizing |
+| The Graph | Indexed onchain data is a prerequisite for any AI system operating over blockchain state | Market values it as Web3 infra, not AI exposure; frustrating for AI-narrative traders but structurally accurate |
+| Filecoin | Storage is part of the AI stack; model weights and training datasets need durable infrastructure | Moves on storage narrative, not AI headlines; category relevance is real but token response is indirect |
+| Nosana | Live product for decentralized GPU job scheduling | Thin adoption evidence; liquidity gaps amplify both directions; speculative tier |
+| AIOZ Network | Multi-theme intersection of AI, content delivery, and streaming | Brand less legible than Render or Akash; multi-theme exposure creates fuzzy conviction for new entrants |
 
 ## The rotation risk: AI vs AI stocks
 
