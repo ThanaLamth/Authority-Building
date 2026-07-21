@@ -78,6 +78,8 @@ We loaded the Pintu homepage directly and found the first impression immediate: 
 **Best for:** Indonesian beginners, mobile-first buyers, users who want a cleaner first crypto account.
 **Main tradeoff:** Convenience can cost more than an order-book exchange once the user starts trading larger amounts.
 
+What the article won't tell you upfront: Pintu uses a spread model rather than visible trading fees. The spread on a simple BTC buy is estimated at 1-2% above mid-market, depending on the asset and market conditions. For a Rp 1 million purchase that is roughly Rp 10,000-20,000 embedded in the price, invisible until you compare it against an Indodax order book. Pintu supports IDR deposit via BCA, Mandiri, BNI, and BRI virtual accounts, plus GoPay and OVO. The deposit routes work, but the spread cost is the number to check once you start trading anything above pocket-change amounts.
+
 Indonesian Reddit users consistently name Pintu as one of the go-to local exchange options for rupiah on-ramps. In a [Indonesian community thread on Reddit discussing local exchange options for ramp-on and ramp-off fees](https://www.reddit.com/r/indonesia/comments/1umxmfu/exchange_crypto_indo_untuk_ramp_on_ramp_off/), users acknowledged how crowded the local market has become and noted that a comparison video between major platforms including Pintu is now actively shared among communities trying to pick the cheapest exit route. In a [DeFi community thread about sending money to family in Indonesia](https://www.reddit.com/r/defi/comments/1p8abj2/how_do_you_send_money_to_family_back_home_when/), multiple users recommended Pintu alongside Indodax and Tokocrypto as the practical local exchange layer for converting crypto back to IDR, with the reminder that tax applies at 1-2%.
 
 The honest trade-off at volume is the one Pintu does not advertise: its pricing model is built for convenience, not for users executing frequent or large-value trades. That gap becomes visible over time, which is the real reason a second look at Indodax or Tokocrypto makes sense once a user outgrows pure onboarding simplicity.
@@ -92,6 +94,8 @@ We reviewed Indodax's public product positioning and licensing context for this 
 
 **Best for:** Indonesian users who want IDR order books, deeper local liquidity, and a desktop exchange feel.
 **Main tradeoff:** The product interface feels older than newer mobile-first apps, and onboarding friction is higher for first-time users.
+
+The specific advantage Indodax holds is fee transparency: maker fees are 0.1% and taker fees are 0.3%, shown before you confirm any order. On a Rp 1 million trade, that is Rp 1,000-3,000 in visible cost, compared to Pintu's embedded spread. Indodax also carries the broadest asset selection of any local Indonesian exchange, with 500+ trading pairs. That range matters for users who eventually want to trade beyond BTC and ETH. The interface friction is real, but it is the price of getting actual order-book depth and transparent fee structure on a local IDR exchange.
 
 Indodax's strongest user-side case is local familiarity and liquidity. In the [Indonesian personal finance community thread about choosing where to buy small amounts of crypto in Indonesia](https://www.reddit.com/r/finansial/comments/1p5vryo/where_to_buy_small_amount_of_crypto_5060_for/), a user described the common workflow as: buy on a local Indonesian exchange, naming Tokocrypto, Pintu, and Indodax specifically, then move the asset to another platform for broader use. Another user in the same thread described using Tokocrypto first and then moving to Binance for more tools. That behavioral pattern, local exchange for IDR entry and global platform for trading depth, is the real context in which Indodax operates for many Indonesian users.
 
@@ -116,6 +120,8 @@ Tokocrypto appears repeatedly in Indonesian Reddit discussions as a practical lo
 
 That practical use, overseas income in crypto converted to IDR out, is exactly the remittance-adjacent case where OJK's ongoing transition from Bappebti still matters. Whether the IDR withdrawal path holds up as the regulatory handover completes is the question a funded test would actually measure.
 
+One detail the community threads mention but this article needs to state plainly: all transactions on licensed Indonesian exchanges (Bappebti and OJK-supervised) are subject to PPh 22 withholding tax. Buyers pay 0.1% and sellers pay 0.2% on each transaction, collected by the exchange and remitted to the tax authority. On an unlicensed or offshore exchange, the rate doubles: 0.2% for buyers and 0.4% for sellers. That tax differential is a concrete, measurable reason to use a licensed local exchange for IDR-denominated activity, not just a regulatory preference. For users converting overseas crypto income to IDR, the local licensed path costs less in tax than the offshore path.
+
 ---
 
 ### Reku
@@ -135,6 +141,8 @@ A practical distinction surfaces in Indonesian Reddit discussions. When users in
 
 For that reader, the trade-off is real. A calmer exchange can be the better long-term tool if consistency matters more than fee-per-trade optimization.
 
+Reku, like Pintu, uses a spread model rather than transparent maker/taker fees. The calm interface is partly a product of not showing a live order book or bid/ask spread. That is a deliberate design choice for the habitual buyer who wants to press buy and not think about execution. But it also means the cost is embedded in the price rather than shown as a line item. For a user who buys the same asset every month, comparing the effective price against an Indodax order book once or twice a year is a reasonable sanity check.
+
 ---
 
 ### Luno Indonesia
@@ -147,6 +155,8 @@ For that reader, the trade-off is real. A calmer exchange can be the better long
 Luno Indonesia appeared in Indonesian Reddit discussions as one of the local exchange options for users wanting a simpler IDR-based account. In a [Indonesian community discussion about Coinbase access from Indonesia](https://www.reddit.com/r/indonesia/comments/s1dkyj/coinbase_indonesia/), users recommended Luno alongside Pintu, Tokocrypto, and Indodax as local platforms where bank deposit and withdrawal mechanics worked predictably, specifically because Coinbase did not serve the Indonesian market in a useful way.
 
 Luno Indonesia is not the most talked-about exchange in active Indonesian trading discussions, but it appears when the conversation is about simplicity, recurring buys, and finding a platform that works without constant management. That is the reader segment it is genuinely built for.
+
+The asset limitation is specific: Luno Indonesia supports BTC, ETH, XRP, LTC, BCH, and a small number of additional assets. If your strategy stays within that range, the product does exactly what it promises. If you later want to hold SOL, BNB, or anything outside the core list, Luno becomes a dead end and you will be moving to Indodax or Tokocrypto anyway. The reader who will be most frustrated by Luno is one who starts with BTC, outgrows the asset range in six months, and then faces the KYC process again on a second platform. Know the ceiling before you start.
 
 ---
 
@@ -194,6 +204,20 @@ The biggest mistake is choosing on brand recognition or marketing alone. In Indo
 
 Picking the most-advertised exchange without checking the IDR withdrawal experience is the most common avoidable mistake in the Indonesian market.
 
+
+## When this review expires
+
+This article should be re-checked when any of the following happen:
+
+- OJK publishes an updated list of permitted Digital Financial Asset operators (the list changes as the Bappebti-to-OJK transition progresses)
+- Any exchange in this list loses its OJK authorization or announces a product scope change
+- The PPh 22 crypto tax rates change from their current 0.1%/0.2% structure for licensed exchanges
+- Pintu or Reku changes its spread model and publishes visible fee schedules
+- Indodax makes a significant interface overhaul that changes the onboarding friction picture
+- A new Indonesian exchange enters the market with a full OJK license and competitive IDR rails
+- Any of the five exchanges changes its supported bank list for IDR deposits or withdrawals
+
+If none of these fire by January 2027, treat the current recommendations as stale regardless.
 
 ## What we checked ourselves before ranking these exchanges
 
