@@ -61,6 +61,10 @@ That external reinforcement is what makes this narrative the highest-conviction 
 
 The risk, discussed in CryptoCurrency Reddit threads comparing Bitcoin and Nvidia in mid-2026, is the rotation dynamic: [capital explicitly left BTC for AI equity](https://www.reddit.com/r/CryptoCurrency/comments/1twghjt/bitcoin_lost_66000_while_nvidia_hit_alltime_highs/) when Nvidia hit all-time highs while Bitcoin was declining. The AI crypto thesis depends on the market deciding that decentralized compute exposure cannot be accessed via NVDA, MSFT, or infrastructure ETFs. If equities keep delivering AI returns with less custody friction, crypto AI tokens underperform regardless of their fundamental role in the stack.
 
+![Akash Network homepage captured July 2026 showing decentralized cloud compute and AI-first positioning](../assets/article-03-crypto-narratives/akash-home-2026-07-21.png)
+
+*Akash Network homepage captured July 21, 2026, showing GPU-compute supply network framing and Princeton University, Pluralis Research among listed compute consumers.*
+
 ### 2. Institutional adoption
 
 The institutional adoption narrative had its most important validation moment in 2024 when [BlackRock](https://www.blackrock.com/), [Fidelity](https://www.fidelity.com/), and others launched spot Bitcoin ETFs and captured + in AUM within 18 months. That is no longer a prediction. It is a structural fact of the market. The question for 2026 is where the next institutional product category forms.
@@ -97,11 +101,19 @@ The stablecoin narrative in 2026 is driven by two forces that do not move in the
 
 The competition is no longer Tether vs Circle. It is reserve-backed vs synthetic, onchain vs bank-backed, and regulated vs permissionless, all simultaneously, with different winners in different market segments.
 
+![Circle homepage captured July 2026 showing OCC approval as a federally chartered national trust bank](../assets/article-03-crypto-narratives/circle-usdc-2026-07-21.png)
+
+*Circle homepage captured July 21, 2026, showing the OCC national trust bank charter announcement and USDC product framing.*
+
 ### 6. Bitcoin treasury expansion
 
 The Bitcoin treasury narrative rests on the MicroStrategy template: corporations adding Bitcoin to balance sheets as a Treasury reserve asset, with the expectation that BTC appreciation outperforms cash and short-duration bonds as an inflation hedge. The template has been replicated by dozens of smaller companies across multiple jurisdictions.
 
 The narrative creates a reflexive demand loop: each new corporate announcement lifts BTC, which validates the strategy for the next company considering it, which generates more demand. The community discussion in CryptoCurrency Reddit threads around the [four-year cycle](https://www.reddit.com/r/CryptoCurrency/comments/1p63ags/four_year_cycle/) noted that "once the big institutions got in, it was over" for the classical altcoin season model, institutional treasury demand changes how the BTC price floor behaves through cycles.
+
+![Bitcoin Treasuries public companies ranking showing Strategy leading with 843,775 BTC and 100 companies holding over 1.26 million BTC total captured July 2026](../assets/article-03-crypto-narratives/bitcoin-treasuries-2026-07-21.png)
+
+*BitcoinTreasuries.net corporate holdings table captured July 21, 2026, showing Strategy at 843,775 BTC and 100 public companies collectively holding 1.26M BTC.*
 
 ### 7. Solana trading culture
 
@@ -109,17 +121,29 @@ The narrative creates a reflexive demand loop: each new corporate announcement l
 
 That cultural position is valuable because it drives real TVL, real fee revenue, and real developer attention. Jupiter's dominance of Solana swap routing means the chain has a structural aggregation layer that competes with Ethereum's Uniswap-driven routing model.
 
+![Solana homepage captured July 2026 showing capital market positioning and high-performance network framing](../assets/article-03-crypto-narratives/solana-home-2026-07-21.png)
+
+*Solana homepage captured July 21, 2026, showing the capital markets and payments framing that reflects Solana's 2026 institutional positioning shift.*
+
 ### 8. Regulation as market-structure catalyst
 
 The regulatory narrative in 2026 has evolved from "will crypto be regulated?" to "which regulatory framework wins, and who does it favor?" [MiCA](https://finance.ec.europa.eu/digital-finance/digital-assets/markets-crypto-assets-regulation-mica_en) is live in the EU. The US is advancing stablecoin legislation and clearer exchange registration frameworks. The UK FCA is building its crypto regime. Each framework creates different winners.
 
 The EU crypto-assets page reviewed in July 2026 shows a regulatory architecture that is operational, not aspirational. That level of specificity has direct market implications: exchanges, stablecoin issuers, and asset managers operating in the EU must now navigate a compliance layer that did not exist two years ago. The market-structure effect is not that regulation kills crypto. It is that regulation advantages incumbents with compliance infrastructure over newer protocols that cannot meet disclosure and reserve requirements.
 
+![European Commission crypto-assets regulatory framework page showing MiCA implementation reviewed July 2026](../assets/article-03-crypto-narratives/eu-crypto-assets-page.png)
+
+*EU crypto-assets framework page, updated 20 May 2026, showing the operational MiCA architecture that exchanges and stablecoin issuers must now navigate.*
+
 ### 9. Altcoin rotation
 
 Altcoin season in 2026 is the narrative that is most discussed and most delayed. The classic model, Bitcoin dominance peaks, capital rotates into large-caps then mid-caps then small-caps, has been disrupted by institutional capital flows that prefer Bitcoin ETFs over direct altcoin exposure.
 
 The CryptoCurrency Reddit comparison of [2021 alt season vs 2025](https://www.reddit.com/r/CryptoCurrency/comments/1pj943x/2021_alt_season_vs_2025_alt_season/) reflects the community frustration: the 2025 alt cycle was shallower, shorter, and more concentrated than 2021. The explanation is structural: when institutional capital enters through regulated Bitcoin ETFs, it does not automatically flow through into altcoin speculation the way retail buying did in 2021.
+
+![CoinMarketCap market overview captured July 2026 showing Altcoin Season Index at 52 out of 100 and total crypto market cap at 2.26 trillion](../assets/article-03-crypto-narratives/altcoin-dominance-2026-07-21.png)
+
+*CoinMarketCap market overview captured July 21, 2026, showing Altcoin Season Index at 52/100 and BTC dominance at 58.8%, reflecting the indecisive rotation state in mid-2026.*
 
 ## The connecting thread: capital follows catalysts with institutional legs
 
@@ -196,6 +220,11 @@ If none fire by January 2027, treat the conviction levels as stale.
 - CryptoCurrency Reddit: Bitcoin vs Nvidia AI equity rotation (reddit.com/r/CryptoCurrency/comments/1twghjt/)
 - CryptoCurrency Reddit: Four-year cycle and institutional impact (reddit.com/r/CryptoCurrency/comments/1p63ags/)
 - CryptoCurrency Reddit: 2021 alt season vs 2025 alt season (reddit.com/r/CryptoCurrency/comments/1pj943x/)
+- Akash Network homepage (akash.network/), reviewed 2026-07-21
+- Circle homepage and OCC approval announcement (circle.com/), reviewed 2026-07-21
+- BitcoinTreasuries.net corporate holdings table (bitcointreasuries.net/), reviewed 2026-07-21
+- Solana homepage (solana.com/), reviewed 2026-07-21
+- CoinMarketCap market overview and Altcoin Season Index (coinmarketcap.com/charts/), reviewed 2026-07-21
 
 ## Related
 
