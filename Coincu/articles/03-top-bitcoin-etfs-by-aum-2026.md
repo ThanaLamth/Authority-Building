@@ -78,7 +78,7 @@ Below, each fund is reviewed against issuer structure, custody model, fee postur
 
 ### 1. BlackRock iShares Bitcoin Trust (IBIT)
 
-IBIT grew to the largest spot Bitcoin ETF within months of the January 2024 approvals. BlackRock's advisor platform relationships and institutional distribution infrastructure drove adoption faster than any competing fund.
+IBIT grew to the largest spot Bitcoin ETF within months of the January 2024 approvals, as tracked on the [BlackRock iShares IBIT product page](https://www.ishares.com/us/products/333011/ishares-bitcoin-trust-etf). BlackRock's advisor platform relationships and institutional distribution infrastructure drove adoption faster than any competing fund.
 
 IBIT has been accepted as collateral on multiple platforms, shifting its role from passive Bitcoin exposure toward settlement infrastructure. Farside Investors flow data shows IBIT's net inflows have repeatedly exceeded the total flow of all other spot Bitcoin ETFs combined.
 
@@ -96,7 +96,7 @@ Spot Bitcoin ETFs have absorbed over  billion in net inflows from launch through
 
 ### 2. Fidelity Wise Origin Bitcoin Fund (FBTC)
 
-FBTC is the only major Bitcoin ETF where the issuer also controls custody through Fidelity Digital Assets. This vertical integration eliminates third-party crypto custodian dependency, a structural differentiator from every Coinbase-custodied peer.
+FBTC is the only major Bitcoin ETF where the issuer also controls custody through [Fidelity Digital Assets](https://www.fidelity.com/crypto/bitcoin-etf), making it the sole fund with full vertical integration from issuer to custodian. This vertical integration eliminates third-party crypto custodian dependency, a structural differentiator from every Coinbase-custodied peer.
 
 Fidelity's retail client base and registered investment advisor network provide a distinct distribution path from BlackRock's institutional-first posture. FBTC AUM stood at approximately .1 billion as of mid-July 2026 per [TipRanks flow tracking](https://www.tipranks.com/news/cryptocurrencies/bitcoin-etf-buyers-are-back-fidelitys-fbtc-pulls-in-fresh-cash-as-price-languishes).
 
@@ -110,7 +110,7 @@ FBTC's market role is the strongest challenger to IBIT for traditional-finance a
 
 ### 3. Grayscale Bitcoin Trust ETF (GBTC)
 
-GBTC converted from a closed-end trust to a spot ETF in January 2024. The 1.50% management fee is the highest in the category by a significant margin, a consequence of maintaining the pre-approval fee structure.
+GBTC converted from a closed-end trust to a spot ETF in January 2024, with current fund details on the [Grayscale GBTC product page](https://www.grayscale.com/funds/grayscale-bitcoin-trust). The 1.50% management fee is the highest in the category by a significant margin, a consequence of maintaining the pre-approval fee structure.
 
 Per Grayscale's SEC filings, GBTC recorded .5 billion in net outflows during 2024 following the conversion, with investors rotating into lower-cost alternatives. The fund distributed approximately 26,936 Bitcoin (.76 billion) to seed the Grayscale Bitcoin Mini Trust (ticker BTC) at 0.15%.
 
@@ -128,7 +128,7 @@ Separately, an [r/Bitcoin discussion on Grayscale's Mini Trust](https://www.redd
 
 ### 4. ARK 21Shares Bitcoin ETF (ARKB)
 
-ARKB combines ARK Invest's thematic investing brand with 21Shares' European ETP operational infrastructure. The 0.21% management fee is competitive with the category leaders.
+ARKB combines ARK Invest's thematic investing brand with 21Shares' European ETP operational infrastructure, with fund details on the [ARK 21Shares ARKB product page](https://ark-funds.com/funds/arkb). The 0.21% management fee is competitive with the category leaders.
 
 The investor base skews toward ARK's existing thematic retail following, which has demonstrated higher fee tolerance for brand-aligned products. Institutional access is available but the product is less dominant in advisor allocation than IBIT or FBTC.
 
@@ -136,7 +136,7 @@ The differentiated risk is concentration in an investor base that may be sensiti
 
 An [r/ETFs breakdown of ARKB](https://www.reddit.com/r/ETFs/comments/1cbdclz/ark_21shares_bitcoin_etf_arkb_everything_you_need/) highlights that 21Shares' European ETP operational track record gives the fund more institutional credibility than its thematic branding suggests.
 
-ARK Invest's public Bitcoin price targets, including a [projected $16 trillion market cap by 2030 discussed in r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/1qj8kiz/cathie_woods_ark_invest_projects_bitcoins_market/), attract conviction buyers but also polarize institutional due diligence committees.
+ARK Invest's public Bitcoin price targets, including a [projected $16 trillion market cap by 2030 that generated debate across crypto communities](https://www.reddit.com/r/CryptoCurrency/comments/1qj8kiz/cathie_woods_ark_invest_projects_bitcoins_market/), attract conviction buyers but also polarize institutional due diligence committees.
 
 ![ARK 21Shares Bitcoin ETF product page showing thematic investment framing and fee structure](../media/arkb-ark21shares-2026-07-17.png)
 
@@ -144,7 +144,7 @@ ARK Invest's public Bitcoin price targets, including a [projected $16 trillion m
 
 ### 5. Bitwise Bitcoin ETF (BITB)
 
-Bitwise is a crypto-specialist firm with a seven-year track record managing crypto assets for institutional investors. The 0.20% fee is among the lowest in the category.
+Bitwise is a crypto-specialist firm with a seven-year track record managing crypto assets for institutional investors, with fund details on the [Bitwise BITB product page](https://bitwiseinvestments.com/crypto-funds/bitb). The 0.20% fee is among the lowest in the category.
 
 Bitwise CIO Matt Hougan told [CoinDesk](https://www.coindesk.com/markets/2026/03/16/institutions-had-diamond-hands-during-bitcoin-s-50-plunge-bitwise-s-matt-hougan-says) that institutional ETF holders largely held through Bitcoin's roughly 50% price drop since October 2025, calling their capital "very sticky" due to the career risk of allocating to a non-consensus asset.
 
@@ -152,7 +152,7 @@ A [Seeking Alpha analysis](https://seekingalpha.com/article/4922294-bitwise-bitc
 
 Bitwise's research head Andre Dragosch told [DL News](https://www.dlnews.com/articles/markets/bitcoin-etfs-to-top-180-billion-usd-in-2026-say-analysts/) that Wells Fargo, Bank of America, and Vanguard opening Bitcoin ETF distribution to clients is the key 2026 catalyst for the entire category.
 
-When Bitwise published its [Bitcoin ETF holdings wallet address](https://www.reddit.com/r/Bitcoin/comments/19ent3d/bitwise_bitcoin_etf_releases_holdings_address/), r/Bitcoin users noted this was the only major ETF issuer offering on-chain proof of reserves. That transparency move builds trust with crypto-native investors skeptical of traditional fund structures.
+When Bitwise published its [Bitcoin ETF holdings wallet address](https://www.reddit.com/r/Bitcoin/comments/19ent3d/bitwise_bitcoin_etf_releases_holdings_address/), users in the Bitcoin community noted this was the only major ETF issuer offering on-chain proof of reserves. That transparency move builds trust with crypto-native investors skeptical of traditional fund structures.
 
 ![Bitwise Bitcoin ETF product page showing crypto-specialist issuer framing and fee structure](../media/bitb-bitwise-2026-07-17.png)
 
@@ -160,7 +160,7 @@ When Bitwise published its [Bitcoin ETF holdings wallet address](https://www.red
 
 ### 6. WisdomTree Bitcoin Fund (BTCW)
 
-WisdomTree is an established ETF operator with European Bitcoin ETP experience predating US spot ETF approvals. The 0.25% fee matches the category average.
+WisdomTree is an established ETF operator with European Bitcoin ETP experience predating US spot ETF approvals, with fund details on the [WisdomTree BTCW product page](https://www.wisdomtree.com/investments/etfs/cryptocurrency/btcw). The 0.25% fee matches the category average.
 
 Distribution through standard US brokerage and advisor platforms provides institutional access, but BTCW has not captured meaningful advisor allocation away from the category leaders. US spot ETF flows have concentrated in IBIT and FBTC.
 
@@ -201,7 +201,7 @@ What was not verified: real-time AUM from a single authoritative source, and fee
 - Bitwise BITB product page (bitwise.com), checked 2026-07-17
 - WisdomTree BTCW product page (wisdomtree.com), checked 2026-07-17
 - Farside Investors: US Bitcoin ETF flow tracking (farside.co.uk)
-- r/ETFs community discussion on IBIT adoption and advisor allocation (reddit.com/r/ETFs)
+- [r/ETFs community discussion on IBIT adoption and advisor allocation](https://www.reddit.com/r/ETFs/comments/1nx4ad6/had_alot_of_people_question_my_ibit_when_i_first/)
 - [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026)
 - [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026)
 - ValueAddVC: Bitcoin at 100K institutional adoption analysis (valueaddvc.com), 2025
@@ -210,12 +210,12 @@ What was not verified: real-time AUM from a single authoritative source, and fee
 - CoinDesk: Bitwise CIO Matt Hougan on institutional diamond hands during Bitcoin drawdown (coindesk.com), March 2026
 - Seeking Alpha: BITB hold rating and distribution analysis (seekingalpha.com), 2026
 - DL News: Bitwise Andre Dragosch on Wells Fargo, BofA, Vanguard distribution opening (dlnews.com), 2026
-- r/Bitcoin: Community discussion on Fidelity Bitcoin ETF and self-custody preference (reddit.com/r/Bitcoin), 2025
-- r/ETFs: "FBTC worth it?" community discussion on Fidelity platform convenience (reddit.com/r/ETFs), 2025
-- r/ETFs: IBIT vs FBTC comparison thread on liquidity vs custody independence (reddit.com/r/ETFs), 2024
-- r/investing: Thread on whether Grayscale will drop GBTC's 1.50% fee (reddit.com/r/investing), 2024
-- r/Bitcoin: Community debate on Grayscale Mini Trust vs GBTC (reddit.com/r/Bitcoin), 2024
-- r/ETFs: ARK 21Shares Bitcoin ETF (ARKB) overview and 21Shares ETP credibility (reddit.com/r/ETFs), 2024
-- r/CryptoCurrency: Cathie Wood's ARK Invest $16T Bitcoin market cap projection discussion (reddit.com/r/CryptoCurrency), 2025
-- r/Bitcoin: Bitwise ETF publishes on-chain holdings wallet address (reddit.com/r/Bitcoin), 2024
-- r/ETFs: "What is objectively the best Bitcoin ETF" community consensus thread (reddit.com/r/ETFs), 2025
+- [r/Bitcoin: Community discussion on Fidelity Bitcoin ETF and self-custody preference](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/), 2025
+- [r/ETFs: "FBTC worth it?" community discussion on Fidelity platform convenience](https://www.reddit.com/r/ETFs/comments/1odsv7i/fbtc_worth_it/), 2025
+- [r/ETFs: IBIT vs FBTC comparison thread on liquidity vs custody independence](https://www.reddit.com/r/ETFs/comments/19cdiqe/bitcoin_etfs_ibit_vs_fbtc/), 2024
+- [r/investing: Thread on whether Grayscale will drop GBTC's 1.50% fee](https://www.reddit.com/r/investing/comments/1ahxra7/is_it_likely_grayscale_will_drop_its_15_fee_on/), 2024
+- [r/Bitcoin: Community debate on Grayscale Mini Trust vs GBTC](https://www.reddit.com/r/Bitcoin/comments/1en56wx/grayscale_mini_trust_the_best_etf/), 2024
+- [r/ETFs: ARK 21Shares Bitcoin ETF (ARKB) overview and 21Shares ETP credibility](https://www.reddit.com/r/ETFs/comments/1cbdclz/ark_21shares_bitcoin_etf_arkb_everything_you_need/), 2024
+- [r/CryptoCurrency: Cathie Wood's ARK Invest $16T Bitcoin market cap projection discussion](https://www.reddit.com/r/CryptoCurrency/comments/1qj8kiz/cathie_woods_ark_invest_projects_bitcoins_market/), 2025
+- [r/Bitcoin: Bitwise ETF publishes on-chain holdings wallet address](https://www.reddit.com/r/Bitcoin/comments/19ent3d/bitwise_bitcoin_etf_releases_holdings_address/), 2024
+- [r/ETFs: "What is objectively the best Bitcoin ETF" community consensus thread](https://www.reddit.com/r/ETFs/comments/1ml6rd0/what_is_objectively_the_best_bitcoin_etf/), 2025
