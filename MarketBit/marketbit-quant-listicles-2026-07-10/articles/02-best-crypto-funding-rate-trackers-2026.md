@@ -130,7 +130,7 @@ In a [funding rate research thread on Reddit](https://www.reddit.com/r/quant/com
 **Best for:** confirming Binance-specific funding readings alongside aggregated tracker data.
 **Main tradeoff:** single-venue only, with no cross-exchange comparison. Whether first-party venue data adds enough confirmation value depends on how much of the trader's volume runs through Binance.
 
-**Featured Image**
+**Screenshot 4**
 File: `../media/binance-futures-2026-07-17.png`
 Alt text: `Binance Futures platform, July 2026.`
 Caption: `Binance Futures, July 2026: venue-level funding rate data reviewed as a first-party confirmation source.`
@@ -159,7 +159,7 @@ CME publishes settlement data and open interest for its Bitcoin and Ethereum fut
 
 TradingView's community library includes scripts that overlay funding rate data onto price charts. For chart-native traders who want to see funding extremes in the same view as price action without switching windows, TradingView offers the most flexible integration.
 
-**Screenshot 1**
+**Screenshot 5**
 File: `../media/tradingview-crypto-2026-07-17.png`
 Alt text: `TradingView crypto markets page, July 2026.`
 Caption: `TradingView, July 2026: chart-native environment for custom funding rate overlay scripts reviewed directly.`
@@ -177,7 +177,7 @@ A [TradingView feature request thread](https://www.reddit.com/r/TradingView/comm
 
 Glassnode includes perpetual funding rate data within its derivatives analytics module, alongside on-chain metrics. For researchers who want to connect funding extremes to longer-term market cycles, Glassnode provides the deepest historical context on this list.
 
-**Screenshot 2**
+**Screenshot 6**
 File: `../media/glassnode-home-2026-07-17.png`
 Alt text: `Glassnode homepage, July 2026.`
 Caption: `Glassnode homepage, July 2026: on-chain and derivatives analytics platform reviewed directly.`
@@ -231,7 +231,7 @@ The tools that provide raw, cross-exchange data with clear sourcing are the ones
 
 For this article, we reviewed the live public product pages of Coinglass, CoinAnk, CryptoQuant, and Laevitas directly in July 2026. Screenshots were captured from each to verify what information the product surfaces on first load and how that information is framed for a derivatives trader.
 
-**Screenshot 3**
+**Featured Image**
 File: `../media/coinglass-funding-2026-07-17.png`
 Alt text: `Coinglass funding rate dashboard, July 2026.`
 Caption: `Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.`
@@ -240,7 +240,7 @@ Caption: `Coinglass funding rate page, July 2026: cross-exchange funding rate co
 
 *Coinglass funding rate page, July 2026: cross-exchange funding rate comparison and live data layout reviewed directly.*
 
-**Screenshot 4**
+**Screenshot 1**
 File: `../media/coinank-home-2026-07-10.png`
 Alt text: `CoinAnk homepage, July 2026.`
 Caption: `CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.`
@@ -249,7 +249,7 @@ Caption: `CoinAnk homepage, July 2026: derivatives-native layout with OI, long-s
 
 *CoinAnk homepage, July 2026: derivatives-native layout with OI, long-short, and funding signals reviewed directly.*
 
-**Screenshot 5**
+**Screenshot 2**
 File: `../media/cryptoquant-home-2026-07-17.png`
 Alt text: `CryptoQuant homepage, July 2026.`
 Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.`
@@ -258,7 +258,7 @@ Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with ma
 
 *CryptoQuant homepage, July 2026: on-chain and derivatives data with market interpretation framing reviewed directly.*
 
-**Screenshot 6**
+**Screenshot 3**
 File: `../media/laevitas-home-2026-07-17.png`
 Alt text: `Laevitas homepage, July 2026.`
 Caption: `Laevitas homepage, July 2026: derivatives analytics including options vol and funding context reviewed directly.`

@@ -131,7 +131,7 @@ Velo provides professional-tier OI monitoring embedded in a broader derivatives 
 
 Binance publishes venue-level OI data directly on its futures product pages. As the largest perpetuals exchange by volume, Binance's OI is a meaningful standalone signal for BTC and ETH positioning.
 
-**Featured Image**
+**Screenshot 5**
 File: `../media/binance-futures-2026-07-17.png`
 Alt text: `Binance Futures platform, July 2026.`
 Caption: `Binance Futures, July 2026: venue-level OI data reviewed as a first-party confirmation source.`
@@ -158,7 +158,7 @@ Bybit OI data availability comes up in [TradingView threads](https://www.reddit.
 
 TradingView community scripts allow traders to overlay OI data onto price charts. For chart-native traders who want to see OI behavior in the context of price action rather than as a separate dashboard panel, TradingView provides the most flexible integration.
 
-**Screenshot 1**
+**Screenshot 6**
 File: `../media/tradingview-crypto-2026-07-17.png`
 Alt text: `TradingView crypto markets page, July 2026.`
 Caption: `TradingView, July 2026: chart-native environment for custom OI overlay scripts reviewed directly.`
@@ -215,7 +215,7 @@ Once you see them leaning towards one side or the other more than once, engage d
 
 For this article, we reviewed the live public product pages of Coinglass, CoinAnk, CryptoQuant, Glassnode, and Laevitas directly in July 2026. Screenshots were captured from each to verify first-screen framing and what data each product surfaces for a derivatives trader on arrival.
 
-**Screenshot 2**
+**Featured Image**
 File: `../media/coinglass-oi-2026-07-17.png`
 Alt text: `Coinglass open interest dashboard, July 2026.`
 Caption: `Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.`
@@ -224,7 +224,7 @@ Caption: `Coinglass open interest page, July 2026: cross-exchange OI aggregation
 
 *Coinglass open interest page, July 2026: cross-exchange OI aggregation and derivatives context reviewed directly.*
 
-**Screenshot 3**
+**Screenshot 1**
 File: `../media/coinank-home-2026-07-10.png`
 Alt text: `CoinAnk homepage, July 2026.`
 Caption: `CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.`
@@ -233,7 +233,7 @@ Caption: `CoinAnk homepage, July 2026: OI change signals and futures-native layo
 
 *CoinAnk homepage, July 2026: OI change signals and futures-native layout reviewed directly.*
 
-**Screenshot 4**
+**Screenshot 2**
 File: `../media/cryptoquant-home-2026-07-17.png`
 Alt text: `CryptoQuant homepage, July 2026.`
 Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.`
@@ -242,7 +242,7 @@ Caption: `CryptoQuant homepage, July 2026: on-chain and derivatives data with ma
 
 *CryptoQuant homepage, July 2026: on-chain and derivatives data with market framing reviewed directly.*
 
-**Screenshot 5**
+**Screenshot 3**
 File: `../media/glassnode-home-2026-07-17.png`
 Alt text: `Glassnode homepage, July 2026.`
 Caption: `Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.`
@@ -251,7 +251,7 @@ Caption: `Glassnode homepage, July 2026: long-cycle on-chain and derivatives ana
 
 *Glassnode homepage, July 2026: long-cycle on-chain and derivatives analytics platform reviewed directly.*
 
-**Screenshot 6**
+**Screenshot 4**
 File: `../media/laevitas-home-2026-07-17.png`
 Alt text: `Laevitas homepage, July 2026.`
 Caption: `Laevitas homepage, July 2026: multi-product derivatives analytics including OI and options vol reviewed directly.`
