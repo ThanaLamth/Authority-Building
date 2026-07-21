@@ -137,6 +137,15 @@ Public user discussion around Maker's RWA side is less emotional than Ondo's bec
 
 The beginner problem is branding. If you arrive fresh, the Maker-to-Sky transition adds one more layer to an already technical system.
 
+**Screenshot 3**
+File: `../media/03-sky-money-home-2026-07-21.png`
+Alt text: `Sky Money homepage showing DAI and USDS stablecoin ecosystem with real-world asset collateral and DeFi savings rates`
+Caption: `Sky Money homepage captured during our July 2026 review of RWA crypto projects. The protocol behind DAI and USDS shows live savings rates backed partly by real-world collateral.`
+
+![Sky Money homepage showing DAI and USDS stablecoin ecosystem with real-world asset collateral and DeFi savings rates](../media/03-sky-money-home-2026-07-21.png)
+
+*Sky Money homepage, July 2026. The protocol behind DAI and USDS shows live savings rates backed partly by real-world collateral. The Sky rebrand adds confusion but the protocol underneath remains the most proven in the RWA space.*
+
 **Best for:** Users who want RWA exposure through a proven DeFi system that uses real-world assets behind the stablecoin.
 **Not ideal for:** Beginners who want a single-purpose product with one easy message.
 
@@ -224,6 +233,15 @@ That is attractive because tokenization only scales if the tooling becomes easie
 
 For that reason, TokenFi belongs lower in the ranking. The concept is important, and the no-code angle is useful, but it is still easier to picture the pitch than to find deep proof of broad adoption.
 
+**Screenshot 7**
+File: `../media/03-tokenfi-home-2026-07-21.png`
+Alt text: `TokenFi homepage showing no-code tokenization tools, retail asset launch features, and TOKEN ecosystem`
+Caption: `TokenFi homepage captured during our July 2026 review of RWA crypto projects. The no-code angle is the pitch, but adoption evidence is still early.`
+
+![TokenFi homepage showing no-code tokenization tools, retail asset launch features, and TOKEN ecosystem](../media/03-tokenfi-home-2026-07-21.png)
+
+*TokenFi homepage, July 2026. The retail-friendly tokenization pitch is clear on the surface. Whether the tooling translates into real asset launches at scale is the open question.*
+
 **Best for:** Users who want exposure to the tokenization-tooling narrative.
 **Not ideal for:** Investors who want the strongest evidence of live institutional traction.
 
@@ -238,6 +256,15 @@ Its core idea is powerful: separate the principal from the yield so users can lo
 Reddit discussion around Pendle usually comes from DeFi users who already think in yield curves, not beginners. That alone is a warning. If the base RWA product already feels technical, Pendle adds another layer on top.
 
 Still, it deserves a place here because yield-bearing RWA tokens become much more interesting once a protocol can turn them into tradable rate instruments.
+
+**Screenshot 8**
+File: `../media/03-pendle-home-2026-07-21.png`
+Alt text: `Pendle Finance homepage showing yield trading protocol, tokenized yield markets, and DeFi rate trading interface`
+Caption: `Pendle Finance homepage captured during our July 2026 review of RWA crypto projects. The interface signals this is built for yield-curve traders, not beginners looking for simple Treasury exposure.`
+
+![Pendle Finance homepage showing yield trading protocol, tokenized yield markets, and DeFi rate trading interface](../media/03-pendle-home-2026-07-21.png)
+
+*Pendle Finance homepage, July 2026. Yield trading for tokenized assets. The product becomes relevant once RWA yield tokens are mature enough to split, price, and trade.*
 
 **Best for:** Advanced DeFi users who understand yield trading.
 **Not ideal for:** Beginners who just want to hold a Treasury-backed asset and collect yield.
@@ -277,6 +304,15 @@ Its role is less about retail speculation and more about putting short-term cash
 That is why public user commentary is thinner here than for Ondo or Pendle. Most open discussion is around market structure and acquisitions rather than small investors describing daily use.
 
 Even so, Hashnote belongs on the list because the RWA sector is not only about coins retail traders can chase. A large part of the category is quietly about where bigger firms park cash once blockchain settlement starts to look normal.
+
+**Screenshot 9**
+File: `../media/03-hashnote-home-2026-07-21.png`
+Alt text: `Hashnote homepage showing institutional cash management, blockchain-based Treasury products, and professional allocator interface`
+Caption: `Hashnote homepage captured during our July 2026 review of RWA crypto projects. The product surface is clearly designed for institutional cash management, not retail exploration.`
+
+![Hashnote homepage showing institutional cash management, blockchain-based Treasury products, and professional allocator interface](../media/03-hashnote-home-2026-07-21.png)
+
+*Hashnote homepage, July 2026. Institutional cash management on blockchain rails. The product exists for funds and treasuries, not for retail users browsing RWA tokens.*
 
 **Best for:** Users tracking the institutional cash-management side of RWA.
 **Not ideal for:** Retail users who want open access and active community participation.
