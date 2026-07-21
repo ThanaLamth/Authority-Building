@@ -57,15 +57,15 @@ We reviewed live public sources tied to the major narratives in July 2026: Ether
 
 AI is the one crypto narrative in 2026 with a structural reinforcement loop that runs outside crypto entirely. Every time NVIDIA posts earnings above expectations, every time a major cloud provider raises GPU availability pricing, and every time a frontier model deployment creates new inference demand, the case for decentralized compute in crypto gets a free catalyst that does not depend on crypto sentiment.
 
-That external reinforcement is what makes this narrative the highest-conviction one on the list. Bittensor, Render, and Akash benefit from a demand story that exists whether or not the crypto market is in a bull cycle.
+That external reinforcement is what makes this narrative the highest-conviction one on the list. [Bittensor](https://bittensor.com/), [Render](https://rendernetwork.com/), and [Akash](https://akash.network/) benefit from a demand story that exists whether or not the crypto market is in a bull cycle.
 
 The risk, discussed in CryptoCurrency Reddit threads comparing Bitcoin and Nvidia in mid-2026, is the rotation dynamic: [capital explicitly left BTC for AI equity](https://www.reddit.com/r/CryptoCurrency/comments/1twghjt/bitcoin_lost_66000_while_nvidia_hit_alltime_highs/) when Nvidia hit all-time highs while Bitcoin was declining. The AI crypto thesis depends on the market deciding that decentralized compute exposure cannot be accessed via NVDA, MSFT, or infrastructure ETFs. If equities keep delivering AI returns with less custody friction, crypto AI tokens underperform regardless of their fundamental role in the stack.
 
 ### 2. Institutional adoption
 
-The institutional adoption narrative had its most important validation moment in 2024 when BlackRock, Fidelity, and others launched spot Bitcoin ETFs and captured + in AUM within 18 months. That is no longer a prediction. It is a structural fact of the market. The question for 2026 is where the next institutional product category forms.
+The institutional adoption narrative had its most important validation moment in 2024 when [BlackRock](https://www.blackrock.com/), [Fidelity](https://www.fidelity.com/), and others launched spot Bitcoin ETFs and captured + in AUM within 18 months. That is no longer a prediction. It is a structural fact of the market. The question for 2026 is where the next institutional product category forms.
 
-The current evidence points toward three areas: tokenized money market funds (BUIDL model), Bitcoin in corporate treasury (post-MicroStrategy template), and custody infrastructure for pension and sovereign wealth fund participation. All three require regulatory frameworks to be stable enough for compliance teams to approve, which is why the institutional narrative is tightly linked to the regulation narrative below.
+The current evidence points toward three areas: tokenized money market funds (BUIDL model), Bitcoin in corporate treasury (post-[MicroStrategy](https://www.microstrategy.com/) template), and custody infrastructure for pension and sovereign wealth fund participation. All three require regulatory frameworks to be stable enough for compliance teams to approve, which is why the institutional narrative is tightly linked to the regulation narrative below.
 
 ![Coinbase institutional page showing crypto infrastructure for institutional clients reviewed July 2026](../assets/article-03-crypto-narratives/coinbase-institutional-2026-07-17.png)
 
@@ -73,9 +73,9 @@ The current evidence points toward three areas: tokenized money market funds (BU
 
 ### 3. Tokenized real-world assets
 
-The RWA narrative has graduated from concept to infrastructure. BlackRock BUIDL crossed .4B in AUM, Ondo's OUSG reached multi-hundred-million TVL, and Franklin Templeton's Benji registered on-chain share records for a regulated money market fund. These are not experiments. They are production-grade products with institutional client bases.
+The RWA narrative has graduated from concept to infrastructure. [BUIDL](https://securitize.io/buidl) crossed .4B in AUM, [Ondo](https://ondo.finance/)'s OUSG reached multi-hundred-million TVL, and [Franklin Templeton](https://www.franklintempleton.com/)'s Benji registered on-chain share records for a regulated money market fund. These are not experiments. They are production-grade products with institutional client bases.
 
-The DeFiLlama RWA dashboard shows consistent TVL growth across tokenized treasury products, reflecting genuine institutional demand rather than DeFi-native yield farming. The narrative is now about which issuer wins which distribution channel, not whether the category will exist.
+The [DeFiLlama](https://defillama.com/) RWA dashboard shows consistent TVL growth across tokenized treasury products, reflecting genuine institutional demand rather than DeFi-native yield farming. The narrative is now about which issuer wins which distribution channel, not whether the category will exist.
 
 ![DeFiLlama RWA protocols dashboard showing tokenized asset TVL captured July 2026](../assets/article-03-crypto-narratives/defillama-rwa-2026-07-17.png)
 
@@ -83,9 +83,9 @@ The DeFiLlama RWA dashboard shows consistent TVL growth across tokenized treasur
 
 ### 4. Ethereum scaling
 
-Ethereum scaling is the narrative that keeps evolving as the ecosystem ships. The Pectra upgrade, ongoing L2 maturity across Arbitrum, Optimism, Base, and ZKSync, and the growing restaking layer around EigenLayer collectively represent the most active roadmap execution in crypto. The public Ethereum roadmap page maps a multi-year upgrade sequence that is being delivered on schedule.
+Ethereum scaling is the narrative that keeps evolving as the ecosystem ships. The [Pectra](https://ethereum.org/en/roadmap/) upgrade, ongoing L2 maturity across [Arbitrum](https://arbitrum.io/), [Optimism](https://optimism.io/), [Base](https://base.org/), and [ZKSync](https://zksync.io/), and the growing restaking layer around [EigenLayer](https://eigenlayer.xyz/) collectively represent the most active roadmap execution in crypto. The public Ethereum roadmap page maps a multi-year upgrade sequence that is being delivered on schedule.
 
-The scaling narrative is distinct from the ETH price narrative, though the two are often conflated. Ethereum's scaling relevance is about whether it remains the settlement layer for serious DeFi, tokenization, and institutional crypto products. That question is being answered through deployment patterns: Coinbase Base, BlackRock BUIDL, Ondo OUSG, Hyperliquid's HyperEVM, all building on or adjacent to Ethereum.
+The scaling narrative is distinct from the ETH price narrative, though the two are often conflated. Ethereum's scaling relevance is about whether it remains the settlement layer for serious DeFi, tokenization, and institutional crypto products. That question is being answered through deployment patterns: Coinbase Base, BlackRock BUIDL, Ondo OUSG, [Hyperliquid](https://hyperliquid.xyz/)'s HyperEVM, all building on or adjacent to Ethereum.
 
 ![Ethereum roadmap page captured July 2026 showing multi-year scaling upgrade sequence](../assets/article-03-crypto-narratives/ethereum-roadmap-2026-07-17.png)
 
@@ -93,7 +93,7 @@ The scaling narrative is distinct from the ETH price narrative, though the two a
 
 ### 5. Stablecoin competition
 
-The stablecoin narrative in 2026 is driven by two forces that do not move in the same direction. US stablecoin legislation is pushing toward regulatory clarity that would advantage reserve-backed, US-regulated issuers like Circle and Paxos. At the same time, the market continues to use Tether for the majority of settlement, and Ethena has proven that synthetic yield dollars can capture a meaningful share of DeFi stablecoin demand.
+The stablecoin narrative in 2026 is driven by two forces that do not move in the same direction. US stablecoin legislation is pushing toward regulatory clarity that would advantage reserve-backed, US-regulated issuers like [Circle](https://www.circle.com/) and [Paxos](https://paxos.com/). At the same time, the market continues to use [Tether](https://tether.to/) for the majority of settlement, and [Ethena](https://ethena.fi/) has proven that synthetic yield dollars can capture a meaningful share of DeFi stablecoin demand.
 
 The competition is no longer Tether vs Circle. It is reserve-backed vs synthetic, onchain vs bank-backed, and regulated vs permissionless, all simultaneously, with different winners in different market segments.
 
@@ -105,13 +105,13 @@ The narrative creates a reflexive demand loop: each new corporate announcement l
 
 ### 7. Solana trading culture
 
-Solana earned a dedicated narrative position in 2026 not through institutional adoption or regulatory clarity but through raw trading volume and developer activity. The combination of memecoin culture, Jupiter-dominated DEX flows, Hyperliquid's HyperEVM, and consumer applications built on fast, low-cost settlement made Solana the chain where retail crypto culture actually lives.
+[Solana](https://solana.com/) earned a dedicated narrative position in 2026 not through institutional adoption or regulatory clarity but through raw trading volume and developer activity. The combination of memecoin culture, [Jupiter](https://jup.ag/)-dominated DEX flows, Hyperliquid's HyperEVM, and consumer applications built on fast, low-cost settlement made Solana the chain where retail crypto culture actually lives.
 
 That cultural position is valuable because it drives real TVL, real fee revenue, and real developer attention. Jupiter's dominance of Solana swap routing means the chain has a structural aggregation layer that competes with Ethereum's Uniswap-driven routing model.
 
 ### 8. Regulation as market-structure catalyst
 
-The regulatory narrative in 2026 has evolved from "will crypto be regulated?" to "which regulatory framework wins, and who does it favor?" MiCA is live in the EU. The US is advancing stablecoin legislation and clearer exchange registration frameworks. The UK FCA is building its crypto regime. Each framework creates different winners.
+The regulatory narrative in 2026 has evolved from "will crypto be regulated?" to "which regulatory framework wins, and who does it favor?" [MiCA](https://finance.ec.europa.eu/digital-finance/digital-assets/markets-crypto-assets-regulation-mica_en) is live in the EU. The US is advancing stablecoin legislation and clearer exchange registration frameworks. The UK FCA is building its crypto regime. Each framework creates different winners.
 
 The EU crypto-assets page reviewed in July 2026 shows a regulatory architecture that is operational, not aspirational. That level of specificity has direct market implications: exchanges, stablecoin issuers, and asset managers operating in the EU must now navigate a compliance layer that did not exist two years ago. The market-structure effect is not that regulation kills crypto. It is that regulation advantages incumbents with compliance infrastructure over newer protocols that cannot meet disclosure and reserve requirements.
 
