@@ -55,7 +55,7 @@ We reviewed live public product surfaces and docs of all 10 protocols in July 20
 
 ## 10 Best DeFi Projects Reviewed (2026 List)
 
-### 1. Aave
+### 1. [Aave](https://aave.com/)
 
 Aave is the closest thing DeFi has to a credit market that institutional capital can underwrite without a narrative thesis. The public product framing is built around risk management, user protection, and protocol credibility, not yield maximization. That is what makes Aave durable: it is optimized for the reader who needs to answer a compliance or fiduciary question, not just a yield question.
 
@@ -67,7 +67,7 @@ A [thread asking where you park funds onchain first](https://www.reddit.com/r/de
 
 *Aave help page captured July 17, 2026, showing risk-management and support-led product framing.*
 
-### 2. Uniswap
+### 2. [Uniswap](https://uniswap.org/)
 
 Uniswap is infrastructure that the market defaults to regardless of whether the UNI token is in favor. The docs and developer-facing surfaces are built around swap routing, LP mechanics, and protocol integration rather than retail trading simplicity. That posture reflects what Uniswap actually is: a base-layer trading rail that wallets, aggregators, and protocols route through, not a direct retail product.
 
@@ -77,7 +77,7 @@ The fee switch debate has circled Uniswap governance for two years without resol
 
 *Uniswap docs homepage captured July 17, 2026, showing builder-first and protocol-infrastructure framing.*
 
-### 3. Lido
+### 3. [Lido](https://lido.fi/)
 
 Lido controls the largest share of Ethereum liquid staking supply, which means it controls the most liquid representation of staked ETH. From the public surface we reviewed, Lido is framed as a staking layer with clear risk disclosure and validator mechanics, the product tries to be legible for both retail and institutional participants. That breadth is both its strength and its political vulnerability.
 
@@ -87,7 +87,7 @@ The concentration question around Lido has not disappeared. The Ethereum communi
 
 *Lido docs homepage captured July 17, 2026, showing liquid staking infrastructure and validator framing.*
 
-### 4. Ethena
+### 4. [Ethena](https://ethena.fi/)
 
 Ethena is the protocol that forced the most important DeFi design conversation of 2025: whether engineered synthetic yield can scale without losing trust. USDe reached scale through a delta-neutral hedging structure, and the market's reaction to it reveals something about where DeFi maturity actually sits.
 
@@ -99,7 +99,7 @@ A [thread on fixed yield in DeFi](https://www.reddit.com/r/defi/comments/1s4t57g
 
 *Ethena docs homepage captured July 17, 2026, showing USDe delta-neutral structure and sUSDe yield framing.*
 
-### 5. Hyperliquid
+### 5. [Hyperliquid](https://hyperliquid.xyz/)
 
 Hyperliquid is the most significant DeFi performance statement of the 2024-2025 cycle. An onchain perpetuals exchange matching the execution speed, order book depth, and fee structure of a centralized exchange, without a CEX custodian model, was the thesis most DeFi skeptics said could not scale. Hyperliquid scaled it.
 
@@ -109,7 +109,7 @@ From the public surface, Hyperliquid is positioned as a performance product, not
 
 *Hyperliquid homepage captured July 17, 2026, showing onchain perpetuals and exchange-grade performance framing.*
 
-### 6. Jupiter
+### 6. [Jupiter](https://jup.ag/)
 
 Jupiter's relevance is Solana-specific and therefore cycle-specific, but the protocol earns its place on a cross-chain DeFi list because of what it represents structurally. A swap aggregator that controls the default routing for a top-five blockchain by trading volume is not a side bet. It is a routing monopoly with real fee capture potential.
 
@@ -119,7 +119,7 @@ The Jupiter framing is accessible: best price, single interface, unified liquidi
 
 *Jupiter homepage captured July 17, 2026, showing Solana DEX aggregation and unified liquidity routing framing.*
 
-### 7. Morpho
+### 7. [Morpho](https://morpho.org/)
 
 Morpho represents the most deliberate attempt to improve lending market design in the current DeFi cycle. The core thesis is that Aave and Compound's monolithic pool model created liquidity depth at the cost of risk isolation, every borrower and lender shares one rate curve and one collateral policy. Morpho's permissionless market architecture lets curators set independent risk parameters per lending market.
 
@@ -129,7 +129,7 @@ A [thread on whether lending ever got a Curve Wars equivalent](https://www.reddi
 
 *Morpho homepage captured July 17, 2026, showing permissionless lending market and curator-first architecture.*
 
-### 8. Pendle
+### 8. [Pendle](https://pendle.finance/)
 
 Pendle turned yield itself into a tradable product. The core mechanic, splitting yield-bearing assets into principal tokens (PT) and yield tokens (YT), is not new in traditional finance (it maps to zero-coupon bonds and strips), but applying it to DeFi yield sources created something the market had not priced before: a way to lock in a fixed return on a floating DeFi yield.
 
@@ -139,13 +139,13 @@ Community engagement reflects serious financial thinking, not speculative moment
 
 *Pendle Finance homepage captured July 17, 2026, showing yield trading, PT/YT mechanics, and fixed-yield positioning.*
 
-### 9. Maker
+### 9. [Maker](https://makerdao.com/)
 
 Maker belongs on this list because of what it sits underneath, not what it is on the surface. DAI and USDS are collateral in lending protocols, fee assets in DEX pools, and treasury instruments for DeFi protocol reserves. Removing Maker from the DeFi map is like removing the dollar from a trade finance discussion.
 
 The governance-driven evolution, the rebranding to Sky, the introduction of USDS, the integration of RWA collateral, has made Maker harder to explain simply. That narrative complexity is a genuine friction point for newer participants.
 
-### 10. Curve
+### 10. [Curve](https://curve.fi/)
 
 Curve still controls the most specialized stablecoin and correlated-asset swap infrastructure in DeFi. The protocol is not exciting in the way Hyperliquid or Pendle is. It is necessary in the way the Federal Funds Rate is necessary: not the thing most participants are thinking about, but the rate that everything else is indexed against.
 
