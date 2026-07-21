@@ -68,8 +68,6 @@ This is a thesis map, not a buying recommendation. Pick the row that matches you
 
 For narrower reads: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/), [AI infrastructure coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/), [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/), [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/), [top Virtuals ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
 
-For narrower reads: [best AI agent crypto coins](/ai-agents/best-ai-agent-crypto-coins-2026/), [AI infrastructure coins](/ai-infrastructure/ai-infrastructure-crypto-coins-2026/), [best onchain AI agents](/ai-agents/onchain-agents/best-onchain-ai-agents-2026/), [top Bittensor subnets](/ai-infrastructure/models/top-bittensor-subnets-2026/), [top Virtuals ecosystem coins](/ai-agents/economy/top-virtuals-protocol-ecosystem-coins-2026/)
-
 ## The 10 best AI crypto projects in 2026
 
 ---
