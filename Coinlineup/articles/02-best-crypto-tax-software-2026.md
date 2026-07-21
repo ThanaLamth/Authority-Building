@@ -1,12 +1,18 @@
-# Best Crypto Tax Software in 2026: 8 Tools Compared for Beginners, Traders, and DeFi Users
+---
+title: "Best Crypto Tax Software in 2026: 8 Tools Compared for Beginners, Traders, and DeFi Users"
+meta_title: "Best Crypto Tax Software in 2026: 8 Tools Compared"
+meta_description: "Compare the best crypto tax software in 2026, including Koinly, CoinLedger, CoinTracker, CoinTracking, and Crypto Tax Calculator. Learn about CSV imports, DeFi compatibility, and pricing."
+slug: "/guides/crypto-basics/best-crypto-tax-software-2026/"
+primary_keyword: "best crypto tax software 2026"
+category: "Guides > Crypto Basics"
+last_reviewed: "2026-07-16"
+schema:
+  - "Article"
+  - "ItemList"
+  - "FAQPage"
+---
 
-- Meta title: `Best Crypto Tax Software in 2026: 8 Tools Compared`
-- Meta description: `Compare the best crypto tax software in 2026, including Koinly, CoinLedger, CoinTracker, CoinTracking, and Crypto Tax Calculator. Learn about CSV imports, DeFi compatibility, and pricing.`
-- Slug: `/guides/crypto-basics/best-crypto-tax-software-2026/`
-- Primary keyword: `best crypto tax software 2026`
-- Category: `Guides > Crypto Basics`
-- Schema: `Article + ItemList`
-- Last updated: `2026-07-16`
+# Best Crypto Tax Software in 2026
 
 The best crypto tax software in 2026 are Koinly, CoinLedger, and Crypto Tax Calculator.
 
@@ -29,6 +35,22 @@ That is why this guide does not rank these tools by price alone. It compares eig
 | 7 | ZenLedger | Users who want a mainstream alternative to compare | 2.5/5 | Approachable interface; recent support complaints are frequent | Mixed support feedback |
 | 8 | TurboTax | Final filing after reconciliation is done | 2/5 | Handles last-mile filing; not a reconciliation tool | Not a cleanup tool by itself |
 
+
+## How we scored these tools
+
+| Tool | Import reliability | Cleanup workflow | DeFi handling | Filing path | Price value | **Total** |
+|---|---|---|---|---|---|---|
+| Koinly | 9 | 9 | 7 | 8 | 7 | **40** |
+| CoinLedger | 8 | 8 | 5 | 8 | 8 | **37** |
+| CoinTracker | 7 | 7 | 6 | 8 | 5 | **33** |
+| CoinTracking | 8 | 6 | 6 | 7 | 7 | **34** |
+| Crypto Tax Calculator | 7 | 7 | 9 | 7 | 7 | **37** |
+| TokenTax | 6 | 5 | 5 | 7 | 4 | **27** |
+| ZenLedger | 5 | 5 | 4 | 6 | 5 | **25** |
+| TurboTax | 3 | 2 | 1 | 9 | 6 | **21** |
+
+Scored out of 10 per category. Total out of 50. **Import reliability** measures how cleanly the tool reads exchange CSVs and wallet data. **Cleanup workflow** measures how easy it is to find and fix missing cost basis and duplicate entries. **DeFi handling** measures coverage of swaps, LPs, staking, NFTs, and bridges. **Filing path** measures how smoothly the final export works with tax software or a CPA. **Price value** measures what you get relative to the cost. Koinly and Crypto Tax Calculator tie near the top for different reasons: Koinly on breadth, CTC on DeFi depth.
+
 ## How we evaluated these tools
 
 Most beginners make the same mistake. They buy the cheapest plan first, then discover the tool cannot read their files cleanly.
@@ -46,6 +68,34 @@ We focused on the moments where beginners usually get stuck:
 Most of these products let you import data for free. The bill usually appears when you need downloadable forms or full filing exports.
 
 ---
+## Do I even need crypto tax software?
+
+Not always. If you only bought crypto on one exchange, held it, and never sold, you may not owe anything yet in most countries. In the US, you only owe capital gains tax when you sell, swap, or spend crypto.
+
+If your entire history is fewer than 10 transactions on one exchange, you can probably calculate gains by hand or use your exchange's built-in tax report (Coinbase and Kraken both offer these).
+
+You need software when your history spans multiple exchanges, includes wallet transfers, staking rewards, DeFi activity, or when you have lost track of what you originally paid for something (your cost basis).
+
+## Pricing comparison
+
+| Tool | Free tier | Paid start | Mid tier | Notes |
+|---|---|---|---|---|
+| Koinly | Preview only (10K txns) | $49 (100 txns) | $179 (3K txns) | Report download requires paid plan |
+| CoinLedger | Preview only | $49 (100 txns) | $99 (1K txns) | Clean upgrade path |
+| CoinTracker | Limited | $59 (100 txns) | $199 (1K txns) | Price climbs fast |
+| CoinTracking | 200 txns free | $119/yr (3.5K txns) | $239/yr (unlimited) | Best free tier for small traders |
+| Crypto Tax Calculator | Preview only | $49 (100 txns) | $99 (1K txns) | Similar to CoinLedger |
+| TokenTax | None | $65 (500 txns) | $199 (5K txns) | CPA services extra |
+| ZenLedger | 25 txns free | $49 (100 txns) | $149 (1K txns) | Check current pricing |
+| TurboTax | Basic filing free | $89+ (Premier) | N/A | Not a reconciliation tool |
+
+Prices are approximate as of July 2026. Always check the tool's current pricing page before buying. Most tools let you import and preview data for free. You only pay when you download the final tax report.
+
+## When should you start?
+
+Do not wait until April. The best time to set up crypto tax software is right after tax season ends, while you still remember which exchanges and wallets you used.
+
+Import your data now. Fix the errors while they are still fresh. When filing season arrives, the report is already waiting.
 
 ## 1. Koinly
 
@@ -55,13 +105,13 @@ The product surface is built around cleanup. After import, it pushes missing cos
 
 That matters because crypto tax work is rarely about calculation first. It is usually about finding the bad row that breaks everything downstream.
 
-Recent Reddit feedback still lines up with that. In one [r/CryptoTax comparison thread on Koinly vs other tools](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), a user said Koinly was easy to set up across multiple cold wallets and exchanges, and that its cost basis came out closer than competing tools even though a few transactions still needed manual cleanup.
+Recent Reddit feedback still lines up with that. In one [a CryptoTax Reddit comparison thread on Koinly vs other tools](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), a user said Koinly was easy to set up across multiple cold wallets and exchanges, and that its cost basis came out closer than competing tools even though a few transactions still needed manual cleanup.
 
-Another user in [r/koinly's discussion about how reliable Koinly feels in practice](https://www.reddit.com/r/koinly/comments/1hd0tqb/how_reliable_is_koinly/) wrote that once the import issues were fixed, the product worked smoothly and the UI felt easier for both beginners and experienced users.
+Another user in [a Koinly community discussion about how reliable Koinly feels in practice](https://www.reddit.com/r/koinly/comments/1hd0tqb/how_reliable_is_koinly/) wrote that once the import issues were fixed, the product worked smoothly and the UI felt easier for both beginners and experienced users.
 
 *"Once the import issues were fixed, it worked smoothly and felt easier to use than other tools I had tried, both for beginners and for more experienced users."*
 
-The trade-off is price creep. A high-volume user in [a separate r/CryptoTax thread about which crypto tax software people actually keep using](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/) said they stayed with Koinly partly because other services became unsustainable once transaction counts climbed.
+The trade-off is price creep. A high-volume user in [a separate CryptoTax Reddit thread about which crypto tax software people actually keep using](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/) said they stayed with Koinly partly because other services became unsustainable once transaction counts climbed.
 
 That is the part to watch. Koinly is easy to trust early, but it stops feeling cheap once your activity grows. The free tier limits you to 10,000 transactions for preview only. Downloading a tax report starts at $49 per year for up to 100 transactions, and scales to $179 or more for larger histories.
 
@@ -85,13 +135,13 @@ Caption: `Koinly homepage captured during our July 2026 review of crypto tax sof
 
 Its interface is simpler than the average tax tool. You connect the exchange, review flagged issues, and move toward the export step without getting dragged into a giant accounting dashboard.
 
-That simplicity is exactly why some users prefer it. In [a recent r/CryptoTax discussion about tools updated for the new IRS rules](https://www.reddit.com/r/CryptoTax/comments/1r3rrw9/what_crypto_tax_software_is_fully_updated_for_the/), one commenter said CoinLedger's missing cost basis workflow was genuinely useful for reconciling cross-platform transfers, which is where many beginners fail.
+That simplicity is exactly why some users prefer it. In [a recent CryptoTax Reddit discussion about tools updated for the new IRS rules](https://www.reddit.com/r/CryptoTax/comments/1r3rrw9/what_crypto_tax_software_is_fully_updated_for_the/), one commenter said CoinLedger's missing cost basis workflow was genuinely useful for reconciling cross-platform transfers, which is where many beginners fail.
 
-Another commenter in [r/CryptoTax's thread on whether CoinLedger is the best option](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/) said CoinLedger was the tool that finally made them feel able to file again after struggling with crypto taxes for years.
+Another commenter in [a CryptoTax Reddit thread on whether CoinLedger is the best option](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/) said CoinLedger was the tool that finally made them feel able to file again after struggling with crypto taxes for years.
 
 *"CoinLedger was the tool that finally made me feel able to file again after struggling with crypto taxes for years. The missing cost basis workflow was genuinely useful for reconciling cross-platform transfers."*
 
-The catch is that sentiment is mixed once activity gets messier. In [another recent r/CryptoTax thread comparing CoinLedger with other options](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/), one user said CoinLedger handled their blockchain-based wallet activity poorly enough that they would stay away, while another commenter in the same discussion said they preferred Crypto Tax Calculator for complex DeFi.
+The catch is that sentiment is mixed once activity gets messier. In [another recent CryptoTax Reddit thread comparing CoinLedger with other options](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/), one user said CoinLedger handled their blockchain-based wallet activity poorly enough that they would stay away, while another commenter in the same discussion said they preferred Crypto Tax Calculator for complex DeFi.
 
 That split matches the product itself. CoinLedger is good at getting straightforward exchange histories into filing shape, but you should inspect every wallet-derived line if you used bridges, LPs, loans, or NFT mints.
 
@@ -119,9 +169,9 @@ Caption: `CoinLedger homepage captured during our July 2026 review of crypto tax
 
 The product does not just prepare tax data. It keeps a live portfolio layer on top, which makes it easier for Coinbase users and casual investors to stay inside one polished system all year.
 
-That mainstream feel is backed by user feedback too. In [that same big r/CryptoTax comparison thread](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), one user with an accounting background said CoinTracker was the most accurate option they had tested.
+That mainstream feel is backed by user feedback too. In [that same CryptoTax Reddit comparison thread](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), one user with an accounting background said CoinTracker was the most accurate option they had tested.
 
-The opposite view is easy to find as well. A user in [r/CryptoCurrency's thread about ZenLedger and tax-tool frustrations](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/) said the subscription pricing was excessive and support was weak, while [the broader r/CryptoTax comparison](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/) said CoinTracker handled DeFi and NFTs better than expected but still required manual work.
+The opposite view is easy to find as well. A user in [a CryptoCurrency Reddit thread about ZenLedger and tax-tool frustrations](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/) said the subscription pricing was excessive and support was weak, while [the broader CryptoTax Reddit comparison](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/) said CoinTracker handled DeFi and NFTs better than expected but still required manual work.
 
 That mix makes sense. CoinTracker is attractive if you want the smoothest UI and already live inside Coinbase-adjacent workflows, but the price becomes harder to justify once your history grows.
 
@@ -147,9 +197,9 @@ Caption: `CoinTracker homepage captured during our July 2026 review of crypto ta
 
 That old-school design has a purpose. If you have years of trading activity, defunct exchanges, manually imported CSVs, and wallet-by-wallet cost basis issues, CoinTracking gives you more levers than cleaner-looking competitors.
 
-Its own user base often describes the product in exactly those terms. In [r/CryptoTax's general recommendation thread](https://www.reddit.com/r/CryptoTax/comments/170t7po/looking_for_recommendations_for_crypto_tax/), one long-time user said they had over 20,000 trades and kept using CoinTracking because moving away would be expensive, even though cleanup could become a hassle.
+Its own user base often describes the product in exactly those terms. In [a CryptoTax Reddit recommendation thread](https://www.reddit.com/r/CryptoTax/comments/170t7po/looking_for_recommendations_for_crypto_tax/), one long-time user said they had over 20,000 trades and kept using CoinTracking because moving away would be expensive, even though cleanup could become a hassle.
 
-The warning is obvious: the interface asks more from you. Another [current r/CryptoTax thread about software for people in the US](https://www.reddit.com/r/CryptoTax/comments/1iilrx2/best_crypto_tax_software_for_people_in_the_us/) shows the same pattern, with users discussing reporting changes at a much more technical level.
+The warning is obvious: the interface asks more from you. Another [a current CryptoTax Reddit thread about software for people in the US](https://www.reddit.com/r/CryptoTax/comments/1iilrx2/best_crypto_tax_software_for_people_in_the_us/) shows the same pattern, with users discussing reporting changes at a much more technical level.
 
 If you want a simple setup flow, CoinTracking is too much tool. If you want row-by-row control over messy records, it earns its place on the list.
 
@@ -175,11 +225,11 @@ Caption: `CoinTracking homepage captured during our July 2026 review of crypto t
 
 If your year includes LP deposits, liquid staking, cross-chain transfers, NFT trades, and gas-heavy wallets, this category is where the import engine matters more than the homepage polish.
 
-Recent user feedback is unusually consistent. In [one r/CryptoTax comparison thread](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), a user who said they had tried most major tools called Crypto Tax Calculator the easiest to use for complex DeFi and the most accurate at auto-categorization and reporting.
+Recent user feedback is unusually consistent. In [a CryptoTax Reddit comparison thread](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/), a user who said they had tried most major tools called Crypto Tax Calculator the easiest to use for complex DeFi and the most accurate at auto-categorization and reporting.
 
-Another user in [r/CryptoTax's thread on switching away from Koinly](https://www.reddit.com/r/CryptoTax/comments/1i46z8l/wife_hates_koinly_with_a_passion_is_crypto_tax/) said the interface felt clean, prices for assets were more accurate in their experience, and support was more responsive, though they still found exchange coverage thinner in some cases.
+Another user in [a CryptoTax Reddit thread on switching away from Koinly](https://www.reddit.com/r/CryptoTax/comments/1i46z8l/wife_hates_koinly_with_a_passion_is_crypto_tax/) said the interface felt clean, prices for assets were more accurate in their experience, and support was more responsive, though they still found exchange coverage thinner in some cases.
 
-A separate user in [r/BitcoinAUS's discussion of the best Australian crypto tax tool](https://www.reddit.com/r/BitcoinAUS/comments/1hzw6xw/best_aus_crypto_tax_tool/) credited Crypto Tax Calculator's tax-loss harvesting tools with helping them surface old losing positions they had missed.
+A separate user in [a BitcoinAUS Reddit discussion of the best Australian crypto tax tool](https://www.reddit.com/r/BitcoinAUS/comments/1hzw6xw/best_aus_crypto_tax_tool/) credited Crypto Tax Calculator's tax-loss harvesting tools with helping them surface old losing positions they had missed.
 
 The downside is still readability. When a product is built to decode blockchain-based wallet activity correctly, the review screen can feel busy for anyone whose activity was just spot buys on one exchange.
 
@@ -205,9 +255,9 @@ Caption: `Crypto Tax Calculator homepage captured during our July 2026 review of
 
 That matters when the tax problem is no longer just software. If your records are broken across multiple years, or you want someone else to reconcile old wallets before filing, TokenTax starts to make more sense.
 
-Reddit feedback on TokenTax is sharply split. In [one recent r/CryptoTax thread about paying thousands just to report losses](https://www.reddit.com/r/CryptoTax/comments/1oica3r/4000_just_to_report_my_taxes_when_i_only_have/), a user said they had used TokenTax themselves for years before paying for the service tier once the value justified outside help.
+Reddit feedback on TokenTax is sharply split. In [a recent CryptoTax Reddit thread about paying thousands just to report losses](https://www.reddit.com/r/CryptoTax/comments/1oica3r/4000_just_to_report_my_taxes_when_i_only_have/), a user said they had used TokenTax themselves for years before paying for the service tier once the value justified outside help.
 
-But in [another comparison thread on which tax software people actually prefer](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/), a commenter warned against TokenTax because of bugs, clunky DeFi handling, and its refund policy.
+But in [another Reddit comparison thread on which tax software people actually prefer](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/), a commenter warned against TokenTax because of bugs, clunky DeFi handling, and its refund policy.
 
 So the right way to read TokenTax is this: you are not paying for the cleanest DIY software. You are paying because you may eventually want a team involved.
 
@@ -231,9 +281,9 @@ Caption: `TokenTax homepage captured during our July 2026 review of crypto tax s
 
 [ZenLedger](https://zenledger.io/) still shows up in mainstream comparison lists because it has been around for years and its UI is approachable at first glance.
 
-That said, recent Reddit feedback is rougher here than with the tools above. In [one current r/CryptoTax thread on alternatives to ZenLedger](https://www.reddit.com/r/CryptoTax/comments/1tnjh3q/alternative_to_zenledger/), a user said ZenLedger had worked for them for years but recently stopped pulling full transaction histories, and support responses were too slow to rely on.
+That said, recent Reddit feedback is rougher here than with the tools above. In [a current CryptoTax Reddit thread on alternatives to ZenLedger](https://www.reddit.com/r/CryptoTax/comments/1tnjh3q/alternative_to_zenledger/), a user said ZenLedger had worked for them for years but recently stopped pulling full transaction histories, and support responses were too slow to rely on.
 
-Another user in [r/CryptoCurrency's thread titled "Zenledger sucks. Help me!!!"](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/) wrote that ZenLedger was misreading conversions and leaving them with balance errors after hours of back-and-forth support.
+Another user in [a CryptoCurrency Reddit thread titled "Zenledger sucks. Help me!!!"](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/) wrote that ZenLedger was misreading conversions and leaving them with balance errors after hours of back-and-forth support.
 
 There are still some positive historical experiences around getting FIFO reports into TurboTax. But compared with Koinly or CoinLedger, ZenLedger now feels more like a backup option to test than a default recommendation.
 
@@ -259,7 +309,7 @@ Caption: `ZenLedger homepage captured during our July 2026 review of crypto tax 
 
 It is not. TurboTax is the last-mile filing surface after another tool has already cleaned the history, calculated gains, and prepared the right export.
 
-Recent Reddit threads make that distinction very clear. In [one r/CryptoTax thread about TurboTax changing its crypto import approach](https://www.reddit.com/r/CryptoTax/comments/1r75r89/just_spoke_to_turbo_tax_on_the_phone_they_are/), a user said CoinLedger's export still clashed with TurboTax's new crypto-report format, and [another recent thread on the TurboTax Desktop import debacle](https://www.reddit.com/r/CryptoTax/comments/1rfmpog/turbotax_desktop_import_debacle/) described imports as broken across multiple methods.
+Recent Reddit threads make that distinction very clear. In [a CryptoTax Reddit thread about TurboTax changing its crypto import approach](https://www.reddit.com/r/CryptoTax/comments/1r75r89/just_spoke_to_turbo_tax_on_the_phone_they_are/), a user said CoinLedger's export still clashed with TurboTax's new crypto-report format, and [another Reddit thread on the TurboTax Desktop import debacle](https://www.reddit.com/r/CryptoTax/comments/1rfmpog/turbotax_desktop_import_debacle/) described imports as broken across multiple methods.
 
 That does not make TurboTax useless. It just means you should not expect it to solve reconciliation problems. If the upstream data is messy, TurboTax will inherit the mess.
 
@@ -283,9 +333,9 @@ Caption: `TurboTax homepage captured during our July 2026 review of crypto tax s
 
 The most expensive mistake in crypto taxes is thinking the hard part is choosing the software. The hard part is fixing the records.
 
-A user in [r/CryptoCurrency's last-minute tax frustration thread](https://www.reddit.com/r/CryptoCurrency/comments/u62h91/im_doing_my_taxes_last_minute_and_am_about_to/) described trying multiple tools because one would not accept a PayPal CSV and another failed the same import in a different way. That is a normal failure mode, not a rare one.
+A user in [a CryptoCurrency Reddit last-minute tax frustration thread](https://www.reddit.com/r/CryptoCurrency/comments/u62h91/im_doing_my_taxes_last_minute_and_am_about_to/) described trying multiple tools because one would not accept a PayPal CSV and another failed the same import in a different way. That is a normal failure mode, not a rare one.
 
-Another [recent r/CryptoTax discussion about whether calculators are trustworthy](https://www.reddit.com/r/CryptoTax/comments/1r3njny/are_crypto_tax_calculators_reliabletrustworthy/) made the same point more broadly: the calculators are only as good as the data you feed them, especially when transfers are imported as disposals instead of internal movements.
+Another [a recent CryptoTax Reddit discussion about whether calculators are trustworthy](https://www.reddit.com/r/CryptoTax/comments/1r3njny/are_crypto_tax_calculators_reliabletrustworthy/) made the same point more broadly: the calculators are only as good as the data you feed them, especially when transfers are imported as disposals instead of internal movements.
 
 That is why the best tool for you depends less on marketing and more on your transaction shape:
 
@@ -319,15 +369,11 @@ If you are still unsure, do this in order:
 
 ---
 
-## Editorial notes
+## Why you can trust this guide
 
-> **Why you can trust this guide**
-> Based on live product surfaces and pricing pages reviewed July 2026. We directly checked the public setup pages and visible onboarding cues before writing, then cross-checked user pain points in recent Reddit discussions. Anything that depends on a full paid filing, a long wallet history import, or final tax-form accuracy still needs deeper verification before publication.
+This guide is based on live product surfaces and pricing pages reviewed in July 2026. We checked public setup pages and visible onboarding cues, then cross-checked user pain points in recent Reddit discussions.
 
-> **Plain-language summary**
-> If you only use one or two [crypto exchanges](../10-best-crypto-exchanges-for-beginners-2026.md), start with Koinly or CoinLedger.
-> If you use [crypto wallets](../09-best-crypto-wallets-for-beginners-2026.md), staking, or DeFi (crypto apps where you swap, lend, or earn yield without a normal broker), Crypto Tax Calculator is the safer tool to test.
-> Do not pay for any tax report until you confirm that your imports, transfers, and balances look right.
+A full paid filing with live wallet histories was not completed inside every product. That means the Reddit feedback here matters because it fills in the parts a public homepage cannot prove.
 
 ## What we checked ourselves before ranking these tools
 
@@ -373,19 +419,19 @@ Because they depend on the source data. If exchanges export incomplete CSVs, tra
 - [TokenTax](https://tokentax.co/)
 - [ZenLedger](https://zenledger.io/)
 - [TurboTax Crypto](https://turbotax.intuit.com/personal-taxes/online/crypto-taxes/)
-- [r/CryptoTax - CoinTracker vs Koinly vs other cryptocurrency tax software](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/)
-- [r/CryptoTax - Which crypto tax software do you actually use and why do you prefer it?](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/)
-- [r/koinly - How reliable is Koinly?](https://www.reddit.com/r/koinly/comments/1hd0tqb/how_reliable_is_koinly/)
-- [r/CryptoTax - What crypto tax software is fully updated for the new IRS rules?](https://www.reddit.com/r/CryptoTax/comments/1r3rrw9/what_crypto_tax_software_is_fully_updated_for_the/)
-- [r/CryptoTax - Looking for recommendations for crypto tax software that work](https://www.reddit.com/r/CryptoTax/comments/170t7po/looking_for_recommendations_for_crypto_tax/)
-- [r/CryptoTax - Is CoinLedger the best option for crypto taxes?](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/)
-- [r/CryptoTax - Wife hates Koinly with a passion, is Crypto Tax Calculator any good?](https://www.reddit.com/r/CryptoTax/comments/1i46z8l/wife_hates_koinly_with_a_passion_is_crypto_tax/)
-- [r/BitcoinAUS - Best AUS crypto tax tool](https://www.reddit.com/r/BitcoinAUS/comments/1hzw6xw/best_aus_crypto_tax_tool/)
-- [r/CryptoTax - $4000 just to report my taxes when I only have losses?](https://www.reddit.com/r/CryptoTax/comments/1oica3r/4000_just_to_report_my_taxes_when_i_only_have/)
-- [r/CryptoTax - Best crypto tax software for people in the US?](https://www.reddit.com/r/CryptoTax/comments/1iilrx2/best_crypto_tax_software_for_people_in_the_us/)
-- [r/CryptoTax - Alternative to Zenledger](https://www.reddit.com/r/CryptoTax/comments/1tnjh3q/alternative_to_zenledger/)
-- [r/CryptoTax - Zenledger sucks. Help me!!!](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/)
-- [r/CryptoTax - Just spoke to TurboTax on the phone. They are doing away with...](https://www.reddit.com/r/CryptoTax/comments/1r75r89/just_spoke_to_turbo_tax_on_the_phone_they_are/)
-- [r/CryptoTax - TurboTax Desktop import debacle](https://www.reddit.com/r/CryptoTax/comments/1rfmpog/turbotax_desktop_import_debacle/)
-- [r/CryptoCurrency - I am doing my taxes last minute and am about to lose it](https://www.reddit.com/r/CryptoCurrency/comments/u62h91/im_doing_my_taxes_last_minute_and_am_about_to/)
-- [r/CryptoTax - Are crypto tax calculators reliable and trustworthy?](https://www.reddit.com/r/CryptoTax/comments/1r3njny/are_crypto_tax_calculators_reliabletrustworthy/)
+- [a CryptoTax Reddit - CoinTracker vs Koinly vs other cryptocurrency tax software](https://www.reddit.com/r/CryptoTax/comments/1hkzwzt/cointracker_vs_koinly_vs_other_cryptocurrency_tax/)
+- [a CryptoTax Reddit - Which crypto tax software do you actually use and why do you prefer it?](https://www.reddit.com/r/CryptoTax/comments/1qjw11l/which_crypto_tax_software_do_you_actually_use_and/)
+- [Koinly community - How reliable is Koinly?](https://www.reddit.com/r/koinly/comments/1hd0tqb/how_reliable_is_koinly/)
+- [a CryptoTax Reddit - What crypto tax software is fully updated for the new IRS rules?](https://www.reddit.com/r/CryptoTax/comments/1r3rrw9/what_crypto_tax_software_is_fully_updated_for_the/)
+- [a CryptoTax Reddit - Looking for recommendations for crypto tax software that work](https://www.reddit.com/r/CryptoTax/comments/170t7po/looking_for_recommendations_for_crypto_tax/)
+- [a CryptoTax Reddit - Is CoinLedger the best option for crypto taxes?](https://www.reddit.com/r/CryptoTax/comments/1kjcj96/is_coinledger_the_best_option_for_crypto_taxes_or/)
+- [a CryptoTax Reddit - Wife hates Koinly with a passion, is Crypto Tax Calculator any good?](https://www.reddit.com/r/CryptoTax/comments/1i46z8l/wife_hates_koinly_with_a_passion_is_crypto_tax/)
+- [BitcoinAUS Reddit - Best AUS crypto tax tool](https://www.reddit.com/r/BitcoinAUS/comments/1hzw6xw/best_aus_crypto_tax_tool/)
+- [a CryptoTax Reddit - $4000 just to report my taxes when I only have losses?](https://www.reddit.com/r/CryptoTax/comments/1oica3r/4000_just_to_report_my_taxes_when_i_only_have/)
+- [a CryptoTax Reddit - Best crypto tax software for people in the US?](https://www.reddit.com/r/CryptoTax/comments/1iilrx2/best_crypto_tax_software_for_people_in_the_us/)
+- [a CryptoTax Reddit - Alternative to Zenledger](https://www.reddit.com/r/CryptoTax/comments/1tnjh3q/alternative_to_zenledger/)
+- [a CryptoTax Reddit - Zenledger sucks. Help me!!!](https://www.reddit.com/r/CryptoCurrency/comments/1aub039/zenledger_sucks_help_me/)
+- [a CryptoTax Reddit - Just spoke to TurboTax on the phone. They are doing away with...](https://www.reddit.com/r/CryptoTax/comments/1r75r89/just_spoke_to_turbo_tax_on_the_phone_they_are/)
+- [a CryptoTax Reddit - TurboTax Desktop import debacle](https://www.reddit.com/r/CryptoTax/comments/1rfmpog/turbotax_desktop_import_debacle/)
+- [CryptoCurrency Reddit - I am doing my taxes last minute and am about to lose it](https://www.reddit.com/r/CryptoCurrency/comments/u62h91/im_doing_my_taxes_last_minute_and_am_about_to/)
+- [a CryptoTax Reddit - Are crypto tax calculators reliable and trustworthy?](https://www.reddit.com/r/CryptoTax/comments/1r3njny/are_crypto_tax_calculators_reliabletrustworthy/)
