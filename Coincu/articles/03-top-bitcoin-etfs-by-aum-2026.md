@@ -86,6 +86,8 @@ Counterparty concentration at Coinbase Custody is a risk shared by most Bitcoin 
 
 An [ETF community thread on Reddit](https://www.reddit.com/r/ETFs/comments/1nx4ad6/had_alot_of_people_question_my_ibit_when_i_first/) noted that once Bitcoin sits inside an ETF, the conversation shifts from speculation to portfolio design. The access structure, not the underlying asset thesis, drove advisor adoption.
 
+An [r/ETFs comparison thread on choosing between IBIT and FBTC](https://www.reddit.com/r/ETFs/comments/19cdiqe/bitcoin_etfs_ibit_vs_fbtc/) shows retail allocators weighing BlackRock's liquidity depth against Fidelity's custody independence as the primary decision factor.
+
 Spot Bitcoin ETFs have absorbed over  billion in net inflows from launch through mid-2026, with IBIT capturing the largest share per [ValueAddVC institutional adoption tracking](https://valueaddvc.com/blog/bitcoin-at-100k-what-the-etf-approval-and-institutional-adoption-actually-changed).
 
 ![BlackRock iShares Bitcoin Trust ETF product page showing institutional fund framing and AUM leadership](../media/ibit-blackrock-2026-07-17.png)
@@ -100,6 +102,10 @@ Fidelity's retail client base and registered investment advisor network provide 
 
 The custody tradeoff: Fidelity Digital Assets reduces third-party counterparty risk but concentrates operational risk within the same corporate family as the issuer. FBTC continued drawing inflows even during Bitcoin's Q2 2026 drawdown, suggesting institutional allocators treat it as strategic rather than tactical exposure.
 
+In an [r/Bitcoin thread on Fidelity's Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/), users consistently cite Fidelity's self-custody as the reason to choose FBTC over cheaper alternatives. The consensus: Fidelity is an "OG Bitcoiner" that custodies its own holdings.
+
+An [r/ETFs discussion on whether FBTC is worth it](https://www.reddit.com/r/ETFs/comments/1odsv7i/fbtc_worth_it/) frames the fund as the default pick for investors already on Fidelity's platform, where it sits alongside traditional equity and bond ETFs in a single brokerage view.
+
 FBTC's market role is the strongest challenger to IBIT for traditional-finance advisor allocation, given Fidelity's existing client relationships and brand perception among retail investors.
 
 ### 3. Grayscale Bitcoin Trust ETF (GBTC)
@@ -112,6 +118,10 @@ Grayscale SVP Krista Lynch told [TheStreet Roundtable](https://www.thestreet.com
 
 The SEC approved in-kind creations and redemptions for crypto ETFs in July 2025, which Grayscale positions as a mechanism to attract crypto-native investors who want Bitcoin in an estate-planning-eligible account.
 
+An [r/investing thread questioning whether Grayscale will ever drop GBTC's 1.50% fee](https://www.reddit.com/r/investing/comments/1ahxra7/is_it_likely_grayscale_will_drop_its_15_fee_on/) shows investor frustration with the fee gap. Multiple users describe rotating into IBIT or FBTC at the first opportunity.
+
+Separately, an [r/Bitcoin discussion on Grayscale's Mini Trust](https://www.reddit.com/r/Bitcoin/comments/1en56wx/grayscale_mini_trust_the_best_etf/) debates whether the 0.15% Mini Trust makes GBTC redundant for new buyers. Tax-locked legacy holders remain the core GBTC audience.
+
 ![Grayscale Bitcoin Trust ETF product page showing legacy fund structure and Bitcoin exposure framing](../media/gbtc-grayscale-2026-07-17.png)
 
 *Grayscale GBTC product page captured July 17, 2026.*
@@ -123,6 +133,10 @@ ARKB combines ARK Invest's thematic investing brand with 21Shares' European ETP 
 The investor base skews toward ARK's existing thematic retail following, which has demonstrated higher fee tolerance for brand-aligned products. Institutional access is available but the product is less dominant in advisor allocation than IBIT or FBTC.
 
 The differentiated risk is concentration in an investor base that may be sensitive to ARK's broader thematic performance and Cathie Wood's public market commentary. ARKB is the most recognizable challenger in the second tier.
+
+An [r/ETFs breakdown of ARKB](https://www.reddit.com/r/ETFs/comments/1cbdclz/ark_21shares_bitcoin_etf_arkb_everything_you_need/) highlights that 21Shares' European ETP operational track record gives the fund more institutional credibility than its thematic branding suggests.
+
+ARK Invest's public Bitcoin price targets, including a [projected $16 trillion market cap by 2030 discussed in r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/1qj8kiz/cathie_woods_ark_invest_projects_bitcoins_market/), attract conviction buyers but also polarize institutional due diligence committees.
 
 ![ARK 21Shares Bitcoin ETF product page showing thematic investment framing and fee structure](../media/arkb-ark21shares-2026-07-17.png)
 
@@ -138,6 +152,8 @@ A [Seeking Alpha analysis](https://seekingalpha.com/article/4922294-bitwise-bitc
 
 Bitwise's research head Andre Dragosch told [DL News](https://www.dlnews.com/articles/markets/bitcoin-etfs-to-top-180-billion-usd-in-2026-say-analysts/) that Wells Fargo, Bank of America, and Vanguard opening Bitcoin ETF distribution to clients is the key 2026 catalyst for the entire category.
 
+When Bitwise published its [Bitcoin ETF holdings wallet address](https://www.reddit.com/r/Bitcoin/comments/19ent3d/bitwise_bitcoin_etf_releases_holdings_address/), r/Bitcoin users noted this was the only major ETF issuer offering on-chain proof of reserves. That transparency move builds trust with crypto-native investors skeptical of traditional fund structures.
+
 ![Bitwise Bitcoin ETF product page showing crypto-specialist issuer framing and fee structure](../media/bitb-bitwise-2026-07-17.png)
 
 *Bitwise BITB product page captured July 17, 2026.*
@@ -149,6 +165,8 @@ WisdomTree is an established ETF operator with European Bitcoin ETP experience p
 Distribution through standard US brokerage and advisor platforms provides institutional access, but BTCW has not captured meaningful advisor allocation away from the category leaders. US spot ETF flows have concentrated in IBIT and FBTC.
 
 The market role is depth in the category comparison set, not leadership. WisdomTree's European ETP heritage provides credibility for institutional due diligence, even as US market share remains modest.
+
+In an [r/ETFs thread asking for the objectively best Bitcoin ETF](https://www.reddit.com/r/ETFs/comments/1ml6rd0/what_is_objectively_the_best_bitcoin_etf/), BTCW rarely appears in recommendations. Community consensus defaults to IBIT or FBTC, with ARKB and BITB as the secondary picks.
 
 ![WisdomTree Bitcoin Fund product page showing ETF-specialist issuer positioning and fund structure](../media/fbtc-fidelity-alt-2026-07-17.png)
 
@@ -192,3 +210,12 @@ What was not verified: real-time AUM from a single authoritative source, and fee
 - CoinDesk: Bitwise CIO Matt Hougan on institutional diamond hands during Bitcoin drawdown (coindesk.com), March 2026
 - Seeking Alpha: BITB hold rating and distribution analysis (seekingalpha.com), 2026
 - DL News: Bitwise Andre Dragosch on Wells Fargo, BofA, Vanguard distribution opening (dlnews.com), 2026
+- r/Bitcoin: Community discussion on Fidelity Bitcoin ETF and self-custody preference (reddit.com/r/Bitcoin), 2025
+- r/ETFs: "FBTC worth it?" community discussion on Fidelity platform convenience (reddit.com/r/ETFs), 2025
+- r/ETFs: IBIT vs FBTC comparison thread on liquidity vs custody independence (reddit.com/r/ETFs), 2024
+- r/investing: Thread on whether Grayscale will drop GBTC's 1.50% fee (reddit.com/r/investing), 2024
+- r/Bitcoin: Community debate on Grayscale Mini Trust vs GBTC (reddit.com/r/Bitcoin), 2024
+- r/ETFs: ARK 21Shares Bitcoin ETF (ARKB) overview and 21Shares ETP credibility (reddit.com/r/ETFs), 2024
+- r/CryptoCurrency: Cathie Wood's ARK Invest $16T Bitcoin market cap projection discussion (reddit.com/r/CryptoCurrency), 2025
+- r/Bitcoin: Bitwise ETF publishes on-chain holdings wallet address (reddit.com/r/Bitcoin), 2024
+- r/ETFs: "What is objectively the best Bitcoin ETF" community consensus thread (reddit.com/r/ETFs), 2025
