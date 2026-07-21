@@ -69,6 +69,12 @@ Hyperliquid is a decentralized perp exchange built on its own dedicated Layer-1 
 
 * **Friction score:** 3/10. Connecting an EVM wallet is instant. But you must deposit USDC into the L1 vault before you can place your first trade.
 * **Not recommended for:** Traders who want fiat bank deposits or conventional phone support.
+What stood out when we reviewed Hyperliquid's public surface was how aggressively it positions itself against centralized venues on speed and fees. The execution pitch is credible. But the March 2025 JELLY exploit exposed a harder question.
+
+A trader manipulated Hyperliquid's liquidation engine through coordinated positions on a low-cap memecoin. Validators voted to delist the token and force-close positions to protect the protocol's HLP vault. That intervention saved roughly $10 million in vault losses, but it also drew criticism from BitMEX founder Arthur Hayes and others who pointed out that a validator override is not meaningfully different from a centralized exchange halting trading.
+
+The platform compensated affected users and tightened margin requirements afterward. The incident is worth understanding before you treat "decentralized" as a guarantee rather than a design goal.
+
 On Reddit, traders discussing [CryptoCurrency Reddit thread on Hyperliquid's custom L1 perp DEX](https://www.reddit.com/r/CryptoCurrency/comments/182k6t1/hyperliquid_arbitrum_dex_with_own_l1_chain_for_perpetuals/) praised the low-fee trading experience. The pushback was more practical: chasing protocol points can turn a venue advantage into over-trading if you create volume only for rewards.
 
 ---
@@ -81,6 +87,12 @@ Binance Futures remains one of the deepest crypto derivatives venues by trading 
 
 * **Friction score:** 2/10. The trading engine handles high volume easily. But passing mandatory KYC checks can take several hours depending on your region.
 * **Not recommended for:** Traders in restricted jurisdictions like the US or UK where derivatives access is blocked.
+From the public surface, Binance Futures still feels like the venue where size goes first. The order book depth on BTC and ETH perpetuals is visibly thicker than any other platform in this list. But depth alone does not explain the full picture.
+
+In January 2026, Binance adjusted its funding rate settlement from hourly to every four hours when rates stayed below 0.025% for 16 consecutive periods. That change matters if you run funding-rate arbitrage strategies, because your carry income becomes lumpier and less predictable.
+
+Separately, a BROCCOLI714 anomaly in early 2026 showed how Binance's circuit breakers can cap futures prices while the spot market surges, creating divergence that favors informed traders and punishes anyone relying on the futures price as a real-time signal.
+
 On Reddit, a [CryptoCurrency Reddit thread on Binance Futures API latency](https://www.reddit.com/r/CryptoCurrency/comments/12ec6v4/binance_futures_api_delays_during_high_volatility/) described execution delays during major liquidation events. Traders suggested WebSocket feeds and local stop-loss handling, which is a reminder that deep liquidity does not remove API risk.
 
 ![Binance Futures homepage showing its public perpetual futures trading surface.](../media/binance-futures-home-2026-07-16.png)
@@ -97,6 +109,12 @@ Bybit is built specifically for active derivatives traders. It features a respon
 
 * **Friction score:** 4/10. Account creation is simple. But the mobile app and website display constant promo banners that can clutter the workspace.
 * **Not recommended for:** Long-term spot investors who prefer a clean, minimal interface.
+The most important thing to know about Bybit in 2025-2026 is not a product feature. On February 21, 2025, North Korea's Lazarus Group executed the largest crypto exchange hack in history, stealing approximately $1.5 billion in Ethereum from Bybit's cold wallet infrastructure.
+
+The attackers compromised Safe\{Wallet\}'s front-end code through a social engineering attack on a developer, then spoofed the transaction signing UI so that Bybit's multisig signers approved what looked like a routine transfer. Bybit's response was fast: CEO Ben Zhou went live within hours, withdrawals continued processing, and the exchange closed its ETH deficit within 72 hours through bridge loans and partner support.
+
+By Q2 2025, Bybit's derivatives market share had rebounded to approximately 21%. The recovery was genuine, but the incident is a concrete reminder that custodial exchange risk is not theoretical. If you trade on Bybit, keep only your active trading margin on the platform, and treat cold storage as a separate workflow entirely.
+
 On Reddit, users in [CryptoCurrency Reddit thread on Bybit leverage trading](https://www.reddit.com/r/CryptoCurrency/comments/10pky76/is_bybit_safe_for_leverage_trading_what_are_the_fees/) recommended Bybit for its leverage limits and altcoin selection. Others warned that copy-trading pages can foreground profitable periods while hiding the drawdowns that matter more to risk management. Bybit's public routes returned a network error during our capture, so this section has no screenshot evidence.
 
 ---
@@ -109,6 +127,14 @@ OKX is highly regarded by algorithmic traders for its API stability and unified 
 
 * **Friction score:** 3/10. API key setup is well-documented. But setting up portfolio margin requires a high minimum balance and passing a risk assessment.
 * **Not recommended for:** Beginners who want simple buy and sell screens without learning margin mechanics.
+What sets OKX apart in 2026 is not just the trading engine. The regulatory footprint changed substantially: OKX secured a full MiCA license covering all 30 European countries in early 2025, settled with the US Department of Justice for over $500 million to resolve legacy AML violations, and re-entered the US market with a licensed entity headquartered in San Jose.
+
+In March 2026, Intercontinental Exchange, the parent company of the New York Stock Exchange, invested in OKX at a $25 billion valuation.
+
+That institutional backing does not make the interface simpler, but it does change the counterparty profile. The portfolio margin system was also upgraded in late 2024 and early 2025, merging perpetuals, expiry futures, and options with the same underlying into a single risk unit, with spot assets automatically included.
+
+For traders running hedged strategies across multiple instruments, that consolidation reduces margin drag meaningfully. The trade-off is that the margin calculation is now more complex, and a stablecoin depeg event could create unexpected cross-exposure.
+
 On Reddit, users comparing OKX with Binance in a [CryptoCurrency Reddit thread on protocol analysis](https://www.reddit.com/r/CryptoCurrency/comments/n9cby0/not_every_new_coin_is_a_shitcoin_how_to_spot_the/) described the OKX interface as stable during network congestion. The trade-off they mentioned was a steeper mobile learning curve.
 
 ![OKX public homepage showing its exchange and derivatives product surface.](../media/okx-home-2026-07-13.png)
@@ -125,6 +151,12 @@ Deribit is a leading venue for Bitcoin and Ethereum options, and its perpetual f
 
 * **Friction score:** 5/10. The platform is designed for professional software like Coinigy. Setting up retail charts directly in the browser can feel dated.
 * **Not recommended for:** Casual altcoin traders looking for trendy listings or social copy-trading tools.
+The biggest structural change at Deribit since our last review is ownership. Coinbase closed its $2.9 billion acquisition of Deribit in August 2025, paying $700 million in cash plus 11 million Coinbase shares. That makes Deribit a subsidiary of a US-listed company, which changes the regulatory and counterparty calculus for institutional traders.
+
+Deribit's 2025 traded volume reached approximately $1.875 trillion across options and futures, and it processed $79.54 billion in BTC options volume in February 2026 alone. It still holds roughly 85% of global crypto options open interest and 75% of position share, although its trading volume share has declined from around 80% three years ago to approximately 40% as competitors like IBIT options on BlackRock's Bitcoin ETF have grown.
+
+For retail perpetual traders, the honest read is that Deribit's perp product is credible but secondary to its options franchise. The interface reflects that priority: options tools are first-class, while the perpetual trading surface feels more functional than polished.
+
 On Reddit, traders welcomed the zero-fee USD options discussed in a [CryptoCurrency Reddit thread on Deribit zero-fee options](https://www.reddit.com/r/CryptoCurrency/comments/131l9v6/deribit_introduces_zero_fee_trading_for_bitcoin_and/). The more important user warning was about margin: strict requirements make liquidations abrupt when a hedge moves against you.
 
 ![Deribit homepage showing its crypto options and futures venue.](../media/deribit-home-2026-07-13.png)
