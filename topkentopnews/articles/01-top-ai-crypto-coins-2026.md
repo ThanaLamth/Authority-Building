@@ -96,7 +96,7 @@ Bittensor presents itself as an open incentive network around machine intelligen
 
 The numbers back the framing. As of Q1 2026, Bittensor's 128 active subnets generated $43 million in real AI usage revenue, and subnet Alpha tokens reached a cumulative market cap of approximately $1.12 billion, roughly 27% of TAO's own market cap. Two subnets have broken $100 million individually. The December 2025 halving cut daily emissions from ~7,200 to ~3,600 TAO against a 21 million hard cap, and a Grayscale TAO Trust already exists with potential ETF conversion by late 2026.
 
-The strongest non-commodity evidence is Covenant-72B: a large language model trained permissionlessly across Subnet 3 by over 70 contributors using commodity hardware, scoring 67.1 on MMLU, competitive with Meta's Llama 2 70B. That was confirmed in a March 2026 arXiv paper. No other decentralized AI project has produced a competitive foundation model through its own network yet.
+The hardest evidence to replicate is Covenant-72B: a large language model trained permissionlessly across Subnet 3 by over 70 contributors using commodity hardware, scoring 67.1 on MMLU, competitive with Meta's Llama 2 70B. That was confirmed in a March 2026 arXiv paper. No other decentralized AI project has produced a competitive foundation model through its own network yet.
 
 The governance risk is also real. Covenant AI exited in April 2026, selling approximately $10 million in TAO and triggering a 20-25% market drop, citing founder Jacob Steeves' unilateral actions. That episode showed how execution power can still concentrate in founding entities despite decentralization claims.
 
@@ -114,7 +114,7 @@ Render is the clearest AI-adjacent narrative in crypto precisely because the val
 
 The adoption data confirms the positioning. Render processed over 22 million frames in 2025. The 2024 baseline was 15,000 nodes processing 850,000 monthly jobs generating $42 million in revenue, with forecasts projecting 45,000 nodes and $180 million revenue by the end of 2026. The Burn-Mint-Equilibrium model creates a direct feedback loop: jobs are priced in fiat, converted to RENDER, and burned after completion, so token supply responds to actual network usage rather than just speculation.
 
-The non-commodity development to watch in 2026 is Dispersed, the AI compute subnet that received H100 and H200 GPU support through governance proposal RNP-021. Separately, the Salad integration (RNP-023) projects $4.3 million in revenue in its first year. RENDER is now accepted as payment in OTOY Studio's AI creative suite covering 30+ AI models, and Coinbase listed the token on July 10, 2026.
+The development worth watching in 2026 is Dispersed, the AI compute subnet that received H100 and H200 GPU support through governance proposal RNP-021. Separately, the Salad integration (RNP-023) projects $4.3 million in revenue in its first year. RENDER is now accepted as payment in OTOY Studio's AI creative suite covering 30+ AI models, and Coinbase listed the token on July 10, 2026.
 
 That combination of real job volume, expanding AI compute capability, and broadening exchange access is what makes Render's narrative durability score the highest in this list.
 
