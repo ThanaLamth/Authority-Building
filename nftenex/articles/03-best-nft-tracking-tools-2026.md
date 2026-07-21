@@ -76,6 +76,41 @@ Scored out of 10 per category. Total out of 60.
 - Best for portfolio users: Zerion
 - Best for team alert workflows: Discord bots
 
+
+## What can each tool actually track?
+
+Most readers want to know which tool supports which alert type before choosing. This is what differs between them at a functional level.
+
+| Tool | Floor price alerts | Wallet activity alerts | New listing alerts | Sale alerts | Bid alerts | Rarity alerts |
+|---|---|---|---|---|---|---|
+| DappRadar | Category-level only | No | No | No | No | No |
+| NFTGo | Yes (collection-level) | Yes (whale activity) | Yes | Yes | No | No |
+| Nansen | Yes | Yes (smart money) | Yes | Yes | No | No |
+| Zerion | Portfolio-level | Wallet-linked | No | Yes | No | No |
+| OpenSea watchlists | Yes (via watchlist) | No | Yes | Yes | No | No |
+| Blur monitoring | Yes (bid/ask) | No | Yes | Yes | Yes | No |
+| Discord bots | Configurable | Configurable | Configurable | Configurable | Configurable | Some bots yes |
+| Custom dashboards | Full | Full | Full | Full | Full | Full |
+
+DappRadar is the weakest on alerts. It shows you the market but does not push notifications when something specific changes. OpenSea watchlists are the easiest free option for sale and listing alerts on specific collections. Nansen covers the most alert types, but most are behind the paid plan.
+
+## How to set up your first NFT floor alert (free, no wallet required)
+
+The fastest free path is an OpenSea watchlist combined with an NFTGo collection page.
+
+On OpenSea:
+1. Go to a collection page (e.g., any Ethereum collection).
+2. Click the bookmark or "Watch" icon near the collection name.
+3. OpenSea will surface that collection in your activity feed and notify you of significant sales.
+
+On NFTGo (no account needed for the public dashboard):
+1. Open nftgo.io and search for the collection.
+2. The collection page shows floor price, 24h volume, and whale activity in one view.
+3. Bookmark the collection URL and check it manually, or use a browser extension that can alert on page content changes.
+
+For wallet-level alerts without paying for Nansen, a free Discord bot like Watcher or NFT Sniper can monitor a specific wallet address and post to a Discord channel when a transaction occurs. Setup takes about 10 minutes if you have a Discord server already.
+
+The key friction point in all free setups is that the alert goes to a channel you have to check, not a push notification on your phone. That is what most paid tools actually solve.
 ## What does each tool cost?
 
 | Tool | Free tier | Paid plans | Notes |
@@ -326,17 +361,19 @@ Best for:
 Tradeoff:
 - highest setup cost; needs ongoing maintenance as data sources change
 
-## What to track if you want an edge
+## What signals are actually worth tracking
 
-The most useful tracking signals are:
+Not every movement is a signal. Most floor drops are noise. Here are the thresholds that change the picture.
 
-- floor-price change with liquidity context
-- unusual wallet accumulation or distribution
-- listing surges and bid behavior
-- sales bursts with follow-through, not isolated spikes
-- sustained marketplace attention across related collections
+**Floor drops worth acting on:** A drop of more than 15% on a collection with 24h volume above 20 ETH is meaningful. A drop of 3% on volume below 2 ETH is thin activity and usually not worth responding to.
 
-Tracking only floor price is weak because floors can move on thin activity. Tracking only wallets is also weak because big holders can act early without creating durable demand. Good tracking combines price, flow, and participation.
+**Wallet accumulation worth noting:** A single wallet buying 3 or more items from the same collection within 24 hours, especially from the floor, is a weak but real signal. Multiple wallets doing the same is stronger.
+
+**Listing surges as a warning sign:** A sudden increase in listed supply of more than 20% in 24 hours, especially if floor holds, often precedes a floor break. If the floor drops at the same time, the pressure is already active.
+
+**Sales bursts vs. isolated spikes:** A collection that does 5x its 7-day average volume in one day and holds near that level the next day is showing genuine demand. A spike that vanishes the next day is usually a single transaction or a coordinated action.
+
+Good tracking combines at least two of these signals before acting. A floor drop with rising listed supply is more informative than either alone.
 
 ## A simple tracking setup for most users
 
@@ -407,5 +444,7 @@ Yes. NFTGo and OpenSea watchlists both support multi-collection monitoring witho
 **Is DappRadar still available?**
 
 DappRadar announced it is shutting down. Verify current availability at dappradar.com before building a tracking workflow around it.
+
+
 
 
