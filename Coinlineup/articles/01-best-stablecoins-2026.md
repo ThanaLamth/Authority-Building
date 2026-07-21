@@ -320,8 +320,54 @@ If you already use Aave: **GHO** is worth exploring as a next step.
 
 If you want yield and understand the risk: **USDe**, but read the docs first.
 
----
+## How to buy your first stablecoin
 
+If you picked USDC, here is what the actual process looks like:
+
+1. Open a crypto exchange account (Coinbase is the simplest starting point for beginners).
+2. Complete identity verification. This usually takes a few minutes.
+3. Search for USDC. Tap Buy. Enter the amount. Confirm.
+
+That is it. USDC appears in your exchange wallet immediately.
+
+When you are ready to send it somewhere (a friend, a DeFi app, another wallet), you will need to pick a network. This is the step where beginners most often get confused.
+
+### Which network should I use?
+
+| Network | Cost to send $100 USDC | Speed | Best for |
+|---|---|---|---|
+| Solana | ~$0.01 | Seconds | Cheapest option, good for small transfers |
+| Base | ~$0.01-0.05 | Seconds | Coinbase ecosystem, low fees |
+| Tron (TRC-20) | ~$1 | Minutes | Popular in Asia and P2P markets |
+| Ethereum | ~$1-3 | Minutes | Most supported, but higher fees |
+
+If you are sending between friends or to a DeFi app, Solana or Base will save you the most on fees. If the receiver specifically asks for Ethereum or Tron, use that network.
+
+Always double-check that the receiver supports the same network you are sending on. USDC on Solana cannot arrive in an Ethereum-only wallet.
+
+## What happens if a stablecoin loses its peg?
+
+This is the fear most beginners have but rarely see explained plainly.
+
+In March 2023, USDC dropped to $0.87 after Silicon Valley Bank collapsed. Circle held $3.3 billion of USDC reserves at SVB. For about 48 hours, the market priced in the possibility that those reserves were lost.
+
+They were not. Banking regulators stepped in. USDC returned to $1.00 within two days.
+
+What that means for you: if you held $1,000 in USDC during that weekend, your balance temporarily showed ~$870. If you did not sell, you lost nothing. If you panic-sold at $0.87, you locked in a 13% loss on a stablecoin.
+
+The practical lesson: stablecoin depegs are usually temporary for well-backed coins (USDC, USDT). The risk is real but historically short-lived. The worst thing you can do is sell during the panic.
+
+## Can I earn yield on stablecoins?
+
+Yes, but understand where the yield comes from before committing.
+
+**Low-risk options:** Coinbase offers ~4-5% APY on USDC held in your account. This comes from Coinbase lending your USDC to institutional borrowers. The risk is Coinbase counterparty risk, not stablecoin risk.
+
+**Medium-risk options:** DeFi lending protocols like Aave let you deposit USDC and earn variable interest (typically 3-8% depending on demand). The risk is smart contract risk, meaning a bug in the code could affect your funds.
+
+**Higher-risk options:** USDe from Ethena targets higher yields through a derivatives strategy. The yield is real but the mechanism is complex and market-dependent.
+
+The simplest path for a beginner: hold USDC on Coinbase and earn the base rate. Move to DeFi lending only after you understand how [DeFi works](/guides/defi/what-is-defi/).
 
 ---
 
