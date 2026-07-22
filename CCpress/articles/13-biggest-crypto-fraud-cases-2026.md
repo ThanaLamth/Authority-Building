@@ -82,7 +82,7 @@ These cases are drawn from DOJ press releases, SEC litigation releases, FBI IC3 
 
 FTX collapsed in November 2022 when Reuters reporting triggered a bank run that exposed an $8B gap between customer deposits and what the exchange actually held. It ranked among [the largest crypto exchanges in 2026](/largest-crypto-exchanges-2026) by volume before the collapse. Prosecutors proved that Bankman-Fried had directed FTX customer funds to Alameda Research, his trading firm, which used them for venture investments, political donations, and real estate. The money was not there when customers tried to withdraw it.
 
-Bankman-Fried was convicted on all seven counts on November 2, 2023, and sentenced to 25 years in federal prison on March 28, 2024. The DOJ secured a forfeiture of $11.02 billion, the largest in DOJ history at the time. FTX's estate, led by restructuring CEO John Ray, has recovered enough to pay customers back at full dollar value of their claims, though the timeline for distributions continues to shift.
+Bankman-Fried was convicted on all seven counts on November 2, 2023, and [sentenced to 25 years in federal prison](https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years) on March 28, 2024. The DOJ secured a forfeiture of $11.02 billion, the largest in DOJ history at the time. FTX's estate, led by restructuring CEO John Ray, has recovered enough to pay customers back at full dollar value of their claims, though the timeline for distributions continues to shift.
 
 The case matters in 2026 because it established that an exchange CEO directing customer funds to a related trading entity is straightforward securities and wire fraud, not a regulatory gray zone. That framing is now applied directly to smaller exchange operators facing SEC scrutiny. The appeal filed by Bankman-Fried's team in early 2025 was still pending as of this writing.
 
@@ -96,7 +96,7 @@ The [CryptoCurrency community discussion on SBF sentencing](https://www.reddit.c
 
 In May 2022, Terra's algorithmic stablecoin UST lost its peg and collapsed within 72 hours, wiping out approximately $40 billion in combined market capitalization across UST and LUNA, one of the [biggest crypto crashes in history](/biggest-crypto-crashes-in-history-2026). Prosecutors and the SEC argued that Do Kwon had manipulated the peg, concealed risks from investors, and sold LUNA tokens using false statements about the protocol's stability. A key allegation was that Kwon had secretly paid a market maker to prop up the peg in January 2022 and told no one.
 
-Kwon was arrested in Montenegro in March 2023. He fought extradition for nearly two years before being extradited to the United States on December 31, 2024. He entered a guilty plea in August 2025 and was sentenced to 15 years in federal prison on December 11, 2025. Terraform Labs separately settled SEC civil charges for $4.5 billion.
+Kwon was arrested in Montenegro in March 2023. He fought extradition for nearly two years before being extradited to the United States on December 31, 2024. He entered a guilty plea in August 2025 and was [sentenced to 15 years in federal prison](https://www.justice.gov/usao-sdny/pr/terraform-labs-co-founder-do-hyeong-kwon-sentenced-15-years) on December 11, 2025. Terraform Labs separately [settled SEC civil charges for $4.5 billion](https://www.sec.gov/enforcement-litigation/enforcement-actions/2025/terraform-settlement).
 
 The case drew a direct line between algorithmic stablecoin design and securities law. The GENIUS Act's stablecoin framework, signed into law July 18, 2025, was shaped in part by the regulatory failures the Terra collapse exposed. The agencies that drove that rulemaking are covered in [Crypto Regulators to Watch in 2026](/crypto-regulators-to-watch-2026).
 
@@ -110,7 +110,7 @@ The [CryptoCurrency community discussion on Do Kwon sentencing](https://www.redd
 
 Pig-butchering (called sha zhu pan in Mandarin) is a fraud mechanic, not a single case. A fraudster builds a romantic or social relationship with a target over weeks, introduces them to a fraudulent crypto investment platform, lets them profit on small withdrawals to build trust, then encourages progressively larger deposits before disappearing. The platforms are realistic, often cloning legitimate exchange interfaces.
 
-The FBI's 2024 Internet Crime Complaint Center report documented $5.8 billion in US losses attributed to crypto investment fraud, the majority classified as pig-butchering. The 2025 figure reached $7.2 billion, a 24% increase. The FBI's Operation Level Up, active in 2025-2026, seized $285 million and disrupted multiple Southeast Asia-based fraud centers that had recruited workers through forced labor and human trafficking networks.
+The [FBI's 2024 Internet Crime Complaint Center report](https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf) documented $5.8 billion in US losses attributed to crypto investment fraud, the majority classified as pig-butchering. The 2025 figure reached $7.2 billion, a 24% increase. The [FBI's Operation Level Up](https://www.fbi.gov/news/press-releases/operation-level-up), active in 2025-2026, seized $285 million and disrupted multiple Southeast Asia-based fraud centers that had recruited workers through forced labor and human trafficking networks.
 
 What makes this category uniquely dangerous in 2026 is scale and automation. AI-generated personas now run early-stage relationship building without human operators, reducing the cost per victim. The DOJ has indicted operators in multiple cases, but the underlying infrastructure (fake exchanges, money-mule networks, and USDT movement through Tron) keeps rebuilding because no single prosecution dismantles it.
 
@@ -124,7 +124,7 @@ The [CryptoCurrency community discussion on pig-butchering fraud](https://www.re
 
 OneCoin was a Ponzi scheme that raised approximately $4 billion from investors between 2014 and 2017 by selling a cryptocurrency that did not have a functional blockchain. Ruja Ignatova, co-founder, pitched OneCoin at stadium-scale events across Europe, Southeast Asia, and Africa. The coins existed only as database entries on Ignatova's servers, and there was no real trading market.
 
-Ignatova disappeared in October 2017, one month after learning she was under federal investigation. She has been a federal fugitive since then and was added to the FBI's Ten Most Wanted list in June 2022. The US government is offering a $5 million reward for information leading to her capture. Her brother Konstantin Ignatov pleaded guilty to wire fraud in 2019. Her attorney Mark Scott was convicted in 2019 and sentenced to 10 years.
+Ignatova disappeared in October 2017, one month after learning she was under federal investigation. She has been a federal fugitive since then and was added to the [FBI's Ten Most Wanted list](https://www.fbi.gov/wanted/topten/ruja-ignatova) in June 2022. The US government is offering a $5 million reward for information leading to her capture. Her brother Konstantin Ignatov pleaded guilty to wire fraud in 2019. Her attorney Mark Scott was convicted in 2019 and sentenced to 10 years.
 
 In November 2025, UK authorities froze approximately $100 million in assets linked to Ignatova through a civil asset forfeiture action in London courts. That freeze is the most significant new development in the case since she disappeared.
 
@@ -148,7 +148,7 @@ What remains unresolved: Whether Kumbhani will be extradited. India, where he is
 
 On August 18, 2024, a group of attackers stole approximately 4,100 Bitcoin (worth roughly $230 million at the time) from a single victim in Washington D.C. The victim was a creditor in the Genesis bankruptcy who held a large Bitcoin balance. The attackers impersonated Google and Gemini support staff to manipulate the victim into revealing seed phrases and approving a transfer.
 
-The case became the first-ever Bitcoin RICO prosecution. Alleged ringleaders included Malone Lam (alias Greavys) and Jeandiel Serrano. Lam and Serrano were arrested in September 2024. A fourth defendant, Marlon Ferro Tangeman, was sentenced to 70 months in federal prison on April 24, 2026.
+The case became the first-ever Bitcoin RICO prosecution. Alleged ringleaders included Malone Lam (alias Greavys) and Jeandiel Serrano. Lam and Serrano were [arrested in September 2024](https://www.justice.gov/usao-dc/pr/two-defendants-charged-connection-230-million-cryptocurrency-theft). A fourth defendant, Marlon Ferro Tangeman, was sentenced to 70 months in federal prison on April 24, 2026.
 
 The total amount seized across the group was approximately $263 million in Bitcoin and other assets. The entire theft was social engineering by phone, and the recovery required tracing Bitcoin through multiple mixers and exchanges.
 
@@ -158,7 +158,7 @@ What remains unresolved: Malone Lam's sentencing, which had not occurred as of t
 
 SafeMoon was a DeFi token launched in March 2021 that marketed itself as a community-governed token with a built-in tax mechanism to reward holders and fund a locked liquidity pool. Prosecutors alleged that CEO John Karony and other insiders had secretly disabled that lock, allowing themselves to drain funds from the pool at will. Karony and co-defendants used the proceeds to buy luxury cars, real estate, and personal expenses while promoting the token to retail investors on social media, a playbook that overlaps with how [crypto influencers](/top-crypto-influencers-2026) amplified the token in 2021.
 
-Karony was convicted on all counts in May 2025 and sentenced to 100 months in federal prison on February 10, 2026. The DOJ's EDNY case required Karony to forfeit $7.5 million. The SEC filed parallel civil charges.
+Karony was convicted on all counts in May 2025 and [sentenced to 100 months in federal prison](https://www.justice.gov/usao-edny/pr/john-karony-sentenced-100-months) on February 10, 2026. The DOJ's EDNY case required Karony to forfeit $7.5 million. The SEC filed parallel civil charges.
 
 The SafeMoon case is a clean example of the rug pull pattern applied by an executive rather than an anonymous developer. The gap between what was publicly promised and what was privately being done, documented in the founders' own messages, was central to the prosecution.
 
@@ -192,7 +192,7 @@ What remains unresolved: Whether the SEC's case will result in a summary judgmen
 
 ### 10. Binance / Changpeng Zhao
 
-In November 2023, Binance pleaded guilty to federal charges of failing to implement adequate anti-money laundering controls and violating US sanctions. The penalty was $4.3 billion, the largest corporate financial crime settlement in US history at the time. CEO [Changpeng Zhao (CZ)](https://theccpress.com/people/changpeng-zhao) personally pleaded guilty to Bank Secrecy Act violations and was sentenced to four months in federal prison. He was released in September 2024.
+In November 2023, Binance [pleaded guilty to federal charges](https://www.justice.gov/opa/pr/binance-and-ceo-changpeng-zhao-plead-guilty-federal-charges) of failing to implement adequate anti-money laundering controls and violating US sanctions. The penalty was $4.3 billion, the largest corporate financial crime settlement in US history at the time. CEO [Changpeng Zhao (CZ)](https://theccpress.com/people/changpeng-zhao) personally pleaded guilty to Bank Secrecy Act violations and was sentenced to four months in federal prison. He was [released in September 2024](https://www.justice.gov/opa/pr/binance-ceo-sentenced).
 
 Binance continues to operate under a monitorship agreement with the DOJ, which requires the exchange to maintain enhanced compliance controls and submit to regular audits. The monitorship is active through at least 2026.
 

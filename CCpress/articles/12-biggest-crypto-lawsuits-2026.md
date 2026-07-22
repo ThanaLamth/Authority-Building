@@ -70,9 +70,9 @@ If you want the broader fraud context, the most relevant companion read is [The 
 
 ### 1. FTX and Alameda Research
 
-Sam Bankman-Fried was sentenced to 25 years in federal prison in November 2024. That number closed the accountability chapter. The recovery chapter is still running.
+[Sam Bankman-Fried was sentenced to 25 years in federal prison](https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years) in November 2024. That number closed the accountability chapter. The recovery chapter is still running.
 
-FTX Recovery Trust has distributed nearly $10 billion to creditors since repayments began in early 2025. The fifth distribution of approximately $900 million starts July 31, 2026, payable through BitGo, Kraken, or Payoneer. Most customer claim classes, including Class 5B and Classes 6A and 6B, have already reached 100% cumulative recovery. The convenience class, Class 7, has reached 120%. The estate allocated $18 billion in total and has continued pursuing third-party settlements to augment what is left: law firm Fenwick & West agreed in May 2026 to pay $54 million to resolve claims it helped enable misconduct at FTX before the bankruptcy filing.
+FTX Recovery Trust has distributed nearly $10 billion to creditors since repayments began in early 2025. The [fifth distribution of approximately $900 million](https://restructuring.ra.kroll.com/FTX/) starts July 31, 2026, payable through BitGo, Kraken, or Payoneer. Most customer claim classes, including Class 5B and Classes 6A and 6B, have already reached 100% cumulative recovery. The convenience class, Class 7, has reached 120%. The estate allocated $18 billion in total and has continued pursuing third-party settlements to augment what is left: law firm Fenwick & West agreed in May 2026 to pay $54 million to resolve claims it helped enable misconduct at FTX before the bankruptcy filing.
 
 The dispute underneath the headline numbers has not gone away. Recoveries were calculated using the dollar value of crypto assets at the time of the November 2022 bankruptcy filing. Creditors who held Bitcoin or Ethereum at petition date received dollar equivalents, not the coins themselves, at 2022 prices. As Bitcoin rose substantially since then, those creditors received less in real terms than they would have if they had held through the cycle. That gap between nominal 100% recovery and actual market-value recovery is the unresolved tension in every FTX discussion in 2026.
 
@@ -86,9 +86,9 @@ What stood out in reviewing the case in July 2026 was not the scale. It was that
 
 The TerraUSD depeg in May 2022 wiped approximately $40 billion in investor assets in a week, making it one of the [biggest crypto crashes in history](/biggest-crypto-crashes-in-history-2026). That event is closed. The legal consequences took until December 2025 to close too.
 
-A New York jury found Terraform and Do Kwon liable for securities fraud on April 5, 2024, in less than two hours of deliberation. The consent judgment followed on June 12, 2024: Terraform agreed to pay $4.47 billion in disgorgement, prejudgment interest, and civil penalties, including a $420 million civil fine and $3.58 billion in disgorgement. The estimated actual recovery to victims through the bankruptcy estate is far smaller; Terraform estimated between $184 million and $442 million for investors and creditors once assets are liquidated.
+A New York jury found Terraform and Do Kwon liable for securities fraud on April 5, 2024, in less than two hours of deliberation. The [consent judgment](https://www.sec.gov/enforcement-litigation/distributions-harmed-investors/sec-v-terraform-labs-pte-ltd-do-hyeong-kwon-no-23-cv-1346-jsr-sdny) followed on June 12, 2024: Terraform agreed to pay $4.47 billion in disgorgement, prejudgment interest, and civil penalties, including a $420 million civil fine and $3.58 billion in disgorgement. The estimated actual recovery to victims through the bankruptcy estate is far smaller; Terraform estimated between $184 million and $442 million for investors and creditors once assets are liquidated.
 
-Kwon was extradited to the United States from Montenegro on December 31, 2024. He pleaded guilty to two counts of wire fraud in August 2025. Federal Judge Paul Engelmayer sentenced him to 15 years in federal prison in December 2025.
+Kwon was extradited to the United States from Montenegro on December 31, 2024. He pleaded guilty to two counts of wire fraud in August 2025. Federal Judge Paul Engelmayer [sentenced him to 15 years in federal prison](https://www.justice.gov/usao-sdny/pr/terraform-labs-co-founder-do-hyeong-kwon-sentenced-15-years) in December 2025.
 
 What this case established for the industry is cleaner than most observers expected. It confirmed that product labels do not determine legal status. The economic reality of what investors were buying determined whether securities laws applied, and the jury decided they did, without ambiguity. The SEC settled for $4.47 billion against a company that had already filed for bankruptcy and could not pay it. That combination (large headline number, limited actual recovery) is the tension that defines Terraform's legacy. The precedent is strong. The restitution is limited.
 
@@ -98,7 +98,7 @@ The [CryptoCurrency community discussion on Do Kwon sentencing](https://www.redd
 
 ### 3. Binance
 
-Binance pleaded guilty in November 2023, agreed to pay $4.3 billion across the DOJ, FinCEN, OFAC, and CFTC, and installed dual compliance monitors. [Changpeng Zhao](https://theccpress.com/people/changpeng-zhao) served a four-month prison sentence as part of that settlement. The exchange has operated under monitorship since 2024 and still holds more daily volume than the next two largest exchanges combined.
+[Binance pleaded guilty in November 2023](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution), agreed to pay $4.3 billion across the DOJ, FinCEN, OFAC, and CFTC, and installed dual compliance monitors. [Changpeng Zhao](https://theccpress.com/people/changpeng-zhao) served a four-month prison sentence as part of that settlement. The exchange has operated under monitorship since 2024 and still holds more daily volume than the next two largest exchanges combined.
 
 ![DOJ press release on Binance $4.3B criminal settlement](../media/2026-07-22/doj-binance-settlement-2026-07-22.png)
 
@@ -110,7 +110,7 @@ The Binance case is still live in a way that the FTX and Terraform cases are not
 
 ### 4. Celsius Network
 
-Celsius froze withdrawals in June 2022 in one of the most damaging [crypto exchange collapses](/biggest-crypto-exchange-collapses) of that cycle. Alex Mashinsky, the founder and CEO, was sentenced to 12 years in prison on May 8, 2025, for stealing $48 million from the company and its customers. That sentence closed the criminal chapter. The creditor recovery chapter has not closed.
+Celsius froze withdrawals in June 2022 in one of the most damaging [crypto exchange collapses](/biggest-crypto-exchange-collapses) of that cycle. [Alex Mashinsky, the founder and CEO, was sentenced to 12 years in prison](https://restructuring.ra.kroll.com/Celsius/) on May 8, 2025, for stealing $48 million from the company and its customers. That sentence closed the criminal chapter. The creditor recovery chapter has not closed.
 
 The reorganization plan, approved by 98% of creditors in 2023, targets 67-85% recovery. Custody account holders, whose assets never entered the yield pool, have already received 100% (approximately $425 million distributed by January 2026). Earn account holders, the larger group, are on a different timeline. A third distribution of $220.6 million reached creditors in August 2025, bringing cumulative recovery to roughly 65%. A fourth pool of approximately $476 million became available in late 2025 after a settlement with Tether. The court maintains jurisdiction through December 2026, with further distributions expected.
 
@@ -132,7 +132,7 @@ Genesis matters because it did something FTX and Celsius did not: it gave credit
 
 Ramil Palafox, the founder of Praetorian Group International, was sentenced to 20 years in federal prison in February 2026 by the U.S. District Court for the Eastern District of Virginia. He raised approximately $198 million from more than 90,000 investors between January 2020 and October 2021, promising guaranteed high returns from crypto and forex trading. The actual trading was minimal. Palafox spent $57 million on Lamborghinis, luxury goods, and personal expenses.
 
-The DOJ brought a 23-count indictment covering wire fraud, money laundering, and unlawful monetary transactions. The SEC filed parallel civil charges in April 2025 seeking disgorgement and a permanent bar from the securities industry. The SEC civil case remains active as of July 2026, pursuing asset recovery from Palafox's family members, including his wife and brother-in-law.
+The DOJ brought a 23-count indictment covering wire fraud, money laundering, and unlawful monetary transactions. The [SEC filed parallel civil charges](https://www.sec.gov/newsroom/press-releases/2025-69) in April 2025 seeking disgorgement and a permanent bar from the securities industry. The SEC civil case remains active as of July 2026, pursuing asset recovery from Palafox's family members, including his wife and brother-in-law.
 
 ![SEC press release on PGI Global charges against Ramil Palafox](../media/2026-07-22/sec-pgi-global-2026-07-22.png)
 
@@ -140,7 +140,7 @@ PGI Global belongs on this list not because of its size (it is smaller than FTX,
 
 ### 7. Unicoin
 
-The SEC charged Unicoin and three executives (CEO Alex Konanykhin, board member Silvina Moschini, and former CIO Alex Dominguez) on May 20, 2025, in the Southern District of New York. The allegations: Unicoin misled more than 5,000 investors while raising approximately $110 million through false claims that its tokens were backed by a real estate portfolio worth over $1.4 billion. The actual value of the four properties at issue was no more than $300 million, and the majority of the announced acquisitions never closed. Unicoin's marketing had claimed $3 billion in total sales and advertised potential returns of up to 9 million percent.
+The [SEC charged Unicoin and three executives](https://www.sec.gov/files/comp-pr-2025-75.pdf) (CEO Alex Konanykhin, board member Silvina Moschini, and former CIO Alex Dominguez) on May 20, 2025, in the Southern District of New York. The allegations: Unicoin misled more than 5,000 investors while raising approximately $110 million through false claims that its tokens were backed by a real estate portfolio worth over $1.4 billion. The actual value of the four properties at issue was no more than $300 million, and the majority of the announced acquisitions never closed. Unicoin's marketing had claimed $3 billion in total sales and advertised potential returns of up to 9 million percent.
 
 ![SEC litigation release on Unicoin fraud charges, May 2025](../media/2026-07-22/sec-unicoin-charges-2026-07-22.png)
 
@@ -150,7 +150,7 @@ That contested framing is what makes Unicoin the most uncertain case on this lis
 
 ### 8. Coinbase NYDFS settlement
 
-The New York Department of Financial Services settled with Coinbase on January 4, 2023 for $100 million: a $50 million civil penalty plus a required $50 million investment in compliance infrastructure. The underlying failures spanned Know Your Customer deficiencies, a backlog of more than 100,000 uncleared transaction-monitoring alerts, and a 72-hour reporting failure after a phishing breach. For the broader pattern of security failures at exchanges, see [The Biggest Crypto Hacks of 2026](/biggest-crypto-hacks-2026). Coinbase had held a BitLicense since 2017 and had known about the deficiencies since at least 2018 through its own internal reviews.
+The New York Department of Financial Services [settled with Coinbase on January 4, 2023 for $100 million](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202301041): a $50 million civil penalty plus a required $50 million investment in compliance infrastructure. The underlying failures spanned Know Your Customer deficiencies, a backlog of more than 100,000 uncleared transaction-monitoring alerts, and a 72-hour reporting failure after a phishing breach. For the broader pattern of security failures at exchanges, see [The Biggest Crypto Hacks of 2026](/biggest-crypto-hacks-2026). Coinbase had held a BitLicense since 2017 and had known about the deficiencies since at least 2018 through its own internal reviews.
 
 The case is closed and the monitor tenure has ended. It belongs on this list because it is the clearest example of the pattern that defines the non-fraud lane in crypto enforcement: large, compliant-in-principle firms still face meaningful compliance pressure from state regulators even when no federal securities case exists. The NYDFS did not argue Coinbase was committing fraud. It argued Coinbase was not running its AML program adequately for its size. That is a different kind of legal exposure, and it is still very much available to state regulators regardless of what the SEC is or is not pursuing federally.
 
