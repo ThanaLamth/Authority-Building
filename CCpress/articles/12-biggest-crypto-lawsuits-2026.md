@@ -98,7 +98,7 @@ The [CryptoCurrency community discussion on Do Kwon sentencing](https://www.redd
 
 ### 3. Binance
 
-Binance pleaded guilty in November 2023, agreed to pay $4.3 billion across the DOJ, FinCEN, OFAC, and CFTC, and installed dual compliance monitors. Changpeng Zhao served a four-month prison sentence as part of that settlement. The exchange has operated under monitorship since 2024 and still holds more daily volume than the next two largest exchanges combined.
+Binance pleaded guilty in November 2023, agreed to pay $4.3 billion across the DOJ, FinCEN, OFAC, and CFTC, and installed dual compliance monitors. [Changpeng Zhao](https://theccpress.com/people/changpeng-zhao) served a four-month prison sentence as part of that settlement. The exchange has operated under monitorship since 2024 and still holds more daily volume than the next two largest exchanges combined.
 
 ![DOJ press release on Binance $4.3B criminal settlement](../media/2026-07-22/doj-binance-settlement-2026-07-22.png)
 
