@@ -172,7 +172,7 @@ The [CryptoCurrency community discussion on SafeMoon and Karony](https://www.red
 
 PGI Global raised approximately $198 million from investors between 2020 and 2023, promising returns from a proprietary crypto trading algorithm. Founder Jose Palafox claimed the algorithm generated consistent profits across multiple market cycles. The algorithm did not exist in any form matching the claims. Palafox misappropriated at least $57 million of investor funds for personal use, including a yacht and luxury real estate.
 
-The SEC brought charges in March 2025 (Release No. 2025-69). Palafox was convicted and sentenced to 20 years in federal prison in February 2026. At the time of sentencing, approximately $140 million in investor funds remained unrecovered.
+The SEC brought charges in March 2025 ([Release No. 2025-69](https://www.sec.gov/litigation/litreleases/2025/lr2025-69)). Palafox was convicted and sentenced to 20 years in federal prison in February 2026. At the time of sentencing, approximately $140 million in investor funds remained unrecovered.
 
 PGI Global is worth attention in 2026 because the proprietary trading bot pitch has not slowed down. Its promoters built credibility through the same channels as legitimate [influential figures in crypto](/most-influential-people-in-crypto-2026), making victim due diligence harder. The same structure (guaranteed returns, no auditable trading record, referral commissions for recruiters) keeps generating victims.
 
@@ -180,7 +180,7 @@ What remains unresolved: Recovery of the $140 million in untraced funds and whet
 
 ### 9. Unicoin / Alex Konanykhin
 
-The SEC filed fraud charges against Unicoin and its CEO Alex Konanykhin on May 20, 2025 (Litigation Release No. 26314). The SEC alleged that Unicoin had claimed to raise over $3 billion through an ongoing token sale but had actually raised approximately $110 million. Marketing materials described Unicoin as asset-backed, regulated, and uniquely positioned as a post-regulatory compliance token, but the SEC alleged those representations were materially false.
+The SEC filed fraud charges against Unicoin and its CEO Alex Konanykhin on May 20, 2025 ([Litigation Release No. 26314](https://www.sec.gov/litigation/litreleases/2025/lr26314)). The SEC alleged that Unicoin had claimed to raise over $3 billion through an ongoing token sale but had actually raised approximately $110 million. Marketing materials described Unicoin as asset-backed, regulated, and uniquely positioned as a post-regulatory compliance token, but the SEC alleged those representations were materially false.
 
 As of July 2026, the case is pending. Konanykhin has contested the SEC's allegations publicly. No criminal charges had been filed as of this writing.
 
@@ -246,19 +246,19 @@ PGI Global was a crypto investment fraud in which founder Jose Palafox claimed a
 
 ## Sources
 
-- DOJ, SBF sentencing: https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years
-- DOJ, Do Kwon sentencing: https://www.justice.gov/usao-sdny/pr/terraform-labs-co-founder-do-hyeong-kwon-sentenced-15-years
-- SEC, Terraform settlement: https://www.sec.gov/enforcement-litigation/enforcement-actions/2025/terraform-settlement
-- FBI IC3 2024 report: https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf
-- FBI, Operation Level Up: https://www.fbi.gov/news/press-releases/operation-level-up
-- FBI, Ignatova Ten Most Wanted: https://www.fbi.gov/wanted/topten/ruja-ignatova
-- DOJ, Malone Lam RICO: https://www.justice.gov/usao-dc/pr/two-defendants-charged-connection-230-million-cryptocurrency-theft
-- DOJ, SafeMoon/Karony: https://www.justice.gov/usao-edny/pr/john-karony-sentenced-100-months
-- SEC, PGI Global Release 2025-69: https://www.sec.gov/litigation/litreleases/2025/lr2025-69
-- DOJ, Palafox sentencing: https://www.justice.gov/usao
-- SEC, Unicoin Lit. Release 26314: https://www.sec.gov/litigation/litreleases/2025/lr26314
-- DOJ, Binance: https://www.justice.gov/opa/pr/binance-and-ceo-changpeng-zhao-plead-guilty-federal-charges
-- DOJ, CZ sentencing: https://www.justice.gov/opa/pr/binance-ceo-sentenced
+- DOJ, [SBF sentencing](https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years)
+- DOJ, [Do Kwon sentencing](https://www.justice.gov/usao-sdny/pr/terraform-labs-co-founder-do-hyeong-kwon-sentenced-15-years)
+- SEC, [Terraform settlement](https://www.sec.gov/enforcement-litigation/enforcement-actions/2025/terraform-settlement)
+- FBI, [IC3 2024 Annual Report](https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf)
+- FBI, [Operation Level Up](https://www.fbi.gov/news/press-releases/operation-level-up)
+- FBI, [Ruja Ignatova Ten Most Wanted](https://www.fbi.gov/wanted/topten/ruja-ignatova)
+- DOJ, [Malone Lam RICO indictment](https://www.justice.gov/usao-dc/pr/two-defendants-charged-connection-230-million-cryptocurrency-theft)
+- DOJ, [SafeMoon / Karony sentencing](https://www.justice.gov/usao-edny/pr/john-karony-sentenced-100-months)
+- SEC, [PGI Global Litigation Release 2025-69](https://www.sec.gov/litigation/litreleases/2025/lr2025-69)
+- DOJ, [Palafox sentencing](https://www.justice.gov/usao)
+- SEC, [Unicoin Litigation Release 26314](https://www.sec.gov/litigation/litreleases/2025/lr26314)
+- DOJ, [Binance plea agreement](https://www.justice.gov/opa/pr/binance-and-ceo-changpeng-zhao-plead-guilty-federal-charges)
+- DOJ, [CZ sentencing](https://www.justice.gov/opa/pr/binance-ceo-sentenced)
 
 ## Internal links
 
