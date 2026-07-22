@@ -72,6 +72,10 @@ FTX Recovery Trust has distributed nearly $10 billion to creditors since repayme
 
 The dispute underneath the headline numbers has not gone away. Recoveries were calculated using the dollar value of crypto assets at the time of the November 2022 bankruptcy filing. Creditors who held Bitcoin or Ethereum at petition date received dollar equivalents -- not the coins themselves -- at 2022 prices. As Bitcoin rose substantially since then, those creditors received less in real terms than they would have if they had held through the cycle. That gap between nominal 100% recovery and actual market-value recovery is the unresolved tension in every FTX discussion in 2026.
 
+![FTX Recovery Trust creditor distribution portal, July 2026](../media/2026-07-22/ftx-recovery-trust-2026-07-22.png)
+
+The [CryptoCurrency community discussion on FTX creditor distributions](https://www.reddit.com/r/CryptoCurrency/search/?q=FTX+creditor+distribution&sort=top) reflects how divided affected users remain on the dollar-value calculation. Most creditors accepted the recovery; a vocal segment still argues the petition-date pricing made 100% nominal recovery into a real-terms haircut.
+
 What stood out in reviewing the case in July 2026 was not the scale. It was that FTX has become the template for every other crypto bankruptcy. Courts, trustees, and creditors in every subsequent case have asked: how does this compare to FTX? That reference function is its most durable impact. For context on how the people closest to the collapse are tracked today, the related read is [The 25 Most Influential People in Crypto in 2026](/most-influential-people-in-crypto-2026).
 
 ### 2. Terraform Labs and Do Kwon
@@ -84,9 +88,17 @@ Kwon was extradited to the United States from Montenegro on December 31, 2024. H
 
 What this case established for the industry is cleaner than most observers expected. It confirmed that product labels do not determine legal status. The economic reality of what investors were buying determined whether securities laws applied -- and the jury decided they did, without ambiguity. The SEC settled for $4.47 billion against a company that had already filed for bankruptcy and could not pay it. That combination -- large headline number, limited actual recovery -- is the tension that defines Terraform's legacy. The precedent is strong. The restitution is limited.
 
+![SEC Terraform Labs distribution page for harmed investors](../media/2026-07-22/sec-terraform-distribution-2026-07-22.png)
+
+The [CryptoCurrency community discussion on Do Kwon sentencing](https://www.reddit.com/r/CryptoCurrency/search/?q=Do+Kwon+sentenced&sort=top) ran heavily toward the view that a 15-year sentence for a $40 billion collapse was the minimum credible outcome. The split in that thread tracks the broader split in how investors evaluate founder-accountability cases: sentence length versus actual restitution received.
+
 ### 3. Binance
 
 Binance pleaded guilty in November 2023, agreed to pay $4.3 billion across the DOJ, FinCEN, OFAC, and CFTC, and installed dual compliance monitors. Changpeng Zhao served a four-month prison sentence as part of that settlement. The exchange has operated under monitorship since 2024 and still holds more daily volume than the next two largest exchanges combined.
+
+![DOJ press release on Binance $4.3B criminal settlement](../media/2026-07-22/doj-binance-settlement-2026-07-22.png)
+
+The [CryptoCurrency community discussion on Binance monitorship](https://www.reddit.com/r/CryptoCurrency/search/?q=Binance+monitorship&sort=top) is split between users who treat the monitorship as a resolved compliance story and those who read the June 2026 DOJ memo as a sign the original settlement is fraying. Both readings are defensible from public reporting.
 
 The 2026 story is not the settlement. It is what is happening around the monitorship. Senate Democrats pressed the DOJ and Treasury in April 2026 over allegations that nearly $2 billion in crypto flowed through Binance to Iran-linked entities during the monitorship period. At least five of Binance's compliance investigators were reportedly fired in late 2025. In early June 2026, the DOJ sent an internal memo warning its attorneys working on crypto cases to expect less cooperation from Binance -- a signal that arrived as Binance was actively negotiating to end the monitorship entirely.
 
@@ -97,6 +109,10 @@ The Binance case is still live in a way that the FTX and Terraform cases are not
 Celsius froze withdrawals in June 2022. Alex Mashinsky, the founder and CEO, was sentenced to 12 years in prison on May 8, 2025, for stealing $48 million from the company and its customers. That sentence closed the criminal chapter. The creditor recovery chapter has not closed.
 
 The reorganization plan, approved by 98% of creditors in 2023, targets 67-85% recovery. Custody account holders, whose assets never entered the yield pool, have already received 100% -- approximately $425 million distributed by January 2026. Earn account holders, the larger group, are on a different timeline. A third distribution of $220.6 million reached creditors in August 2025, bringing cumulative recovery to roughly 65%. A fourth pool of approximately $476 million became available in late 2025 after a settlement with Tether. The court maintains jurisdiction through December 2026, with further distributions expected.
+
+![Celsius Network creditor restructuring portal, Kroll, July 2026](../media/2026-07-22/celsius-kroll-creditor-2026-07-22.png)
+
+The [CryptoCurrency community discussion on Celsius and Mashinsky sentencing](https://www.reddit.com/r/CryptoCurrency/search/?q=Celsius+Mashinsky+sentenced&sort=top) focused heavily on the gap between the 12-year sentence and the recovery rate. Many affected depositors used the thread to compare claim statuses and track whether their class was included in the fourth distribution pool.
 
 The Celsius case is instructive in a specific way. It is not the largest case. It is the most legible case for what yield promises in centralized crypto actually meant. Mashinsky told depositors their assets were safe while the company ran the opposite of a conservative balance sheet. The gap between the promotional language and the actual risk structure is the lesson that outlasts the individual criminal case.
 
@@ -114,11 +130,15 @@ Ramil Palafox, the founder of Praetorian Group International, was sentenced to 2
 
 The DOJ brought a 23-count indictment covering wire fraud, money laundering, and unlawful monetary transactions. The SEC filed parallel civil charges in April 2025 seeking disgorgement and a permanent bar from the securities industry. The SEC civil case remains active as of July 2026, pursuing asset recovery from Palafox's family members, including his wife and brother-in-law.
 
+![SEC press release on PGI Global charges against Ramil Palafox](../media/2026-07-22/sec-pgi-global-2026-07-22.png)
+
 PGI Global belongs on this list not because of its size -- it is smaller than FTX, Celsius, or Genesis -- but because the February 2026 sentence is the most recent major criminal conviction for a crypto Ponzi scheme. The 20-year sentence came under a DOJ that has narrowed its general approach to crypto enforcement but explicitly stated it would continue pursuing individuals who victimize investors. That distinction is the relevant data point for 2026: the fraud lane is still producing maximum sentences even as the broader enforcement climate has softened.
 
 ### 7. Unicoin
 
 The SEC charged Unicoin and three executives -- CEO Alex Konanykhin, board member Silvina Moschini, and former CIO Alex Dominguez -- on May 20, 2025, in the Southern District of New York. The allegations: Unicoin misled more than 5,000 investors while raising approximately $110 million through false claims that its tokens were backed by a real estate portfolio worth over $1.4 billion. The actual value of the four properties at issue was no more than $300 million, and the majority of the announced acquisitions never closed. Unicoin's marketing had claimed $3 billion in total sales and advertised potential returns of up to 9 million percent.
+
+![SEC litigation release on Unicoin fraud charges, May 2025](../media/2026-07-22/sec-unicoin-charges-2026-07-22.png)
 
 Konanykhin filed a motion to dismiss in August 2025, arguing the SEC was conflating deal commitments with completed property transfers. As of July 2026, the case is contested and unresolved. The CEO has publicly characterized the prosecution as politically motivated.
 
@@ -145,10 +165,6 @@ The third bucket is new fraud cases -- PGI Global, Unicoin -- where the relevant
 For traders, the FTX creditor recovery structure is the reference point for exchange counterparty risk. For builders and exchanges, the Binance monitorship is the live data point for what compliance failure at scale actually costs. For anyone assessing a new token project's legal exposure, the Unicoin charges define exactly the kind of promotional language that still draws a federal complaint.
 
 ---
-
-## Why you can trust this guide
-
-This article is based on public legal records, court filings, SEC and DOJ press releases, bankruptcy court announcements, and enforcement reporting reviewed in July 2026 and updated July 22, 2026. Recovery figures for FTX, Celsius, and Genesis reflect the most recent public distribution announcements as of mid-July 2026. The Binance monitorship status reflects public reporting as of early July 2026; that situation is evolving and should be verified against current DOJ and FinCEN releases before any compliance decision. The Unicoin case is actively contested and the outcome is not yet known.
 
 ## What we checked ourselves before ranking these cases
 
