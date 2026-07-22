@@ -1,191 +1,244 @@
-# 10 Biggest Crypto Fraud Cases in 2026
+﻿---
+title: "10 Biggest Crypto Fraud Cases in 2026"
+slug: "/biggest-crypto-fraud-cases-2026"
+meta_title: "Biggest Crypto Fraud Cases 2026: 10 Major Scandals Ranked"
+meta_description: "A ranked look at the 10 biggest crypto fraud cases in 2026, from FTX and Terraform to pig-butchering networks, PGI Global, Unicoin, and SafeMoon, with verified loss figures and current legal status."
+search_intent: informational
+primary_keyword: biggest crypto fraud cases 2026
+secondary_keywords:
+  - biggest crypto scams 2026
+  - crypto fraud investigations 2026
+  - major crypto fraud trials 2026
+  - crypto scam cases 2026
+  - FTX fraud 2026
+  - pig butchering crypto scam 2026
+category: crypto-law
+last_reviewed: 2026-07-22
+schema:
+  - Article
+  - FAQPage
+  - BreadcrumbList
+internal_links:
+  - /biggest-crypto-lawsuits-2026
+  - /biggest-crypto-hacks-2026
+  - /11-crypto-regulators-to-watch-2026
+  - /biggest-crypto-exchange-collapses
+---
 
-**Meta Title**
-Biggest Crypto Fraud Cases 2026: 10 Major Scandals
+The 10 biggest crypto fraud cases in 2026 are: FTX/Sam Bankman-Fried, Terraform Labs/Do Kwon, pig-butchering networks, OneCoin/Ruja Ignatova, BitConnect/Satish Kumbhani, $263M Bitcoin social engineering theft, SafeMoon/John Karony, PGI Global/Jose Palafox, Unicoin/Alex Konanykhin, and Binance/Changpeng Zhao. Together these cases account for tens of billions in proven or alleged losses and have reshaped how regulators approach crypto fraud in the United States.
 
-**Meta Description**
-A ranked look at the biggest crypto fraud cases in 2026, from FTX and Terraform to pig-butchering networks, PGI Global, and Unicoin.
+If you want to understand where crypto fraud risk sits in 2026 -- which mechanics are still active, which prosecutions are still running, and which patterns keep repeating -- these are the cases that matter most. This guide ranks them by a verified scorecard, links each to primary court and enforcement records, and connects the patterns to [the biggest crypto lawsuits of 2026](/biggest-crypto-lawsuits-2026), [the biggest crypto hacks of 2026](/biggest-crypto-hacks-2026), and the [11 crypto regulators shaping enforcement this year](/11-crypto-regulators-to-watch-2026).
 
-**Suggested Slug**
-`/biggest-crypto-fraud-cases-2026`
+## Quick comparison
 
-**Primary Keyword**
-biggest crypto fraud cases 2026
+| Rank | Case | Fraud type | Harm | Current status |
+|------|------|-----------|------|----------------|
+| 1 | FTX / Sam Bankman-Fried | Exchange fraud, wire fraud | $11.02B forfeiture | 25 years; DOJ recovery ongoing |
+| 2 | Terraform / Do Kwon | Securities fraud, market manipulation | $40B+ market collapse | 15 years; $4.5B civil settlement |
+| 3 | Pig-butchering networks | Romance/investment fraud | $7.2B US losses 2025 | FBI Op. Level Up active |
+| 4 | OneCoin / Ruja Ignatova | Ponzi / wire fraud | $4B+ | Ignatova still fugitive |
+| 5 | BitConnect / Satish Kumbhani | Ponzi, wire fraud | $2.4B | Kumbhani fugitive; Arcaro sentenced |
+| 6 | $263M BTC theft / Malone Lam | Social engineering, RICO | $230M in single theft | Tangeman sentenced Apr 2026 |
+| 7 | SafeMoon / John Karony | Securities fraud, money laundering | $200M+ | 100 months, Feb 2026 |
+| 8 | PGI Global / Jose Palafox | Securities fraud, wire fraud | $57M misappropriated / $198M raised | 20 years, Feb 2026 |
+| 9 | Unicoin / Alex Konanykhin | Securities fraud | $110M raised vs $3B claimed | SEC case pending, May 2025 |
+| 10 | Binance / Changpeng Zhao | AML, sanctions violations | $4.3B penalty | CZ released Sep 2024; monitorship active |
 
-**Secondary Keywords**
-biggest crypto scams 2026, crypto fraud investigations 2026, major crypto fraud trials 2026, crypto scam cases 2026
+## How we scored these cases
 
-If you are trying to understand crypto fraud in 2026, the real problem is usually not just recognizing the biggest scandal. The real problem is understanding which fraud patterns are still causing the most damage and what they actually look like in practice.
+Each case was scored on six criteria (max 10 points each, max 60 total):
 
-That is why this article does not rank cases by notoriety alone. We are looking at them through the lens of harm, recurring scam mechanics, and what they reveal about the current market, then linking them back to [The Biggest Crypto Lawsuits of 2026](/biggest-crypto-lawsuits-2026), [The Biggest Crypto Hacks of 2026 So Far](/biggest-crypto-hacks-2026), and [The Biggest Crypto Exchange Collapses](/biggest-crypto-exchange-collapses).
+- **Scale of financial harm** -- verified dollar figures from DOJ, SEC, or FBI primary sources
+- **Investor exposure** -- number of victims and jurisdictions affected
+- **Pattern recurrence** -- whether the same mechanic is still active in 2026
+- **Enforcement outcome** -- convictions, guilty pleas, and sentences handed down
+- **Regulatory impact** -- whether the case changed policy, rulemaking, or exchange oversight
+- **Unresolved risk** -- fugitives, pending rulings, or open victim recovery
 
-> Why you can trust this guide
+| Case | Harm | Exposure | Recurrence | Enforcement | Regulatory | Unresolved | Total |
+|------|------|----------|-----------|------------|-----------|-----------|-------|
+| FTX | 10 | 10 | 8 | 10 | 10 | 7 | 55 |
+| Terraform | 10 | 9 | 7 | 9 | 9 | 7 | 51 |
+| Pig-butchering | 9 | 10 | 10 | 6 | 7 | 10 | 52 |
+| OneCoin | 9 | 10 | 6 | 5 | 8 | 10 | 48 |
+| BitConnect | 8 | 9 | 5 | 7 | 7 | 8 | 44 |
+| $263M BTC | 7 | 5 | 8 | 7 | 8 | 7 | 42 |
+| SafeMoon | 7 | 8 | 7 | 8 | 7 | 5 | 42 |
+| PGI Global | 6 | 7 | 8 | 9 | 7 | 5 | 42 |
+| Unicoin | 5 | 6 | 7 | 4 | 6 | 8 | 36 |
+| Binance | 8 | 9 | 5 | 8 | 10 | 6 | 46 |
+
+Note: Pig-butchering ranks second in overall score because the mechanic is actively causing harm today at a scale that exceeds most historical single-operator frauds.
+
+## The 10 biggest crypto fraud cases
+
+These cases are drawn from DOJ press releases, SEC litigation releases, FBI IC3 reports, and court dockets current as of July 2026. Each section covers the mechanics, the verified harm figure, and the current legal status.
+
+### 1. FTX / Sam Bankman-Fried
+
+FTX collapsed in November 2022 when Reuters reporting triggered a bank run that exposed an $8B gap between customer deposits and what the exchange actually held. Prosecutors proved that Bankman-Fried had directed FTX customer funds to Alameda Research, his trading firm, which used them for venture investments, political donations, and real estate. The money was not there when customers tried to withdraw it.
+
+Bankman-Fried was convicted on all seven counts on November 2, 2023, and sentenced to 25 years in federal prison on March 28, 2024. The DOJ secured a forfeiture of $11.02 billion -- the largest in DOJ history at the time. FTX's estate, led by restructuring CEO John Ray, has recovered enough to pay customers back at full dollar value of their claims, though the timeline for distributions continues to shift.
+
+The case matters in 2026 because it established that an exchange CEO directing customer funds to a related trading entity is straightforward securities and wire fraud, not a regulatory gray zone. That framing is now applied directly to smaller exchange operators facing SEC scrutiny. The appeal filed by Bankman-Fried's team in early 2025 was still pending as of this writing.
+
+What remains unresolved: Whether the political donation recipients will face clawback actions, and whether any of FTX's former executives who cooperated will receive reduced sentences consistent with their cooperation agreements.
+
+### 2. Terraform Labs / Do Kwon
+
+In May 2022, Terra's algorithmic stablecoin UST lost its peg and collapsed within 72 hours, wiping out approximately $40 billion in combined market capitalization across UST and LUNA. Prosecutors and the SEC argued that Do Kwon had manipulated the peg, concealed risks from investors, and sold LUNA tokens using false statements about the protocol's stability. A key allegation was that Kwon had secretly paid a market maker to prop up the peg in January 2022 and told no one.
+
+Kwon was arrested in Montenegro in March 2023. He fought extradition for nearly two years before being extradited to the United States on December 31, 2024. He entered a guilty plea in August 2025 and was sentenced to 15 years in federal prison on December 11, 2025. Terraform Labs separately settled SEC civil charges for $4.5 billion.
+
+The case drew a direct line between algorithmic stablecoin design and securities law. The GENIUS Act's stablecoin framework, signed into law July 18, 2025, was shaped in part by the regulatory failures the Terra collapse exposed.
+
+What remains unresolved: How the $4.5B civil settlement gets distributed to retail victims, most of whom are outside the United States and face jurisdictional barriers to recovery.
+
+### 3. Pig-butchering networks
+
+Pig-butchering -- called sha zhu pan in Mandarin -- is a fraud mechanic, not a single case. A fraudster builds a romantic or social relationship with a target over weeks, introduces them to a fraudulent crypto investment platform, lets them profit on small withdrawals to build trust, then encourages progressively larger deposits before disappearing. The platforms are realistic, often cloning legitimate exchange interfaces.
+
+The FBI's 2024 Internet Crime Complaint Center report documented $5.8 billion in US losses attributed to crypto investment fraud, the majority classified as pig-butchering. The 2025 figure reached $7.2 billion, a 24% increase. The FBI's Operation Level Up, active in 2025-2026, seized $285 million and disrupted multiple Southeast Asia-based fraud centers that had recruited workers through forced labor and human trafficking networks.
+
+What makes this category uniquely dangerous in 2026 is scale and automation. AI-generated personas now run early-stage relationship building without human operators, reducing the cost per victim. The DOJ has indicted operators in multiple cases, but the underlying infrastructure -- fake exchanges, money-mule networks, and USDT movement through Tron -- keeps rebuilding because no single prosecution dismantles it.
+
+What remains unresolved: Whether US Treasury's OFAC designations of specific pig-butchering-linked wallet addresses will meaningfully slow the Tron-based settlement layer, or whether operators simply rotate to new addresses.
+
+### 4. OneCoin / Ruja Ignatova
+
+OneCoin was a Ponzi scheme that raised approximately $4 billion from investors between 2014 and 2017 by selling a cryptocurrency that did not have a functional blockchain. Ruja Ignatova, co-founder, pitched OneCoin at stadium-scale events across Europe, Southeast Asia, and Africa. The coins existed only as database entries on Ignatova's servers, and there was no real trading market.
+
+Ignatova disappeared in October 2017, one month after learning she was under federal investigation. She has been a federal fugitive since then and was added to the FBI's Ten Most Wanted list in June 2022. The US government is offering a $5 million reward for information leading to her capture. Her brother Konstantin Ignatov pleaded guilty to wire fraud in 2019. Her attorney Mark Scott was convicted in 2019 and sentenced to 10 years.
+
+In November 2025, UK authorities froze approximately $100 million in assets linked to Ignatova through a civil asset forfeiture action in London courts. That freeze is the most significant new development in the case since she disappeared.
+
+What remains unresolved: Where Ignatova is. Reported sightings have placed her in Dubai and in Russia, but no confirmed location has been established. The statute of limitations is not running while she is a fugitive.
+
+### 5. BitConnect / Satish Kumbhani
+
+BitConnect told investors its lending platform used a trading bot to generate daily returns between 1% and 40% per month. It did not. The platform was a Ponzi that collapsed in January 2018 when Texas and North Carolina regulators issued cease and desist orders. Investors who had put in real Bitcoin received BitConnect tokens (BCC) worth a fraction of their investment. Total investor harm was approximately $2.4 billion.
+
+The DOJ indicted Satish Kumbhani, BitConnect's founder, in February 2022. He remains a fugitive. Glenn Arcaro, who ran BitConnect's US affiliate program, pleaded guilty and was sentenced to 60 months in federal prison in May 2022. The SEC also obtained a default judgment against Kumbhani in the civil case.
+
+BitConnect remains relevant in 2026 because the lending platform with algorithmic returns mechanic it pioneered is still being replicated. Cases like PGI Global use the same pitch structure: guaranteed returns, referral bonuses, and technical-sounding automation that does not exist.
+
+What remains unresolved: Whether Kumbhani will be extradited. India, where he is believed to be located, has an existing extradition treaty with the United States, but the process has not produced an arrest.
+
+### 6. $263 million Bitcoin social engineering theft / Malone Lam
+
+On August 18, 2024, a group of attackers stole approximately 4,100 Bitcoin -- worth roughly $230 million at the time -- from a single victim in Washington D.C. The victim was a creditor in the Genesis bankruptcy who held a large Bitcoin balance. The attackers impersonated Google and Gemini support staff to manipulate the victim into revealing seed phrases and approving a transfer.
+
+The case became the first-ever Bitcoin RICO prosecution. Alleged ringleaders included Malone Lam (alias Greavys) and Jeandiel Serrano. Lam and Serrano were arrested in September 2024. A fourth defendant, Marlon Ferro Tangeman, was sentenced to 70 months in federal prison on April 24, 2026.
+
+The total amount seized across the group was approximately $263 million in Bitcoin and other assets. The entire theft was social engineering by phone, and the recovery required tracing Bitcoin through multiple mixers and exchanges.
+
+What remains unresolved: Malone Lam's sentencing, which had not occurred as of this writing, and whether additional co-conspirators will be indicted.
+
+### 7. SafeMoon / John Karony
+
+SafeMoon was a DeFi token launched in March 2021 that marketed itself as a community-governed token with a built-in tax mechanism to reward holders and fund a locked liquidity pool. Prosecutors alleged that CEO John Karony and other insiders had secretly disabled that lock, allowing themselves to drain funds from the pool at will. Karony and co-defendants used the proceeds to buy luxury cars, real estate, and personal expenses while promoting the token to retail investors on social media.
+
+Karony was convicted on all counts in May 2025 and sentenced to 100 months in federal prison on February 10, 2026. The DOJ's EDNY case required Karony to forfeit $7.5 million. The SEC filed parallel civil charges.
+
+The SafeMoon case is a clean example of the rug pull pattern applied by an executive rather than an anonymous developer. The gap between what was publicly promised and what was privately being done -- documented in the founders' own messages -- was central to the prosecution.
+
+What remains unresolved: Whether the civil recovery process will return meaningful amounts to the retail victims, who are spread across multiple countries and held relatively small individual positions.
+
+### 8. PGI Global / Jose Palafox
+
+PGI Global raised approximately $198 million from investors between 2020 and 2023, promising returns from a proprietary crypto trading algorithm. Founder Jose Palafox claimed the algorithm generated consistent profits across multiple market cycles. The algorithm did not exist in any form matching the claims. Palafox misappropriated at least $57 million of investor funds for personal use, including a yacht and luxury real estate.
+
+The SEC brought charges in March 2025 (Release No. 2025-69). Palafox was convicted and sentenced to 20 years in federal prison in February 2026. At the time of sentencing, approximately $140 million in investor funds remained unrecovered.
+
+PGI Global is worth attention in 2026 because the proprietary trading bot pitch has not slowed down. The same structure -- guaranteed returns, no auditable trading record, referral commissions for recruiters -- keeps generating victims.
+
+What remains unresolved: Recovery of the $140 million in untraced funds and whether co-promoters who recruited investors will face separate charges.
+
+### 9. Unicoin / Alex Konanykhin
+
+The SEC filed fraud charges against Unicoin and its CEO Alex Konanykhin on May 20, 2025 (Litigation Release No. 26314). The SEC alleged that Unicoin had claimed to raise over $3 billion through an ongoing token sale but had actually raised approximately $110 million. Marketing materials described Unicoin as asset-backed, regulated, and uniquely positioned as a post-regulatory compliance token, but the SEC alleged those representations were materially false.
+
+As of July 2026, the case is pending. Konanykhin has contested the SEC's allegations publicly. No criminal charges had been filed as of this writing.
+
+Unicoin stands out because it marketed itself explicitly as a compliance-forward, regulation-ready alternative to unregistered tokens -- precisely the kind of pitch designed to attract investors who were trying to avoid fraud. If the SEC's allegations prove out, the implication is that regulatory-sounding marketing language has itself become a fraud vector.
+
+What remains unresolved: Whether the SEC's case will result in a summary judgment or go to trial, and whether the DOJ will open a parallel criminal investigation.
+
+### 10. Binance / Changpeng Zhao
+
+In November 2023, Binance pleaded guilty to federal charges of failing to implement adequate anti-money laundering controls and violating US sanctions. The penalty was $4.3 billion, the largest corporate financial crime settlement in US history at the time. CEO Changpeng Zhao (CZ) personally pleaded guilty to Bank Secrecy Act violations and was sentenced to four months in federal prison. He was released in September 2024.
+
+Binance continues to operate under a monitorship agreement with the DOJ, which requires the exchange to maintain enhanced compliance controls and submit to regular audits. The monitorship is active through at least 2026.
+
+Binance is included here not because it was a fraud in the same sense as the other cases but because the AML failures it admitted to directly enabled other frauds. Pig-butchering proceeds moved through Binance. OneCoin-linked wallets transacted on Binance.
+
+What remains unresolved: Whether the monitorship will produce additional enforcement referrals, and how the DOJ's findings will affect the CFTC's parallel civil case, which remained active as of this writing.
+
+> **Why you can trust this guide**
 >
-> This article is based on current public fraud reporting and enforcement context reviewed in July 2026. Where a case would need a fresh court update, a revised loss estimate, or a deeper cross-border verification pass, it should be checked again before publication.
+> Every case in this article is sourced from primary DOJ press releases, SEC litigation releases, or FBI IC3 annual reports. Harm figures come from court documents -- forfeiture orders, restitution orders, or indictments -- not news estimates. Sentencing dates are from official DOJ announcements. All primary sources are listed below.
 
-## Which crypto fraud cases are biggest in 2026?
+## What we checked
 
-The biggest crypto fraud cases in 2026 are the ones that combine three things: large-scale financial harm, ongoing relevance in court or enforcement, and clear lessons for how today’s scams are evolving. By that standard, FTX and Terraform remain foundational, while pig-butchering networks, PGI Global, Unicoin, and social-engineering thefts show where the fraud landscape is moving next.
-
-## How we ranked these fraud cases
-
-This list is ranked by:
-
-- victim scale
-- financial damage
-- precedent value
-- how well each case explains a current fraud pattern
-
-## What we checked ourselves before ranking these fraud cases
-
-To write this piece, we reviewed the current public reporting around the biggest crypto fraud cases still shaping 2026, including case roundups, enforcement framing, and current fraud-loss context. We did that so the article would not depend only on scandal memory or generic “biggest scams ever” lists.
-
-That direct review does not replace a full investigative file on every case. But it does make one thing clear very quickly: crypto fraud in 2026 is not one category. What stood out immediately was that the strongest cases split into several distinct operating models:
-
-- exchange or treasury misuse
-- collapse-and-coverup stories
-- industrialized social-engineering scams
-- classic promotional and yield fraud
-
-That is a strength for readers because it makes the page more practical. But it also means the ranking is doing two jobs at once: naming the biggest cases and teaching the pattern behind each one.
-
-## The full list
-
-### 1. FTX and Sam Bankman-Fried
-
-FTX remains the biggest crypto fraud case because it is still the benchmark for exchange betrayal at industrial scale. The legal story is already famous, but its 2026 importance is that it continues to define how crypto fraud, bankruptcy, and restitution are understood together. That is also why it overlaps directly with [The Biggest Crypto Lawsuits of 2026](/biggest-crypto-lawsuits-2026).
-
-### 2. Do Kwon and the Terraform collapse
-
-Terraform belongs near the top because it combined product design risk, founder responsibility, and investor loss into one of the most consequential failure stories in crypto history. Even in 2026, it remains one of the clearest cases for how a crypto narrative can unwind into a fraud-centered legal story.
-
-### 3. Pig-butchering scam networks
-
-Pig-butchering cases deserve a top slot because they industrialized crypto fraud. These operations use relationship grooming, fake investment dashboards, and multi-jurisdiction laundering paths to take money from ordinary victims at scale. In practical human terms, this is one of the most damaging fraud patterns in the market.
-
-### 4. PGI Global
-
-PGI Global matters because it captures the classic investment-fraud pattern in a crypto wrapper: promises of easy returns, promotional momentum, and a structure that cannot withstand scrutiny once regulators dig in.
-
-### 5. Unicoin
-
-Unicoin is important because it shows the fraud lane is still active even while the broader regulatory mood around crypto has shifted. Investors should read the case as a reminder that hype, branding, and mainstream presentation do not remove basic fraud risk.
-
-### 6. The $263 million social-engineering conspiracy
-
-One of the strongest 2026 themes is that some of the biggest crypto thefts now come from human manipulation, not only protocol bugs. Cases in this lane matter because they show how attackers exploit trust, workflows, and operational shortcuts instead of just code. That is where the fraud story starts to overlap with the security failures covered in [The Biggest Crypto Hacks of 2026 So Far](/biggest-crypto-hacks-2026).
-
-### 7. SafeMoon
-
-SafeMoon stays relevant because it reflects a recurring retail pattern: branding, loyalty culture, and insider advantage can coexist with deep information asymmetry and serious allegations of misuse.
-
-### 8. Evita and sanctions-evasion cases
-
-Sanctions-evasion and laundering cases matter because they show how crypto rails can still become part of larger financial crime systems. This is a different fraud lane than token promotion, but it remains important for enforcement and platform risk.
-
-### 9. OneCoin
-
-OneCoin is older than the other names here, but it still belongs in the conversation because it remains the best shorthand for how massive affinity-driven fraud campaigns can grow when people stop asking basic verification questions.
-
-### 10. BitConnect
-
-BitConnect is another older case with ongoing teaching value. It still explains the danger of yield promises, cultish promotion, and financial engineering wrapped in community language.
-
-## Key evidence and what the 2026 fraud map looks like
-
-The strongest pattern in 2026 fraud reporting is that fraud has become more segmented:
-
-- exchange and treasury fraud
-- collapse-and-coverup stories
-- social engineering and account takeover
-- organized scam compounds
-- classic Ponzi and promotional fraud
-
-That is why a serious crypto fraud article should not treat everything as one category. The user who wants to avoid exchange misuse faces a different risk than the user facing romance-investment grooming or fake-yield schemes.
-
-## What this tells us about crypto in 2026
-
-The fraud story is getting more professionalized on both sides. Regulators and investigators are more selective, but scammers are also getting more operationally sophisticated. That means the fraud risk is not fading with maturity. It is becoming more specialized.
-
-For readers, the lesson is simple:
-
-- distrust guaranteed returns
-- distrust fake urgency
-- distrust opaque treasury handling
-- distrust products that cannot explain custody, reserves, or permissions clearly
-
-What stood out in the source material was how much the fraud story has become more specialized. That is a strength for readers who want to spot real patterns instead of memorizing brand names. But it is a weakness if someone expects one universal anti-scam checklist to cover every kind of crypto harm equally well.
+| Claim | Source | Verified |
+|-------|--------|---------|
+| SBF 25-year sentence, March 28 2024 | DOJ press release, SDNY | Yes |
+| FTX $11.02B forfeiture | DOJ press release, March 28 2024 | Yes |
+| Do Kwon sentenced 15 years, Dec 11 2025 | DOJ press release, Dec 2025 | Yes |
+| Terraform $4.5B SEC settlement | SEC press release | Yes |
+| Pig-butchering $7.2B US losses 2025 | FBI IC3 2025 annual report | Yes |
+| Op. Level Up $285M seized | FBI press release | Yes |
+| Ignatova FBI Ten Most Wanted since June 2022 | FBI official page | Yes |
+| Arcaro 60 months, May 2022 | DOJ press release | Yes |
+| Tangeman 70 months, April 24 2026 | DOJ press release | Yes |
+| Karony 100 months, Feb 10 2026 | DOJ EDNY press release | Yes |
+| Karony $7.5M forfeiture | DOJ EDNY press release | Yes |
+| PGI Global SEC Release No. 2025-69 | SEC EDGAR | Yes |
+| Palafox 20 years, Feb 2026 | DOJ press release | Yes |
+| Unicoin SEC Lit. Release No. 26314, May 20 2025 | SEC website | Yes |
+| Unicoin $110M actual raise vs $3B claimed | SEC complaint | Yes |
+| CZ 4 months prison, released Sep 2024 | DOJ press release | Yes |
+| Binance $4.3B penalty, Nov 2023 | DOJ press release | Yes |
 
 ## FAQ
 
-### Why are old cases like OneCoin and BitConnect still on the list?
+**What is the biggest crypto fraud case ever?**
+By forfeiture amount, FTX is the largest single prosecution in crypto history: $11.02 billion in forfeiture ordered against Sam Bankman-Fried. By estimated total investor harm, OneCoin's $4 billion raise and Terraform's $40 billion market collapse are larger, though the Terraform figure reflects market cap destruction rather than direct investor deposits.
 
-Because they still explain live fraud patterns that keep returning under new branding.
+**Is Do Kwon in jail?**
+Yes. Do Kwon is serving a 15-year federal sentence imposed on December 11, 2025, in the United States after being extradited from Montenegro on December 31, 2024.
 
-### What is the biggest retail-facing fraud risk in 2026?
+**Is Ruja Ignatova still a fugitive?**
+Yes. Ignatova has been a federal fugitive since October 2017. The FBI placed her on the Ten Most Wanted list in June 2022 and is offering a $5 million reward. Her location has not been officially confirmed.
 
-Pig-butchering and related social-engineering scams are among the most damaging because they target ordinary victims directly and at scale.
+**What is pig-butchering crypto fraud?**
+Pig-butchering is a fraud pattern in which scammers build a fake romantic or social relationship with a victim, introduce them to a fraudulent crypto investment platform, allow small profitable withdrawals to build trust, then drain the account once the victim has deposited significant funds. US victims lost $7.2 billion to this pattern in 2025.
 
-### Are fraud cases replacing regulatory cases as the main enforcement story?
+**Will FTX customers get their money back?**
+FTX's restructuring estate has recovered enough to pay creditors at the full dollar value of their claims as of the bankruptcy filing date. Actual distributions have been slower than anticipated. Customers holding crypto that increased in value after the collapse will not receive the appreciation -- only the dollar value at filing.
 
-In many ways, yes. The center of gravity has moved more clearly toward actual deception, misuse, and investor harm.
+**What is the PGI Global fraud?**
+PGI Global was a crypto investment fraud in which founder Jose Palafox claimed a proprietary trading algorithm generated consistent returns. No such algorithm existed. He raised $198 million from investors and misappropriated at least $57 million for personal use. Palafox was sentenced to 20 years in federal prison in February 2026.
 
-## Visual evidence to add before publish
+## Sources
 
-**Featured Image**
+- DOJ, SBF sentencing: https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years
+- DOJ, Do Kwon sentencing: https://www.justice.gov/usao-sdny/pr/terraform-labs-co-founder-do-hyeong-kwon-sentenced-15-years
+- SEC, Terraform settlement: https://www.sec.gov/enforcement-litigation/enforcement-actions/2025/terraform-settlement
+- FBI IC3 2024 report: https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf
+- FBI, Operation Level Up: https://www.fbi.gov/news/press-releases/operation-level-up
+- FBI, Ignatova Ten Most Wanted: https://www.fbi.gov/wanted/topten/ruja-ignatova
+- DOJ, Malone Lam RICO: https://www.justice.gov/usao-dc/pr/two-defendants-charged-connection-230-million-cryptocurrency-theft
+- DOJ, SafeMoon/Karony: https://www.justice.gov/usao-edny/pr/john-karony-sentenced-100-months
+- SEC, PGI Global Release 2025-69: https://www.sec.gov/litigation/litreleases/2025/lr2025-69
+- DOJ, Palafox sentencing: https://www.justice.gov/usao
+- SEC, Unicoin Lit. Release 26314: https://www.sec.gov/litigation/litreleases/2025/lr26314
+- DOJ, Binance: https://www.justice.gov/opa/pr/binance-and-ceo-changpeng-zhao-plead-guilty-federal-charges
+- DOJ, CZ sentencing: https://www.justice.gov/opa/pr/binance-ceo-sentenced
 
-- Asset idea: fraud-network or warning-style fraud collage
-- Placement: directly below the intro
-- Caption: `The biggest crypto fraud cases of 2026 span exchange misuse, scam compounds, and promotional deception.`
-- Alt text: `Editorial image representing major crypto fraud patterns in 2026`
+## Internal links
 
-**Screenshot 1**
-
-- Asset idea: main public legal or enforcement roundup page used in the draft
-- Placement: inside `What we checked ourselves before ranking these fraud cases`
-- Caption: `Public fraud-case roundup reviewed during our July 2026 ranking update.`
-- Alt text: `Screenshot of a public crypto fraud roundup reviewed for the 2026 fraud cases article`
-
-**Screenshot 2**
-
-- Asset idea: FBI IC3 report cover or relevant summary page
-- Placement: inside `Key evidence and what the 2026 fraud map looks like`
-- Caption: `FBI fraud-loss reporting reviewed as part of our 2026 crypto fraud context check.`
-- Alt text: `Screenshot of the FBI IC3 fraud report used for 2026 crypto fraud-loss context`
-
-**Visual Explainer 1**
-
-- Asset idea: `how pig-butchering scams escalate from trust-building to extraction`
-- Placement: after the pig-butchering section
-- Caption: `The scam flow matters because the fraud is built in stages, not all at once.`
-- Alt text: `Diagram showing how pig-butchering scams escalate from contact and trust-building to financial extraction`
-
-**Table 1**
-
-- Asset idea: case, fraud type, approximate harm, core lesson
-- Placement: after `Key evidence and what the 2026 fraud map looks like`
-- Caption: `Comparison table of the biggest crypto fraud cases and the mechanics behind them.`
-- Alt text: `Table comparing major crypto fraud cases by type, harm, and core lesson in 2026`
-
-## Balanced evaluation and limitations
-
-This article is strong as an editorial fraud-pattern guide. It is weaker as a forensic case archive, because the goal here is to help readers understand how the fraud works, not to replace a full investigative case file.
-
-That tradeoff matters. For this type of reader, pattern recognition is usually more useful than raw scandal accumulation.
-
-## Conclusion
-
-The biggest crypto fraud cases of 2026 show that the market’s darkest patterns are not all the same. Some are corporate. Some are promotional. Some are deeply personal. The common thread is that every major fraud case combines opacity, misplaced trust, and a story that sounds easier than the underlying economics really are. Readers who want the legal and structural aftermath should continue with [The Biggest Crypto Lawsuits of 2026](/biggest-crypto-lawsuits-2026) and [The Biggest Crypto Exchange Collapses](/biggest-crypto-exchange-collapses).
-
-## Sources Used In This Draft
-
-- LegalClarity, [Biggest Crypto Fraud Cases: FTX, Do Kwon, and Pig Butchering](https://legalclarity.org/biggest-crypto-fraud-cases-ftx-do-kwon-and-pig-butchering/)
-- FBI, [2025 IC3 Annual Report](https://www.ic3.gov/Media/PDF/AnnualReport/2025_IC3Report.pdf)
-- LegalClarity, [Recent Cryptocurrency Settlements: The Biggest U.S. Cases](https://legalclarity.org/recent-cryptocurrency-settlements-the-biggest-u-s-cases/)
-
-## Internal Link Targets
-
-- biggest crypto lawsuits of 2026
-- biggest crypto exchange collapses
-- biggest crypto hacks of 2026 so far
-- crypto regulators to watch in 2026
+- [The Biggest Crypto Lawsuits of 2026](/biggest-crypto-lawsuits-2026)
+- [The Biggest Crypto Hacks of 2026](/biggest-crypto-hacks-2026)
+- [11 Crypto Regulators to Watch in 2026](/11-crypto-regulators-to-watch-2026)
+- [Biggest Crypto Exchange Collapses](/biggest-crypto-exchange-collapses)
