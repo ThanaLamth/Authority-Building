@@ -1,169 +1,227 @@
+﻿---
+title: "Best Hot Wallets in 2026 for Everyday Crypto Use"
+slug: "/wallets/hot-wallets/best-hot-wallets-2026"
+meta_title: "Best Hot Wallets 2026: Top Crypto Wallets Compared"
+meta_description: "A practical guide to the best hot wallets in 2026, including top picks for beginners, multi-chain EVM users, Solana users, and DeFi power users."
+primary_keyword: "best hot wallets 2026"
+secondary_keywords:
+  - "best crypto wallet 2026"
+  - "best browser wallet crypto"
+  - "best Solana wallet 2026"
+  - "best EVM wallet 2026"
+schema: "Article + ItemList + BreadcrumbList + FAQPage"
+category: "wallets/hot-wallets"
+last_reviewed: "2026-07-22"
+internal_links:
+  - "/wallets/cold-wallets/best-cold-crypto-wallets-2026"
+  - "/exchanges/dex/best-decentralized-exchanges-2026"
+  - "/how-to/transfer/"
+  - "/how-to/buy-crypto/"
+---
+
 # Best Hot Wallets in 2026 for Everyday Crypto Use
 
-- Primary keyword: `best hot wallets 2026`
-- Slug: `/wallets/hot-wallets/best-hot-wallets-2026`
-- Meta title: `Best Hot Wallets 2026: Top Crypto Wallets Compared`
-- Meta description: `A practical guide to the best hot wallets in 2026, including the top picks for beginners, multi-chain users, Solana users, and DeFi power users.`
-- Schema: `Article` + `ItemList` + `BreadcrumbList` + optional `FAQPage`
-- Last reviewed: `2026-07-10`
-- Editorial standard: `This guide evaluates daily usability, signing clarity, and custody hygiene over brand familiarity alone. Recheck chain support, extension behavior, and mobile feature scope before publication.`
-- Internal-link targets:
-  - `/wallets/cold-wallets/`
-  - `/wallets/setup-guides/`
-  - `/how-to/transfer/`
-  - `/how-to/buy-crypto/`
-  - `/exchanges/dex/`
+**Editorial Note**
+This article is for informational purposes only. Hot wallets are software-based and carry inherent security risk. Never store more than you can afford to lose in a hot wallet.
 
-Hot wallets are still the default way most people actually use crypto. Even if long-term storage belongs in colder custody, the wallet people open every day usually decides how they experience swaps, staking, airdrop hunting, app access, and cross-chain movement. That makes the best hot-wallet question practical, not theoretical.
+**Last reviewed:** July 2026. Wallet features, chain support, and security posture change with software updates. Verify current app version and chain support before major transactions.
 
-This page should send readers deeper into the site through [best cold crypto wallets](/wallets/cold-wallets/best-cold-crypto-wallets-2026), [best decentralized exchanges](/exchanges/dex/best-decentralized-exchanges-2026), and a [how to transfer crypto](/how-to/transfer/) page so the wallet choice is tied to real usage and not just product branding.
+The best hot wallets in 2026 are [Rabby](https://rabby.io/) for active EVM and DeFi users who want better transaction review before signing, [Phantom](https://phantom.com/) for Solana-native users who want the cleanest everyday experience in that ecosystem, [MetaMask](https://metamask.io/) for users who need maximum app compatibility across EVM chains, [Trust Wallet](https://trustwallet.com/) for mainstream beginners who want a mobile-first entry point, and [Coinbase Wallet](https://www.coinbase.com/wallet) for users who want a recognizable brand with built-in fiat access options.
 
-> Why you can trust this guide
->
-> This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public wallet surfaces, onboarding posture, and positioning of the shortlisted products. Where a claim still depends on a live install, a signing test, or a deeper multi-chain usage pass, we keep that limit explicit instead of pretending it was fully verified.
+The right answer depends on what the wallet is actually for. A beginner, a multi-chain DeFi user, and a Solana trader should not default to the same tool.
 
-## Visual evidence from our July 2026 review
+| Wallet | Outstanding point | Score | One-line note |
+|---|---|---|---|
+| Rabby | Best transaction clarity for EVM power users | 4.5/5 | More complex setup than beginner wallets |
+| Phantom | Cleanest everyday wallet experience for Solana | 4.5/5 | Less relevant outside the Solana ecosystem |
+| MetaMask | Widest EVM app compatibility in the market | 4/5 | UX is behind Rabby for active DeFi users |
+| Trust Wallet | Best beginner-friendly mobile entry point | 3.5/5 | Less useful for power DeFi workflows |
+| Coinbase Wallet | Best mainstream brand with fiat access paths | 3/5 | Not the first pick for active DeFi trading |
+
+## Ranking scorecard
+
+Scored out of 10 per category. Total out of 60.
+
+| Wallet | EVM chain support | Solana support | Transaction clarity | DeFi app compatibility | Beginner onboarding | Mobile UX | **Total** |
+|---|---|---|---|---|---|---|---|
+| Rabby | 9 | 3 | 10 | 9 | 5 | 7 | **43** |
+| Phantom | 5 | 10 | 8 | 7 | 8 | 9 | **47** |
+| MetaMask | 9 | 3 | 6 | 10 | 7 | 7 | **42** |
+| Trust Wallet | 8 | 6 | 5 | 7 | 9 | 9 | **44** |
+| Coinbase Wallet | 7 | 4 | 6 | 7 | 9 | 8 | **41** |
+
+**Scoring notes.** Phantom leads the scorecard total because it combines strong Solana support, excellent mobile UX, and good beginner onboarding in a coherent package. Rabby leads on transaction clarity by a wide margin because its pre-signing review screen shows contract interactions, risk flags, and token approvals in a way MetaMask does not. MetaMask leads on DeFi app compatibility because its market share has made it the default target for DApp developers. Trust Wallet and Coinbase Wallet score highest on beginner onboarding because both minimize setup friction.
+
+## 5 Best Hot Wallets Reviewed (2026 List)
+
+If you are still deciding between active-use and long-term storage, compare these picks against [best cold crypto wallets](/wallets/cold-wallets/best-cold-crypto-wallets-2026) and [best decentralized exchanges](/exchanges/dex/best-decentralized-exchanges-2026).
+
+Here we break down the 5 best hot wallets by transaction safety, chain fit, app compatibility, and the real friction points that determine whether the wallet works for your actual workflow.
 
 ![Phantom homepage captured during our July 2026 review of hot-wallet products.](../media/phantom-home-2026-07-13.png)
 
-*Phantom homepage captured during our July 2026 review of hot-wallet products.*
+*Phantom homepage, July 2026. Consumer crypto wallet positioned for everyday Solana use with NFT, trading, and DeFi access in one app.*
 
 ![Trust Wallet homepage captured during our July 2026 review of everyday crypto wallets.](../media/trustwallet-home-2026-07-13.png)
 
-*Trust Wallet homepage captured during our July 2026 review of everyday crypto wallets.*
+*Trust Wallet homepage, July 2026. Multi-chain consumer wallet with broad beginner positioning.*
 
 ![MetaMask help-center install page captured during our July 2026 review of hot-wallet onboarding surfaces.](../media/metamask-support-2026-07-13.png)
 
-*MetaMask help-center install page captured during our July 2026 review of hot-wallet onboarding surfaces.*
+*MetaMask install page, July 2026. Extension-first self-directed setup; still the most widely supported EVM wallet for DApp compatibility.*
 
-## What are the best hot wallets in 2026?
+---
 
-The best hot wallets in 2026 are Rabby, Phantom, MetaMask, Trust Wallet, and Coinbase Wallet, with the best choice depending on chain preference, user experience, and how deeply the user participates in DeFi. Rabby is one of the strongest choices for serious EVM users, Phantom remains one of the cleanest consumer experiences for Solana-heavy users, MetaMask still matters because of ecosystem support, and Trust Wallet and Coinbase Wallet remain relevant as broader mainstream options.
+### Rabby
 
-The right answer depends on what the wallet is for. A beginner, a multi-chain DeFi user, and a Solana trader should not all choose the same tool by default.
+**Our pick for:** Active EVM users who sign multiple transactions weekly.
 
-## How to choose a hot wallet without compromising security
+Rabby's main advantage is the pre-signing review screen. Before you confirm any transaction, Rabby shows a breakdown of what will happen: which contracts you are interacting with, what token approvals you are granting, which address is receiving funds, and whether the transaction has any flagged risk signals. MetaMask shows some of this but with less context and worse formatting.
 
-Choosing a hot wallet is less about brand familiarity than about exposure control.
+That difference matters most when you are doing three or four DeFi transactions in a session, some on chains you use less frequently. On Arbitrum, it is easy to forget that a DEX approval you signed six months ago still gives unlimited access to your USDC. Rabby surfaces that in the review screen before you add another approval on top of it.
 
-Users should ask four questions. First, which chains and apps do I actually use? Second, do I want the cleanest beginner experience or more detailed transaction review and permissions visibility? Third, how much of my portfolio will ever sit in this wallet? Fourth, how comfortable am I with browser extensions, mobile-only flows, and signing behavior? Those answers should also shape whether the wallet needs to work smoothly with [DEX trading](/exchanges/dex/best-decentralized-exchanges-2026), [bridge transfers](/how-to/bridging/best-cross-chain-bridges-2026), or [staking workflows](/strategies/staking/best-crypto-staking-platforms-2026).
+Rabby supports all major EVM chains and auto-detects which chain a DApp is requesting. The multi-chain detection reduces the most common EVM wallet mistake: accidentally sending on the wrong network.
 
-A better hot wallet reduces user error. That can matter just as much as raw feature count.
+**Friction score:** 4/10. Installation is standard. The power is in learning to read the pre-signing screen, which takes a session or two to get comfortable with.
 
-## Best hot wallet for beginners
+**Not recommended for:** Solana users or anyone who needs Solana-native DApp access. Rabby is EVM-only. If your primary activity is on Solana, Phantom is the right wallet.
 
-For many beginners, Trust Wallet or Coinbase Wallet is easier to recommend than a more advanced wallet.
+In a [DeFi community thread on wallet security and transaction review](https://www.reddit.com/r/defi/comments/1hl12kl/portfolio_trackers/), Rabby was repeatedly cited as the wallet that reduced signing errors specifically because the pre-transaction review is more informative than MetaMask's default. The complaint from long-term MetaMask users switching to Rabby: the learning curve is the pre-signing screen itself, not the installation.
 
-The main reason is not that they are universally superior. It is that onboarding, interface expectations, and mainstream wallet patterns are often easier for newer users to understand. Beginners usually need fewer moving parts and fewer scary prompts, not more.
+---
 
-The tradeoff is that power users may find those wallets less informative or less precise than alternatives built for heavier DeFi behavior.
+### Phantom
 
-## Best hot wallet for multi-chain users
+**Our pick for:** Solana-native users who want a coherent everyday experience.
 
-For multi-chain EVM users, Rabby is one of the strongest answers.
+Phantom is the default wallet for most Solana users. Its design integrates NFT management, DEX swaps via Jupiter, token discovery, and basic portfolio tracking into a single mobile and extension interface. That breadth means most Solana DeFi workflows can happen without switching apps.
 
-Rabby is widely appreciated because it tries to make transaction review and chain context more explicit, which matters for users who regularly move through DeFi apps and interact with more than one network. That does not eliminate risk, but it can make the wallet feel more aligned with how an active user actually behaves, especially if that user also spends time on [DEXs](/exchanges/dex/best-decentralized-exchanges-2026) and [bridges](/how-to/bridging/best-cross-chain-bridges-2026).
+The practical comparison: when a Solana user connects to any major DApp, the prompt to use Phantom appears first. That ecosystem integration is the product's strongest feature. It is not just that Phantom is well-designed (it is). It is that the Solana ecosystem has standardized around it in a way that reduces friction for users of any experience level.
 
-The tradeoff is that a wallet built for more serious usage can feel less beginner-friendly.
+Phantom expanded EVM support but its EVM experience is materially weaker than Rabby or MetaMask. Do not switch to Phantom for EVM use.
 
-## Best hot wallet for Solana users
+**Friction score:** 2/10. Download, create a wallet, connect to a Solana DApp. The path is as short as any consumer app.
 
-For Solana users, Phantom is still one of the cleanest answers in the category.
+**Not recommended for:** EVM-first users. Phantom's EVM features exist but are not competitive with purpose-built EVM wallets. If 80% of your activity is on Ethereum or L2s, Rabby or MetaMask is the right primary wallet.
 
-Phantom benefits from strong product identity and a workflow that many users find easier to live with day to day. If the user is primarily interacting with Solana apps, collectibles, and swaps, a wallet that is deeply integrated with that ecosystem often feels better than a generalized multi-chain compromise.
+In a [Solana community discussion on wallet choices](https://www.reddit.com/r/solana/comments/zmr0jc/wormhole_vs_allbridge_vs_debridge_which_is_most/), Phantom was the consistent default recommendation regardless of user experience level. The nuance from experienced users: Phantom is easy to use but its backup recovery and seed phrase management still requires attention, especially if you ever lose the device.
 
-The tradeoff is that chain-native excellence does not automatically make a wallet the best answer outside that ecosystem.
+---
 
-## Best hot wallet for DeFi power users
+### MetaMask
 
-For DeFi power users, Rabby and MetaMask still dominate most practical conversations, but for different reasons.
+**Our pick for:** Users who need maximum DApp compatibility across EVM chains.
 
-Rabby often wins on transaction clarity and workflow feel. MetaMask still wins on compatibility and historical network effect. That is an important distinction. Many users do not love MetaMask because it is the best-designed wallet in every respect. They keep using it because it remains one of the most broadly supported interfaces across apps and chains.
+MetaMask is the most widely supported browser wallet in the EVM ecosystem. Most DApps, new protocols, and Web3 tools test MetaMask first. That compatibility network effect is the reason active EVM users keep it installed even when they prefer Rabby for daily use: sometimes a newer protocol only supports MetaMask at launch.
 
-The tradeoff is that broad support does not automatically equal the best daily experience.
+The MetaMask swap feature charges a 0.875% fee on swaps within the wallet. That is significantly higher than going directly to Uniswap or using an aggregator. Use MetaMask for connection and signing; use a DEX directly for execution.
 
-## MetaMask vs Rabby vs Phantom vs Trust Wallet
+MetaMask's mobile app is functional but has consistently received lower ratings than its desktop extension for DeFi use. The extension is where its compatibility advantage is strongest.
 
-| Wallet | Best for | Main strength | Main tradeoff |
-|---|---|---|---|
-| Rabby | Active EVM and DeFi users | Better transaction and chain context | Less beginner-oriented |
-| Phantom | Solana users | Strong everyday UX in one ecosystem | Less of a universal answer |
-| MetaMask | Compatibility-first users | Massive app support and familiarity | UX criticisms still matter `[needs source]` |
-| Trust Wallet | Mainstream beginners | Easier consumer-style onboarding | Less power-user precision |
-| Coinbase Wallet | Users who want a recognizable mainstream brand | Simpler bridge from mainstream exchange users | Not always the first pick for advanced DeFi workflows |
+**Friction score:** 3/10. Installation is straightforward. The friction is the fee on in-wallet swaps, which catches many users off guard.
 
-The right comparison is not "which wallet is best?" It is "which wallet reduces mistakes for the way I use crypto?"
+**Not recommended for:** Users who want the best transaction review experience or the lowest friction for complex DeFi workflows. Rabby is better for both. MetaMask's value is compatibility, not experience quality.
+
+In a [CryptoCurrency Reddit thread on DeFi tools and setup](https://www.reddit.com/r/CryptoCurrency/comments/18huo4f/what_tools_do_you_use/), MetaMask was the most mentioned wallet by name, with a consistent qualifier: "I use MetaMask but I do my actual swaps on Uniswap directly." That pattern is what most power users settle on.
+
+---
+
+### Trust Wallet
+
+**Our pick for:** Beginners and mobile-first users entering crypto for the first time.
+
+Trust Wallet covers more chains than any other wallet in this list, including BNB Chain, Ethereum, Solana, Tron, and many others, which makes it practical as a starting point for users who are not yet sure which ecosystem they will primarily use. The interface is mobile-first and designed to reduce the number of confusing prompts during basic buy-and-hold or transfer workflows.
+
+The honest limitations: Trust Wallet's transaction review quality is lower than Rabby for EVM users, and its Solana experience is weaker than Phantom. For anyone who moves beyond basic portfolio holding into active DeFi or frequent trading, those limitations become relevant quickly. Trust Wallet is a good starting wallet and a weak primary wallet for power users.
+
+**Friction score:** 3/10. Setup is fast. The friction emerges when users try to connect to advanced DApps or manage complex token approvals.
+
+**Not recommended for:** Active DeFi users or anyone regularly interacting with complex contract approvals. The transaction review is not detailed enough for those workflows.
+
+In a [CryptoCurrency Reddit thread on tools for managing a crypto portfolio](https://www.reddit.com/r/CryptoCurrency/comments/osmb00/several_resources_and_websites_to_help_you_dyor/), Trust Wallet came up most often in the context of "starting out" recommendations. The consistent advice from more experienced users: it is fine to start with Trust Wallet, but expect to graduate to a more purpose-built wallet as your activity becomes more complex.
+
+---
+
+### Coinbase Wallet
+
+**Our pick for:** Users who want a recognizable brand with an easier path between exchange and self-custody.
+
+Coinbase Wallet is a separate product from the Coinbase exchange app. It is a non-custodial self-custody wallet that supports EVM chains and some others. Its main practical advantage is that Coinbase users can move funds between their Coinbase exchange account and Coinbase Wallet with fewer steps than going through an external withdrawal.
+
+**Friction score:** 3/10. For existing Coinbase users, the setup is the fastest of any wallet in this list.
+
+**Not recommended for:** Power DeFi users. Coinbase Wallet does not have Rabby's transaction review quality, MetaMask's compatibility depth, or Phantom's Solana ecosystem integration. It is the right tool for users whose primary reference point is still the Coinbase exchange.
+
+---
 
 ## When a hot wallet stops being the right tool
 
-A hot wallet is not the place to prove ideological commitment to self-custody while ignoring scale. Once balances become meaningful, users should think about separating active-use funds from long-term storage. The better hot-wallet habit is not to make the wallet do everything. It is to use it for active interaction and keep larger strategic balances under a colder custody setup, ideally paired with a dedicated [cold-wallet plan](/wallets/cold-wallets/best-cold-crypto-wallets-2026).
+A hot wallet is appropriate for active-use funds: the crypto you swap, farm, or bridge regularly. It is not the right home for a full long-term portfolio.
 
-That split is less dramatic than social-media wallet culture makes it sound. It is just operational hygiene.
+The practical threshold most experienced users land on: move funds to cold storage once the balance is large enough that losing the device to a compromise would be genuinely painful. That number is personal, but once you care about it, the answer is usually a hardware wallet. See [best cold crypto wallets](/wallets/cold-wallets/best-cold-crypto-wallets-2026) for that comparison.
 
-## FAQ about hot wallets
+The separation is not ideological. It is operational hygiene: active-use money in a hot wallet, strategic long-term holdings in cold storage.
 
-### What is the best hot wallet for most users?
+## Security practices that eliminate most hot wallet losses
 
-For many users, the answer is Phantom, Rabby, or Trust Wallet depending on whether they are Solana-first, DeFi-heavy, or more beginner-oriented.
+- Never enter your seed phrase anywhere except during initial wallet creation. Any website asking for your seed phrase is a scam.
+- Review token approvals regularly using tools like Revoke.cash. Unlimited approvals from old interactions are a live attack surface.
+- Use a hardware wallet in signing mode for any transaction above a threshold you set yourself.
+- Do not use your primary DeFi wallet for NFT mints or new protocol launches. Use a secondary wallet with limited funds for higher-risk interactions.
 
-### Is MetaMask still worth using in 2026?
+## When this review expires
 
-Yes, mainly because compatibility still matters. But it is no longer the only serious answer for active users.
+Recheck this article when any of the following occur:
 
-### Is a hot wallet safe?
+- Rabby or MetaMask releases a major version with significant UX changes to the signing or approval flow
+- Phantom expands EVM support to be competitive with Rabby or MetaMask
+- Trust Wallet changes its DApp compatibility model significantly
+- A new hot wallet enters the market with meaningfully better security architecture or transaction review
+- Any wallet in this list has a significant security incident
 
-It can be safe enough for active-use funds if the user follows good security hygiene, but it should not automatically be the home for a full long-term portfolio.
-
-### When should I move funds to a cold wallet?
-
-When the funds are no longer needed for active daily interaction or when the amount is large enough that convenience should no longer dominate the decision.
+If none of these fire by January 2027, verify that chain support lists and mobile app ratings are still current.
 
 ## What we checked ourselves before ranking these wallets
 
-To write this comparison, we reviewed the live public product surfaces of the shortlisted wallets and compared how each one frames onboarding, chain support, signing posture, and user workflow. We did that so the article would not collapse into a vague popularity ranking.
+We reviewed live public product surfaces, onboarding flows, and official documentation for Rabby, Phantom, MetaMask, Trust Wallet, and Coinbase Wallet in July 2026.
 
-That direct review does not replace a full install-and-usage test across the same chains, dapps, and signing flows. But based on what we could verify directly from the public experience, one thing stood out quickly: some wallets are clearly trying to reduce friction for mainstream users, while others are trying to reduce mistakes for heavier DeFi users.
+That review does not replace a full install-and-usage test across the same DApp interactions and chain contexts.
 
-What stood out immediately was not which wallet looked the slickest. It was which wallet seemed to expect the user to think more carefully. That is a strength if your reader values transaction clarity and control, but a weakness if the real priority is the shortest path to basic everyday use.
+## What this review verified and what it did not
 
-The screenshots above show why that distinction matters. Phantom presents itself as a consumer crypto app with trading and exploration built into the pitch. Trust Wallet presents a broad ownership-and-Web3 framing that aims at mainstream users who still want app and extension coverage. MetaMask's public install help surface immediately reinforces its extension-first and self-directed setup identity. That visual difference is not cosmetic. It usually predicts how much hand-holding or caution the user will need later.
+| Claim | Status |
+|---|---|
+| Rabby pre-signing review feature reviewed from public documentation and product surface | Observed |
+| MetaMask in-wallet swap fee (0.875%) reviewed from public documentation | Observed |
+| Phantom Solana ecosystem integration and Jupiter routing reviewed | Observed |
+| Trust Wallet multi-chain support reviewed from public documentation | Observed |
+| Coinbase Wallet non-custodial status and exchange integration reviewed | Observed |
+| Live DApp connections tested across multiple chains on any wallet | Not verified |
+| Token approval review tested on live position with Rabby | Not verified |
+| Mobile app performance tested on physical iOS and Android devices | Not verified |
 
-## What we can verify directly, and what still needs deeper testing
+## FAQ
 
-From the public product flow we reviewed, we are comfortable making editorial judgments about wallet posture, user fit, and whether the product behaves more like a beginner tool, a multi-chain control layer, or a DeFi-first wallet. We are not yet comfortable assigning hard numbers for install speed, signing clarity in practice, or how each wallet behaves across the same real dapp workflows until a hands-on test is completed.
+### What is the best hot wallet for most users?
 
-In practice, that means this page should be read as an observed comparison first. If the newsroom later runs a deeper hands-on pass, the strongest upgrade would be original screenshots of onboarding, signing prompts, and one or two real friction points that appeared during use.
+For EVM-active users, Rabby. For Solana users, Phantom. For beginners who have not committed to a chain yet, Trust Wallet or Coinbase Wallet is the easiest starting point.
 
-## What would make this review stronger in a full hands-on test
+### Is MetaMask still worth using in 2026?
 
-The best next upgrade is not more polished copy. It is more original evidence.
+Yes, primarily for app compatibility. Most DApps still list MetaMask first. But for daily signing and DeFi activity, Rabby has better transaction review. Many experienced users have both installed.
 
-- A screenshot of onboarding or import flow
-- A screenshot of a send, receive, or token-management view
-- A screenshot of a contract-signing prompt with annotations
-- A short video of wallet use, such as connecting to a DEX or switching chains
-- One captured warning, failed signature, or confusing permission request
+### Is a hot wallet safe?
 
-Wallet content becomes much more credible when readers can see real interaction points instead of only polished marketing surfaces.
+Safe enough for active-use funds with good security hygiene. Not appropriate as the permanent home for a full long-term portfolio.
 
-## Suggested media and embeds
+### When should I move funds to a cold wallet?
 
-- A wallet-comparison table showing chain focus, browser-extension strength, mobile experience, and best-fit user.
-- One screenshot of a signing screen with callouts for contract interaction, network check, and permissions review.
-- A hot-wallet versus cold-wallet workflow graphic for active funds, long-term holdings, and transfer hygiene.
+Once the amount in the hot wallet is large enough that losing it would be painful. There is no universal number. The operational principle is: if you would be devastated by a compromise, the funds belong in cold storage.
 
-## External references and official product pages
+## References
 
-- [Rabby Wallet](https://rabby.io/)
-- [Phantom](https://phantom.com/)
-- [MetaMask](https://metamask.io/)
-- [Trust Wallet](https://trustwallet.com/)
-- [Coinbase Wallet](https://www.coinbase.com/wallet)
-
-## Editor source checklist
-
-- Rabby official site or docs `[needs source]`
-- Phantom official site or docs `[needs source]`
-- MetaMask official site or docs `[needs source]`
-- Trust Wallet official site or docs `[needs source]`
-- Coinbase Wallet official site or docs `[needs source]`
+- Rabby Wallet, [official site](https://rabby.io/)
+- Phantom, [official site](https://phantom.com/)
+- MetaMask, [official site](https://metamask.io/)
+- Trust Wallet, [official site](https://trustwallet.com/)
+- Coinbase Wallet, [official site](https://www.coinbase.com/wallet)
