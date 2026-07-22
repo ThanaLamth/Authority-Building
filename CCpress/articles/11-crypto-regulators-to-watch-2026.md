@@ -1,4 +1,4 @@
-﻿---
+---
 title: "12 Crypto Regulators to Watch in 2026"
 slug: "/crypto-regulators-to-watch-2026"
 meta_title: "Crypto Regulators to Watch 2026: 12 Names That Matter"
@@ -42,7 +42,7 @@ Six months after MiCA went live, ESMA is already revising the rulebook. The SEC 
 | VARA (Dubai) | Purpose-built crypto licensing model, globally watched | 3/5 | Watched by competitors as much as by applicants |
 | MAS Singapore | Sets institutional credibility standard for Asia | 4/5 | Selective and conservative by design: that is the signal |
 | Hong Kong SFC | Controls Asia exchange licensing and market access | 3.5/5 | Caught between global ambition and political constraints |
-| U.S. Congress | Stablecoin or market structure bill would reprice everything | 3.5/5 | One bill away from changing the U.S. operating baseline |
+| U.S. Congress | GENIUS Act stablecoin law enacted; CLARITY Act market structure bill pending Senate floor | 3.5/5 | Stablecoin rules are now law; SEC-CFTC jurisdictional question is the remaining bill |
 | Bank and payments supervisors | Control fiat access; the real kill switch | 3.5/5 | Products that lose banking access do not survive |
 
 ## Ranking scorecard
@@ -228,11 +228,11 @@ The unresolved tension for the HK SFC is between its positioning as a global fin
 
 [Congress](https://www.congress.gov) is not a regulator in the narrow sense. It is the institution that could redraw the regulatory map entirely. Stablecoin legislation, if passed, would clarify whether stablecoins are securities, how reserves must be held, and who supervises issuers. Market structure legislation would resolve the SEC-CFTC jurisdictional overlap.
 
-The [GENIUS Act](https://www.congress.gov/search?q=%7B%22congress%22%3A%22119%22%2C%22search%22%3A%22GENIUS+Act%22%7D) -- the stablecoin bill -- cleared the Senate Banking Committee in March 2026 but had not reached a floor vote as of July 2026. The market structure bill tracking the SEC-CFTC jurisdictional line is further behind. Both remain active. If either moves through a vote, it changes the U.S. operating baseline faster than any enforcement action or guidance could.
+The [GENIUS Act](https://www.congress.gov/bill/119th-congress/senate-bill/1582) -- the federal stablecoin law -- is already enacted. Signed by President Trump on July 18, 2025 (Pub. L. 119-27), it cleared the Senate 68-30 and the House 308-122 before taking effect. The law establishes a federal licensing and supervisory framework for payment stablecoin issuers and requires 100% reserve backing. Implementing regulations from Treasury and the federal banking agencies are due by July 18, 2026. The [CLARITY Act](https://www.congress.gov/bill/119th-congress/house-bill/3633) -- the market structure bill addressing the SEC-CFTC jurisdictional overlap -- passed the House in July 2025, cleared the Senate Banking Committee on May 14, 2026 (15-9), and sits on the Senate Legislative Calendar (No. 423) as of July 2026 without a floor vote scheduled. Three unresolved disputes -- including a provision on government officials' crypto holdings -- are blocking the seven to nine Democratic votes needed for cloture. If the CLARITY Act reaches a Senate floor vote before the August 2026 recess, it changes the U.S. operating baseline for exchange licensing, token classification, and the SEC-CFTC split faster than any enforcement action could.
 
-![Congress.gov GENIUS Act bill status reviewed during our July 2026 analysis.](../media/2026-07-21/congress-genius-act-2026-07-21.png)
+![Congress.gov GENIUS Act enacted legislation and CLARITY Act Senate calendar status reviewed during our July 2026 analysis.](../media/2026-07-21/congress-genius-act-2026-07-21.png)
 
-*Congress.gov GENIUS Act bill status page, July 2026: Senate Banking Committee vote record and floor schedule status reviewed directly.*
+*Congress.gov GENIUS Act enacted legislation page (Pub. L. 119-27) and CLARITY Act Senate calendar status, July 2026: law signed July 18, 2025; market structure bill at Calendar No. 423 with no floor vote scheduled.*
 
 When drafts of anonymous wallet restrictions circulated in 2021, the community's reaction was among the largest in that cycle. [A post warning that both the EU and U.S. were moving to criminalize anonymous wallets](https://www.reddit.com/r/CryptoCurrency/comments/ogi0c4/both_eu_and_us_are_planning_to_make_private/) gathered 3,844 upvotes and 1,255 comments. The top comment, 'Private wallets illegal, dang I just lost my private keys in a boating accident too' with 1,684 upvotes, was darkly joking, but the thread underneath it was not. Users described forced exchange custody as 'the new banks' and argued that any legislation requiring wallets to be KYC-tied would transfer meaningful asset control from holders to institutions. Congress has not passed that legislation, but the structural pressure behind it has not disappeared. If a market structure bill moves in the second half of 2026, self-custody provisions will be the most contested section.
 
@@ -272,7 +272,7 @@ For the power map of the people running the companies closest to these levers, t
 
 ## Why you can trust this guide
 
-This article is based on live public regulatory material reviewed in July 2026, updated July 21, 2026. We directly accessed the SEC Crypto Task Force page and March 17 statement, the CFTC digital assets page, the FCA cryptoasset regime publications, the ESMA MiCA page, the European Commission's targeted MiCA review consultation, the EBA MiCA supervision tracker, the HM Treasury financial services policy page, the VARA licensing portal, the MAS digital payment token register, the HK SFC VASP list, the Congress.gov GENIUS Act bill status page, and the Federal Reserve and OCC crypto guidance pages. Where a claim would need closed-door policy context, private legislative negotiation detail, or a post-July 21 rule update, it should be verified again before publication.
+This article is based on live public regulatory material reviewed in July 2026, updated July 21, 2026. We directly accessed the SEC Crypto Task Force page and March 17 statement, the CFTC digital assets page, the FCA cryptoasset regime publications, the ESMA MiCA page, the European Commission's targeted MiCA review consultation, the EBA MiCA supervision tracker, the HM Treasury financial services policy page, the VARA licensing portal, the MAS digital payment token register, the HK SFC VASP list, the Congress.gov GENIUS Act enacted legislation page and CLARITY Act Senate calendar status, and the Federal Reserve and OCC crypto guidance pages. Where a claim would need closed-door policy context, private legislative negotiation detail, or a post-July 21 rule update, it should be verified again before publication.
 
 ## What we checked ourselves before ranking these regulators
 
@@ -300,11 +300,11 @@ What stood out across the July 21 review was not any single regulator's announce
 | MAS approved vs. exempted entity distinction verified on register | Observed (July 21) |
 | HK SFC VASP licensing list reviewed and screenshot captured | Observed (July 21) |
 | HK SFC mandatory local presence requirement verified against licensing conditions | Observed (July 21) |
-| Congress.gov GENIUS Act bill status and Senate Banking Committee vote reviewed | Observed (July 21) |
+| Congress.gov GENIUS Act (Pub. L. 119-27) enacted legislation and CLARITY Act Senate calendar (No. 423) status reviewed | Observed (July 21) |
 | Federal Reserve and OCC crypto guidance pages reviewed and screenshot captured | Observed (July 21) |
 | OCC vs. Federal Reserve posture divergence verified | Observed (July 21) |
 | VARA full vs. provisional license breakdown verified on public register | Observed (July 21) |
-| GENIUS Act floor vote date | Not verified: bill cleared committee; floor timing unconfirmed |
+| CLARITY Act Senate floor vote date | Not verified: bill on Senate calendar; floor scheduling and cloture timing unconfirmed as of July 21 |
 | VARA, MAS, HK SFC behind-closed-door licensing rationale | Not verified |
 | UK Treasury internal DeFi policy deliberation | Not verified |
 | Behind-the-scenes legislative bargaining context | Not verified |
@@ -332,9 +332,11 @@ No. VARA, MAS, and the HK SFC are included specifically because Asia-Pacific and
 
 Approved entities have completed the full MAS licensing assessment and hold a digital payment token service license. Exempted entities are operating under transitional relief while their applications remain under review or have been conditionally extended. An exempted entity can legally offer services but has not cleared the full licensing threshold. For counterparties doing due diligence, the specific status on the MAS register -- not just the presence on it -- is the check that matters.
 
-### How close is the GENIUS Act to becoming law as of July 2026?
+### What is the status of the GENIUS Act and the CLARITY Act as of July 2026?
 
-The GENIUS Act cleared the Senate Banking Committee in March 2026 but had not reached a floor vote as of July 21, 2026. Senate floor scheduling and the second-half legislative calendar determine whether it moves this year. A floor vote followed by House reconciliation could produce a signed bill before year end; a delay past the November recess makes 2027 the more realistic window.
+The GENIUS Act is already law. President Trump signed it on July 18, 2025 (Pub. L. 119-27) after the Senate passed it 68-30 and the House 308-122 during Congress's July 2025 Crypto Week. It establishes the first federal licensing framework for payment stablecoin issuers. Implementing regulations from Treasury and the federal banking agencies carry a statutory deadline of July 18, 2026.
+
+The CLARITY Act -- the market structure bill addressing the SEC-CFTC jurisdictional split -- is still pending. It passed the House in July 2025 and cleared the Senate Banking Committee on May 14, 2026 (15-9). As of July 2026, it sits on the Senate Legislative Calendar at Calendar No. 423 with no floor vote scheduled and no cloture motion filed. Analysts tracking the bill note that missing an August 2026 vote would likely push final passage to 2027 or beyond.
 
 ### What does the OCC-Federal Reserve divergence mean for crypto firms seeking banking relationships?
 
@@ -356,7 +358,8 @@ OCC guidance allows nationally chartered banks to provide crypto custody and set
 - VARA, [Licensing Portal](https://www.vara.ae/en/licensing/)
 - MAS, [Digital Payment Token Services](https://www.mas.gov.sg/regulation/digital-payment-token-services)
 - HK SFC, [Virtual Asset Trading Platforms](https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Virtual-assets)
-- U.S. Congress, [GENIUS Act](https://www.congress.gov/search?q=%7B%22congress%22%3A%22119%22%2C%22search%22%3A%22GENIUS+Act%22%7D)
+- U.S. Congress, [GENIUS Act, Pub. L. 119-27](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
+- U.S. Congress, [CLARITY Act, H.R. 3633](https://www.congress.gov/bill/119th-congress/house-bill/3633)
 - Federal Reserve, [Crypto Asset Supervision](https://www.federalreserve.gov/supervisionreg/topics/cryptocurrencies.htm)
 - OCC, [Financial Technology](https://www.occ.gov/topics/charters-and-licensing/financial-technology/index-fintech.html)
 
