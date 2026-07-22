@@ -85,13 +85,13 @@ Below, each issuer is reviewed against reserve design, distribution model, risk 
 
 USDT is the backbone of global crypto liquidity. The [DeFiLlama stablecoin dashboard](https://defillama.com/stablecoins) consistently shows USDT accounting for more than 50% of tracked stablecoin TVL across chains.
 
-Reserve composition has shifted toward higher T-bill concentration per the most recent attestation, but the mix remains broader than Circle's. No formal US regulatory framework applies to Tether directly.
+Reserve composition has shifted toward higher T-bill concentration per the [most recent quarterly attestation](https://tether.to/en/transparency) -- approximately 84% in US Treasury bills and cash equivalents as of Q1 2026, but the mix remains broader than Circle's. No formal US regulatory framework applies to Tether directly.
 
 Retail access is exclusively through secondary markets. Chain distribution spans Tron, Ethereum, Solana, and others, with Tron dominant for emerging-market settlement and Ethereum for DeFi collateral.
 
 Two structural risks persist: reserve composition opacity relative to regulated alternatives, and counterparty concentration. Neither has triggered a supply-side crisis, but both remain relevant to any collateral quality assessment.
 
-USDT's market role is unambiguous: it is the settlement layer for the majority of spot and derivatives volume on centralized exchanges. That dominance shapes everything downstream from exchange pair construction to DeFi collateral weighting.
+USDT is not directly purchasable from Tether; retail access is exclusively through secondary market exchanges and OTC desks. USDT's market role is unambiguous: it is the settlement layer for the majority of spot and derivatives volume on centralized exchanges. That dominance shapes everything downstream from exchange pair construction to DeFi collateral weighting.
 
 ![Tether transparency page showing reserve disclosure information for USDT](../media/tether-transparency-2026-07-17.png)
 
@@ -99,11 +99,11 @@ USDT's market role is unambiguous: it is the settlement layer for the majority o
 
 ### 2. Circle (USDC)
 
-USDC reserves are 100% US dollar-denominated short-term T-bills and cash, segregated from Circle's operating assets, with monthly attestations by Grant Thornton. The reserve model is simpler and more transparent than Tether's.
+USDC reserves are 100% US dollar-denominated short-term T-bills and cash, segregated from Circle's operating assets, with monthly attestations by Grant Thornton. Reserve reports and institutional access details are published on [Circle's USDC product page](https://www.circle.com/usdc). The reserve model is simpler and more transparent than Tether's.
 
 The March 2023 SVB event demonstrated USDC's exposure to banking-sector counterparty risk even with strong reserve design. Post-event, Circle shifted further toward direct T-bill custody rather than bank-deposit concentration.
 
-USDC's market role has evolved toward institutional infrastructure and payment-layer adoption. It is the preferred stablecoin for regulated payment products, institutional treasury management, and onchain payroll structures.
+Circle's Cross-Chain Transfer Protocol (CCTP) allows native USDC to move between chains without wrapping, reducing bridge counterparty risk for institutions. USDC is natively available on 15+ chains including Ethereum, Solana, Base, Polygon, Arbitrum, Avalanche, and Optimism. USDC's market role has evolved toward institutional infrastructure and payment-layer adoption. It is the preferred stablecoin for regulated payment products, institutional treasury management, and onchain payroll structures.
 
 A [CryptoCurrency Reddit thread by an eight-year industry veteran](https://www.reddit.com/r/CryptoCurrency/comments/1t6djf8/ive_worked_in_crypto_for_8_years_circle_messari/) who worked across Circle, Messari, and Coinbase noted that stablecoins became the dollar rails traditional finance was not yet offering onchain.
 
@@ -117,7 +117,7 @@ That framing describes USDC's actual market position more accurately than any pr
 
 Sky is the rebranded Maker protocol, issuing USDS alongside legacy DAI. Collateral is posted onchain, and dollar supply expands and contracts based on collateral ratios maintained by smart contract logic. There is no centralized reserve custodian.
 
-The protocol oversees over $7.8 billion in stablecoin liabilities across DAI and USDS. Access is permissionless: no minimum, no KYC, no issuer counterparty beyond the smart contract itself.
+The protocol oversees over $7.8 billion in stablecoin liabilities across DAI and USDS. Access is permissionless through [sky.money](https://sky.money): no minimum, no KYC, no issuer counterparty beyond the smart contract itself. The protocol's sUSDS savings rate has ranged between 5% and 8.5% annualized in 2025-2026, distributed automatically to depositors with no lockup.
 
 Governance risk and smart contract risk replace issuer risk. A governance attack or flawed collateral parameter can cause undercollateralization at scale, which is why Sky maintains surplus buffers and stability fees as automatic stabilizers.
 
@@ -131,7 +131,7 @@ Kraken migrated all MakerDAO (MKR) balances to Sky Protocol (SKY) as part of a n
 
 ### 4. Ethena (USDe)
 
-USDe maintains its dollar value through continuous hedging: Ethena holds spot ETH and BTC while maintaining short perpetual futures positions. There is no dollar in a bank. The yield comes from funding rates paid by perpetual longs.
+USDe maintains its dollar value through continuous hedging: Ethena holds spot ETH and BTC while maintaining short perpetual futures positions. Full protocol mechanics and live yield data are on [Ethena's protocol page](https://ethena.fi). There is no dollar in a bank. The yield comes from funding rates paid by perpetual longs.
 
 The yield-bearing version (sUSDe) requires staking and is jurisdiction-restricted. Institutional access through whitelisted programs is available. Ethena is deployed on Ethereum and Solana.
 
@@ -139,7 +139,7 @@ The critical stress scenario is funding rate inversion combined with a spot-to-p
 
 A [DeFi community thread on fixed yield strategies](https://www.reddit.com/r/defi/comments/1s4t57g/how_to_lock_in_fixed_yield_in_defi_and_why_more/) noted that tokenized RWA yield and delta-neutral synthetic yield were converging as the two dominant predictable yield sources in 2025. The market treats USDe as structurally legitimate, not as an edge experiment.
 
-The reserve fund's buffer adequacy in a severe inversion event remains the key risk to watch.
+US persons are restricted from accessing sUSDe directly. The protocol's Insurance Fund held approximately $60 million as of mid-2026, designed to cover funding-rate inversion gaps. The reserve fund's buffer adequacy in a severe inversion event remains the key risk to watch.
 
 ![Ethena protocol homepage showing USDe synthetic dollar product and sUSDe yield structure](../media/ethena-fi-2026-07-17.png)
 
@@ -147,9 +147,9 @@ The reserve fund's buffer adequacy in a severe inversion event remains the key r
 
 ### 5. Paxos (USDP / PYUSD)
 
-Paxos converted its New York trust charter into a national trust charter supervised by the OCC (charter #25379) in December 2025. Reserve attestations are now issued by KPMG, replacing the previous auditor.
+Paxos converted its New York trust charter into a national trust charter supervised by the OCC (charter #25379) in December 2025. Reserve documentation, attestations, and issuer details are on the [Paxos stablecoins page](https://paxos.com/stablecoins). Reserve attestations are now issued by KPMG, replacing the previous auditor.
 
-PayPal's 10-K for FY2025 filed with the SEC describes PYUSD as available to PayPal and Venmo customers, referencing the GENIUS Act regulatory framework. PYUSD expanded to 70 markets through PayPal accounts in March 2026 and added Arbitrum in 2025.
+PayPal's 10-K for FY2025 filed with the SEC describes PYUSD as available to PayPal and Venmo customers, referencing the GENIUS Act regulatory framework. PYUSD expanded to 70 markets through PayPal and Venmo accounts in March 2026 and added Arbitrum in 2025. Retail users with PayPal accounts can hold, send, and convert PYUSD directly inside the PayPal app with no additional wallet setup.
 
 The OCC charter and KPMG attestation make Paxos the strongest regulatory posture in this comparison. The relevant risk is operational: PYUSD's success depends on PayPal merchant adoption, and USDP supply has remained modest despite compliance strength.
 
@@ -161,13 +161,13 @@ The market role is infrastructure, not liquidity dominance. Paxos shapes the com
 
 ### 6. Ripple (RLUSD)
 
-RLUSD received JFSA regulatory approval in June 2026, launching in Japan through SBI VC Trade. Since its late 2024 launch, RLUSD has reached $1.7 billion in market capitalization.
+RLUSD received JFSA regulatory approval in June 2026, launching in Japan through SBI VC Trade. Full product details and payment-rail integration documentation are on the [Ripple RLUSD page](https://ripple.com/rlusd). Since its late 2024 launch, RLUSD has reached $1.7 billion in market capitalization.
 
 Exchange listings include Kraken, Binance, Bitstamp, LMAX Digital, Zero Hash, and Bullish. Ripple integrated RLUSD into its Ripple Payments platform, onboarding BKK Forex and iSend for live cross-border settlement.
 
 RLUSD is still in early distribution relative to established issuers. The NYDFS authorization plus JFSA approval give it dual-jurisdiction regulatory clarity that few competitors can match.
 
-The strategic positioning is as the dollar layer for Ripple's existing payment network client base, extending XRP Ledger infrastructure toward regulated dollar settlement. Proof of durable merchant adoption beyond initial partners is still accumulating.
+Retail and institutional access to RLUSD is through listed exchanges: Kraken, Binance, Bitstamp, LMAX Digital, Zero Hash, and Bullish. Direct mint and redemption is reserved for Ripple Payments enterprise clients. The strategic positioning is as the dollar layer for Ripple's existing payment network client base, extending XRP Ledger infrastructure toward regulated dollar settlement. Proof of durable merchant adoption beyond initial partners is still accumulating.
 
 ![Ripple RLUSD product page showing payments-focused stablecoin framing and XRP Ledger integration](../media/ripple-rlusd-2026-07-17.png)
 
@@ -175,9 +175,9 @@ The strategic positioning is as the dollar layer for Ripple's existing payment n
 
 ### 7. First Digital (FDUSD)
 
-FDUSD's market cap collapsed from .8 billion to approximately  million through 2025-2026. Binance reduced its zero-fee promotional program, and an April 2025 depeg to .87 triggered by Justin Sun's insolvency allegations caused  in immediate losses.
+Issuer documentation and reserve framework are on [First Digital Labs](https://firstdigitallabs.com). FDUSD's market cap collapsed from approximately $2.8 billion to under $300 million through 2025-2026. Binance reduced its zero-fee promotional program, and an April 2025 depeg to .87 triggered by Justin Sun's insolvency allegations caused  in immediate losses.
 
-On-chain data estimates 94% of FDUSD supply is concentrated on Binance. Wintermute pulled more than $30 million out during the depeg event. That exchange-concentration risk is the defining structural question.
+FDUSD is practically only accessible through Binance and a small number of APAC exchanges; there is no meaningful secondary market elsewhere. On-chain data estimates 94% of FDUSD supply is concentrated on Binance. Wintermute pulled more than $30 million out during the depeg event. That exchange-concentration risk is the defining structural question.
 
 In April 2026, HKMA granted Hong Kong's first stablecoin licences to Anchorpoint Financial (Standard Chartered/HKT/Animoca JV) and HSBC. First Digital was not in this initial batch, operating under the older Trustee Ordinance rather than the new Stablecoins Ordinance.
 
@@ -214,11 +214,11 @@ What was not verified: full reserve attestation document review in detail, and i
 ## Source notes
 
 - [DeFiLlama stablecoin dashboard](https://defillama.com/stablecoins), checked 2026-07-17
-- Tether transparency page (tether.to/en/transparency), checked 2026-07-17
-- Circle USDC product page (circle.com/usdc), checked 2026-07-17
-- Sky.money product page (sky.money), checked 2026-07-17
-- Ethena protocol page (ethena.fi), checked 2026-07-17
-- Paxos stablecoins page (paxos.com/stablecoins), checked 2026-07-17
-- Ripple RLUSD page (ripple.com/rlusd), checked 2026-07-17
-- First Digital Labs (firstdigitallabs.com), checked 2026-07-17
-- The Defiant: APAC tokenized asset and stablecoin distribution coverage (thedefiant.io), 2026
+- [Tether transparency page](https://tether.to/en/transparency), checked 2026-07-17
+- [Circle USDC product page](https://www.circle.com/usdc), checked 2026-07-17
+- [Sky.money product page](https://sky.money), checked 2026-07-17
+- [Ethena protocol page](https://ethena.fi), checked 2026-07-17
+- [Paxos stablecoins page](https://paxos.com/stablecoins), checked 2026-07-17
+- [Ripple RLUSD page](https://ripple.com/rlusd), checked 2026-07-17
+- [First Digital Labs](https://firstdigitallabs.com), checked 2026-07-17
+- [The Defiant: APAC stablecoin and tokenized asset coverage](https://thedefiant.io), 2026
