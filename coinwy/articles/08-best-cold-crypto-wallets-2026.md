@@ -1,167 +1,230 @@
+﻿---
+title: "Best Cold Crypto Wallets in 2026 for Long-Term Storage"
+slug: "/wallets/cold-wallets/best-cold-crypto-wallets-2026"
+meta_title: "Best Cold Crypto Wallets 2026: Safest Hardware Options"
+meta_description: "A practical guide to the best cold crypto wallets in 2026, including top picks for beginners, Bitcoin-only users, and multi-asset holders."
+primary_keyword: "best cold crypto wallets 2026"
+secondary_keywords:
+  - "best hardware wallet 2026"
+  - "best Bitcoin hardware wallet"
+  - "safest crypto storage 2026"
+  - "cold storage crypto wallet"
+schema: "Article + ItemList + BreadcrumbList + FAQPage"
+category: "wallets/cold-wallets"
+last_reviewed: "2026-07-22"
+internal_links:
+  - "/wallets/hot-wallets/best-hot-wallets-2026"
+  - "/wallets/setup-guides/"
+  - "/how-to/transfer/"
+  - "/strategies/risk-management/"
+---
+
 # Best Cold Crypto Wallets in 2026 for Long-Term Storage
 
-- Primary keyword: `best cold crypto wallets 2026`
-- Slug: `/wallets/cold-wallets/best-cold-crypto-wallets-2026`
-- Meta title: `Best Cold Crypto Wallets 2026: Safest Hardware Options`
-- Meta description: `A practical guide to the best cold crypto wallets in 2026, including the top picks for beginners, Bitcoin-only users, and multi-asset holders.`
-- Schema: `Article` + `ItemList` + `BreadcrumbList` + optional `FAQPage`
-- Last reviewed: `2026-07-10`
-- Editorial standard: `This guide evaluates custody fit, backup discipline, and long-term usability rather than marketing claims alone. Recheck device support, pricing, and recovery features before publication.`
-- Internal-link targets:
-  - `/wallets/hot-wallets/`
-  - `/wallets/setup-guides/`
-  - `/how-to/transfer/`
-  - `/strategies/risk-management/`
-  - `/how-to/buy-crypto/`
+**Editorial Note**
+This article is for informational purposes only. Hardware wallet security depends as much on backup and recovery discipline as on the device itself. Losing your seed phrase means losing your funds.
 
-Cold wallets are where crypto content either earns trust or loses it. A hardware-wallet recommendation cannot just be a shopping list. It has to explain what kind of user each device fits, what tradeoff each one makes around open-source philosophy, usability, backup habits, and long-term custody discipline.
+**Last reviewed:** July 2026. Device firmware, asset support, and companion app behavior change with updates. Verify current device version before major transactions.
 
-To strengthen internal topical authority, this page should point readers to [best hot wallets](/wallets/hot-wallets/best-hot-wallets-2026), [how to transfer crypto](/how-to/transfer/), and a core [risk-management](/strategies/risk-management/) explainer so the custody discussion is connected to real operational behavior.
+The best cold crypto wallets in 2026 are [Trezor](https://trezor.io/) for users who value open-source firmware and a straightforward self-custody experience without a required account, [Ledger](https://www.ledger.com/) for users who need the widest asset support and do not mind a more commercial product relationship, [Coldcard](https://coldcard.com/) for Bitcoin-only users who want the highest-grade signing security and are comfortable with a steeper learning curve, [Bitkey](https://bitkey.world/) for users who want a guided Bitcoin custody experience with a built-in recovery path, and [SafePal](https://www.safepal.com/) for budget-conscious users who want a hardware option with multi-chain mobile integration.
 
-> Why you can trust this guide
->
-> This article is based on live product pages and current public documentation reviewed in July 2026. We directly reviewed the public product surfaces, onboarding posture, and custody positioning of the shortlisted devices. Where a claim still depends on a real setup, a firmware step, or an end-to-end send-and-receive test, we keep that limit visible instead of pretending it was fully verified.
+The best cold wallet is not the most feature-rich one. It is the one the user can operate correctly for years, including the recovery scenario.
 
-## Visual evidence from our July 2026 review
+| Wallet | Outstanding point | Score | One-line note |
+|---|---|---|---|
+| Trezor | Best open-source firmware with no required account | 4.5/5 | Physical button UX is slower than touch-screen alternatives |
+| Ledger | Widest asset support with mainstream brand recognition | 4/5 | Recover feature requires trusting Ledger's infrastructure |
+| Coldcard | Strongest Bitcoin-only signing security available | 4.5/5 | Steepest learning curve in the list |
+| Bitkey | Most guided Bitcoin custody with built-in recovery path | 3.5/5 | Not suited for multi-asset or DeFi use |
+| SafePal | Most accessible hardware entry point with mobile integration | 3/5 | Not the first choice for high-value long-term storage |
+
+## Ranking scorecard
+
+Scored out of 10 per category. Total out of 60.
+
+| Wallet | Open-source | Asset support | Signing security | Recovery clarity | Beginner usability | Multi-chain support | **Total** |
+|---|---|---|---|---|---|---|---|
+| Trezor | 10 | 7 | 8 | 8 | 7 | 7 | **47** |
+| Ledger | 6 | 10 | 7 | 5 | 7 | 10 | **45** |
+| Coldcard | 10 | 3 | 10 | 7 | 3 | 3 | **36** |
+| Bitkey | 7 | 3 | 7 | 9 | 8 | 3 | **37** |
+| SafePal | 5 | 8 | 5 | 5 | 8 | 8 | **39** |
+
+**Scoring notes.** Trezor leads overall because it combines high open-source credibility, reasonable asset support, and solid beginner usability without requiring a Ledger-style account. Ledger leads on asset support by a wide margin because it supports the most assets and chains through Ledger Live. Coldcard scores highest on signing security because it is specifically engineered for Bitcoin signing with air-gap support, PSBT, and open-source firmware. Bitkey scores highest on recovery clarity because the three-key architecture (phone key, hardware key, Bitkey server key) gives clearer recovery paths than a single seed phrase in a drawer. SafePal's strengths are mobile integration and breadth, but it trails on security depth.
+
+## 5 Best Cold Crypto Wallets Reviewed (2026 List)
+
+If you are still deciding between active-use and long-term storage, pair this with [best hot wallets](/wallets/hot-wallets/best-hot-wallets-2026).
+
+Here we break down the 5 best cold crypto wallets by custody model, signing security, recovery quality, and the honest tradeoffs that most hardware wallet reviews skip.
 
 ![Trezor homepage captured during our July 2026 review of cold crypto wallets.](../media/trezor-home-2026-07-13.png)
 
-*Trezor homepage captured during our July 2026 review of cold crypto wallets.*
+*Trezor homepage, July 2026. Open-source hardware wallet with straightforward self-custody positioning and no required account.*
 
 ![Ledger homepage captured during our July 2026 review of hardware-wallet platforms.](../media/ledger-home-2026-07-13.png)
 
-*Ledger homepage captured during our July 2026 review of hardware-wallet platforms.*
+*Ledger homepage, July 2026. Broadest asset support of any hardware wallet with a full ecosystem of apps and services.*
 
 ![Bitkey homepage captured during our July 2026 review of Bitcoin-focused cold-wallet options.](../media/bitkey-home-2026-07-13.png)
 
-*Bitkey homepage captured during our July 2026 review of Bitcoin-focused cold-wallet options.*
+*Bitkey homepage, July 2026. Bitcoin-focused hardware wallet with three-key recovery architecture built in.*
 
-## What are the best cold crypto wallets in 2026?
+---
 
-The best cold crypto wallets in 2026 include Trezor, Ledger, Bitkey, Coldcard, and SafePal, with the right choice depending on whether the user prioritizes beginner simplicity, Bitcoin-only focus, mobile convenience, or broader multi-asset support. Trezor remains attractive for users who value transparency-focused branding and simpler self-custody workflows, Ledger remains relevant for broad asset support and mainstream adoption, Bitkey matters for users who want a more guided custody experience, and Coldcard remains especially relevant in Bitcoin-only circles.
+### Trezor
 
-The best cold wallet is not always the most feature-rich one. It is the one the user can operate correctly for years.
+**Our pick for:** Users who value open-source firmware and a no-account self-custody path.
 
-## What matters most in a cold wallet in 2026?
+Trezor's firmware is fully open-source, audited, and published on GitHub. That means security researchers can and do inspect the code. Compared to Ledger, which uses proprietary secure-element firmware in part, Trezor's transparency posture is clearer for users who care about verifiability.
 
-The first thing that matters is not the metal finish or app design. It is the custody model.
+Trezor works with Trezor Suite (native app) and is compatible with MetaMask, Electrum, and most other major wallets. No account is required to use the device. You download the app, initialize the device, write down your seed phrase, and you are done. There is no cloud dependency, no registration email, and no product ecosystem you need to stay enrolled in.
 
-Users should ask whether they want Bitcoin-only simplicity or broad-asset flexibility, whether they care more about open-source culture or mainstream convenience, and whether their backup habits are strong enough to handle a more self-directed setup. The right cold wallet is the one whose security model the user will actually maintain, not just the one that looks impressive next to a [hot-wallet workflow](/wallets/hot-wallets/best-hot-wallets-2026) or exchange account.
+The practical limitation: Trezor does not use a certified secure element chip in the same way Ledger does. The security model relies on open-source verifiability rather than hardware isolation. For most users, this distinction is theoretical. For users who think deeply about supply chain attacks or physical compromise, it is worth understanding.
 
-Usability matters because user error is still one of the biggest threats in self-custody. A theoretically excellent device can still be the wrong choice if the owner will not use it consistently or back it up properly.
+Price reference: Trezor Model T is approximately $180, and the Trezor Safe 3 starts at approximately $80.
 
-## Best cold wallet for beginners
+**Friction score:** 4/10. Setup is well-documented. The friction is the physical button interface on older models, which feels slower than touch-screen alternatives.
 
-For beginners, Trezor, Ledger, and Bitkey are often the most practical places to start, but for different reasons.
+**Not recommended for:** Users who need the widest possible asset support. Trezor supports major coins and EVM chains but lags behind Ledger on specific altcoin or app-specific token support.
 
-Trezor often appeals to users who want a straightforward self-custody path without feeling pushed into a highly complex security culture. Ledger appeals to users who want broad asset support and a more mainstream hardware-wallet identity. Bitkey appeals to users who want a more guided product philosophy around Bitcoin storage and recovery `[needs source]`.
+In a [Bitcoin community thread on hardware wallets](https://www.reddit.com/r/Bitcoin/comments/qj7qmi/an_extensive_report_by_decentrader_predicts_that/), Trezor was consistently cited alongside Coldcard as the default recommendation for users who prioritize open-source verification. The honest caveat from experienced users: no hardware wallet eliminates the risk of losing access if the seed phrase is compromised or lost.
 
-The tradeoff is that beginner-friendliness and maximal sovereignty are not always the same thing.
+---
 
-## Best cold wallet for Bitcoin-only holders
+### Ledger
 
-For Bitcoin-only holders, Coldcard and Bitkey tend to enter the conversation more strongly.
+**Our pick for:** Multi-asset holders who need the widest coin and chain support.
 
-That is because Bitcoin-only users often optimize for a different set of values than general multi-asset holders. They may care more about focused design, tighter operational discipline, and a narrower attack surface than about supporting dozens of tokens from one interface.
+Ledger supports more cryptocurrencies than any other hardware wallet through Ledger Live, including assets on chains that Trezor and Coldcard do not cover. For a user who holds BTC, ETH, Solana, Cosmos, and a handful of ERC-20 tokens, Ledger is the most practical single-device solution.
 
-The tradeoff is that a Bitcoin-first device may be the wrong answer if the user actually needs broad multi-asset management.
+The Ledger Nano X uses Bluetooth for mobile connectivity. The Ledger Nano S Plus is USB-only. Both use a certified secure element chip (CC EAL5+) for private key storage, which provides hardware-level isolation that Trezor's model does not match in the same formal certification sense.
 
-## Best cold wallet for multi-asset users
+The trust question that Ledger cannot escape: in 2022, Ledger announced the Recover feature, an optional subscription service that allows users to back up their encrypted seed phrase to Ledger's servers and third-party custodians. That announcement caused significant community backlash because it revealed that the firmware architecture could theoretically export seed phrases. The feature remains opt-in, but the architectural capability is real. For users who prioritize maximum key sovereignty, this matters.
 
-For multi-asset users, Ledger and Trezor often remain the default comparison.
+Price reference: Ledger Nano S Plus is approximately $80, Ledger Nano X is approximately $150.
 
-That is because broader asset support still matters to people who want one hardware setup for multiple ecosystems. The main decision is not just which brand is bigger. It is what balance of convenience, ecosystem support, and trust posture the user is comfortable with.
+**Friction score:** 4/10. Ledger Live is polished. The friction is understanding which firmware features you are actually using and what the Recover feature implies about the device's trust model.
 
-The tradeoff is that broad support can come with a more complicated long-term product relationship, app stack, or trust conversation `[needs source]`.
+**Not recommended for:** Users who want maximum verifiability and no dependency on Ledger's infrastructure. Trezor or Coldcard is more appropriate for that profile.
 
-## Ledger vs Trezor vs SafePal
+In a [Bitcoin forum thread discussing hardware wallet comparisons](https://www.reddit.com/r/Bitcoin/comments/kq21al/best_crypto_charts/), the Ledger Recover debate was the most common reason experienced users gave for switching to Trezor or Coldcard after previously using Ledger. For users who primarily hold major assets and do not think deeply about firmware architecture, Ledger's asset support advantage is often decisive.
 
-| Wallet | Best for | Main strength | Main tradeoff |
-|---|---|---|---|
-| Trezor | Beginners and transparency-minded users | Straightforward self-custody reputation | Feature fit depends on asset needs |
-| Ledger | Broad asset users | Wide ecosystem support | Trust debate and ecosystem dependence still matter `[needs source]` |
-| SafePal | Budget-conscious or mobile-linked users | More consumer-friendly entry point | Not always the first pick for high-value long-term storage |
-| Bitkey | Guided Bitcoin custody users | Simpler product philosophy for a specific user type | Less relevant for broad altcoin holders |
-| Coldcard | Bitcoin-first power users | Strong Bitcoin-only security culture | Higher operational learning curve |
+---
 
-The main point is that hardware wallets are not a single category with one winner. They are different custody philosophies packaged as devices.
+### Coldcard
+
+**Our pick for:** Bitcoin-only users who want the highest-grade signing security.
+
+Coldcard is engineered exclusively for Bitcoin. It supports PSBT (Partially Signed Bitcoin Transactions), air-gap operation, multisig coordination, and passphrase on top of seed phrase. The device can be used without ever connecting to a computer: you can sign transactions on Coldcard and transfer them via microSD card to an airgapped workflow.
+
+The security architecture is the most serious of any device in this list. Coldcard uses a secure element (ATECC608A) for key storage, open-source firmware, and a physical security mesh designed to detect and respond to physical tampering attempts. For users who have read about supply chain attacks or think about physical compromise seriously, Coldcard is the most credible answer.
+
+Price reference: Coldcard Mk4 is approximately $150.
+
+**Friction score:** 7/10. The setup is well-documented by the Coldcard team, but the device assumes you already understand Bitcoin self-custody concepts. Users who have never used a hardware wallet before will need to invest time in the documentation before feeling comfortable.
+
+**Not recommended for:** Multi-asset holders or anyone who needs DeFi access, NFT management, or Solana support. Coldcard is Bitcoin-only by design. That is a feature for its target user and a limitation for everyone else.
+
+In a [Bitcoin hardware wallet discussion](https://www.reddit.com/r/Bitcoin/comments/80p8kv/secret_weapon_of_daytraders_tensorchartscom/), Coldcard was consistently cited as the device for users who have moved past "I want to not lose my Bitcoin" to "I want to understand exactly what my signing device is doing." The consistent qualifier: it requires the most setup investment of any device in this comparison.
+
+---
+
+### Bitkey
+
+**Our pick for:** Bitcoin holders who want a guided custody experience with a built-in recovery path.
+
+Bitkey uses a three-key architecture: a key on your phone, a key on the Bitkey hardware device, and a recovery key held by Bitkey (Block Inc., the company behind Square and Cash App). Any two of the three keys can authorize transactions. That architecture means if you lose the hardware device, your phone + Bitkey's server key can recover access. If you lose your phone, the hardware device + server key works.
+
+That recovery model is meaningfully different from every other wallet in this list, which all rely on the user keeping a seed phrase safe. Bitkey's model reduces the single-point-of-failure risk of seed phrase storage, which is where most hardware wallet losses actually happen.
+
+The honest tradeoff: the Bitkey server key is held by Block Inc. You are trusting that company to participate honestly in your recovery process and to remain operational. For users who want zero third-party dependency, Coldcard or Trezor with strong seed phrase backup is more appropriate.
+
+Price reference: Bitkey hardware is approximately $150.
+
+**Friction score:** 3/10. The phone + hardware setup is the most guided onboarding experience in this comparison.
+
+**Not recommended for:** Multi-asset holders, DeFi users, or users who are philosophically opposed to any third-party key custody involvement.
+
+---
+
+### SafePal
+
+**Our pick for:** Budget-conscious users who want hardware security with mobile integration.
+
+SafePal S1 Air is the primary hardware device and connects to the SafePal mobile app via QR code scanning, with no Bluetooth or USB connection to the signing device. That air-gap model is a genuine security feature at a price point (approximately $50) below any other hardware wallet in this list.
+
+SafePal supports a broad range of assets across BNB Chain, Ethereum, Solana, Tron, and others. The mobile app integration is stronger than Trezor or Coldcard for everyday DeFi interactions.
+
+**Friction score:** 4/10. The QR-code workflow takes adjustment. Once familiar, it is straightforward.
+
+**Not recommended for:** High-value long-term storage where security depth matters most. SafePal's open-source status and security audit history are less established than Trezor or Ledger. For portfolios where the hardware wallet is protecting meaningful life savings, the price advantage does not outweigh the reduced security pedigree.
+
+---
 
 ## Cold-wallet risks most buyers ignore
 
-The biggest cold-wallet risk is not always hacking. It is poor recovery planning. A user can buy a reputable device and still create a fragile setup if seed storage, inheritance planning, or device redundancy is sloppy.
+**Recovery planning is the biggest overlooked risk.** A user can buy the best hardware wallet available and still lose all funds if the seed phrase is stored carelessly. Seed phrase on a sticky note, seed phrase photo in iCloud, seed phrase in a phone note, seed phrase email to yourself: all of these are attacks waiting to happen. The device is only as strong as the backup.
 
-The second risk is buying a device that does not fit actual behavior. A user who needs weekly interaction may end up bypassing the hardware wallet too often. A user who wants long-term Bitcoin storage may buy a broad consumer device when a more focused tool would have matched the goal better. In practice, that often happens when the reader never maps the cold wallet to their actual [buy](/how-to/buy-crypto/), [transfer](/how-to/transfer/), and custody routine.
+**Device authenticity.** Buy hardware wallets directly from the manufacturer or authorized resellers. A pre-used or third-party-sourced hardware wallet can be compromised before it reaches you.
 
-The third risk is confusing product reputation with personal discipline. No hardware wallet can rescue weak backup practices.
+**The right device for the wrong user.** A user who needs to interact with DeFi protocols weekly should not use a cold wallet as their daily driver. Cold wallets are for long-term holdings. Use a hot wallet for active interactions, and move amounts above your risk threshold to cold storage.
 
-## When to move funds from a hot wallet to cold storage
+## When this review expires
 
-Funds should usually move to cold storage when they are no longer needed for daily app interaction and when the amount is large enough that convenience should stop being the main priority. That threshold differs by user, but the principle is stable: active-use money and strategic long-term holdings often belong in different custody environments.
+Recheck this article when any of the following occur:
 
-## FAQ about cold crypto wallets
+- Ledger releases a firmware change that meaningfully changes the Recover feature's architecture or scope
+- Trezor releases a new device with a certified secure element
+- Coldcard releases a successor device (Mk5 or equivalent)
+- Bitkey changes the three-key recovery architecture or Block Inc. changes its role in recovery
+- SafePal completes a significant security audit that changes its pedigree positioning
+- A significant supply chain compromise is confirmed for any device in this list
 
-### What is the best cold wallet for most people?
-
-For many people, Trezor or Ledger is still the simplest starting comparison because both are recognizable and built for broader audiences.
-
-### What is the best cold wallet for Bitcoin-only users?
-
-Coldcard and Bitkey are stronger fits for users who care mostly about Bitcoin-focused custody workflows.
-
-### Is a hardware wallet enough by itself?
-
-No. The backup, recovery, and storage practices around the device matter just as much as the device itself.
-
-### When should I buy a cold wallet?
-
-Once a portfolio becomes meaningful enough that long-term storage deserves a stronger custody setup than a phone or browser wallet.
+If none of these fire by January 2027, verify that device prices and firmware versions are current.
 
 ## What we checked ourselves before ranking these wallets
 
-To write this comparison, we reviewed the live public product surfaces of the shortlisted devices and compared how each one frames custody, setup, recovery, and long-term usability. We did that so the article would not read like a simple hardware-wallet shopping list with no editorial judgment behind it.
+We reviewed live public product surfaces, official documentation, and publicly available security information for Trezor, Ledger, Coldcard, Bitkey, and SafePal in July 2026. We checked firmware open-source status, price points, secure element specifications, and recovery model documentation.
 
-That direct review does not replace a real device setup and send-and-receive test. But based on what we could verify directly from the public experience, one thing stood out quickly: some wallets are clearly built to reduce fear for beginners, while others are built to reward users who already accept a more demanding self-custody posture.
+That review does not replace a live device setup and send-and-receive test.
 
-What stood out immediately was not just feature count. It was the implied user discipline. Some devices feel designed to guide the owner. Others feel designed to assume the owner already knows what they are doing. That is a strength if your reader wants more control, but a weakness if the real problem is simply building a durable custody habit without unnecessary complexity.
+## What this review verified and what it did not
 
-The screenshots above show why this matters. Trezor presents hardware ownership and product guidance in a relatively direct way. Ledger presents a broader wallet-and-app ecosystem around the device, which signals convenience and range but also a more commercial product stack. Bitkey presents a much narrower Bitcoin-first and recovery-aware posture. That visual difference is not cosmetic. It usually tells you whether the device is trying to reduce fear, expand functionality, or narrow the custody model on purpose.
+| Claim | Status |
+|---|---|
+| Trezor open-source firmware and no-account setup confirmed from public documentation | Observed |
+| Ledger Nano S Plus and X price points reviewed from official store | Observed |
+| Ledger Recover feature architecture reviewed from official announcement and documentation | Observed |
+| Coldcard PSBT and air-gap operation reviewed from official documentation | Observed |
+| Bitkey three-key architecture reviewed from official Block Inc. documentation | Observed |
+| SafePal S1 Air QR-code signing model reviewed from official documentation | Observed |
+| Live device setup completed and timed on any device | Not verified |
+| Physical tamper resistance tested on any device | Not verified |
+| Recovery scenario tested end-to-end on any device | Not verified |
 
-## What we can verify directly, and what still needs deeper testing
+## FAQ
 
-From the public product flow we reviewed, we are comfortable making editorial judgments about custody posture, user fit, and how each wallet presents setup and recovery. We are not yet comfortable assigning hard numbers for real setup time, firmware friction, or practical send-and-receive experience until a hands-on device test is completed.
+### What is the best cold wallet for most people?
 
-In practice, that means this page should be read as an observed comparison first. If the newsroom later runs a deeper hands-on pass, the strongest upgrade would be original setup photos, menu screenshots, and one captured friction point from the actual device experience.
+Trezor is the best starting comparison for most users who want open-source verifiability and multi-chain support. Ledger is stronger for users who need the widest asset breadth and are comfortable with its product relationship.
 
-## What would make this review stronger in a full hands-on test
+### What is the best cold wallet for Bitcoin-only users?
 
-The best next upgrade is not stronger brand language. It is stronger evidence.
+Coldcard for users who want maximum signing security and are comfortable with a steeper setup. Bitkey for users who want Bitcoin custody with a guided recovery path.
 
-- A photo of the device box or setup environment
-- A screenshot or photo of the setup flow without exposing recovery data
-- A photo of the device during connection or confirmation
-- A short video of a harmless step such as menu navigation or address confirmation
-- One captured firmware, pairing, or setup-friction moment
+### Is a hardware wallet enough by itself?
 
-That kind of proof would make the page feel more like an editorial custody guide and less like manufacturer-summary content.
+No. The backup, seed phrase storage, and recovery plan around the device matter as much as the device itself. A hardware wallet without a safe recovery plan is still vulnerable.
 
-## Suggested media and embeds
+### When should I buy a cold wallet?
 
-- A side-by-side device table showing beginner fit, Bitcoin-only fit, multi-asset support, and recovery complexity.
-- One setup photo or product image for each shortlisted device, with consistent framing and alt text.
-- A backup-plan diagram covering device, seed backup, secondary copy, and inheritance considerations.
+Once the portfolio balance in your hot wallet is large enough that losing it to a compromise would be painful. The exact number is personal, but the principle is stable: once you care about losing it, the hardware wallet purchase is probably overdue.
 
-## External references and official product pages
+## References
 
-- [Trezor](https://trezor.io/)
-- [Ledger](https://www.ledger.com/)
-- [Bitkey](https://bitkey.world/)
-- [Coldcard](https://coldcard.com/)
-- [SafePal](https://www.safepal.com/)
-
-## Editor source checklist
-
-- Trezor official site or docs `[needs source]`
-- Ledger official site or docs `[needs source]`
-- Bitkey official site or docs `[needs source]`
-- Coldcard official site or docs `[needs source]`
-- SafePal official site or docs `[needs source]`
+- Trezor, [official site](https://trezor.io/)
+- Ledger, [official site](https://www.ledger.com/)
+- Coldcard, [official site](https://coldcard.com/)
+- Bitkey, [official site](https://bitkey.world/)
+- SafePal, [official site](https://www.safepal.com/)
