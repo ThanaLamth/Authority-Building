@@ -1,10 +1,10 @@
 ﻿# Writing Style Guide — Authority Building Network
-## 13 Sites, 13 Signatures
-Last updated: 2026-07-16
+## 14 Sites, 14 Signatures
+Last updated: 2026-07-23
 
 Each site in this network covers a distinct slice of the crypto space and targets a different reader.
-This guide covers 13 sites: Coinlineup, Coinwy, Kanalcoin, BitcoinMaximalist, CCpress, Coincu, MarketBit,
-Tokentopnews, AiCryptoCore, NFTEnex, CryptoDailyAlert, DeFiLiban, Coinlive.
+This guide covers 14 sites: Coinlineup, Coinwy, Kanalcoin, BitcoinMaximalist, CCpress, Coincu, MarketBit,
+Tokentopnews, AiCryptoCore, NFTEnex, CryptoDailyAlert, DeFiLiban, Coinlive, TrustsCrypto.
 This guide defines the voice, sentence logic, structural patterns, and vocabulary that make each site
 recognizable so no two articles across the network read the same way.
 
@@ -38,6 +38,7 @@ Before writing any article, read the site section below. Then:
 | 11 | **CryptoDailyAlert** | Breaking news wire | /alerts/, /flash/, /briefs/ | Trader needing fast signal confirmation | Wire-neutral, zero editorializing | Short; one fact per sentence |
 | 12 | **DeFiLiban** | DeFi protocol deep-dive | /protocols/, /yield/, /liquidity/, /risk/, /infrastructure/ | DeFi practitioner, protocol researcher | Technical, mechanism-level, clinical on risk | Medium-long; mechanism chains |
 | 13 | **Coinlive** | Real-time market pulse | /market-moves/, /price-action/, /exchange-flows/, /macro-events/ | Active trader, on-chain analyst | Calm, data-first, no sensation | Short (<25w per sentence in flash pieces) |
+| 14 | **TrustsCrypto** | Source-first crypto newsroom | /news/, /news/bitcoin/, /blockchain/, /defi/, /market-capitalization/ | Trader and researcher who needs to verify facts before acting | Factual, attribution-aware, zero hype; separates claimed from confirmed | Medium (20-35w); one fact per sentence |
 
 ---
 
@@ -476,6 +477,109 @@ If not, add more direct evidence.
 
 ---
 
+
+# 14. TrustsCrypto (trustscrypto.com)
+**Identity:** Source-first crypto newsroom -- regulatory, security, institutional, infrastructure
+**Pillar:** /news/, /news/bitcoin/, /blockchain/, /defi/, /market-capitalization/
+**Multilingual:** EN (primary) | RU | DE -- each language is original content, not translated
+**Reader:** Trader or researcher who needs to verify a fact before acting on it.
+Already knows crypto. Reads to confirm, contextualize, or debunk -- not to discover.
+Typical entry point: "I just saw this headline -- what actually happened?"
+
+## Voice
+Source-first, factual, attribution-aware. Never hype. Never editorialize.
+The TrustsCrypto voice separates what a source claimed from what has been independently confirmed.
+Every claim has an owner. Every number has a timeframe. Every "preliminary" or "reported" is
+preserved exactly as the source used it.
+
+The posture is not skepticism for its own sake -- it is the precision of a journalist
+who has been burned by running unverified figures before. The reader should be able to act
+on a TrustsCrypto article without going elsewhere to double-check the basic facts.
+
+## Sentence rhythm
+Medium sentences: 20-35 words. One fact per sentence. Never fragments.
+Two consecutive long sentences get broken with a shorter one.
+No scene-setting openers. The first sentence carries the who + what + context.
+
+## H2 skeleton (mandatory per article)
+Every article uses this pattern in order -- adapt wording to the topic, never skip a layer:
+1. What [Entity] [Actually] Did / Announced / Said -- factual summary of the primary source
+2. Why [X] Matters / Is Significant -- mechanism and market/regulatory context
+3. Which [Entities / Firms / Users] Are Affected -- scope and applicability
+4. What Remains Unclear / What Has and Has Not Been Verified -- honest evidence gap
+5. What [Reader Segment] Should Watch -- forward-looking, signals to monitor, no predictions
+
+The "What Remains Unclear" H2 is non-negotiable. Every article must surface at least one
+thing that is still open -- it is the trust signal that separates TrustsCrypto from hype-first
+wires and narrative-first sites.
+
+## Structure
+- Word count: 650-1,000 words per article. No padding. Scope narrowly rather than pad.
+- Schema: NewsArticle only. No FAQ schema. No HowTo.
+- Lists: <ul> only -- for on-chain data points (addresses, tx hashes, numerical evidence). No <ol>. No <table>.
+- Internal links: inline format -- "For related coverage, see [Title]." -- 2-4 per article.
+- No listicles. No "best X" articles. No how-to guides. No price predictions.
+- No FAQ section -- this is not a beginner guide site.
+
+## Vocabulary
+Use: confirmed, announced, according to, per, reported, stated, disclosed, attributed,
+preliminary, authorization, enforcement, regulatory, framework, licensing, exploit,
+vulnerability, stake, partnership, institutional, on-chain, flagged, unconfirmed, tally,
+at the time of writing, subject to confirmation
+Avoid: surged, exploded, massive, game-changer, bullish signal, moon, significant (alone),
+community believes, could signal, may indicate, appears to, breaking (overused), historic (unless factually so),
+thousands of (unless sourced), massive exposure
+
+## Signature moves
+- Source language preservation: if the source used "preliminary," quote and flag it.
+  "Ripple's own announcement uses the word 'preliminary,' which suggests..."
+- Claim attribution framing: "The phrase X originates from [source]'s own characterization."
+  Never report an attributed claim as a confirmed independent fact.
+- Pending confirmation flag: "At the time of writing, [X] has not been confirmed."
+  Required in every article where a key claim remains unverified.
+- Scale separation: distinguish "theoretically vulnerable" from "confirmed exploited";
+  distinguish "authorized" from "deployed"; distinguish "partnership" from "product launch."
+- Scope discipline: "This article is scoped narrowly for that reason" is acceptable.
+  A tight 700-word accurate article beats a sprawling 1,200-word article with soft claims.
+
+## Content types that belong on TrustsCrypto
+- Regulatory events: new rules, enforcement actions, licensing decisions (MiCA, SEC, tax guidance)
+- Security incidents: exploits, vulnerabilities, wallet risks, bridge hacks
+- Institutional moves: VC stakes, strategic partnerships, fund moves, exchange equity deals
+- Protocol and infrastructure updates: chain launches, analytics coverage expansions, developer announcements
+- Macro-adjacent: central bank crypto frameworks, cross-border payment rules, stablecoin legislation
+
+## Content types that do NOT belong on TrustsCrypto
+- Listicles ("best X wallets 2026")
+- How-to guides
+- Price predictions or price analysis
+- Opinion / editorial columns
+- Meme coin coverage
+- Project promotions or sponsored placement (if it exists, must be clearly labeled)
+
+## Competitor differentiation
+| Competitor approach | TrustsCrypto approach |
+|---|---|
+| Speed-first (publish fast, correct later) | Publish when source trail is clear |
+| Narrative-first (story arc and tension) | Evidence chain and explicit gap disclosure |
+| Price-angle (everything through price lens) | Regulation / security / institutional angle |
+| Listicle-focused (best X for Y) | News and analysis only -- no product lists |
+
+## EEAT maintenance (built into site, must be upheld per article)
+TrustsCrypto has live editorial policy, corrections policy, team verification, and masthead pages.
+Every article must:
+- Carry a named author or desk attribution
+- Reference primary sources (press releases, on-chain data, official announcements, regulatory filings)
+- Use NewsArticle schema with accurate datePublished and dateModified
+- Never present an attributed claim as a confirmed independent fact
+
+## Reader test
+Would a trader who just saw a headline find TrustsCrypto's version more trustworthy
+than what they read on social media? Would a researcher use this article as a fact-check source
+without going elsewhere to verify the basics?
+If not: add the missing source citation, tighten the claim language, or state the uncertainty explicitly.
+
+---
 # Cross-site rules (apply to all 10 sites)
 
 ## Banned words (entire network)
@@ -772,6 +876,7 @@ If the answer to the second question is yes, a data point is missing.
 | **CryptoDailyAlert** | `pr-communications-manager` | Source attribution audit -- every claim must have a named source or on-chain reference |
 | **DeFiLiban** | `investment-researcher` + `technical-writer` | Mechanism accuracy + risk classification (oracle/smart contract/liquidity/governance) |
 | **Coinlive** | `agentic-search-optimizer` | Data chain check -- metric -> exchange -> timeframe -> comparison baseline all present |
+| **TrustsCrypto** | `pr-communications-manager` | Source attribution audit -- every claim must have a primary source, named source, or on-chain reference; flag any unverified figure or scale claim |
 
 ---
 
@@ -820,6 +925,7 @@ If the answer to the second question is yes, a data point is missing.
    - Coincu / MarketBit: `investment-researcher` (structural accuracy)
    - CryptoDailyAlert: `pr-communications-manager` (source attribution)
    - DeFiLiban: `technical-writer` (mechanism accuracy)
+   - TrustsCrypto: `pr-communications-manager` (source attribution -- every claim must have a named source or on-chain reference)
    - All others: optional but recommended for first article in a new category
 
 4. **Do not use a specialist to write the article** -- specialists review and correct.
