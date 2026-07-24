@@ -178,6 +178,8 @@ The real decision is not IPFS versus Arweave in the abstract. It is whether you 
 - operational simplicity
 - lower ongoing maintenance burden
 
+A [CryptoCurrency community thread on NFT storage and IPFS](https://www.reddit.com/r/CryptoCurrency/comments/r3ztbe/nft_storage_and_ipfs_explained_what_happens_when/) framed the practical version of this: what actually happens when the storage service stops running. The answers ranged from "your NFT still exists on-chain" to "your image becomes a broken link" -- and both were correct depending on how storage was originally configured.
+
 ## Best storage tools by creator and team use case
 
 ### Pinata
@@ -249,6 +251,8 @@ The more common breakdowns are:
 - unclear retrieval policy if tooling changes later
 
 This is exactly why NFT storage should not be treated as an afterthought under "tech setup." It is part of the ownership promise.
+
+A [CryptoCurrency Reddit discussion on NFT market structural shifts](https://www.reddit.com/r/CryptoCurrency/comments/1ozobe7/dappradar_announces_major_shifts_in_nft_marketpla/) confirmed what practitioners already knew: storage and metadata reliability have become a visible differentiator as the market matures. Buyers and holders increasingly check what persists -- and what does not.
 
 ## The best storage setup for long-term digital ownership
 

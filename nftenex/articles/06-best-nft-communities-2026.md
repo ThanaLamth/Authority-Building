@@ -140,6 +140,8 @@ A living NFT community usually shows some mix of:
 
 A dead or weak community usually depends too heavily on floor watching, vague roadmap promises, or closed-circle status signaling that no longer creates real participation.
 
+A [widely-shared DYOR resource thread on Reddit](https://www.reddit.com/r/CryptoCurrency/comments/osmb00/several_resources_and_websites_to_help_you_dyor/) listed community signal checks as a standard due-diligence step before any NFT decision -- evidence that crypto-native audiences are now treating community health as a researchable variable, not a vibe.
+
 ## Our direct editorial read after reviewing current community surfaces
 
 After checking current public surfaces, the clearest difference was not simply brand size. It was whether the community still creates visible artifacts beyond price talk.
@@ -155,6 +157,8 @@ That is why I would not rank NFT communities by market memory alone. A community
 Pudgy Penguins remains one of the strongest examples of an NFT community becoming a broader brand story. It matters because the community narrative moved beyond collection status and into consumer-facing identity and IP.
 
 This is one of the clearest cases where community strength cannot be reduced to holder chat alone. The reason Pudgy still matters is that the identity escaped the original collection context and became legible to a broader audience.
+
+A [CryptoCurrency Reddit thread on Pudgy Penguins](https://www.reddit.com/r/CryptoCurrency/comments/s6x91x/pudgy_penguins_nft_community/) captured this directly: commenters agreed the community's identity had outgrown its original collection framing, treating that as evidence of genuine brand development rather than speculation momentum.
 
 Why it matters:
 

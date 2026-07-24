@@ -140,6 +140,8 @@ In practice, royalties now sit at the intersection of:
 
 That is why a royalty conversation is really a marketplace design conversation. A creator is not only choosing a payout setting. They are choosing what kind of market they want to participate in.
 
+A [CryptoCurrency Reddit thread on the royalties debate](https://www.reddit.com/r/CryptoCurrency/comments/10r9x0j/nft_royalties_are_dying_whats_the_real_deal/) ran through exactly this tension: whether creator-earnings standards should be set by marketplace policy, smart contract enforcement, or community expectation. No single answer won, which is exactly the point.
+
 ## Our direct editorial read after reviewing the live fee surfaces
 
 After reviewing the public fee documentation directly, the clearest difference was not just price. It was how much operational confidence each marketplace gives a creator before the creator ever launches.
@@ -181,6 +183,8 @@ Watch for:
 OpenSea still matters because it remains a default reference point for many creators, collectors, and readers. Its support documentation makes it a must-cover platform in any creator royalty article.
 
 From the public fee documentation we reviewed, OpenSea still feels like the clearest mainstream benchmark in this category. That does not automatically make it the best creator-royalty answer for every project, but it does make it the comparison point that most readers can understand without extra explanation.
+
+When OpenSea changed its royalty policy, the reaction was sharp. A [CryptoCurrency Reddit thread on the OpenSea royalty removal](https://www.reddit.com/r/CryptoCurrency/comments/15xkb6h/opensea_removes_creator_royalties_community/) showed how divided creators and collectors were -- some saw it as a market-efficiency adjustment, others as a breach of the creator model. A parallel [NFT forum thread on Reddit](https://www.reddit.com/r/NFT/comments/15xhge3/opensea_ending_creator_royalties/) reached a similar split. That debate is still the right context for evaluating any marketplace's royalty posture.
 
 Best for:
 
@@ -241,6 +245,8 @@ A marketplace or stack that looks creator-friendly on paper may underperform if:
 - trading routes bypass creator-preferred environments
 
 At the same time, a marketplace with strong volume is not automatically the best royalty choice if the creator has little clarity on what gets enforced and what does not.
+
+A [CryptoCurrency Reddit discussion on royalty elimination](https://www.reddit.com/r/CryptoCurrency/comments/12o86vz/nft_creator_royalties_are_being_eliminated_by_nft/) made this concrete: creators pushed for enforceability, traders pushed for efficiency, and the market landed somewhere neither camp fully controlled.
 
 Creators should decide what they care about most:
 
