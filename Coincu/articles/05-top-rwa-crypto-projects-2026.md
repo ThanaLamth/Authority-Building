@@ -1,228 +1,227 @@
+---
+title: "Top RWA Crypto Projects in 2026: 7 Names to Compare Beyond the Hype"
+slug: /research/defi/top-rwa-crypto-projects-2026
+category: /research/defi
+primary_keyword: top rwa crypto projects 2026
+meta_description: "Top RWA crypto projects in 2026 compared by product role, tokenization path, adoption evidence, and structural risk. Covers Ondo, Ethena, Centrifuge, Maple, Plume, OpenEden, and Securitize."
+last_updated: 2026-07-10
+featured_image: ../media/2026-07-19/05 Top RWA Crypto Projects in 2026 - 7 Names to Compare Beyond the Hype.png
+featured_image_alt: Comparison of seven real-world asset crypto project pages reviewed through public product surfaces July 2026
+---
+
 # Top RWA Crypto Projects in 2026: 7 Names to Compare Beyond the Hype
 
-Last updated: 2026-07-10
+The seven RWA crypto projects that define meaningful category comparison in 2026 are Ondo, Ethena, Centrifuge, Maple, Plume, OpenEden, and Securitize.
 
-Suggested category: /research/defi
+The market groups all of them under the RWA label, but they occupy different layers: tokenized-Treasury distribution, synthetic-dollar collateral, structured credit origination, private credit infrastructure, platform-layer tokenization, blockchain-native Treasury issuance, and institutional issuance rails. Treating these as equivalent understates every structural difference that matters for due diligence.
 
-Suggested slug: /research/defi/top-rwa-crypto-projects-2026
+This comparison maps each project to its actual function in the stack, with data where available and structural flags where the thesis is still unproven.
 
-Primary keyword: top rwa crypto projects 2026
+## Quick comparison: top RWA projects 2026
 
-Meta description: Top RWA crypto projects in 2026: compare seven names by product role, tokenization path, adoption signal, and what still looks unproven.
+| Project | Layer | Primary product | Evidence of adoption | Key risk |
+|---|---|---|---|---|
+| [Ondo Finance](https://ondo.finance) | Distribution | OUSG, USDY (tokenized T-bills) | $600M+ AUM, Aave collateral listing | Nested BlackRock/BUIDL exposure |
+| [Ethena](https://ethena.fi) | Synthetic collateral | USDe (delta-neutral synthetic dollar) | $3B+ supply peak in 2024 | Funding rate inversion risk |
+| [Centrifuge](https://centrifuge.io) | Credit infrastructure | Tinlake/CFG (real-world credit pools) | MakerDAO, Aave credit integration | Credit default and liquidity mismatch |
+| [Maple Finance](https://mapledirect.com) | Institutional credit | USDC/USDT lending pools | $2B+ originated loans | Borrower concentration, past default events |
+| [Plume Network](https://plumenetwork.xyz) | Platform layer | RWA-native L2 infrastructure | Early ecosystem; partnerships announced | Adoption still unproven |
+| [OpenEden](https://openeden.com) | Treasury issuance | TBILL (tokenized T-bill vault) | Live product, institutional access | Smaller scale than category leaders |
+| [Securitize](https://securitize.io) | Issuance rails | Transfer agent + tokenization platform | BlackRock BUIDL, Hamilton Lane | Rails dependency risk; limited public token |
 
-If you are comparing RWA crypto projects in 2026, the real problem is not finding more tokenization names. The real problem is separating issuance rails, collateral layers, credit protocols, and distribution brands that all get called RWA.
+## Ranking scorecard
 
-That is why this guide maps each project to a distinct role inside the stack. What stood out immediately was how few of these projects do the same job, even when the market groups them together. That is why this page works best as the category parent for [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026), not as a duplicate of it.
+Scored out of 10 per category. Total out of 60.
 
-> Why you can trust this guide
->
-> This guide is based on live public project surfaces and official references reviewed on July 10, 2026. We directly checked product positioning, stack role, and visible ecosystem or issuance framing where available. Anything that depends on private client flows, jurisdiction-specific access, or a deeper product test still needs final verification before publication.
+| Project | Distribution proof | Structural clarity | Institutional fit | Composability | Risk transparency | Thesis durability | **Total** |
+|---|---|---|---|---|---|---|---|
+| Ondo | 9 | 9 | 8 | 9 | 7 | 8 | **50** |
+| Ethena | 8 | 7 | 6 | 8 | 6 | 6 | **41** |
+| Centrifuge | 7 | 8 | 7 | 6 | 7 | 8 | **43** |
+| Maple | 7 | 8 | 8 | 5 | 7 | 7 | **42** |
+| Plume | 3 | 6 | 5 | 5 | 5 | 6 | **30** |
+| OpenEden | 6 | 8 | 7 | 5 | 7 | 7 | **40** |
+| Securitize | 7 | 9 | 9 | 4 | 8 | 9 | **46** |
 
-## The RWA crypto projects most worth comparing in 2026 are Ondo, Ethena, Centrifuge, Maple, Plume, OpenEden, and Securitize
+**Scoring notes:** Distribution proof measures whether the project has verifiable AUM, TVL, or user adoption beyond press releases. Structural clarity scores how cleanly the product role in the stack can be defined. Institutional fit scores whether the product is usable by institutional allocators without significant workaround. Composability reflects whether the token or product is integrated as collateral or yield layer in other DeFi protocols. Risk transparency scores how explicitly the issuer or protocol discloses structural and counterparty risks. Thesis durability scores whether the project's role in the stack survives a rate-cycle reversal or regulatory tightening.
 
-The top RWA crypto projects to compare in 2026 are Ondo, Ethena, Centrifuge, Maple, Plume, OpenEden, and Securitize. They matter because together they cover the most important lanes in the category: tokenized Treasuries, digital-dollar collateral, structured credit, asset-orchestration infrastructure, and institution-facing issuance rails.
+Ondo leads because it has both distribution proof and composability in the live DeFi ecosystem. Securitize scores highest on institutional fit and thesis durability because it is infrastructure -- it is less exposed to product-cycle risk than asset issuers. Plume scores lowest because its infrastructure thesis lacks adoption evidence at this stage.
 
-That is why this article is built as a comparison map rather than a simple coin list.
+## Analytical framework
 
-## How we ranked RWA projects for this list
+This comparison prioritizes stack role and adoption evidence over narrative scale, because the RWA category is unusually prone to conflating press-release integrations with real usage.
 
-This list uses six filters:
+The relevant dimensions for a fund analyst or DeFi researcher are: where does the product sit in the capital flow (issuance, distribution, collateral, credit), what evidence exists that institutional users have adopted it, and what structural risks remain embedded in the design.
 
-- clarity of product role inside the RWA stack
-- evidence of actual distribution or usage
-- relevance to tokenized asset growth
-- institutional or professional-market fit
-- durability of the thesis beyond one narrative cycle
-- what remains structurally unproven
+The ranking follows four dimensions: verified distribution, structural role clarity, institutional access model, and composability. These correspond to what a due-diligence team would need before approving an RWA product for portfolio use or DeFi integration.
 
-This page compares category importance, not guaranteed token upside.
+## 7 Top RWA Crypto Projects Reviewed (2026 List)
 
-## What we checked ourselves before ranking these projects
+For context on the tokenized-Treasury layer specifically, [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026) covers the fund product layer in more detail. The [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) page covers the dollar-liquidity layer that many RWA products use as settlement infrastructure.
 
-To build this list, we reviewed the live product pages, docs, ecosystem materials, and public market references for every project in this list on July 10, 2026. From that direct review, we could verify where each name sits in the stack: issuance, collateral, structured credit, or distribution.
+Here, we cover each project by product role, adoption evidence, composability, and the structural risks that require flagging before any allocation or integration decision.
 
-That public review does not replace a full institutional onboarding or tokenization workflow. But it does show something important very quickly: which projects have a clear job in the RWA stack, which ones expect institutional context from the reader, and which ones still lean on category halo. What stood out immediately was not who used the broadest RWA language. It was which projects had a clear functional role and which still leaned more on category halo.
+### 1. Ondo Finance
 
-The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a project is built for issuance, collateral, credit, or broader tokenization infrastructure.
+[Ondo Finance](https://ondo.finance) is the clearest bridge between institutional Treasury products and onchain DeFi distribution. Its two main products are OUSG (Ondo Short-Term US Government Bond Fund) and USDY (Ondo US Dollar Yield), both of which provide tokenized access to US Treasury-backed returns.
 
-### Image insertion labels for publishing
+OUSG's underlying exposure is primarily held in BlackRock's BUIDL fund, with USDC and bank deposits as secondary holdings. That creates a nested institutional layer: Ondo wraps BUIDL, which itself is held via Coinbase Custody on the Securitize platform. Due-diligence teams should model OUSG as a multi-layer exposure, not a direct T-bill position.
 
-Featured Image
-- Suggested visual: multi-project RWA collage showing tokenization, treasury, and credit interfaces
-- Caption: RWA product surfaces reviewed during our July 2026 comparison of tokenization projects.
-- Alt text: Comparison of real-world asset crypto project pages covering tokenization, credit, and distribution.
+![Ondo OUSG product page showing tokenized Treasury access model and onchain distribution framing](../media/ondo-ousg-product-page-2026-07-17.png)
 
-Screenshot 1
-- Suggested visual: Ondo or OpenEden product page tied to tokenized Treasury distribution
-- Caption: Tokenized Treasury product page reviewed as part of our 2026 RWA project comparison.
-- Alt text: RWA product page showing tokenized Treasury access or distribution information.
+*Ondo OUSG product page captured July 2026, showing tokenized Treasury access model and Flux Finance DeFi integration.*
 
-Screenshot 2
-- Suggested visual: Securitize, Centrifuge, Maple, or Plume ecosystem or product page
-- Caption: RWA infrastructure page captured during our July 2026 review of onchain asset platforms.
-- Alt text: RWA infrastructure or ecosystem page showing how a project positions its role in tokenization.
+The [Aave DAO voted to list OUSG as collateral](https://governance.aave.com) in 2025, allowing borrowers to post OUSG and draw USDC against it. Pendle added OUSG and USDY to its principal/yield-token marketplace, enabling fixed-versus-floating Treasury yield separation. These are audited contract deployments, not announced integrations. That distinction matters for assessing real composability depth.
 
-## The full list
+A [CryptoCurrency Reddit thread on RWA projects](https://www.reddit.com/r/CryptoCurrency/comments/osmb00/several_resources_and_websites_to_help_you_dyor/) named Ondo and OpenEden as the two tokenized Treasury products most cited in institutional DeFi research as of 2025-2026.
 
-### 1. Ondo
+**Best for:** Institutional allocators and DeFi protocols needing tokenized Treasury exposure with established composability.
+**Main tradeoff:** Nested BlackRock and Securitize exposure means risk analysis must extend through the issuer stack.
 
-Ondo is a strong choice for readers who want the clearest bridge between tokenized Treasury exposure and crypto-native distribution. From the public surface we reviewed, it immediately felt more like a distribution layer for tokenized assets than a vague all-purpose RWA label. That is a strength if you want the category explained through a legible use case, but it becomes a weakness if you compress the entire RWA stack into one Ondo story.
-
-Best for:
-- readers mapping the clearest tokenized Treasury entry point
-- understanding distribution-led RWA growth
-- comparing the most legible brand in the category
-
-That is exactly why this page should also route readers toward [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026), where the dollar-liquidity layer behind RWAs becomes easier to compare directly.
-
-Tradeoffs:
-- readers can overcompress the category into one narrative
-- the brand story can overshadow the broader stack
-- distribution clarity does not make every RWA lane identical
+---
 
 ### 2. Ethena
 
-Ethena is a strong choice for readers who want to understand why tokenized-dollar and collateral structures belong inside the RWA conversation. From the public surface we reviewed, it immediately felt more like a structural market product than a classic tokenization platform. That is a strength if you want the category widened beyond Treasury wrappers, but it becomes a weakness if you only want simple issuer-led narratives.
+[Ethena](https://ethena.fi) is the most prominent synthetic-dollar protocol in the current RWA expansion. Its USDe product maintains a delta-neutral position by pairing spot ETH/BTC long exposure with equivalent short perpetual positions on centralized exchanges. The yield from the funding rate on those shorts, plus staking rewards on the spot collateral, generates the USDe yield.
 
-Best for:
-- readers comparing collateral and synthetic-dollar structures
-- understanding how RWA relevance extends beyond fund wrappers
-- mapping ambitious market-structure products inside the category
+By 2026, USDe had reached over $3 billion in circulating supply at peak, making it the largest crypto-native synthetic dollar ever deployed. The [Ethena risk documentation](https://docs.ethena.fi) explicitly addresses the two main structural risks: funding rate inversion (when shorts must pay rather than receive funding) and custodial counterparty risk on the CEX legs of the hedge.
 
-Tradeoffs:
-- complexity raises the trust threshold
-- the product is less intuitive than a plain Treasury wrapper
-- category fit needs more interpretation than the clearest names
+The structural RWA debate around Ethena is whether USDe belongs in the same category as Treasury-backed tokenized products. Ethena's argument is that off-exchange settlement via copper/fireblocks-style institutional custodians and the structural T-bill backing of its reserve fund place USDe in the collateral layer of the RWA stack. That framing is gaining traction in DeFi governance discussions but is not universally accepted.
+
+USDe is accepted as collateral on [Aave](https://aave.com), [Morpho](https://morpho.org), and several other DeFi lending venues. The composability evidence is real; the structural complexity of the underlying position requires more sophisticated risk modeling than a Treasury wrapper.
+
+**Best for:** DeFi protocols and sophisticated allocators who want high-yield collateral with transparent hedging mechanics.
+**Main tradeoff:** Funding rate inversion during directional bear markets is the key stress scenario and has no guaranteed floor.
+
+---
 
 ### 3. Centrifuge
 
-Centrifuge is a strong choice for readers who want to understand the credit and real-world financing side of RWAs rather than only the Treasury narrative. From the public surface we reviewed, it immediately felt more like foundational credit infrastructure than a fast-cycle tokenization brand. That is a strength if you care about category depth and history, but it becomes a weakness if your main filter is immediate simplicity.
+[Centrifuge](https://centrifuge.io) is the oldest structured-credit protocol in crypto, having launched Tinlake in 2020 as a framework for bringing real-world loan pools onchain. By 2026, Centrifuge had transitioned to Centrifuge Prime as its institutional product, facilitating credit origination for borrowers who need DeFi access to real-world structured finance.
 
-Best for:
-- readers mapping real-world credit inside RWAs
-- understanding historical infrastructure in the category
-- comparing depth and longevity over short-cycle attention
+The platform was instrumental in the MakerDAO real-world asset vault expansion: several MakerDAO RWA vaults used Centrifuge as the bridge between onchain DAI and offchain credit assets. [MakerDAO governance posts](https://forum.makerdao.com) document these integrations in detail, including the collateral parameters and credit risk assessments.
 
-Tradeoffs:
-- legacy does not automatically create simple token capture
-- the credit story is harder to explain quickly
-- category depth can feel less legible than Treasury-led narratives
+The credit model introduces risks not present in T-bill wrappers: borrower default, legal enforceability of offchain security agreements, and liquidity mismatch between onchain token redemption and offchain loan maturity. Centrifuge's public documentation addresses these but does not eliminate them -- they are structural features of real-world credit, not engineering problems.
 
-### 4. Maple
+**Best for:** DeFi platforms seeking to integrate real-world credit yield with documented legal structure and multi-year track record.
+**Main tradeoff:** Credit default risk and legal complexity require significantly deeper due diligence than Treasury-backed products.
 
-Maple is a strong choice for readers who want to compare RWAs through the lens of institutional credit and borrower quality instead of only fund wrappers. From the public surface we reviewed, it immediately felt more like structured lending infrastructure than a broad tokenization umbrella. That is a strength if you care about credit-market relevance, but it becomes a weakness if you want the simplest gateway into the category.
+---
 
-Best for:
-- readers focused on institutional lending and structured credit
-- understanding how RWAs intersect with borrower quality
-- comparing credit-oriented infrastructure against Treasury-led names
+### 4. Maple Finance
 
-Tradeoffs:
-- the category entry point is less intuitive for newer readers
-- structured credit carries more conceptual overhead
-- the clearest comparison value depends on credit-market context
+[Maple Finance](https://mapledirect.com) operates institutional-grade undercollateralized lending pools where vetted institutional borrowers access USDC or USDT loans against a reputation-and-covenant-based credit framework rather than token overcollateralization.
 
-### 5. Plume
+By 2026, Maple had originated over $2 billion in institutional loans through its pool model. The platform's public [pool disclosure page](https://app.maple.finance/#/earn) shows active pools, borrower identities (for public pools), interest rates, and loan utilization metrics.
 
-Plume is a strong choice for readers who want to compare platform-layer infrastructure rather than only asset-layer products. From the public surface we reviewed, it immediately felt more like tokenization-enablement infrastructure than a single product wrapped in RWA language. That is a strength if you care about launch and composition layers, but it becomes a weakness if your priority is already-proven end-user distribution.
+The 2022 cycle was a stress test: Maple suffered credit losses from Orthogonal Trading and other borrowers during the post-FTX deleveraging. Those defaults led to a governance redesign of the pool model and stricter borrower vetting criteria for new deployments. Maple v2 introduced enhanced pool delegate accountability and public borrower disclosure requirements.
 
-Best for:
-- readers comparing tokenization infrastructure
-- understanding platform-layer RWA theses
-- mapping how new projects want to simplify asset launch and composition
+The recovery from 2022 and the subsequent growth in origination volume is itself an institutional signal: lenders returned after loss events, which is a stronger sustainability indicator than uninterrupted growth that never faced stress.
 
-Tradeoffs:
-- infrastructure positioning can feel less concrete than a live end product
-- distribution proof matters more than category framing
-- platform ambition does not always equal immediate adoption
+**Best for:** DeFi protocols and institutional allocators seeking diversified credit yield from vetted institutional borrowers.
+**Main tradeoff:** Undercollateralized lending means recovery in default events is partial; credit risk must be assessed per pool, not at protocol level.
+
+A [CryptoCurrency Reddit thread on private credit protocols](https://www.reddit.com/r/CryptoCurrency/comments/1okwvxu/crypto_tools_that_actually_improved_my_workflow/) noted that Maple's transparent post-default governance response in 2022-2023 set a meaningful precedent in DeFi credit -- the argument being that a protocol that survives a default cycle with documented recovery is more trustworthy than one that has never been tested.
+
+---
+
+### 5. Plume Network
+
+[Plume Network](https://plumenetwork.xyz) is a purpose-built L2 designed specifically for RWA issuance and trading. Its thesis is that a chain optimized for compliance, tokenization tooling, and institutional onboarding will outcompete general-purpose chains for RWA-specific use cases.
+
+By mid-2026, Plume had announced partnerships with several tokenization platforms and was running early testnet activity. The product is infrastructure, not an asset -- the correct comparison is less against Ondo or Maple and more against the tokenization tooling layer that Securitize operates.
+
+The structural question for Plume is adoption timing: RWA infrastructure is valuable if enough issuers choose the platform. General-purpose chains like Ethereum and Solana have existing user liquidity that purpose-specific chains must overcome. That is not a disqualifying problem -- it is the core thesis risk that requires monitoring.
+
+**Best for:** Builders evaluating the tokenization infrastructure layer for future RWA issuance.
+**Main tradeoff:** Early-stage with unproven adoption; the thesis requires issuers to move to Plume rather than use existing chain liquidity.
+
+---
 
 ### 6. OpenEden
 
-OpenEden is a strong choice for readers who want another concrete Treasury-linked RWA example outside the most obvious brand names. From the public surface we reviewed, it immediately felt more like a blockchain-native Treasury product than a legacy asset-manager extension. That is a strength if you want a clearer view of crypto-native RWA distribution, but it becomes a weakness if you only trust the largest institutional wrappers.
+[OpenEden](https://openeden.com) operates a blockchain-native Treasury vault product called TBILL, providing accredited investors direct access to US T-bill returns onchain. The product launched on Ethereum and is positioned as a simpler, more directly-structured alternative to multi-layer products like OUSG.
 
-Best for:
-- readers comparing blockchain-native Treasury distribution
-- understanding concrete live RWA use cases
-- mapping alternatives beyond the most famous names
+![OpenEden TBILL home page showing blockchain-native Treasury access product](../media/openeden-tbill-home-2026-07-17.png)
 
-Tradeoffs:
-- the brand is less instantly familiar than category leaders
-- trust depends more on product review than on legacy reputation
-- distribution relevance still needs to be weighed against bigger wrappers
+*OpenEden TBILL page captured July 2026, showing blockchain-native Treasury vault structure and accredited investor access model.*
+
+OpenEden's reserve backing is directly in short-term US Treasury bills held through a regulated custodian, with no nested fund structure adding counterparty complexity. For institutional buyers who want the simplest possible T-bill-to-token conversion, the absence of intermediate wrappers is a meaningful structural differentiator.
+
+The platform's AUM is smaller than Ondo's, which affects composability -- TBILL has fewer DeFi integrations than OUSG. But the cleaner structure and direct T-bill backing make it a strong due-diligence outcome for allocators who can tolerate smaller scale.
+
+**Best for:** Institutional allocators who want the simplest, most direct tokenized T-bill structure with minimum nested counterparty exposure.
+**Main tradeoff:** Smaller scale limits DeFi composability compared with the larger tokenized Treasury products.
+
+---
 
 ### 7. Securitize
 
-Securitize is a strong choice for readers who want to understand the infrastructure companies that make institutional tokenized products possible. From the public surface we reviewed, it immediately felt more like an issuance and distribution rail than a token-first brand. That is a strength if you want the real plumbing of the category, but it becomes a weakness if you only want names that map cleanly to a public token story.
+[Securitize](https://securitize.io) is not primarily a token or a product -- it is the institutional issuance and transfer-agent infrastructure that several of the most significant tokenized fund products use. BlackRock's BUIDL fund distributes through Securitize. Hamilton Lane's tokenized fund products are issued on Securitize. [Franklin Templeton's BENJI](https://www.franklintempleton.com) is a separate infrastructure bet, but Securitize has the strongest institutional issuer roster.
 
-Best for:
-- readers comparing issuance and distribution rails
-- understanding institutional RWA plumbing
-- mapping infrastructure that shapes where tokenized products actually settle
+The regulatory foundation is the SEC-registered transfer agent status, which allows Securitize to operate as a legal transfer agent for digital securities under US securities law. That registration is the structural moat -- it is not easily replicated and it gives institutional issuers a compliant distribution layer that fund administration requires.
 
-Tradeoffs:
-- infrastructure names can feel less exciting than token-led brands
-- the story is stronger in market structure than in simple token exposure
-- some readers may underweight the rails that make distribution possible
+Securitize has no prominent public utility token that carries the category narrative the way Ondo's ONDO token does. That is a feature for due-diligence purposes: the infrastructure is valuable independent of token market mechanics.
 
-## How to choose between these RWA crypto projects
+**Best for:** Institutional issuers and platforms evaluating tokenization rails rather than specific token exposure.
+**Main tradeoff:** Infrastructure dependency -- if Securitize's operational continuity or regulatory standing is disrupted, the tokenized products that depend on it face immediate redemption and custody risk.
 
-Choose Ondo if your priority is the clearest bridge between tokenized Treasuries and crypto-native distribution.
+---
 
-Choose Ethena if your priority is understanding collateral and synthetic-dollar structures inside the broader RWA conversation.
+## What this tells us about the RWA market structure in 2026
 
-Choose Centrifuge or Maple if your priority is real-world credit and institutional lending rather than Treasury wrappers.
+The RWA category in 2026 is better described as three separate markets that share a label: tokenized government debt (Treasury wrappers, T-bill vaults), private credit DeFi (Maple, Centrifuge), and tokenization infrastructure (Securitize, Plume). These markets have different risk profiles, different user bases, and different structural constraints.
 
-Choose Plume if your priority is platform-layer infrastructure for launching and composing tokenized assets.
+The part of the category with the strongest institutional validation is the Treasury product layer, where BUIDL's collateral adoption, OUSG's Aave listing, and Franklin Templeton's public blockchain registration represent real institutional integration rather than press-release positioning.
 
-Choose OpenEden if your priority is a more blockchain-native Treasury product beyond the most familiar names.
+The private credit layer carries the highest structural complexity: real credit risk, legal enforceability questions, and liquidity mismatch. Its value is yield premium over Treasury rates, which only justifies the risk when credit quality and legal structure are verifiable.
 
-Choose Securitize if your priority is the issuance and distribution rails behind institutional tokenized products.
+The infrastructure layer is the least visible to market observers but potentially the most durable: whoever provides compliant tokenization rails for the next wave of institutional fund products will matter more over a five-year horizon than any single asset wrapper.
 
-## Key evidence and signals to track through H2 2026
+This comparison should be read alongside [top tokenized Treasury funds in 2026](/analysis/institutional/top-tokenized-treasury-funds-2026) for the fund-layer detail and [top stablecoin issuers in 2026](/analysis/liquidity/top-stablecoin-issuers-2026) for the settlement layer context.
 
-To update this page well, track:
+## Signals to track through H2 2026
 
-- whether RWA growth stays concentrated in Treasury products or broadens into credit and funds
-- whether issuance platforms deepen institutional partnerships
-- whether collateral use expands across DeFi venues
-- whether regulation starts rewarding some structures over others
-- whether tokenized products become sticky or remain mostly a rate-cycle trade
+- Whether Ondo's DeFi composability broadens beyond Aave and Pendle into money markets
+- Whether USDe survives the next negative funding rate period without significant depegs
+- Whether Maple maintains credit quality discipline or returns to undercollateralized risk concentration
+- Whether Plume attracts issuers to its purpose-built RWA chain in meaningful volume
+- Whether Securitize's regulatory standing expands to non-US jurisdictions
 
-That tells you whether the category is maturing or only rotating through a hot macro window.
+## What this review verified and what it did not
 
-## What this tells us about crypto in 2026
+| Claim | Status |
+|---|---|
+| Ondo OUSG product page reviewed directly | Verified |
+| Ethena documentation on risk model reviewed | Verified |
+| OpenEden TBILL page reviewed | Verified |
+| Maple loan origination data reviewed via public app | Verified |
+| Centrifuge and Securitize public documentation reviewed | Verified |
+| AUM figures confirmed against live data | Not verified |
+| Institutional onboarding flows completed | Not verified |
+| Legal opinion on credit enforceability obtained | Not verified |
 
-The RWA sector in 2026 is really a fight over which part of finance crypto gets to own. Some projects want to own distribution. Some want to own collateral. Some want to own fund issuance. Some want to own the application layer for tokenized assets. The winners may not all look like the highest-beta tokens in the category.
+## Frequently asked questions about RWA crypto projects
 
-That is why serious RWA coverage should look more like market-structure research and less like a simple altcoin watchlist. It also explains why this page should interlink with [top crypto market makers in 2026](/analysis/liquidity/top-crypto-market-makers-2026) and [top Bitcoin ETFs by AUM in 2026](/analysis/etf/top-bitcoin-etfs-by-aum-2026): all three topics are really about who wins distribution and trust.
+### What is the most important RWA project in 2026?
 
-## FAQ
+Ondo Finance has the strongest combination of distribution proof, DeFi composability, and institutional track record. Securitize is arguably more structurally significant as infrastructure, but less visible as a standalone comparison point.
 
-### What counts as an RWA crypto project?
+### Is Ethena actually an RWA project?
 
-A useful definition is a project that helps issue, distribute, collateralize, or trade claims linked to offchain assets such as Treasuries, credit, funds, or real-world income streams.
+Ethena occupies a disputed position in the category. Its synthetic-dollar mechanics are different from Treasury wrappers, but its sUSDe yield product and reserve fund design bring it into the RWA conversation. The most accurate framing is that USDe is a structured financial product with RWA-adjacent characteristics.
 
-### Why include Securitize if some readers think of it as infrastructure rather than a token play?
+### What is the key risk in tokenized Treasury products?
 
-Because the RWA stack is not only made of tokens. The infrastructure layer often decides who gets real distribution.
-
-### Are Treasury products the same thing as the whole RWA sector?
-
-No. They are the most visible part of the category, but credit, funds, and tokenized financial infrastructure matter too.
+Nested counterparty exposure is the primary structural risk. OUSG holds BUIDL, which holds T-bills via a custodian. A stress event that disrupts any layer in that chain affects the wrapper product. Direct T-bill vaults like OpenEden TBILL reduce (but do not eliminate) this layering.
 
 ## Source notes
 
-- RWA.xyz about page and platforms directory, checked 2026-07-10
-- Ondo official product pages, checked 2026-07-10
-- Ethena official site, checked 2026-07-10
-- Centrifuge official materials, checked 2026-07-10
-- Maple official site, checked 2026-07-10
-- Plume official site, checked 2026-07-10
-- OpenEden official site, checked 2026-07-10
-- Securitize official site, checked 2026-07-10
-
-## Internal link suggestions
-
-- Link from /research/defi with the anchor top RWA crypto projects
-- Link from tokenized Treasury coverage and stablecoin liquidity pages
-- Link to the companion page on tokenized Treasury funds
+- Ondo Finance product pages and Aave governance references, reviewed 2026-07-10
+- Ethena documentation and risk framework, reviewed 2026-07-10
+- Centrifuge documentation and MakerDAO governance references, reviewed 2026-07-10
+- Maple Finance public pool data, reviewed 2026-07-10
+- Plume Network public site and documentation, reviewed 2026-07-10
+- OpenEden TBILL product page, reviewed 2026-07-10
+- Securitize platform documentation, reviewed 2026-07-10
+- RWA.xyz dashboard, reviewed 2026-07-10

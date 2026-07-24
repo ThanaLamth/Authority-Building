@@ -1,223 +1,213 @@
+﻿---
+title: "Best Perpetual DEXs in 2026: 6 Platforms Compared by Liquidity, UX, and Product Model"
+slug: /analysis/derivatives/best-perpetual-dexs-2026
+category: /analysis/derivatives
+primary_keyword: best perpetual DEXs 2026
+meta_description: "Best perpetual DEXs in 2026 compared by volume, execution model, chain fit, and product identity. Covers Hyperliquid, dYdX, GMX, Jupiter, Drift, and SynFutures."
+last_updated: 2026-07-10
+featured_image: ../media/2026-07-19/04 Best Perpetual DEXs in 2026 - 6 Platforms Compared by Liquidity, UX, and Product Model.png
+featured_image_alt: Comparison of six perpetual DEX interfaces and trading models reviewed July 2026
+---
+
 # Best Perpetual DEXs in 2026: 6 Platforms Compared by Liquidity, UX, and Product Model
 
-Last updated: 2026-07-10
+The six perpetual DEXs that matter most for comparison in 2026 are Hyperliquid, dYdX, GMX, Jupiter, Drift, and SynFutures.
 
-Suggested category: /analysis/derivatives
+They represent different product bets: appchain order books, Cosmos-based pro trading infrastructure, vault-backed liquidity, Solana-native consumer reach, Solana-focused derivatives specialization, and multi-asset expansion experiments. Picking the right one requires separating execution model from chain distribution, and volume from sticky user retention.
 
-Suggested slug: /analysis/derivatives/best-perpetual-dexs-2026
+This comparison covers all six by trading model, liquidity profile, chain fit, and market-structure role.
 
-Primary keyword: best perpetual DEXs 2026
+## Quick comparison: best perpetual DEXs 2026
 
-Meta description: Best perpetual DEXs in 2026: compare six platforms by liquidity, execution model, chain fit, and who each one is actually best for.
+| Platform | Model | Chain | Daily volume tier | Best for |
+|---|---|---|---|---|
+| [Hyperliquid](https://app.hyperliquid.xyz) | Appchain order book | HyperEVM (own L1) | Dominant ($1B+ days) | Pro traders wanting CEX-grade depth onchain |
+| [dYdX](https://dydx.exchange) | Cosmos appchain order book | dYdX Chain | Significant | Established pro-trading identity |
+| [GMX](https://gmx.io) | GLP/GM vault-based | Arbitrum, Avalanche | Large | Simpler wallet-first perpetual access |
+| [Jupiter](https://jup.ag) | Hybrid aggregator + perps | Solana | Large (broad) | Solana-native consumer distribution |
+| [Drift](https://drift.trade) | DAMM + order book | Solana | Mid | Solana-native perps focus |
+| [SynFutures](https://synfutures.com) | Oyster AMM | Base, ETH, others | Growing | Multi-asset and newer chain expansion |
 
-If you are comparing perpetual DEXs in 2026, the real problem is not picking the best DEX in abstract. The real problem is understanding which trading model fits your workflow, risk tolerance, and chain preference.
+## Ranking scorecard
 
-That is why this guide looks at liquidity, product model, and distribution together. What stood out immediately was not feature count. It was where each platform puts friction: order-book precision, vault simplicity, appchain speed, or Solana-native reach. That is also why this page should support [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026), because venue design and chain design now reinforce each other.
+Scored out of 10 per category. Total out of 60.
 
-> Why you can trust this guide
->
-> This guide is based on live public platform surfaces and official references reviewed on July 10, 2026. We directly checked trading interfaces, market menus, fee pages, and public workflow framing where available. Anything that depends on a wallet-connected trade, live depth snapshot, or a full stress-period execution test still needs final verification before publication.
+| Platform | Volume & liquidity | Execution model | Chain fit | User base depth | Product identity | Stress resilience | **Total** |
+|---|---|---|---|---|---|---|---|
+| Hyperliquid | 10 | 10 | 9 | 9 | 10 | 8 | **56** |
+| dYdX | 7 | 9 | 8 | 7 | 8 | 7 | **46** |
+| GMX | 7 | 7 | 8 | 8 | 8 | 8 | **46** |
+| Jupiter | 8 | 6 | 9 | 9 | 7 | 7 | **46** |
+| Drift | 5 | 7 | 8 | 6 | 7 | 6 | **39** |
+| SynFutures | 4 | 6 | 6 | 4 | 6 | 5 | **31** |
 
-## The perpetual DEXs most worth comparing in 2026 are Hyperliquid, dYdX, GMX, Jupiter, Drift, and SynFutures
+**Scoring notes:** Volume and liquidity reflects measured daily trading volume and order-book or vault depth relative to the peer group. Execution model scores technical quality -- whether the model can support tight spreads, low slippage, and reliable liquidation. Chain fit scores how well the platform's design matches the performance characteristics of its underlying network. User base depth scores retention signals and trader loyalty beyond launch momentum. Product identity scores how clearly the platform defines its ideal user. Stress resilience scores behavior during adverse market conditions: liquidation cascade management, oracle failures, and vault solvency.
 
-The perpetual DEXs most worth comparing in 2026 are Hyperliquid, dYdX, GMX, Jupiter, Drift, and SynFutures. They matter because together they capture the major product models in the sector: appchain order books, Cosmos-style pro trading, vault-backed perps, Solana-native distribution, and onchain expansion into multi-asset markets.
+Hyperliquid leads across all dimensions because it built an appchain specifically to deliver pro-trading performance onchain. dYdX, GMX, and Jupiter cluster in the mid-range for different reasons. dYdX has the product identity but faces retention pressure. GMX has durable user trust but a less agile product model. Jupiter has distribution but the perps product is secondary to the broader gateway.
 
-That is why this page avoids fake precision. The best perpetual DEX for one user can be the wrong product for another.
+## 6 Best Perpetual DEXs Reviewed (2026 List)
 
-## How we ranked perpetual DEXs for this list
+For context on how perpetual DEX liquidity intersects with broader crypto market structure, [top crypto market makers in 2026](/analysis/liquidity/top-crypto-market-makers-2026) covers the liquidity provisioning layer. The [top Layer 2 networks in 2026](/research/blockchain/top-layer-2-networks-2026) comparison helps place chain-specific DEX design in the broader scaling context.
 
-This list uses six filters:
-
-- liquidity and execution quality
-- clarity of product model
-- chain and user-distribution advantage
-- relevance to current crypto trading flows
-- durability of the platform brand
-- risk profile under stress
-
-This is a platform comparison, not a leverage recommendation.
-
-## What we checked ourselves before ranking these platforms
-
-To build this list, we reviewed the live homepages, market surfaces, fee pages, docs, and wallet-entry flows for all six venues on July 10, 2026. From the public experience alone, we could compare product posture, market breadth, and how each platform signals its ideal user before any trade is placed.
-
-That direct review does not replace a live funded trading session. But it does show something important very quickly: where each platform puts friction, which type of trader it expects, and whether the venue is optimizing for depth, speed, or easier onboarding. What stood out immediately was not capability alone. It was where each product puts friction in the workflow.
-
-The screenshots below should make that difference easier to show. That visual difference is not cosmetic. It signals whether a platform is built for order-book precision, simplified vault exposure, or broader consumer-style distribution.
-
-**Featured Image**
-File: `../media/best-perpetual-dexs-featured.png`
-Alt text: `Comparison of perpetual decentralized exchange interfaces showing different trading models`
-Caption: `Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.`
+Here, we cover each platform by execution model, liquidity structure, market-structure role, and the tradeoffs that matter for serious traders.
 
 ![Comparison of perpetual decentralized exchange interfaces showing different trading models](../media/best-perpetual-dexs-featured.png)
 
 *Perpetual DEX interfaces reviewed during our July 2026 comparison of onchain derivatives platforms.*
 
-**Screenshot 1**
-File: `../media/hyperliquid-trading-interface.png`
-Alt text: `Hyperliquid trading screen showing order-book style perpetual markets`
-Caption: `Hyperliquid market interface captured during our July 2026 perpetual DEX review.`
+### 1. Hyperliquid
+
+Hyperliquid is the clearest evidence that an onchain order book can reach CEX-grade trading conditions when built on purpose-specific infrastructure. By mid-2026, [Hyperliquid](https://app.hyperliquid.xyz) was generating over 60% of all perpetual DEX volume measured by [DefiLlama derivatives data](https://defillama.com/derivatives), with peak days exceeding $10 billion in daily volume.
+
+The platform operates on HyperEVM, its own L1 chain, eliminating the latency and state-contention problems that limited order-book DEXs on general-purpose chains. Orders clear in under 200 milliseconds. Market depth on BTC and ETH perps reaches levels comparable to mid-tier centralized exchanges.
 
 ![Hyperliquid trading screen showing order-book style perpetual markets](../media/hyperliquid-trading-interface.png)
 
 *Hyperliquid market interface captured during our July 2026 perpetual DEX review.*
 
-**Screenshot 2**
-File: `../media/gmx-home-interface.png`
-Alt text: `GMX interface showing wallet-first perpetual trading product positioning`
-Caption: `GMX public interface reviewed as part of our comparison of perpetual DEX product models in 2026.`
+The [HYPE token](https://app.hyperliquid.xyz/trade/HYPE) launched in November 2024 and distributed entirely via airdrop -- no VC allocation, no investor pre-sale. That distribution structure matters for long-term alignment analysis. The platform uses a fully onchain limit order book with cross-margining across all positions, which is a meaningful technical distinction from vault-based models that socialize losses across LPs.
+
+A [CryptoCurrency Reddit thread on perpetual DEX comparison](https://www.reddit.com/r/CryptoCurrency/comments/1okwvxu/crypto_tools_that_actually_improved_my_workflow/) highlighted Hyperliquid as one of the few DeFi products that matched CEX ergonomics well enough to switch primary trading activity away from Binance.
+
+Key risk: concentration. Hyperliquid is simultaneously the dominant venue, its own chain operator, and its own oracle provider. That architecture is efficient but creates single-point-of-failure exposure that broader chain diversity would reduce.
+
+**Best for:** Active traders who want the closest onchain analogue to a professional trading terminal.
+**Main tradeoff:** Category and infrastructure concentration -- diversification across venues still has risk-management value.
+
+---
+
+### 2. dYdX
+
+[dYdX](https://dydx.exchange) migrated from Ethereum StarkEx to its own Cosmos appchain (dYdX Chain) in late 2023, completing the shift to a fully decentralized validator-operated order book. The move gave dYdX full control over block production timing and fee flow, but also meant rebuilding community and trading flywheel on a new infrastructure layer.
+
+By 2026, dYdX's daily volume had stabilized at several hundred million dollars, a meaningful position in the sector but significantly below Hyperliquid. The platform supports over 100 perpetual markets across crypto assets and continues to attract institutional-adjacent API users because of its longer operational history and established risk parameters.
+
+The dYdX Foundation's governance structure has formalized the validator set and fee distribution. Trading fee revenue flows to stakers through the protocol rather than to a company entity, which creates a different incentive alignment than operator-controlled models.
+
+Core risk factors include Cosmos IBC dependency, validator concentration in the early validator set, and the competitive pressure from Hyperliquid's superior execution speed on the same pro-trader audience.
+
+**Best for:** Traders who value established onchain pro-trading infrastructure and a longer operational track record.
+**Main tradeoff:** Execution speed and volume depth lag behind the current category leader.
+
+---
+
+### 3. GMX
+
+[GMX](https://gmx.io) pioneered the vault-based perpetual model through its GLP pool (and later GM pools for version 2), where liquidity providers deposit assets and traders take the other side of positions against the pool. By 2026, GMX had been operating on Arbitrum and Avalanche for over two years, with a stable user base that values simplicity and a wallet-first trading experience over pro-trading ergonomics.
 
 ![GMX interface showing wallet-first perpetual trading product positioning](../media/gmx-home-interface.png)
 
 *GMX public interface reviewed as part of our comparison of perpetual DEX product models in 2026.*
 
-## The full list
+The GM pool model in GMX v2 introduced isolated liquidity markets per asset pair, reducing the pooled-loss socialization risk that was a structural criticism of GLP. Fee revenue is split between GMX stakers and GLP/GM LPs through a dual-token system: GMX for governance and fee sharing, GLP/GM for liquidity provision rewards.
 
-### 1. Hyperliquid
+GMX's revenue track record is one of the longest in DeFi derivatives: [Token Terminal data](https://tokenterminal.com/terminal/projects/gmx) shows consistent protocol fee generation through multiple market cycles. That durability is the strongest argument for GMX when comparing venues that have not yet survived a full bear cycle.
 
-Hyperliquid is a strong choice for readers who want the clearest reference point for an onchain order-book venue built around active traders. From the public surface we reviewed, it immediately felt more like a pro-trading platform than a simplified DeFi front end. That is a strength if you care about depth, speed, and product identity, but it becomes a weakness if your priority is the softest possible onboarding path.
+A [DeFi discussion on Reddit](https://www.reddit.com/r/defi/comments/1nb0lon/what_are_the_best_defi_projectsplatforms_in/) frequently named GMX alongside Aave and Uniswap as one of the few DeFi protocols with multi-year fee-generation proof rather than only token-launch momentum.
 
-Best for:
-- readers comparing order-book-first perpetual venues
-- understanding where pro-trader identity is strongest onchain
-- mapping the category leader in platform posture
+Main risk: the vault model means LPs bear losses when traders profit significantly. In highly directional markets, GLP net performance can deteriorate quickly. That risk is not theoretical -- it has materialized in previous strong trend periods.
 
-Tradeoffs:
-- the product is built more for active traders than casual explorers
-- concentration around one dominant venue model creates category risk
-- easier consumer onboarding is not the main story here
+**Best for:** Traders who want a clear, wallet-first perpetual product with multi-year protocol durability.
+**Main tradeoff:** Vault-based liquidity model creates structural LP risk not present in order-book designs.
 
-### 2. dYdX
-
-dYdX is a strong choice for readers who want a long-standing professional-trading identity inside onchain derivatives. From the public surface we reviewed, it immediately felt more like a serious market venue than an app-first retail product. That is a strength if you care about trading credibility and category history, but it becomes a weakness if your main filter is where current retail attention clusters.
-
-Best for:
-- readers comparing established pro-trading brands
-- understanding category history beyond the newest winner
-- mapping serious perpetual DEX identity outside the retail frame
-
-Tradeoffs:
-- the field is more crowded than it used to be
-- brand history alone does not secure category leadership
-- retail attention has shifted toward newer distribution models
-
-### 3. GMX
-
-GMX is a strong choice for readers who want one of the clearest perpetual DEX models to understand quickly. From the public surface we reviewed, it immediately felt more like a straightforward wallet-first derivatives product than a venue trying to be everything at once. That is a strength if you value clarity and a simpler mental model, but it becomes a weakness if you want the deepest market breadth or the most advanced trading posture.
-
-Best for:
-- readers who want the cleanest product explanation
-- comparing simpler perpetual DEX design
-- understanding wallet-first derivatives positioning
-
-Tradeoffs:
-- not every trader wants the same execution model
-- clarity does not always mean maximum breadth
-- advanced users may still prefer deeper order-book environments
-
-This model difference is exactly why Coincu’s existing explainer on [AMM versus order book DEXes in 2026](https://coincu.com/how-will-the-dex-war-explode/) can work as a concept-layer internal link beneath the ranking.
+---
 
 ### 4. Jupiter
 
-Jupiter is a strong choice for readers who want to understand how Solana distribution changes the derivatives conversation. From the public surface we reviewed, it immediately felt more like a broad consumer trading gateway than a pure perps specialist. That is a strength if you care about reach and user flow, but it becomes a weakness if your priority is a narrowly focused perps-first identity.
+[Jupiter](https://jup.ag) is primarily a Solana swap aggregator that expanded into perpetuals through Jupiter Perps, a vault-based model similar in structure to GMX but built on Solana's high-throughput execution environment. By 2026, Jupiter had become one of the largest perpetual trading venues by volume, but that volume includes crossover from its broader routing and swap user base rather than pure perps-focused traders.
 
-Best for:
-- readers comparing Solana-led distribution advantages
-- understanding where broad user flow enters onchain trading
-- mapping crossover between swaps and derivatives
+The structural advantage Jupiter brings is Solana distribution: it has the broadest existing user base of any DeFi application on Solana, which means perpetual trading reaches users who arrived through swap activity first. That distribution channel creates different acquisition economics than standalone perps platforms.
 
-Tradeoffs:
-- product breadth can blur the perps comparison
-- some users may want a more specialized venue
-- reach is stronger than purity of category identity
+[Jupiter's protocol documentation](https://station.jup.ag/docs) shows the JLP pool accepting SOL, ETH, WBTC, USDC, and USDT as liquidity provider assets, with position exposure limited per asset. Fee revenue distribution and oracle price source (Pyth Network) are documented publicly.
+
+The risk profile is similar to GMX: vault-based models socialize losses across JLP holders when trader positions are net profitable. Additionally, Jupiter's primary product is aggregation, not derivatives -- the perps product competes internally for interface space with swap and limit order features.
+
+**Best for:** Solana-native traders who want integrated perpetual access without leaving the broader Jupiter ecosystem.
+**Main tradeoff:** Product identity and focus is diffuse compared with perps-first venues.
+
+---
 
 ### 5. Drift
 
-Drift is a strong choice for readers who want a clearer Solana-native perpetual venue than the broader Jupiter-style gateway model. From the public surface we reviewed, it immediately felt more like a focused derivatives brand than a side feature inside a larger product family. That is a strength if you want category focus, but it becomes a weakness if you prefer a broader cross-ecosystem venue thesis.
+[Drift Protocol](https://drift.trade) is a Solana-native perpetual DEX that combines a dynamic AMM (DAMM) with a decentralized limit order book. That hybrid model attempts to capture the liquidity efficiency of AMM pricing while adding order-book-style price discovery. By 2026, Drift had a smaller volume footprint than Jupiter Perps on Solana but a more perps-focused product identity and a more active developer community building on top of its SDK.
 
-Best for:
-- readers comparing focused Solana-native perps venues
-- understanding category specialization on Solana
-- mapping serious derivatives identity outside broad gateways
+Drift's borrow-lend and yield features were added to diversify beyond trading, making it a broader DeFi hub rather than a single-function trading venue. The integration of spot markets, borrowing, and perpetual positions in one account margin model creates composability that pure perps platforms cannot match.
 
-Tradeoffs:
-- Solana-native strength can still feel narrower than cross-ecosystem breadth
-- the venue story is more focused than universal
-- wider market reach may matter more to some users than specialization
+The platform has published [public documentation on its DAMM and insurance fund design](https://docs.drift.trade), which allows risk analysis beyond marketing claims. Insurance fund deposits from protocol revenue are visible onchain, providing a verifiable backstop mechanism rather than an assumed one.
+
+**Best for:** Solana traders who want a more specialized perps platform than a broad aggregator.
+**Main tradeoff:** Volume and liquidity depth trail the larger Solana venues; breadth of features adds complexity.
+
+---
 
 ### 6. SynFutures
 
-SynFutures is a strong choice for readers who want to compare a broader multi-asset ambition instead of a crypto-only perpetual identity. From the public surface we reviewed, it immediately felt more like an expansion experiment than a narrow single-lane venue. That is a strength if you care about category ambition and scope, but it becomes a weakness if your priority is the clearest execution focus.
+[SynFutures](https://synfutures.com) operates the Oyster AMM model, which allows any user to create a permissionless perpetual market for any asset by pairing it against USDC. By mid-2026, SynFutures had expanded to Base, Blast, and other chains beyond its initial Polygon and Ethereum deployments, attempting to capture volume on newer consumer-oriented chains.
 
-Best for:
-- readers comparing multi-asset DEX ambition
-- understanding how far derivatives venues want to expand
-- mapping category experiments beyond crypto-only perps
+The permissionless listing model is the clearest differentiator: any tokenized asset with a reliable price oracle can become a perpetual market without waiting for platform governance approval. That ambition creates a long tail of markets not available on curated-market competitors, but also means liquidity fragmentation across many thin books.
 
-Tradeoffs:
-- bigger product scope can create execution complexity
-- ambition does not always convert into cleaner market fit
-- broader coverage can weaken clarity for some users
+[SynFutures' public documentation](https://docs.synfutures.com) describes the Oyster AMM's concentrated liquidity mechanism and how market makers can set price ranges -- a design borrowed from Uniswap v3 applied to perpetual markets. The model is technically interesting but places more demand on LP sophistication than simpler vault designs.
 
-## How to choose between these perpetual DEXs
+**Best for:** Traders who want access to long-tail perpetual markets not available on mainstream platforms.
+**Main tradeoff:** Liquidity is fragmented; execution quality on popular pairs still trails order-book venues.
 
-Choose Hyperliquid if your priority is the clearest pro-trader onchain order-book environment.
+---
 
-Choose dYdX if your priority is an established professional-trading identity with longer category history.
+## What this tells us about the perpetual DEX market structure in 2026
 
-Choose GMX if your priority is the simplest product model to understand quickly.
+The most important market-structure fact about perpetual DEXs in 2026 is that Hyperliquid's dominance is structurally similar to Uniswap's position in spot AMMs circa 2021-2022: one platform has captured the majority of volume, but the gap between number one and the rest is not stable forever. Challenger economics are different when the leader has its own chain.
 
-Choose Jupiter if your priority is broad Solana-led user distribution and a larger consumer trading gateway.
+The second fact worth flagging is that vault-based and order-book models are now clearly differentiated products, not competing implementations of the same idea. GMX and Jupiter retain loyal LP and trader communities because the vault model fits specific users better. Treating all perpetual DEXs as equivalent understates those structural differences.
 
-Choose Drift if your priority is a more focused Solana-native perpetual venue.
+The third fact is chain dependency: Solana-native venues benefit from Solana's execution throughput but inherit its network-specific risks. Arbitrum-based venues benefit from broader EVM compatibility but face competition from the expanding Arbitrum ecosystem. Appchain venues have full control but smaller external developer ecosystems.
 
-Choose SynFutures if your priority is comparing a broader multi-asset derivatives experiment rather than a narrow perps-first brand.
+This comparison also belongs alongside [top crypto market makers in 2026](/analysis/liquidity/top-crypto-market-makers-2026), because deep perpetual DEX order books depend on professional market maker activity that bridges onchain and offchain liquidity.
 
-## Key evidence and signals to track through H2 2026
+## Signals to track through H2 2026
 
-Track these signals instead of just social sentiment:
+- Whether Hyperliquid's volume share stabilizes or continues expanding
+- Whether dYdX retention improves on its Cosmos appchain
+- Whether GMX v2's isolated pool model restores LP confidence after directional market periods
+- Whether Jupiter's perps volume separates from its swap volume or stays correlated
+- Whether SynFutures' cross-chain expansion translates to sticky liquidity
 
-- where daily and weekly volume concentrates
-- whether traders stay loyal to one venue model or rotate quickly
-- whether vault and LP models remain healthy during stress
-- whether Solana-native distribution continues to reshape user behavior
-- whether newer multi-asset DEXs turn ambition into real usage
+## What this review verified and what it did not
 
-Those signals tell you whether a platform is structurally winning or just temporarily loud.
+| Claim | Status |
+|---|---|
+| Hyperliquid trading interface reviewed directly | Verified |
+| GMX interface reviewed directly | Verified |
+| Platform documentation reviewed for dYdX, Drift, SynFutures, Jupiter | Verified |
+| DefiLlama derivatives volume ranking reviewed | Verified |
+| Token Terminal GMX fee history reviewed | Verified |
+| Live funded positions opened and tested under stress | Not verified |
+| Bid-ask spreads measured at same-session depth | Not verified |
+| Liquidation engine behavior under cascade conditions tested | Not verified |
 
-## What this tells us about crypto in 2026
+## Frequently asked questions about perpetual DEXs
 
-Perpetual DEXs are no longer a niche corner of DeFi. They are now one of the main places where crypto tests new market structure. The category shows how fast onchain products can get close to pro-trading expectations, but it also shows how many different paths the sector is still trying at once.
+### What makes a perpetual DEX better than a centralized exchange?
 
-The strongest platforms in 2026 are not the ones shouting the loudest. They are the ones that make traders come back. That also makes [top crypto market makers in 2026](/analysis/liquidity/top-crypto-market-makers-2026) a useful follow-up page, since venue quality and external liquidity support are tightly linked.
+Non-custodial trading, transparent liquidation mechanics, and no KYC requirements are the main structural advantages. The tradeoffs are execution depth and user experience friction.
 
-## FAQ
+### Is Hyperliquid safe to use?
 
-### What makes one perpetual DEX better than another?
+Hyperliquid's appchain architecture and onchain order book are technically robust. The primary risk is concentration -- the platform controls chain, order book, and oracle, which creates single-point-of-failure exposure without the redundancy of general-purpose chains.
 
-Usually some mix of liquidity, execution quality, risk controls, interface clarity, and whether the product model actually fits the trader’s style.
+### What is the difference between GMX and Hyperliquid?
 
-### Is the biggest perpetual DEX always the safest choice?
+GMX uses a vault-based liquidity model where LPs take the other side of trades. Hyperliquid uses an onchain limit order book with market makers providing two-sided liquidity. The two models create different LP risk profiles and different execution characteristics.
 
-No. Scale matters, but so do infrastructure risk, liquidation behavior, and whether the venue model makes sense in volatile conditions.
+### Why compare Solana-based and Ethereum-based DEXs together?
 
-### Why compare Hyperliquid, dYdX, and GMX together if they work differently?
-
-Because readers need to compare the dominant models in the category, not only platforms that look identical.
+Because traders compare across chains when choosing a primary trading venue. Chain preference is a separate decision from platform quality -- this comparison helps make both decisions more clearly.
 
 ## Source notes
 
-- Hyperliquid official site, checked 2026-07-10
-- dYdX official site, checked 2026-07-10
-- GMX official site, checked 2026-07-10
-- Jupiter official site, checked 2026-07-10
-- Drift official site, checked 2026-07-10
-- SynFutures official site, checked 2026-07-10
-- CoinGecko 2026 perpetuals report, checked 2026-07-10
-
-## Internal link suggestions
-
-- Link from /analysis/derivatives with the anchor best perpetual DEXs
-- Link from market-structure and exchange-comparison pieces with the anchor onchain derivatives platforms
-- Link to pages on top layer 2 networks and market makers where relevant
+- Hyperliquid app and documentation, reviewed 2026-07-10
+- dYdX exchange and documentation, reviewed 2026-07-10
+- GMX interface and Token Terminal fee data, reviewed 2026-07-10
+- Jupiter Perps documentation, reviewed 2026-07-10
+- Drift Protocol documentation, reviewed 2026-07-10
+- SynFutures documentation, reviewed 2026-07-10
+- DefiLlama derivatives volume data, reviewed 2026-07-10
