@@ -11,7 +11,7 @@ secondary_keywords:
   - "decentralized perps 2026"
 schema: "Article + ItemList + BreadcrumbList + FAQPage"
 category: "exchanges/dex"
-last_reviewed: "2026-07-22"
+last_reviewed: "2026-07-24"
 internal_links:
   - "/exchanges/centralized/best-crypto-exchanges-2026"
   - "/exchanges/perp/best-perpetual-crypto-exchanges-2026"
@@ -156,6 +156,16 @@ That use case is specific. Curve is not the right tool for token discovery, altc
 In a [DeFi thread on stablecoin swap tools](https://www.reddit.com/r/defi/comments/1hl12kl/portfolio_trackers/), Curve was consistently named as the go-to venue specifically for large stablecoin rebalancing. Outside that context, experienced DeFi users noted they rarely used it for anything else.
 
 ---
+
+## Pros and cons by DEX
+
+| DEX | Strengths | Risks |
+|-----|-----------|-------|
+| Uniswap | Reference EVM venue; deepest liquidity on Ethereum L2s; fee tiers from 0.01% for stablecoins; transparent route before confirmation | EVM-only; aggregators sometimes find better routes on less common pairs |
+| Jupiter | Best Solana routing (0.2-0.5% better execution than direct venue on split-liquidity pairs); integrates limit orders and DCA | Solana-only; not relevant for EVM users |
+| PancakeSwap | Most accessible multi-chain retail experience; BNB Chain gas under \.10; integrated portfolio and earn | Slightly higher fees (0.17-0.25%) than Uniswap stablecoin tiers; not best execution on Ethereum mainnet |
+| Hyperliquid | Decentralized perps at 0.02% maker / 0.05% taker; CEX-competitive latency (200-400ms); no custody risk | Derivatives venue only; not a spot swap tool |
+| Curve | Lowest slippage on stable pairs (\,000-2,000 saved vs standard AMM on \ stablecoin trade); LP fees without impermanent loss risk | Niche use case; complex gauge/veTokenomics for advanced LP participation |
 
 ## DEX risks: slippage, MEV, and smart-contract exposure
 

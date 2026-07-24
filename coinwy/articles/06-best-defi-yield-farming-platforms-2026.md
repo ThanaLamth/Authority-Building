@@ -11,7 +11,7 @@ secondary_keywords:
   - "best onchain yield 2026"
 schema: "Article + ItemList + BreadcrumbList + FAQPage"
 category: "strategies/yield-farming"
-last_reviewed: "2026-07-22"
+last_reviewed: "2026-07-24"
 internal_links:
   - "/strategies/staking/best-crypto-staking-platforms-2026"
   - "/strategies/risk-management/"
@@ -156,6 +156,16 @@ The honest risk disclosure: stETH carries three layers of risk that most coverag
 In a [DeFi community thread on liquid staking](https://www.reddit.com/r/defi/comments/1hl12kl/portfolio_trackers/), stETH was described as the most composable staking receipt in the ecosystem specifically because of Aave collateral support and Curve pool depth. The practical concern raised: "composable" also means that if stETH de-pegs during a market crisis, everything stacked on top of it becomes exposed at the same time.
 
 ---
+
+## Pros and cons by platform
+
+| Platform | Strengths | Risks |
+|----------|-----------|-------|
+| Aave | Transparent yield source; clean exit any time (when utilization <100%); 4-6% USDC supply rate on v3; lowest friction (3/10) | Cascade liquidations can temporarily block withdrawal during market stress; rates variable |
+| Pendle | Fixed yield via PT (4-6% annualized on stETH/USDC); active yield positioning via YT; captures yield curve trading | Requires understanding PT/YT mechanics before using; not passive; maturity exit needs a buyer |
+| Morpho | Better lending efficiency than basic Aave via peer-to-peer matching and isolated markets | Isolated markets mean concentrated exposure per pool; not beginner-friendly |
+| Curve | Minimal impermanent loss on stable pairs; fee income from high-volume pools (1-4% annualized on 3pool) | Advantage disappears outside pegged-asset pairs; veTokenomics complexity |
+| Lido | 3-4% ETH staking yield; stETH composable on Aave, Curve, Pendle simultaneously | Three risk layers: Lido smart-contract risk, stETH peg risk (de-pegged to 0.93 ETH in June 2022), validator slashing risk |
 
 ## The real risks behind DeFi yield in 2026
 

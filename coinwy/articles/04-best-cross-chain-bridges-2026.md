@@ -11,7 +11,7 @@ secondary_keywords:
   - "bridge crypto between chains"
 schema: "Article + ItemList + BreadcrumbList + FAQPage"
 category: "how-to/bridging"
-last_reviewed: "2026-07-22"
+last_reviewed: "2026-07-24"
 internal_links:
   - "/exchanges/dex/best-decentralized-exchanges-2026"
   - "/strategies/yield-farming/best-defi-yield-farming-platforms-2026"
@@ -152,6 +152,16 @@ Squid connects to Axelar's cross-chain messaging layer and routes transfers thro
 In a [DeFi discussion on cross-chain swap tools](https://www.reddit.com/r/defi/comments/16x24n5/squid_router_anyone_used_it_for_crosschain_swaps/), users praised Squid for handling EVM-to-Cosmos routes that would otherwise require multiple steps. The practical warning from experienced users: gas estimate accuracy can lag during high congestion periods, so check the confirmation screen carefully before proceeding.
 
 ---
+
+## Pros and cons by bridge
+
+| Bridge | Strengths | Risks |
+|--------|-----------|-------|
+| Across | Fastest EVM settlement (sub-60s on most routes); 0.05-0.1% LP fee is competitive; fee + time visible before wallet connect | EVM-only; no Solana, Sui, or Cosmos support |
+| Stargate | Delivers native USDC/USDT on destination (not wrapped); deepest stablecoin liquidity for large transfers | LP fee scales with transfer size; not cheapest on small transfers |
+| deBridge | EVM-to-Solana swap-and-bridge in one transaction; route details visible before confirm | More complexity than simple bridges; slippage on top of bridge fee |
+| Wormhole | Deepest Solana and Sui ecosystem integration; \ exploit fully covered, no repeat incident since | Infrastructure layer; user experience depends on which frontend app is used |
+| Squid | One-click cross-chain swap UX; handles EVM-to-Cosmos routes | Aggregation adds abstraction; gas estimate accuracy lags during congestion |
 
 ## The biggest bridge risks in 2026
 
