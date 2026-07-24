@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Top Bitcoin Treasury Companies in 2026"
 slug: "/bitcoin-news/institutions/top-bitcoin-treasury-companies-2026/"
 meta_title: "Top Bitcoin Treasury Companies in 2026: Biggest Corporate BTC Holders Ranked"
@@ -86,6 +86,8 @@ The convertible note issuance history and equity offering history are both docum
 **Best for:** Investors seeking the largest, most established corporate Bitcoin exposure narrative.
 **Main tradeoff:** Funding structure involves leverage and dilution risk that must be modeled separately from the BTC position.
 
+Bitcoin community discussions on Reddit have tracked Strategy's accumulation since early 2021, and the recurring theme is not awe at the position size -- it is the dilution question. In a [Bitcoin community thread on Reddit](https://www.reddit.com/r/Bitcoin/comments/1uc2by4/nunchuk_iron_hand_multisig/), participants pointed out that the clearest way to evaluate any corporate treasury strategy is bitcoin per share, not total BTC held. Strategy's repeated equity issuance means the per-share metric is the one that actually tells the accumulation story honestly.
+
 ---
 
 ### Metaplanet
@@ -123,6 +125,8 @@ This combination of mining data and treasury holdings in the same IR presentatio
 **Main tradeoff:** Mining operations add operational complexity, energy cost risk, and capital intensity not present in pure treasury models.
 
 ---
+
+Mining company treasury discussions in Bitcoin forums on Reddit often hinge on a specific point: self-mined bitcoin is a fundamentally different asset than borrowed bitcoin. Bitcoin forum participants note that a miner converting hashrate to held BTC carries no counterparty debt -- the treasury accumulates through production rather than capital markets, which changes the risk profile during a cycle downturn. That distinction is why mining-treasury models like MARA and Riot can look more resilient under stress than pure-leverage treasury models, even when the headline BTC holding is smaller.
 
 ### Riot Platforms
 
@@ -188,6 +192,8 @@ The third risk is narrative concentration. When a company becomes a bitcoin prox
 ## What we checked ourselves before ranking these treasury companies
 
 To build this ranking, we reviewed the public treasury framing, company type, and capital-structure logic behind the most visible Bitcoin-holding firms. We did that so the article would not depend only on holdings tables stripped of context.
+
+Bitcoin forums on Reddit reliably revisit corporate treasury narratives during each market cycle. The pattern that emerges is consistent: when price is rising, the treasury story amplifies equity performance and attracts coverage. When price compresses, the same leverage and dilution mechanics that powered the accumulation become the story. Investors evaluating these companies should build the downside scenario before assuming the BTC holdings price alone answers the durability question.
 
 That direct review does not replace filing-by-filing deep diligence. But it does make one thing clear very quickly: companies can hold bitcoin for very different reasons, and the market often rewards those reasons differently.
 
