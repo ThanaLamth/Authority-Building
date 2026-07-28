@@ -14,6 +14,8 @@ secondary_keywords:
   - best price crypto swap
 category: crypto-markets
 last_reviewed: 2026-07-28
+featured_image: ../media/2026-07-29/1inch-app-2026-07-29.png
+featured_image_alt: Top crypto exchange aggregators in 2026 -- 1inch interface showing multi-chain routing and Fusion+ mode
 schema:
   - Article
   - ItemList

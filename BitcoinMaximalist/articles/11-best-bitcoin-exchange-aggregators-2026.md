@@ -75,6 +75,10 @@ The federation model, launched with RoboSats Federation in 2024, distributes the
 
 [RoboSats](https://robosats.com) runs as a web application accessible over Tor and via dedicated apps for Android. The Lightning-native model means swaps settle in seconds rather than the hours required by on-chain swap services.
 
+![RoboSats GitHub repository showing federated Lightning P2P exchange architecture](../media/2026-07-29/robosats-github-2026-07-29.png)
+
+*RoboSats GitHub, July 2026 -- Federation model architecture and Lightning-native P2P exchange confirmed in public repository.*
+
 The practical limitation: RoboSats is peer-to-peer, which means you need a counterparty to take the other side of your trade. For common pairs (BTC for fiat) in major currencies (USD, EUR), liquidity is adequate. For obscure fiat currencies or outside peak trading hours, offer matching can be slow.
 
 **Best for:** Bitcoiners who want to buy or sell BTC without any KYC linkage and are comfortable with Lightning.
@@ -90,6 +94,10 @@ Bisq is the longest-running decentralized Bitcoin exchange, operating since 2014
 The custody model is genuinely non-custodial: Bisq 1 uses a 2-of-3 multi-sig escrow (buyer + seller + Bisq arbitrator) that no single party can unilaterally unlock. Bisq 2, the updated architecture launched in 2024, extends this with a more modular protocol set and improved peer discovery.
 
 [Bisq](https://bisq.network) publishes the full source code and the security model documentation. Every Bisq release is signed by the Bisq development key, which users can verify against the public signing key on GitHub.
+
+![Bisq Network homepage showing decentralized Bitcoin exchange and download interface](../media/2026-07-29/bisq-home-2026-07-29.png)
+
+*Bisq Network homepage, July 2026 -- Decentralized Bitcoin exchange architecture and open source model confirmed.*
 
 The Lightning integration in Bisq 2 is active but maturing. The on-chain trade settlement option is more battle-tested. For users who need on-chain BTC versus fiat trades with zero custodian exposure, Bisq 1 remains the reference implementation.
 
@@ -121,7 +129,11 @@ The counterparty risk that HodlHodl does not eliminate: the multi-sig key held b
 
 SideShift is a no-registration swap service that routes between Bitcoin and other cryptocurrencies. It does not require an account or email address, and it does not require KYC for swaps below its reporting thresholds. The service has been operating since 2018.
 
-[SideShift](https://sideshift.ai) shows its fee structure as a percentage (approximately 0.5-1.5% depending on pair and direction) at the quote stage. The fee is visible before commitment, which puts SideShift above most centralized swap services on transparency.
+[SideShift](https://sideshift.ai) shows its fee structure as a percentage (approximately 0.5-1.5% depending on pair and direction) at the quote stage.
+
+![SideShift homepage showing no-registration crypto swap interface and fee transparency](../media/2026-07-29/sideshift-home-2026-07-29.png)
+
+*SideShift homepage, July 2026 -- No-registration swap interface and fee display at quote stage confirmed.* The fee is visible before commitment, which puts SideShift above most centralized swap services on transparency.
 
 The custody model is custodial during the swap window -- SideShift holds the funds you send until it releases the output. That window is typically short (minutes), but it represents real counterparty risk. SideShift is a company with known operations, not a protocol. If SideShift is hacked, compelled by regulators, or becomes insolvent during your swap window, your funds are at risk.
 

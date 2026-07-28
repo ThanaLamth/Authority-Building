@@ -77,7 +77,11 @@ For WBTC specifically, 1inch routes through Uniswap V3, Curve, Balancer, and oth
 
 Fusion+ mode, the cross-chain intent system launched in 2025, allows users to sign an intent to swap and have resolvers compete to fill it at the best available rate. The user does not submit the on-chain transaction -- the resolver does. This eliminates the front-running window because the mempool never sees a pending user transaction.
 
-[1inch](https://app.1inch.io) displays the resolver competition and routing path for each swap. For Bitcoiners evaluating custody model: in Fusion+ mode, the resolver holds your input tokens between signing and settlement, which is a brief custodial window. The resolver set is permissioned (approximately 80 resolvers as of mid-2026).
+[1inch](https://app.1inch.io) displays the resolver competition and routing path for each swap.
+
+![1inch app interface showing Fusion+ cross-chain intent routing and multi-chain coverage](../media/2026-07-29/1inch-app-2026-07-29.png)
+
+*1inch app, July 2026 -- Fusion+ mode and multi-chain routing interface confirmed.* For Bitcoiners evaluating custody model: in Fusion+ mode, the resolver holds your input tokens between signing and settlement, which is a brief custodial window. The resolver set is permissioned (approximately 80 resolvers as of mid-2026).
 
 **Best for:** Multi-chain WBTC traders who need the broadest routing coverage and a well-tested intent-based MEV protection model.
 
@@ -93,7 +97,11 @@ For WBTC trades, CoW's solver competition on Ethereum mainnet means your order c
 
 The surplus-sharing mechanism introduced in 2025 returns any execution surplus (the difference between quoted and actual fill rate) to the user. That makes CoW the only major aggregator where the protocol is architecturally incentivized to give users better-than-quoted prices rather than capturing that surplus for itself or for market makers.
 
-[CoW Protocol](https://cow.fi) publishes all batch auctions on-chain, making solver competition verifiable. The on-chain proof of what each solver offered is permanently available.
+[CoW Protocol](https://cow.fi) publishes all batch auctions on-chain, making solver competition verifiable.
+
+![CoW Protocol homepage showing batch auction MEV protection and surplus sharing model](../media/2026-07-29/cowprotocol-home-2026-07-29.png)
+
+*CoW Protocol homepage, July 2026 -- Batch auction model and surplus sharing mechanism confirmed.* The on-chain proof of what each solver offered is permanently available.
 
 The limitation for Bitcoin-focused traders: CoW operates primarily on Ethereum and Gnosis Chain. Cross-chain WBTC routing (e.g., moving WBTC from Ethereum to Arbitrum as part of a swap) requires a different protocol.
 
@@ -121,7 +129,11 @@ For Bitcoiners evaluating Paraswap for WBTC trading: the Delta model depends on 
 
 Odos v2, launched in 2025, introduced multi-path optimization that benchmarks favorably against 1inch on multi-hop routes. For WBTC trades that require routing through two or more pools to reach the destination token, Odos v2's pathfinding algorithm demonstrates measurable improvements over standard aggregators in the benchmarks Odos published.
 
-[Odos](https://app.odos.xyz) displays the routing path for each swap, showing exactly which pools and chains are used. The transparency is useful for Bitcoiners who want to audit where their WBTC is routed before committing.
+[Odos](https://app.odos.xyz) displays the routing path for each swap, showing exactly which pools and chains are used.
+
+![Odos v2 app interface showing multi-path routing visualization and chain coverage](../media/2026-07-29/odos-app-2026-07-29.png)
+
+*Odos app, July 2026 -- Multi-path routing display and v2 optimization interface confirmed.* The transparency is useful for Bitcoiners who want to audit where their WBTC is routed before committing.
 
 Odos is smaller than 1inch by cumulative volume and has a shorter security track record. The trade-off for Bitcoin-first traders is: better routing quality on complex paths, smaller audited codebase history.
 
@@ -164,6 +176,10 @@ Every EVM-chain DEX aggregator routes BTC swaps through wrapped Bitcoin, not thr
 tBTC, maintained by Threshold Network, is a decentralized alternative that uses a multi-party computation custody model without a single custodian. It is smaller in supply and liquidity than WBTC but represents a more Bitcoin-aligned wrapping approach. Some aggregators route WBTC and tBTC interchangeably depending on available liquidity.
 
 cbBTC, issued by Coinbase on Base chain, is custodial (Coinbase holds the BTC). For Bitcoiners who have already accepted Coinbase's custody model (via Coinbase Custody or COIN holdings), cbBTC is consistent. For Bitcoiners who prioritize non-custodial Bitcoin exposure, cbBTC is not appropriate.
+
+![WBTC Network page showing BitGo custodian model and wrapped Bitcoin architecture](../media/2026-07-29/wbtc-network-2026-07-29.png)
+
+*WBTC Network page, July 2026 -- BitGo custodian model and 1:1 BTC backing architecture confirmed.*
 
 The practical implication: when you use any DEX aggregator to swap involving BTC-pegged tokens, you are making a trust decision about the wrapping model, not just the aggregator. Understanding which wrapped BTC token the aggregator routes through is the due diligence step most guides skip.
 

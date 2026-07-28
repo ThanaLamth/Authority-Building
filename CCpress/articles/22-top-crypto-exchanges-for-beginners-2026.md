@@ -13,6 +13,8 @@ secondary_keywords:
   - crypto exchange comparison beginners
 category: crypto-markets
 last_reviewed: 2026-07-28
+featured_image: ../media/2026-07-29/coinbase-home-2026-07-29.png
+featured_image_alt: Best crypto exchanges for beginners in 2026 -- Coinbase homepage showing regulated exchange interface
 schema:
   - Article
   - ItemList
