@@ -91,7 +91,6 @@ CoW's current limitation is chain coverage. It operates primarily on Ethereum an
 
 **Best for:** Ethereum-based traders who want the strongest available MEV protection and are willing to accept longer settlement times in exchange for better execution quality.
 
----
 
 ### 3. Paraswap
 
@@ -105,7 +104,6 @@ The critique of Paraswap is that the Delta model, which relies on market maker q
 
 **Best for:** Protocol integrators and institutional traders who need a request-for-quote API with predictable execution.
 
----
 
 ### 4. Odos
 
@@ -119,7 +117,6 @@ Odos is smaller than 1inch by cumulative volume and resolver/solver set. The que
 
 **Best for:** Traders executing complex multi-hop swaps on Ethereum and L2s who want best-execution routing over brand familiarity.
 
----
 
 ### 5. Uniswap X
 
@@ -131,7 +128,6 @@ The architecture shift is material. Uniswap is explicitly acknowledging that its
 
 **Best for:** Uniswap-native traders who want intent-based MEV protection without leaving the Uniswap interface.
 
----
 
 ### 6. Jupiter
 
@@ -145,7 +141,6 @@ Jupiter's limitation is simple: it does not operate outside Solana. For Ethereum
 
 **Best for:** Solana-native traders. Not relevant for Ethereum or EVM-chain trading.
 
----
 
 ### 7. LI.FI
 
@@ -159,7 +154,6 @@ The risk that LI.FI's model concentrates is smart contract risk across multiple 
 
 **Best for:** Cross-chain traders who need a single interface for multi-chain routing, and protocol developers embedding cross-chain swap functionality.
 
----
 
 ### 8. SimpleSwap
 
@@ -171,7 +165,6 @@ The no-KYC model operates in a regulatory grey zone. FATF Travel Rule guidance, 
 
 **Best for:** Users who prioritize no-account access and understand they are paying a spread premium for that convenience.
 
----
 
 ### 9. ChangeNOW
 
@@ -183,7 +176,6 @@ The regulatory exposure for ChangeNOW is the same as for SimpleSwap. Both servic
 
 **Best for:** Users who need rate certainty for a swap and prefer fixed-rate execution over best-effort routing.
 
----
 
 ### 10. StealthEX
 
@@ -195,7 +187,6 @@ The non-custodial claim is technically accurate but partially misleading. Stealt
 
 **Best for:** Users who need access to obscure or newly listed tokens that are not available on the larger DEX aggregators.
 
----
 
 ## The FixedFloat exploit: what centralized swap aggregators hide
 

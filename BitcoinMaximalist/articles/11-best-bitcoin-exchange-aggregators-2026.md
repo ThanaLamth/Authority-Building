@@ -107,7 +107,6 @@ Bitcoin security trade: Bisq trades require the buyer to post a security deposit
 
 **Main tradeoff:** Desktop application only. Trade settlement can take hours to days for on-chain trades. Security deposit requirement. Bisq 2's Lightning integration is still maturing relative to Bisq 1's on-chain model.
 
----
 
 ### HodlHodl
 
@@ -123,7 +122,6 @@ The counterparty risk that HodlHodl does not eliminate: the multi-sig key held b
 
 **Main tradeoff:** On-chain only - no Lightning. HodlHodl holds one escrow key, creating a small centralization point.
 
----
 
 ### SideShift
 
@@ -143,7 +141,6 @@ From a Bitcoin-sovereignty standpoint, SideShift is appropriate for Bitcoin-to-a
 
 **Main tradeoff:** Custodial during swap. Centralized company model. Not appropriate for large amounts or for users with strong sovereignty requirements.
 
----
 
 ### SimpleSwap
 
@@ -157,7 +154,6 @@ From a Bitcoin-first perspective, the opacity of SimpleSwap's routing is a signi
 
 **Main tradeoff:** Fee not disclosed explicitly. Custodial routing through unnamed partners. No Lightning support.
 
----
 
 ### ChangeNOW
 

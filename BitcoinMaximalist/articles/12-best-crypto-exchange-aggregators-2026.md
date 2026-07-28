@@ -109,7 +109,6 @@ The limitation for Bitcoin-focused traders: CoW operates primarily on Ethereum a
 
 **Main tradeoff:** Limited chain coverage. Batch auction settlement is slower than single-trade routing. WBTC wrapping trust assumption still applies.
 
----
 
 ### Paraswap
 
@@ -123,7 +122,6 @@ For Bitcoiners evaluating Paraswap for WBTC trading: the Delta model depends on 
 
 **Main tradeoff:** Delta model depends on off-chain market maker competition that is harder to verify than on-chain auction results.
 
----
 
 ### Odos
 
@@ -141,7 +139,6 @@ Odos is smaller than 1inch by cumulative volume and has a shorter security track
 
 **Main tradeoff:** Shorter track record than 1inch or CoW Protocol. Smaller resolver/solver set.
 
----
 
 ### Uniswap X
 
@@ -155,7 +152,6 @@ For WBTC specifically, Uniswap X routes through whichever source the filler netw
 
 **Main tradeoff:** Smaller filler set than 1inch. WBTC routing quality depends on filler competition at the time of trade.
 
----
 
 ### LI.FI
 

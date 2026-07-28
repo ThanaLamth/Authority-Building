@@ -95,7 +95,6 @@ Kraken's fee structure is transparent: standard taker is 0.26%. Kraken Pro start
 
 **Main tradeoff:** Interface is functional but less polished than Coinbase consumer design.
 
----
 
 ### 3. Gemini
 
@@ -109,7 +108,6 @@ The Gemini Earn collapse in 2022-2023 left approximately $900 million in user fu
 
 **Main tradeoff:** Limited token selection. ActiveTrader requires deliberate navigation to access lower fees.
 
----
 
 ### 4. Bitstamp
 
@@ -121,7 +119,6 @@ Bitstamp has operated since 2011 and was acquired by Robinhood in 2024, preservi
 
 **Main tradeoff:** Interface dated. Token selection narrower than larger platforms. US availability limited post-Robinhood integration.
 
----
 
 ### 5. Crypto.com
 
@@ -135,7 +132,6 @@ Staking CRO to access better card tiers is making a position in a platform token
 
 **Main tradeoff:** Fee structure opaque for basic app users. CRO staking creates implicit platform token exposure.
 
----
 
 ### 6. Binance
 
