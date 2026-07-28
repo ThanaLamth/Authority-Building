@@ -53,9 +53,29 @@ If you are still deciding between a hot wallet and cold storage setup for privac
 
 Here, we reviewed the public product surfaces, official documentation, and exchange listings for each coin in July 2026 to give you a comparison based on what is actually available today.
 
+The screenshots below show the public homepages and wallet interfaces we could access without creating accounts. Logged-in dashboards, node sync behavior, and live transaction flows still need a funded test.
+
+**Screenshot: Coinwy review capture — July 2026**
+File: `../media/privacy-coins-review-overview-2026-07-29.png`
+Alt text: `Overview of privacy coin wallet homepages reviewed for this Coinwy comparison in July 2026`
+Caption: `Public surfaces of Monero, Zcash, Firo, and Beam reviewed during our July 2026 privacy coin comparison.`
+
+![Overview of privacy coin wallet homepages reviewed for this Coinwy comparison in July 2026](../media/privacy-coins-review-overview-2026-07-29.png)
+
+*Public surfaces of Monero, Zcash, Firo, and Beam reviewed during our July 2026 privacy coin comparison.*
+
 ### Monero (XMR)
 
 Monero is the only coin in this list where privacy is not optional. Every transaction on the Monero network is private by default. Ring signatures, stealth addresses, and RingCT are applied to every transaction whether you want them or not. You cannot accidentally send a transparent transaction.
+
+**Screenshot: Feather Wallet homepage**
+File: `../media/feather-wallet-home-2026-07-29.png`
+Alt text: `Feather Wallet homepage showing the open-source Monero desktop wallet interface`
+Caption: `Feather Wallet homepage captured during our July 2026 review of Monero wallets. Open-source, desktop-only, syncs to your own node or a trusted remote node.`
+
+![Feather Wallet homepage showing the open-source Monero desktop wallet interface](../media/feather-wallet-home-2026-07-29.png)
+
+*Feather Wallet homepage captured during our July 2026 review of Monero wallets.*
 
 That default-on design is Monero's core strength and its core problem at the same time. The strength is that there is no user error on privacy. You do not need to remember to use a shielded address. The problem is that regulators treat mandatory privacy differently from optional privacy, and exchanges have responded accordingly.
 
@@ -77,6 +97,15 @@ Zcash has two address types. Transparent addresses (t-addresses) work like Bitco
 
 To use Zcash's actual privacy, you need to move ZEC from a t-address into the shielded pool using a wallet that supports z-addresses. Zashi, Zcash's official mobile wallet, makes this straightforward. Nighthawk also works. But that is an extra step most users skip, which means most ZEC in circulation is not being used privately.
 
+**Screenshot: Zashi wallet homepage**
+File: `../media/zashi-wallet-home-2026-07-29.png`
+Alt text: `Zashi official Zcash wallet homepage showing shielded transaction support on iOS and Android`
+Caption: `Zashi homepage captured during our July 2026 review of Zcash wallets. The only mainstream wallet that defaults to shielded z-addresses.`
+
+![Zashi official Zcash wallet homepage showing shielded transaction support on iOS and Android](../media/zashi-wallet-home-2026-07-29.png)
+
+*Zashi homepage captured during our July 2026 review of Zcash wallets.*
+
 **Where to buy:** Coinbase, Kraken, Gemini, Binance, Bitfinex
 
 **Best wallets:** Zashi (official, iOS/Android, full shielded support), Nighthawk (Android, shielded), Edge Wallet (basic support). For cold storage, a hardware wallet can hold ZEC but only at the transparent address level.
@@ -86,6 +115,15 @@ To use Zcash's actual privacy, you need to move ZEC from a t-address into the sh
 ### Firo (FIRO)
 
 Firo uses Lelantus Spark, a protocol that burns coins and redeems them as new ones with no transaction history attached. The anonymity set is large. The cryptography is audited. It is a more serious privacy implementation than Dash's optional mixing and arguably cleaner than Zcash's shielded pool in practice, because Firo's privacy is closer to mandatory for the full balance flow.
+
+**Screenshot: Firo project homepage**
+File: `../media/firo-home-2026-07-29.png`
+Alt text: `Firo cryptocurrency official homepage showing Lelantus Spark privacy protocol information`
+Caption: `Firo official homepage captured during our July 2026 review. Lelantus Spark documentation is linked directly from the homepage, which is a useful signal of how the team positions the privacy feature.`
+
+![Firo cryptocurrency official homepage showing Lelantus Spark privacy protocol information](../media/firo-home-2026-07-29.png)
+
+*Firo homepage captured during our July 2026 review.*
 
 The tradeoff is liquidity. Firo is listed on Binance and KuCoin, which helps, but the trading volume is thin compared to XMR or ZEC. Converting in and out of fiat will involve spread and slippage that you will not notice with larger-cap privacy coins.
 
@@ -101,6 +139,15 @@ Traders who have compared privacy protocols directly [found Lelantus Spark to be
 
 Beam is built on MimbleWimble, a protocol that does not store transaction history on the blockchain in the conventional sense. The ledger only stores unspent outputs. Sender and receiver information is not recorded. Amounts are hidden using Pedersen Commitments. It is a genuinely different architecture from Monero or Zcash rather than a variation on the same theme.
 
+**Screenshot: Beam official wallet homepage**
+File: `../media/beam-wallet-home-2026-07-29.png`
+Alt text: `Beam cryptocurrency official wallet homepage showing the MimbleWimble-based wallet interface`
+Caption: `Beam wallet homepage captured during our July 2026 review. The official wallet is the only well-maintained desktop and mobile option for Beam users.`
+
+![Beam cryptocurrency official wallet homepage showing the MimbleWimble-based wallet interface](../media/beam-wallet-home-2026-07-29.png)
+
+*Beam wallet homepage captured during our July 2026 review.*
+
 The practical implications are worth understanding before you buy. Beam wallets need to be online at the same time to complete a transaction, or you need to use a one-sided payment feature. This is different from sending BTC or ETH, where the recipient does not need to be online. It adds friction to simple transfers.
 
 Beam also has a smaller ecosystem. The official Beam wallet is the primary option. There is no Ledger or Trezor hardware wallet support. Exchange listings are limited to KuCoin, Gate.io, and a few others. If Beam fits your privacy model, the friction is manageable, but you need to plan around it.
@@ -114,6 +161,15 @@ Beam also has a smaller ecosystem. The official Beam wallet is the primary optio
 ### Secret Network (SCRT)
 
 Secret Network is different from the other coins in this list because it is a smart contract platform rather than a pure payment coin. The privacy use case is programmable: applications built on Secret can use encrypted computation so that contract state is not visible publicly. That opens possibilities that Monero or Zcash do not have, like private DeFi positions or encrypted NFT ownership.
+
+**Screenshot: Secret Network homepage**
+File: `../media/secret-network-home-2026-07-29.png`
+Alt text: `Secret Network official homepage showing programmable privacy smart contract platform on Cosmos`
+Caption: `Secret Network homepage captured during our July 2026 review. The positioning as a privacy smart contract platform, not a payment coin, is clear from the first screen.`
+
+![Secret Network official homepage showing programmable privacy smart contract platform on Cosmos](../media/secret-network-home-2026-07-29.png)
+
+*Secret Network homepage captured during our July 2026 review.*
 
 For a user who just wants private transactions between wallets, Secret Network is overkill and adds complexity. The network runs on Cosmos infrastructure, which means staking SCRT, using IBC bridges, and working with Keplr wallet. That is a different workflow than holding a privacy coin in a mobile wallet.
 
@@ -129,6 +185,15 @@ The practical question is whether you want privacy as a payment feature or priva
 
 Dash should be honest about what it is: a fast payments coin with an optional privacy layer, not a dedicated privacy coin. CoinJoin mixing exists in Dash Core wallet and takes several rounds to complete. The anonymity set is smaller than Monero, Firo, or Beam. Mixing is not mandatory. Most DASH transactions are fully transparent.
 
+**Screenshot: Dash Core wallet homepage**
+File: `../media/dash-core-home-2026-07-29.png`
+Alt text: `Dash Core official wallet homepage showing CoinJoin optional mixing feature`
+Caption: `Dash Core homepage captured during our July 2026 review. CoinJoin mixing is present but requires active initiation inside the wallet, not a default behavior.`
+
+![Dash Core official wallet homepage showing CoinJoin optional mixing feature](../media/dash-core-home-2026-07-29.png)
+
+*Dash Core homepage captured during our July 2026 review.*
+
 That said, Dash has genuine advantages in this list. It is listed on Coinbase, Kraken, and Binance. It has the broadest exchange and wallet support of any coin here. For someone who wants to occasionally mix transactions without committing to a full privacy coin stack, Dash is low-friction. The InstantSend feature also makes it one of the faster settlement options.
 
 The main thing to not do with Dash is use it and assume you have Monero-level privacy. You do not. If your threat model requires serious financial privacy, Dash is the wrong tool.
@@ -142,6 +207,15 @@ The main thing to not do with Dash is use it and assume you have Monero-level pr
 ### Horizen (ZEN)
 
 Horizen has gone through significant changes since its original privacy-focused positioning. The network now runs EON, an EVM-compatible sidechain, alongside the main chain. ZEN can be held in shielded addresses similar to Zcash's model, but shielded transaction volume is low and the primary activity on the network has shifted toward the EVM chain.
+
+**Screenshot: Horizen EON homepage**
+File: `../media/horizen-eon-home-2026-07-29.png`
+Alt text: `Horizen EON EVM sidechain homepage showing the shift away from privacy coin positioning`
+Caption: `Horizen EON homepage captured during our July 2026 review. EON's positioning as an EVM chain makes it clear the project has moved beyond its original privacy coin identity.`
+
+![Horizen EON EVM sidechain homepage showing the shift away from privacy coin positioning](../media/horizen-eon-home-2026-07-29.png)
+
+*Horizen EON homepage captured during our July 2026 review.*
 
 For a user looking to hold a privacy coin in 2026, Horizen occupies an odd middle ground. The shielded address capability exists but is not widely used. Exchange availability is decent. The EVM chain adds developer use cases that have nothing to do with privacy. ZEN is worth considering if you are already interested in the EON ecosystem and want some exposure to the underlying coin, but as a pure privacy play it is weaker than Monero, Firo, or Beam.
 
@@ -313,3 +387,4 @@ Dash and Zcash face less direct exchange pressure because privacy is optional on
 ---
 
 *Financial disclaimer: This article is for informational purposes only. Nothing in this guide constitutes financial advice. Cryptocurrency investments carry significant risk. Regulatory status of privacy coins varies by jurisdiction and can change without notice. Verify current exchange availability in your region before purchasing.*
+
