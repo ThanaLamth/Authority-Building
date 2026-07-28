@@ -18,6 +18,21 @@ For UK players interested in crypto casino bonuses, there are two categories: UK
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| BC.Game accessible from UK without VPN | | | |
+| BetPanda accessible from UK without VPN | | | |
+| Faster Payments P2P round-trip time (GBP → USDT) | | | |
+| FortuneJack USDT TRC20 withdrawal — actual time | | | |
+| CoinCasino 30x WR — wagering cleared in X sessions (real test) | | | |
+| Stake Premier League market count per match | | | |
+| BitStarz £2,000 KYC trigger — verified in terms (URL) | | | |
+---
+
 ## UK Crypto Casino Bonus Quick Pick
 
 | Need | Best Choice |
@@ -225,4 +240,21 @@ Typical validity: 7-30 days from claiming. BC.Game and CoinCasino have 30-day va
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from casinos in this guide. Offshore casinos listed are not UKGC-licensed — use GamCare (gamcare.org.uk) or BeGambleAware (begambleaware.org) if gambling is causing harm. National Gambling Helpline: 0808 8020 133 (free, 24/7). Figures labeled Estimated are model inferences. This is not legal advice.*
+

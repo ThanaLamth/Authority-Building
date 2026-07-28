@@ -18,6 +18,21 @@ Germany has one of Europe's most structured online gambling regulatory framework
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| BC.Game accessible from DE without VPN (Telekom IP) | | | |
+| BetPanda accessible from DE without VPN | | | |
+| SEPA/Revolut P2P seller count on Binance | | | |
+| Revolut → USDT TRC20 round-trip time | | | |
+| BC.Game USDT TRC20 withdrawal — actual time (from DE) | | | |
+| Stake Bundesliga markets active | | | |
+| CoinCasino 175K USDT/month no-KYC limit — terms confirmed | | | |
+---
+
 ## Germany No-KYC Crypto Casino Quick Pick
 
 | Need | Best Choice |
@@ -179,4 +194,21 @@ Yes. The €1/spin limit is a GGL regulatory requirement applied only to GGL-lic
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from casinos in this guide. This does not constitute legal advice under German law. The grey zone status of offshore casinos in Germany involves real legal risks — consult a German gambling law attorney if uncertain. Figures labeled Estimated are model inferences. Verify current GGL whitelist at gluecksspiel-behoerde.de.*
+

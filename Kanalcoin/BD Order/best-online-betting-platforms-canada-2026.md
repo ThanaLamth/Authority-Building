@@ -18,6 +18,20 @@ Outside Ontario, online gambling regulation varies by province. British Columbia
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| Stake accessible from CA (Ontario) without VPN | | | |
+| BC.Game accessible from CA without VPN | | | |
+| Interac P2P seller count on Binance | | | |
+| Interac → USDT TRC20 round-trip time | | | |
+| Stake NHL market depth — props per game (current season) | | | |
+| Bet99 iGO registration confirmed on igamingontario.ca | | | |
+---
+
 ## Canada Online Betting Quick Pick
 
 | Need | Best Choice |
@@ -192,4 +206,21 @@ Yes. iGO registration is platform-specific, not a regulatory restriction on usin
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from platforms in this guide. iGO registration status: verify current operators at igamingontario.ca. This is not legal or tax advice. FINTRAC obligations and provincial law vary — consult a Canadian legal professional. Figures labeled Estimated are model inferences.*
+

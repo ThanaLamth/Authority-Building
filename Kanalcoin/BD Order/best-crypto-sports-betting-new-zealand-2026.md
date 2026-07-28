@@ -18,6 +18,21 @@ The Department of Internal Affairs (DIA) regulates gambling in New Zealand. TAB 
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| Stake accessible from NZ without VPN | | | |
+| BC.Game accessible from NZ without VPN | | | |
+| POLi P2P seller count on Binance | | | |
+| POLi → USDT TRC20 round-trip time | | | |
+| Stake NRL market count per round (current season) | | | |
+| Stake All Blacks / Rugby Championship markets active | | | |
+| FortuneJack cricket markets — Black Caps fixtures listed | | | |
+---
+
 ## New Zealand Crypto Sports Betting Quick Pick
 
 | Need | Best Choice |
@@ -193,4 +208,21 @@ Stake — deepest NRL markets including player props, same-game multis, period b
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from platforms in this guide. Regulatory status based on editorial research as of July 2026 — verify Gambling Act 2003 status at dia.govt.nz. This is not legal or tax advice. Figures labeled Estimated are model inferences.*
+

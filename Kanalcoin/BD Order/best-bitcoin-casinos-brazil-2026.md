@@ -18,6 +18,20 @@ Brazil became one of the most significant regulated online gambling markets in t
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| BC.Game accessible from BR without VPN | | | |
+| PIX P2P seller count on Binance (peak hours BRT) | | | |
+| PIX → USDT TRC20 round-trip time (order to wallet) | | | |
+| FortuneJack USDT TRC20 withdrawal — actual time | | | |
+| Stake Brasileirão Série A markets active | | | |
+| SPA license number verified on apostas.fazenda.gov.br | | | |
+---
+
 ## Brazil Bitcoin Casino Quick Pick
 
 | Need | Best Choice |
@@ -196,4 +210,21 @@ Indirectly. Withdraw BTC from casino → to your Binance wallet → sell on Bina
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from casinos in this guide. SPA regulatory status reflects research as of July 2026 — verify current licensing on apostas.fazenda.gov.br. Figures labeled Estimated are model inferences. Not legal or tax advice.*
+

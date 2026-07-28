@@ -18,6 +18,21 @@ Telegram casinos occupy a specific niche for Dutch players: they bypass the KSA'
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| BC.Game Telegram bot accessible from NL (KPN) | | | |
+| TONBET mini-app loads without VPN from NL | | | |
+| BetGoat bot accessible from NL without VPN | | | |
+| iDEAL P2P seller count on Binance | | | |
+| iDEAL → USDT TRC20 round-trip time | | | |
+| Stake Eredivisie markets active | | | |
+| Wallet Casino (TON Space) loads from NL | | | |
+---
+
 ## Netherlands Telegram Casino Quick Pick
 
 | Need | Best Choice |
@@ -207,4 +222,21 @@ Stake's Telegram integration covers Eredivisie with the deepest Dutch football m
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from casinos in this guide. This is not legal advice under Dutch law. Players are responsible for declaring gambling income to the Belastingdienst. Verify current KSA licensing at kansspelautoriteit.nl. Figures labeled Estimated are model inferences.*
+

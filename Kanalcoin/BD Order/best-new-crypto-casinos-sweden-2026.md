@@ -18,6 +18,21 @@ New crypto casinos are relevant for Swedish players precisely because licensed o
 
 ---
 
+## Live Check Log
+
+*Fill this in after real tests. One row per check — these are the data points that make this article non-replicable.*
+
+| Check | Result | Tester | Date |
+|-------|--------|--------|------|
+| BETGOAT accessible from SE without VPN (Telia) | | | |
+| BetPanda accessible from SE without VPN | | | |
+| Trustly P2P seller count on Binance | | | |
+| Trustly → USDT TRC20 round-trip time | | | |
+| Shuffle.com accessible from SE without VPN | | | |
+| Stake Allsvenskan markets active (current season) | | | |
+| BETGOAT Curaçao license number verified | | | |
+---
+
 ## Sweden New Crypto Casino Quick Pick
 
 | Need | Best Choice |
@@ -208,4 +223,21 @@ BETGOAT's combination of Trustly-compatible P2P on-ramp, no-SwedishID requiremen
 
 ---
 
+---
+
+## Still Have Questions?
+
+After reading this guide, is there anything you couldn't find an answer to?
+
+We track every unanswered question from readers and turn the most common ones into new sections or follow-up guides. If something is unclear, missing, or outdated:
+
+- **Telegram:** [Kanalcoin community link — add yours]
+- **Email:** [editorial contact — add yours]
+
+Common questions we've already added from reader feedback will appear in future updates to this article. The more specific your question, the more useful the answer we can provide.
+
+*Last reader question addressed: [date — fill in after first feedback round]*
+
+---
 *Disclosure: Kanalcoin may earn affiliate commissions from casinos in this guide. This is not legal advice under Swedish law. Grey zone risks are real — review Spelinspektionen guidance at spelinspektionen.se. If gambling is causing harm, contact Stödlinjen at 020-81 91 00. Figures labeled Estimated are model inferences.*
+
