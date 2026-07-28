@@ -28,7 +28,7 @@ internal_links:
 
 If you are looking for a Bitcoin exchange aggregator in 2026, the question that should come before "which service has the best rate" is: what happens to your Bitcoin between you sending it and receiving the swap output? Does a custodian hold it? Does it pass through a hot wallet controlled by a company whose security posture you cannot audit? Is your identity attached to the transaction?
 
-Exchange aggregators that optimize purely on rate routing are common. Exchange aggregators that preserve Bitcoin self-sovereignty -- no custodian, no KYC linkage, no counterparty risk window -- are much rarer. This guide focuses on the second category.
+Exchange aggregators that optimize purely on rate routing are common. Exchange aggregators that preserve Bitcoin self-sovereignty - no custodian, no KYC linkage, no counterparty risk window - are much rarer. This guide focuses on the second category.
 
 > **Why you can trust this guide**
 >
@@ -61,7 +61,7 @@ Scored out of 10 per category. Total out of 60.
 
 **Scoring notes:** Custody model scores whether Bitcoin is genuinely non-custodial during the swap window. KYC exposure scores the practical risk of identity linkage. Privacy scores how well the transaction hides from on-chain surveillance (Bisq and RoboSats both use Lightning or Tor by default). Lightning support scores native Lightning in and out. Fee transparency scores whether the user can see the exact fee before committing. Sovereignty scores the full absence of a counterparty who can freeze, censor, or reverse the swap.
 
-RoboSats scores highest overall because it is the only service that combines fully non-custodial architecture (Lightning bonds, no centralized custodian), native Lightning support, and peer-to-peer pricing -- all running over Tor by default. Bisq scores close behind on sovereignty but loses points on Lightning support because Bisq 2's Lightning integration is still maturing. Centralized swap aggregators (SideShift, SimpleSwap, ChangeNOW) score lower because their custodial swap window is a real counterparty risk, even if brief.
+RoboSats scores highest overall because it is the only service that combines fully non-custodial architecture (Lightning bonds, no centralized custodian), native Lightning support, and peer-to-peer pricing - all running over Tor by default. Bisq scores close behind on sovereignty but loses points on Lightning support because Bisq 2's Lightning integration is still maturing. Centralized swap aggregators (SideShift, SimpleSwap, ChangeNOW) score lower because their custodial swap window is a real counterparty risk, even if brief.
 
 ## 6 Bitcoin exchange aggregators reviewed
 
@@ -77,7 +77,7 @@ The federation model, launched with RoboSats Federation in 2024, distributes the
 
 ![RoboSats GitHub repository showing federated Lightning P2P exchange architecture](../media/2026-07-29/robosats-github-2026-07-29.png)
 
-*RoboSats GitHub, July 2026 -- Federation model architecture and Lightning-native P2P exchange confirmed in public repository.*
+*RoboSats GitHub, July 2026 - Federation model architecture and Lightning-native P2P exchange confirmed in public repository.*
 
 The practical limitation: RoboSats is peer-to-peer, which means you need a counterparty to take the other side of your trade. For common pairs (BTC for fiat) in major currencies (USD, EUR), liquidity is adequate. For obscure fiat currencies or outside peak trading hours, offer matching can be slow.
 
@@ -89,7 +89,7 @@ The practical limitation: RoboSats is peer-to-peer, which means you need a count
 
 ### Bisq
 
-Bisq is the longest-running decentralized Bitcoin exchange, operating since 2014. It runs as a desktop application -- there is no web interface, no central server, and no company. Trades happen over Tor between peers who coordinate through a distributed network of Bisq nodes.
+Bisq is the longest-running decentralized Bitcoin exchange, operating since 2014. It runs as a desktop application - there is no web interface, no central server, and no company. Trades happen over Tor between peers who coordinate through a distributed network of Bisq nodes.
 
 The custody model is genuinely non-custodial: Bisq 1 uses a 2-of-3 multi-sig escrow (buyer + seller + Bisq arbitrator) that no single party can unilaterally unlock. Bisq 2, the updated architecture launched in 2024, extends this with a more modular protocol set and improved peer discovery.
 
@@ -97,7 +97,7 @@ The custody model is genuinely non-custodial: Bisq 1 uses a 2-of-3 multi-sig esc
 
 ![Bisq Network homepage showing decentralized Bitcoin exchange and download interface](../media/2026-07-29/bisq-home-2026-07-29.png)
 
-*Bisq Network homepage, July 2026 -- Decentralized Bitcoin exchange architecture and open source model confirmed.*
+*Bisq Network homepage, July 2026 - Decentralized Bitcoin exchange architecture and open source model confirmed.*
 
 The Lightning integration in Bisq 2 is active but maturing. The on-chain trade settlement option is more battle-tested. For users who need on-chain BTC versus fiat trades with zero custodian exposure, Bisq 1 remains the reference implementation.
 
@@ -111,7 +111,7 @@ Bitcoin security trade: Bisq trades require the buyer to post a security deposit
 
 ### HodlHodl
 
-HodlHodl is a peer-to-peer Bitcoin lending and trading platform that uses multi-signature escrow on-chain. Unlike Bisq, HodlHodl operates a web-based interface with a centralized matching layer -- but the custody model is non-custodial in the relevant sense: the BTC held in escrow is in a 2-of-3 multi-sig address where HodlHodl holds one key but cannot move funds without the trader's cooperation.
+HodlHodl is a peer-to-peer Bitcoin lending and trading platform that uses multi-signature escrow on-chain. Unlike Bisq, HodlHodl operates a web-based interface with a centralized matching layer - but the custody model is non-custodial in the relevant sense: the BTC held in escrow is in a 2-of-3 multi-sig address where HodlHodl holds one key but cannot move funds without the trader's cooperation.
 
 [HodlHodl](https://hodlhodl.com) requires no KYC for peer-to-peer trading. The platform shows available buy and sell offers, and users negotiate payment terms directly. Settlement of the Bitcoin leg is on-chain, which means no Lightning-native workflow.
 
@@ -121,7 +121,7 @@ The counterparty risk that HodlHodl does not eliminate: the multi-sig key held b
 
 **Best for:** Bitcoiners who want non-custodial P2P BTC trading without installing a desktop application. Better for users comfortable with on-chain trades and multi-sig escrow mechanics.
 
-**Main tradeoff:** On-chain only -- no Lightning. HodlHodl holds one escrow key, creating a small centralization point.
+**Main tradeoff:** On-chain only - no Lightning. HodlHodl holds one escrow key, creating a small centralization point.
 
 ---
 
@@ -133,9 +133,9 @@ SideShift is a no-registration swap service that routes between Bitcoin and othe
 
 ![SideShift homepage showing no-registration crypto swap interface and fee transparency](../media/2026-07-29/sideshift-home-2026-07-29.png)
 
-*SideShift homepage, July 2026 -- No-registration swap interface and fee display at quote stage confirmed.* The fee is visible before commitment, which puts SideShift above most centralized swap services on transparency.
+*SideShift homepage, July 2026 - No-registration swap interface and fee display at quote stage confirmed.* The fee is visible before commitment, which puts SideShift above most centralized swap services on transparency.
 
-The custody model is custodial during the swap window -- SideShift holds the funds you send until it releases the output. That window is typically short (minutes), but it represents real counterparty risk. SideShift is a company with known operations, not a protocol. If SideShift is hacked, compelled by regulators, or becomes insolvent during your swap window, your funds are at risk.
+The custody model is custodial during the swap window - SideShift holds the funds you send until it releases the output. That window is typically short (minutes), but it represents real counterparty risk. SideShift is a company with known operations, not a protocol. If SideShift is hacked, compelled by regulators, or becomes insolvent during your swap window, your funds are at risk.
 
 From a Bitcoin-sovereignty standpoint, SideShift is appropriate for Bitcoin-to-altcoin or altcoin-to-Bitcoin swaps where speed and simplicity matter and the amounts involved are small enough that the custodial window risk is acceptable. It is not appropriate as a primary Bitcoin acquisition or disposal method for amounts that warrant full sovereignty considerations.
 
@@ -147,7 +147,7 @@ From a Bitcoin-sovereignty standpoint, SideShift is appropriate for Bitcoin-to-a
 
 ### SimpleSwap
 
-SimpleSwap routes swaps through a network of exchange partners and embeds its fee in the rate differential between the quoted rate and the underlying partner rate. The fee is not displayed as an explicit percentage at the quote screen -- users must compare the quoted rate against a reference price (CoinGecko or CoinMarketCap) to infer what they are paying.
+SimpleSwap routes swaps through a network of exchange partners and embeds its fee in the rate differential between the quoted rate and the underlying partner rate. The fee is not displayed as an explicit percentage at the quote screen - users must compare the quoted rate against a reference price (CoinGecko or CoinMarketCap) to infer what they are paying.
 
 [SimpleSwap](https://simpleswap.io) supports over 900 tokens including Bitcoin. No account or KYC is required for standard swap volumes. The service routes Bitcoin swaps through whichever partner offers the best rate at the time, which means the custodial risk during the swap window is distributed across multiple potential counterparties the user cannot audit.
 
@@ -161,11 +161,11 @@ From a Bitcoin-first perspective, the opacity of SimpleSwap's routing is a signi
 
 ### ChangeNOW
 
-ChangeNOW operates on essentially the same model as SimpleSwap -- no-KYC centralized swap routing with fees embedded in the quoted rate -- with one meaningful differentiator: a fixed-rate swap option that locks the exchange rate for a short window.
+ChangeNOW operates on essentially the same model as SimpleSwap - no-KYC centralized swap routing with fees embedded in the quoted rate - with one meaningful differentiator: a fixed-rate swap option that locks the exchange rate for a short window.
 
 [ChangeNOW](https://changenow.io) supports approximately 850 tokens including Bitcoin. The fixed-rate option typically carries a slightly higher implied fee because ChangeNOW is bearing rate risk during the lock window. The float-rate option carries lower implied fees but exposes the user to price movement between quote and settlement.
 
-For Bitcoiners, the fixed-rate option is occasionally useful when swapping into or out of a volatile asset where the settlement time risk is real. It does not change the fundamental custody model -- ChangeNOW routes through partners and holds custody during the swap window.
+For Bitcoiners, the fixed-rate option is occasionally useful when swapping into or out of a volatile asset where the settlement time risk is real. It does not change the fundamental custody model - ChangeNOW routes through partners and holds custody during the swap window.
 
 **Best for:** Users who need rate certainty for a swap and are willing to pay a premium for it. Relevant when swapping into volatile assets where settlement timing matters.
 
@@ -175,7 +175,7 @@ For Bitcoiners, the fixed-rate option is occasionally useful when swapping into 
 
 The practical difference between non-custodial and custodial swap services is not a technical abstraction. It is the difference between "your Bitcoin is in a smart contract or multi-sig address that neither the service nor any third party can unilaterally access" versus "your Bitcoin is on a server somewhere and you have a promise it will come back."
 
-For amounts below a few hundred dollars, the custodial risk of a short swap window on a reputable service is small relative to the convenience. For larger amounts, or for users in jurisdictions where asset seizure is a real risk, or for users who have chosen self-custody specifically to eliminate counterparty exposure, using a custodial swap service -- even briefly -- breaks the self-custody chain.
+For amounts below a few hundred dollars, the custodial risk of a short swap window on a reputable service is small relative to the convenience. For larger amounts, or for users in jurisdictions where asset seizure is a real risk, or for users who have chosen self-custody specifically to eliminate counterparty exposure, using a custodial swap service - even briefly - breaks the self-custody chain.
 
 The services on this list that do not break the chain: RoboSats, Bisq, HodlHodl. The services that do break the chain: SideShift, SimpleSwap, ChangeNOW. Both categories have legitimate use cases. Knowing which you are using is the minimum requirement.
 
@@ -183,9 +183,9 @@ The services on this list that do not break the chain: RoboSats, Bisq, HodlHodl.
 
 None of the services on this list are true aggregators in the DEX aggregator sense (routing across multiple liquidity pools simultaneously, like 1inch or CoW Protocol). The DEX aggregator model depends on on-chain liquidity pools, and Bitcoin's on-chain liquidity outside Lightning exists primarily as wrapped Bitcoin (WBTC, tBTC) on EVM chains rather than on Bitcoin's native network.
 
-Bitcoin-native exchange aggregation -- finding the best peer-to-peer price across multiple P2P markets simultaneously -- does not exist as a productized service in 2026. RoboSats, Bisq, and HodlHodl each show offers on their own network. A Bitcoiner who wants to optimize across all three would need to manually check each. That is an unmet product gap.
+Bitcoin-native exchange aggregation - finding the best peer-to-peer price across multiple P2P markets simultaneously - does not exist as a productized service in 2026. RoboSats, Bisq, and HodlHodl each show offers on their own network. A Bitcoiner who wants to optimize across all three would need to manually check each. That is an unmet product gap.
 
-The [crypto exchange aggregators that do handle BTC routing](/bitcoin-guides/exchanges/best-crypto-exchange-aggregators-2026/) -- 1inch, Uniswap X, LI.FI -- are doing so through wrapped BTC on EVM chains, which introduces bridge custody risk and is not a Bitcoin-native execution model.
+The [crypto exchange aggregators that do handle BTC routing](/bitcoin-guides/exchanges/best-crypto-exchange-aggregators-2026/) - 1inch, Uniswap X, LI.FI - are doing so through wrapped BTC on EVM chains, which introduces bridge custody risk and is not a Bitcoin-native execution model.
 
 ## What this review verified and what it did not
 
@@ -209,7 +209,7 @@ In the strictest sense, a Bitcoin exchange aggregator routes your swap across mu
 Yes. RoboSats, Bisq, HodlHodl, SideShift, SimpleSwap, and ChangeNOW all operate without requiring identity verification for standard swap volumes. The meaningful difference is not whether KYC is required but whether the service is custodial during the swap. Non-custodial no-KYC services (RoboSats, Bisq) are meaningfully different from custodial no-KYC services (SimpleSwap, ChangeNOW) in terms of the risk profile.
 
 ### Is RoboSats safe?
-RoboSats uses Lightning bonds to prevent exit scams -- both parties put up a bond (in sats, via Lightning) that they forfeit if they do not complete the trade. The protocol does not hold custody of the BTC being traded. The main risk is counterparty behavior during the fiat payment phase (before the Bitcoin is released), which is mitigated by the bond and dispute resolution system. The federation model further reduces the risk of a single coordinator shutdown killing the service.
+RoboSats uses Lightning bonds to prevent exit scams - both parties put up a bond (in sats, via Lightning) that they forfeit if they do not complete the trade. The protocol does not hold custody of the BTC being traded. The main risk is counterparty behavior during the fiat payment phase (before the Bitcoin is released), which is mitigated by the bond and dispute resolution system. The federation model further reduces the risk of a single coordinator shutdown killing the service.
 
 ### What is Bisq and how does it differ from RoboSats?
 Bisq is a fully decentralized desktop application that runs over Tor. It supports fiat-to-Bitcoin trades using on-chain Bitcoin settlement and multi-sig escrow. RoboSats is a web-based (Tor-accessible) Lightning exchange that settles over the Lightning Network. Bisq is better for on-chain fiat-to-BTC with maximum sovereignty. RoboSats is better for Lightning-native swaps with faster settlement.
@@ -218,7 +218,7 @@ Bisq is a fully decentralized desktop application that runs over Tor. It support
 RoboSats is natively Lightning. Bisq 2 has Lightning support in development. HodlHodl, SideShift, SimpleSwap, and ChangeNOW do not support Lightning as of July 2026.
 
 ### What is the best Bitcoin swap service for privacy?
-RoboSats and Bisq both run over Tor by default and do not require identity. RoboSats is Lightning-native, which means swap amounts are not directly visible on the Bitcoin base chain. For maximum on-chain privacy after the swap, using coinjoin or payjoin on the received Bitcoin is recommended -- see [Best Bitcoin Hardware Wallets 2026](/bitcoin-guides/wallets/best-bitcoin-hardware-wallets-2026/) for wallets that support payjoin.
+RoboSats and Bisq both run over Tor by default and do not require identity. RoboSats is Lightning-native, which means swap amounts are not directly visible on the Bitcoin base chain. For maximum on-chain privacy after the swap, using coinjoin or payjoin on the received Bitcoin is recommended - see [Best Bitcoin Hardware Wallets 2026](/bitcoin-guides/wallets/best-bitcoin-hardware-wallets-2026/) for wallets that support payjoin.
 
 ### Should a Bitcoiner ever use a custodial swap service?
-For small amounts where the convenience outweighs the counterparty risk, yes. For large amounts, or for users who have chosen self-custody specifically to eliminate counterparty exposure, no -- using a custodial swap service breaks the self-custody chain during the swap window, which defeats the purpose of holding your own keys.
+For small amounts where the convenience outweighs the counterparty risk, yes. For large amounts, or for users who have chosen self-custody specifically to eliminate counterparty exposure, no - using a custodial swap service breaks the self-custody chain during the swap window, which defeats the purpose of holding your own keys.
