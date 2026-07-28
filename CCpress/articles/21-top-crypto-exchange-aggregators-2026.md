@@ -71,7 +71,11 @@ We reviewed [1inch's official documentation](https://docs.1inch.io), [CoW Protoc
 
 The 2025-2026 development that changed 1inch's competitive position is Fusion+ - a cross-chain intent order system where users sign an intent to swap and resolvers (professional market makers) compete to fill it at the best available rate. The user never sends a transaction directly. The resolver does. That model eliminates front-running because the resolver cannot extract MEV from a transaction they themselves are submitting in competition with other resolvers.
 
-[1inch](https://app.1inch.io) shows the current supported chains and the Fusion+ mode toggle in the interface. The resolver network has grown to over 80 active resolvers as of the Fusion+ v2 launch.
+[1inch](https://app.1inch.io) shows the current supported chains and the Fusion+ mode toggle in the interface.
+
+![1inch app showing Fusion+ cross-chain intent routing and multi-chain coverage](../media/2026-07-29/1inch-app-2026-07-29.png)
+
+*1inch app, July 2026 - Fusion+ mode toggle and supported chains confirmed on the live interface.* The resolver network has grown to over 80 active resolvers as of the Fusion+ v2 launch.
 
 The critique of 1inch's model is that resolver competition is only as strong as the resolver set. If resolver concentration increases - a risk in any permissioned professional market - then the competitive pressure that makes Fusion+ work begins to degrade.
 
@@ -85,7 +89,11 @@ CoW Protocol built its routing model around a concept called coincidence of want
 
 The result that distinguishes CoW from every other aggregator on this list: users routinely receive better-than-quoted prices. CoW introduced surplus sharing in 2025, where any execution surplus - the difference between the quoted rate and the actual fill rate - is returned to the user rather than captured by the protocol or solver. That mechanism turns the aggregator from a fee-extraction layer into something closer to an advocate for the user's outcome.
 
-[CoW Protocol](https://cow.fi) publishes its batch auction surplus statistics on-chain. The data is verifiable - every batch is a transaction on Ethereum with solver competition documented in the calldata.
+[CoW Protocol](https://cow.fi) publishes its batch auction surplus statistics on-chain.
+
+![CoW Protocol homepage showing batch auction model and MEV protection for Ethereum swaps](../media/2026-07-29/cowprotocol-home-2026-07-29.png)
+
+*CoW Protocol homepage, July 2026 - Batch auction model and surplus sharing mechanism confirmed.* The data is verifiable - every batch is a transaction on Ethereum with solver competition documented in the calldata.
 
 CoW's current limitation is chain coverage. It operates primarily on Ethereum and Gnosis Chain. Traders on BNB Chain, Solana, or Layer 2 networks outside Ethereum's ecosystem cannot access CoW's routing.
 
@@ -100,6 +108,10 @@ The API adoption angle is significant. Paraswap is embedded in multiple wallets 
 
 [Paraswap](https://paraswap.io) discloses its partner integrations and the Delta feature documentation directly on the developer portal.
 
+![Paraswap homepage showing Delta RFQ feature and institutional routing interface](../media/2026-07-29/paraswap-home-2026-07-29.png)
+
+*Paraswap homepage, July 2026 - Delta feature and partner integration documentation confirmed.*
+
 The critique of Paraswap is that the Delta model, which relies on market maker quotes, means Paraswap's routing quality depends on the quality and competitiveness of its market maker relationships - a dependency that is harder for users to independently verify than on-chain routing competition.
 
 **Best for:** Protocol integrators and institutional traders who need a request-for-quote API with predictable execution.
@@ -113,6 +125,10 @@ The multi-path architecture of Odos v2 splits orders across multiple simultaneou
 
 [Odos](https://app.odos.xyz) displays the routing path for each swap, showing which pools and chains are used. The transparency is useful - users can see exactly where their trade is being routed.
 
+![Odos v2 app showing multi-path routing visualization and chain coverage](../media/2026-07-29/odos-app-2026-07-29.png)
+
+*Odos app, July 2026 - Multi-path routing display and v2 optimization confirmed.*
+
 Odos is smaller than 1inch by cumulative volume and resolver/solver set. The question for traders is whether better routing quality on complex paths is worth using a protocol with a smaller security track record.
 
 **Best for:** Traders executing complex multi-hop swaps on Ethereum and L2s who want best-execution routing over brand familiarity.
@@ -124,7 +140,11 @@ Uniswap X is Uniswap's answer to the intent-based aggregator model. Rather than 
 
 The architecture shift is material. Uniswap is explicitly acknowledging that its own pools are not always the best source of liquidity, and building a meta-routing layer on top. For users, the practical benefit is MEV protection through the same mechanism as 1inch Fusion+ - the filler, not the user, submits the on-chain transaction.
 
-[Uniswap X](https://app.uniswap.org) is live on Ethereum mainnet and expanding to Layer 2 networks. The filler set is currently smaller than 1inch's resolver set, which means less competitive pressure on fill quality.
+[Uniswap X](https://app.uniswap.org) is live on Ethereum mainnet and expanding to Layer 2 networks.
+
+![Uniswap X interface showing intent-based routing and filler network model](../media/2026-07-29/uniswap-x-2026-07-29.png)
+
+*Uniswap X interface, July 2026 - Intent-based routing live on Ethereum mainnet confirmed.* The filler set is currently smaller than 1inch's resolver set, which means less competitive pressure on fill quality.
 
 **Best for:** Uniswap-native traders who want intent-based MEV protection without leaving the Uniswap interface.
 
@@ -135,7 +155,11 @@ Jupiter is not competing with 1inch in the same market. It is Solana's dominant 
 
 Jupiter's Route Map feature allows users to see the exact routing path across pools, and its liquidity coverage on Solana is effectively complete. Any token with meaningful on-chain Solana liquidity can be swapped through Jupiter.
 
-[Jupiter](https://jup.ag) has expanded to offer limit orders, DCA (dollar-cost averaging) automation, and a portfolio view. The aggregator has become a broader trading interface rather than a pure swap tool.
+[Jupiter](https://jup.ag) has expanded to offer limit orders, DCA (dollar-cost averaging) automation, and a portfolio view.
+
+![Jupiter aggregator interface showing Solana swap routing and expanded trading features](../media/2026-07-29/jupiter-app-2026-07-29.png)
+
+*Jupiter app, July 2026 - Solana aggregator interface and expanded limit order features confirmed.* The aggregator has become a broader trading interface rather than a pure swap tool.
 
 Jupiter's limitation is simple: it does not operate outside Solana. For Ethereum-based traders, it is irrelevant. For Solana-native traders, it is essential.
 
@@ -148,7 +172,11 @@ LI.FI is an aggregator-of-aggregators - it combines DEX aggregation across chain
 
 The protocol aggregates over 30 chains and dozens of bridges, including Stargate, Hop, Across, and Connext. It selects the optimal bridge-plus-swap path based on user parameters (speed vs. cost vs. security).
 
-[LI.FI](https://li.fi) documents its supported chains and bridge partners. The developer API is widely embedded - LI.FI routing appears inside MetaMask, Jumper Exchange, and multiple other interfaces.
+[LI.FI](https://li.fi) documents its supported chains and bridge partners.
+
+![LI.FI homepage showing cross-chain aggregator and bridge routing interface](../media/2026-07-29/lifi-home-2026-07-29.png)
+
+*LI.FI homepage, July 2026 - Cross-chain aggregator and 30+ chain bridge support confirmed.* The developer API is widely embedded - LI.FI routing appears inside MetaMask, Jumper Exchange, and multiple other interfaces.
 
 The risk that LI.FI's model concentrates is smart contract risk across multiple layers. A bridge exploit or DEX aggregator vulnerability anywhere in the route could affect LI.FI transactions. The protocol has bug bounty programs and audits, but the attack surface is larger than single-chain aggregators.
 
@@ -161,7 +189,11 @@ SimpleSwap operates as a centralized swap aggregator - it routes trades through 
 
 The no-KYC model operates in a regulatory grey zone. FATF Travel Rule guidance, which requires originator and beneficiary information for crypto transfers, applies in theory to crypto asset service providers in most FATF-member jurisdictions. Whether centralized swap aggregators operating without KYC qualify as CASPs under those rules is a question that regulators in the EU and UK have not fully resolved as of July 2026.
 
-[SimpleSwap](https://simpleswap.io) discloses its fee structure as a percentage built into the exchange rate. The exact margin is not displayed numerically; users compare quoted rates against reference prices to infer it.
+[SimpleSwap](https://simpleswap.io) discloses its fee structure as a percentage built into the exchange rate.
+
+![SimpleSwap homepage showing no-KYC swap interface and token selection](../media/2026-07-29/simpleswap-home-2026-07-29.png)
+
+*SimpleSwap homepage, July 2026 - No-account swap interface and fee structure confirmed.* The exact margin is not displayed numerically; users compare quoted rates against reference prices to infer it.
 
 **Best for:** Users who prioritize no-account access and understand they are paying a spread premium for that convenience.
 
@@ -172,7 +204,11 @@ ChangeNOW operates on essentially the same model as SimpleSwap - no-KYC swap rou
 
 The regulatory exposure for ChangeNOW is the same as for SimpleSwap. Both services have appeared in discussions about FATF Travel Rule compliance, and both have adjusted their terms of service language over 2025 in ways that suggest awareness of incoming regulatory scrutiny.
 
-[ChangeNOW](https://changenow.io) documents its fixed-rate and float-rate swap options. The fixed-rate option typically carries a higher implied fee because the service is bearing rate risk during the settlement window.
+[ChangeNOW](https://changenow.io) documents its fixed-rate and float-rate swap options.
+
+![ChangeNOW homepage showing fixed-rate and float-rate swap options for no-KYC trading](../media/2026-07-29/changenow-home-2026-07-29.png)
+
+*ChangeNOW homepage, July 2026 - Fixed-rate and float-rate swap options confirmed.* The fixed-rate option typically carries a higher implied fee because the service is bearing rate risk during the settlement window.
 
 **Best for:** Users who need rate certainty for a swap and prefer fixed-rate execution over best-effort routing.
 
@@ -183,7 +219,11 @@ StealthEX claims the largest token breadth of any swap aggregator on this list -
 
 The non-custodial claim is technically accurate but partially misleading. StealthEX does not hold funds, but it does control routing - and it routes through counterparties it selects, with fees embedded in the spread. Users have no visibility into which liquidity providers are used for any given swap.
 
-[StealthEX](https://stealthex.io) publishes its supported token list and fee structure in FAQ format. The FAQ acknowledges that partner exchanges may apply additional processing fees that are reflected in the quoted rate.
+[StealthEX](https://stealthex.io) publishes its supported token list and fee structure in FAQ format.
+
+![StealthEX homepage showing 1400+ token swap interface and non-custodial claims](../media/2026-07-29/stealthex-home-2026-07-29.png)
+
+*StealthEX homepage, July 2026 - Token breadth and non-custodial swap interface confirmed.* The FAQ acknowledges that partner exchanges may apply additional processing fees that are reflected in the quoted rate.
 
 **Best for:** Users who need access to obscure or newly listed tokens that are not available on the larger DEX aggregators.
 

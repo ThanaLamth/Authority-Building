@@ -77,6 +77,14 @@ Coinbase One ($29.99/month or $299/year) waives transaction fees on up to $10,00
 
 Security is solid: two-factor authentication, withdrawal address whitelisting, biometric login, and FDIC insurance on USD balances. The SEC lawsuit against Coinbase was resolved by 2025.
 
+![Coinbase homepage showing regulated exchange interface and product suite for US users](../media/2026-07-29/coinbase-home-2026-07-29.png)
+
+*Coinbase homepage, July 2026 - Regulated exchange interface and account structure confirmed.*
+
+![Coinbase Advanced Trade interface showing lower fee structure for active traders](../media/2026-07-29/coinbase-advanced-trade-2026-07-29.png)
+
+*Coinbase Advanced Trade, July 2026 - Lower fee interface accessible within the same account confirmed.*
+
 **Best for:** US-based beginners who want clear regulatory structure and are willing to find Advanced Trade to reduce fees.
 
 **Main tradeoff:** New users who do not find Advanced Trade will overpay for every trade.
@@ -91,6 +99,10 @@ Kraken has operated since 2011 and has never experienced a significant platform-
 
 Kraken's fee structure is transparent: standard taker is 0.26%. Kraken Pro starts at 0.25% maker / 0.40% taker - not hidden behind a separate product page. Customer support (24/7 live chat) is a genuine differentiator.
 
+![Kraken homepage showing decade-plus operational history and European banking license application](../media/2026-07-29/kraken-home-2026-07-29.png)
+
+*Kraken homepage, July 2026 - Exchange interface and European banking license application direction confirmed.*
+
 **Best for:** Beginners outside the US, or US users who prioritize security track record and want consistent, transparent fees.
 
 **Main tradeoff:** Interface is functional but less polished than Coinbase consumer design.
@@ -104,6 +116,10 @@ The Gemini Earn collapse in 2022-2023 left approximately $900 million in user fu
 
 [Gemini ActiveTrader](https://exchange.gemini.com) offers 0.20% maker / 0.40% taker fees. The basic interface charges 1.49% above $200 in purchase value. Token selection is approximately 70 assets - deliberately limited, which reduces speculative-token risk for beginners.
 
+![Gemini ActiveTrader interface showing lower fee trading and SOC 2 Type II compliant infrastructure](../media/2026-07-29/gemini-activetrader-2026-07-29.png)
+
+*Gemini ActiveTrader, July 2026 - Lower fee trading interface and compliance posture confirmed.*
+
 **Best for:** US beginners in strict-licensing states (especially New York) who want a curated asset list and strong compliance track record.
 
 **Main tradeoff:** Limited token selection. ActiveTrader requires deliberate navigation to access lower fees.
@@ -113,7 +129,11 @@ The Gemini Earn collapse in 2022-2023 left approximately $900 million in user fu
 
 Bitstamp has operated since 2011 and was acquired by Robinhood in 2024, preserving its European regulatory licensing - including a Luxembourg-based payment institution license under MiCA-aligned rules.
 
-[Bitstamp](https://www.bitstamp.net) charges a 0.40% taker fee for users trading under $10,000 per month, displayed explicitly. No embedded spread model - users see what they pay. Token selection is approximately 80 established assets.
+[Bitstamp](https://www.bitstamp.net) charges a 0.40% taker fee for users trading under $10,000 per month, displayed explicitly.
+
+![Bitstamp homepage showing European regulated exchange interface and transparent fee structure](../media/2026-07-29/bitstamp-home-2026-07-29.png)
+
+*Bitstamp homepage, July 2026 - European licensing and transparent fee schedule confirmed.* No embedded spread model - users see what they pay. Token selection is approximately 80 established assets.
 
 **Best for:** European-based beginners who want a regulated exchange with transparent fees.
 
@@ -125,6 +145,10 @@ Bitstamp has operated since 2011 and was acquired by Robinhood in 2024, preservi
 Crypto.com's draw for beginners is its mobile interface and Visa card program, with higher card tiers requiring staking of the platform's CRO token. The app charges an embedded spread of approximately 0.4%-0.9% without displaying a percentage fee explicitly. The professional exchange (Crypto.com Exchange) offers 0.075% maker fees but requires CRO staking and a separate product.
 
 The exchange holds a MiCA-compliant license in the EU and FCA registration in the UK.
+
+![Crypto.com homepage showing Visa card program and mobile-first exchange interface](../media/2026-07-29/cryptocom-home-2026-07-29.png)
+
+*Crypto.com homepage, July 2026 - Card program and MiCA-compliant exchange interface confirmed.*
 
 Staking CRO to access better card tiers is making a position in a platform token - a risk not clearly disclosed in card marketing.
 
@@ -140,6 +164,10 @@ Binance appears last because its regulatory situation makes it a poor first choi
 For non-US beginners where Binance.com operates freely, the calculus differs: 0.10% maker/taker fees (0.075% with BNB discount), broadest token selection on this list, and a Lite mode for new users.
 
 [Binance](https://www.binance.com) publishes its full fee schedule and DOJ settlement context publicly.
+
+![Binance fee schedule page showing standard maker/taker rates and BNB discount structure](../media/2026-07-29/binance-fee-schedule-2026-07-29.png)
+
+*Binance fee schedule, July 2026 - Standard fee structure and BNB discount program confirmed.*
 
 **Best for:** Non-US beginners in regions where Binance.com operates fully.
 
