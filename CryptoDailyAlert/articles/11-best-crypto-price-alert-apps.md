@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "Best Crypto Price Alert Apps: Delivery Speed and Alert Types by Platform"
 meta_title: "Best Crypto Price Alert Apps 2026: Delivery Speed and Alert Types by Platform | CryptoDailyAlert"
 meta_description: "TradingView, CoinMarketCap, Coinbase Advanced, Binance app, and Crypto Pro compared by alert types, delivery channel, latency, and free tier limits."
@@ -17,11 +17,15 @@ Five crypto price alert platforms cover the primary alert delivery channels in 2
 
 This brief covers what alert types each platform supports, how alerts are delivered, and what each platform does not cover.
 
+
+> **Data freshness:** Alert limits, pricing tiers, and free plan thresholds in this article reflect July 2026 platform documentation and change without notice. Delivery latency figures are not stated by any platform reviewed here — treat latency observations as anecdotal, not benchmarked. Verify current limits at each platform before relying on them.
 ## What Alert Types Each Platform Covers
 
 **TradingView** supports the broadest alert condition set. Alerts trigger on price level crosses, percentage change, indicator values (RSI, MACD, moving average crosses), and custom conditions written in Pine Script. Alert conditions are set on the chart and linked to a specific asset and timeframe. TradingView does not cover DEX-native prices. Data sources are CEX price feeds and TradFi market data. DEX prices require a third-party connector not included in TradingView natively.
 
-**CoinMarketCap Alerts** support two condition types: absolute price level and percentage change from a reference point. No indicator-based conditions are available. Volume alerts are not supported on the free tier. CoinMarketCap alert coverage extends to all assets listed on CoinMarketCap, which covers thousands of tokens. Alert delivery is mobile push notification only.
+TradingView's alert system is referenced in Decrypt guides on setting up crypto monitoring workflows. It comes up consistently in [CryptoCurrency threads on tools that improved workflow](https://www.reddit.com/r/CryptoCurrency/comments/1okwvxu/crypto_tools_that_actually_improved_my_workflow/) — specifically for indicator-triggered conditions that go beyond simple price thresholds.
+
+**CoinMarketCap Alerts** support two condition types: absolute price level and percentage change from a reference point. No indicator-based conditions are available. Volume alerts are not supported on the free tier. CoinMarketCap alert coverage extends to all assets listed on CoinMarketCap, which covers thousands of tokens. Alert delivery is mobile push notification only. CoinMarketCap appears in [crypto tools discussions on Reddit](https://www.reddit.com/r/CryptoCurrency/comments/18huo4f/what_tools_do_you_use/) as the default recommendation for no-account-required price monitoring.
 
 **Coinbase Advanced (mobile)** supports price-level alerts for assets listed on Coinbase. Alert conditions are price above or below a specified level only. No percentage-change or indicator-based alerts. Delivery is iOS and Android push notification. The alert function is part of the Coinbase mobile app and requires an active Coinbase account. Assets not listed on Coinbase are not covered.
 
@@ -67,7 +71,7 @@ For condition-based alerts across multiple assets and timeframes, TradingView is
 
 ---
 
-## Source Table: Crypto Price Alert Apps â€” July 2026
+## Source Table: Crypto Price Alert Apps — July 2026
 
 | Platform | Alert types | Delivery channel | Latency (stated) | Free limit | Android / iOS |
 |---|---|---|---|---|---|
@@ -79,4 +83,13 @@ For condition-based alerts across multiple assets and timeframes, TradingView is
 
 *Data reflects platform documentation and public feature listings as of July 2026. Alert limits and pricing are subject to change.*
 
+
+## What This Article Doesn't Cover Yet
+
+- We have not tested actual delivery latency for any platform against a real, time-stamped price move — stated latency is absent from all platform documentation, and observed latency under load was not measured
+- TradingView webhook delivery reliability during high-traffic periods (e.g., a major BTC flash move) was not tested end to end
+- Crypto Pro background refresh behavior across different iOS versions was not tested — alert firing depends on iOS system settings that vary between devices
+- Android alternatives to Crypto Pro are not covered in this article
+
+If there is a use case — chain-native alerts, DEX price triggers, options alerts — that none of these platforms covers, that gap is intentional scope: this article covers CEX price alerts only.
 **Related:** [Crypto Whale Tracker Tools](/briefs/market/best-crypto-whale-tracker-tools) | [Stablecoin Depeg Monitoring Sources](/briefs/market/best-stablecoin-depeg-monitoring-sources) | [Crypto Liquidation Cascade Alert](/alerts/market-moves/crypto-liquidation-cascade-alert)

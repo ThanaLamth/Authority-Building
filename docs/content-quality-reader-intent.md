@@ -169,3 +169,78 @@ Sau khi viet:
 
 Bai viet ngan hon ma giai quyet van de nhanh hon = bai viet tot hon.
 Google do user satisfaction, khong do word count.
+
+---
+
+## Non-Commodity Content -- Noi dung khong the sao chep
+
+> Nguon: Google Search Quality team (Pedro Dias + Search Quality rater guidelines), concept "Non-Commodity Content".
+
+### Dinh nghia
+
+Commodity content la bat ky bai viet nao ma AI hoac website khac co the tao lai trong 60 giay: list cac exchange phobien, giai thich "what is staking", so sanh BTC vs ETH tu Wikipedia.
+
+Non-Commodity Content la noi dung chi ton tai vi mot thuc the cu the da lam dieu gi do that su -- va con nguoi/cong cu khac khong co truy cap vao du lieu do.
+
+Google goi day la tin hieu "experience" trong EEAT. Day la ly do Google truong hop kha nang sao chep.
+
+---
+
+### 3 loai Non-Commodity data ap dung cho Authority-Building sites
+
+**1. First-hand operational data**
+- Du lieu lay truc tiep tu swap: cac exchange nao Swapzone surface cho pair X, fee nao xuat hien, partner nao thieu
+- Thoi gian swap thuc te da do (khong phai tu trang web provider)
+- Loi nao gap trong flow (KYC trigger o buoc nao, minimum amount thuc te vs published)
+- *Vi du:* "Chung toi query BTC→XMR tren Swapzone luc 14:32 UTC, 6 providers xuat hien. StealthEX co rate tot nhat (0.00382 BTC per XMR). ChangeNOW khong hien vi pair nay duoi threshold cua ho." -- Day la data khong ai co the sao chep.
+
+**2. Local/regional context khong co tren internet quoc te**
+- Fiat rail thuc te cho IDR, VND, THB -- khong phai tu docs, ma tu nguoi dung o region do
+- Regulatory status cu the: OJK co phat khuyen cao gi trong 6 thang qua? BSP co thu tuc moi nao?
+- App store availability: Swapzone co tren CH Play o Vietnam/Indonesia khong?
+- *Vi du (Kanalcoin):* "AUSTRAC's Digital Currency Exchange register (truy cap thang 7 2026) xac nhan Swyftx, BTC Markets, CoinSpot dang ky. Independent Reserve cung duoc xac nhan. Binance Australia da bi thu hoi giay phep thang 4 2023." -- Nguoi dung o AU can dieu nay, khong phai chi ten cac exchange.
+
+**3. Cross-source synthesis khong ai da lam**
+- So sanh rate thuc te giua Swapzone va ChangeNOW direct cho 3 pair khac nhau trong cung 1 session
+- Mapping: partner nao trong Swapzone network thuong xuat hien o top 3 cho EUR pairs vs BTC pairs
+- APY history: rate Nexo/P2P da thay doi the nao trong 90 ngay (neu co du lieu)
+- *Vi du (DeFiLiban):* "Chay cung 1 ETH qua ca Lido va Swapzone Staking (ANKR routing) trong cung ngay. Lido return stETH trong ~12 phut, ANKR qua Swapzone routing mat ~8 phut. Rate sai biet: 0.04% -- khong dang ke cho retail." -- Day la synthesis khong ai khac da publish.
+
+---
+
+### Checklist truoc khi publish: bai co Non-Commodity element nao?
+
+| Question | Yes = good | No = commodity risk |
+|----------|-----------|---------------------|
+| Co bat ky data point nao lay tu session thuc te (khong phai tu homepage provider)? | | |
+| Co regulatory/local context ma reader o region do moi biet? | | |
+| Co cross-source comparison ma khong bai viet nao da publish? | | |
+| "What we checked" co mo ta hanh dong cu the hay chi list ten cac website da doc? | | |
+| Neu AI query cung topic nay, no co tao ra duoc bai nay khong? | No = safe | Yes = rewrite |
+
+**Neu tat ca 5 cau tra loi No (tren cot "Yes = good"):** bai dang la commodity. Phai them it nhat 1 Non-Commodity element truoc khi publish.
+
+---
+
+### Non-Commodity content trong thuc te: truoc va sau
+
+**Truoc (commodity):**
+> "StealthEX does not require KYC and has no upper limit on most pairs. It holds a 4.7 grade on the Swapzone partner network."
+
+**Sau (Non-Commodity):**
+> "StealthEX xuat hien trong 6/6 Swapzone queries chung toi chay cho BTC→XMR pair trong thang 7 2026. Tren 4 lan, day la provider co rate tot nhat. Tren 2 lan con lai, Exolix co rate tot hon ~0.3%. StealthEX co grade 4.7 trong Swapzone partner list -- grade nay lay tu Swapzone's own API, khong phai tu StealthEX's marketing."
+
+Su khac biet: cau sau khong the dung cho bai khac. No chi ton tai vi ai do da thuc su chay query do.
+
+---
+
+### Ap dung cho tung site trong Authority-Building
+
+| Site | Non-Commodity uu tien | Cach lay data |
+|------|----------------------|---------------|
+| Coinwy | Swapzone query results thuc te cho popular pairs | Chay live query, screenshot rate + provider list |
+| Kanalcoin | Regulatory status chinh xac (OJK/BSP/AUSTRAC/SEC TH) | Truy cap trang chinh thuc regulator, note ngay truy cap |
+| DeFiLiban | APY/APR verification tu Swapzone API + protocol docs | Swapzone.io/staking live, Lido/Rocket Pool dashboard |
+
+**Luu y:** Non-Commodity data co expiry. Swapzone query result cua thang 7 2026 se het han sau 30-60 ngay (rate thay doi, partner co the thay doi). Refresh trigger cho loai data nay la 30 ngay, khong phai 3-6 thang nhu general content.
+

@@ -29,9 +29,9 @@ Banned words: easy to use, beginner-friendly, simple, just, game-changing, revol
 
 | # | Primary keyword | H1 | Path |
 |---|---|---|---|
-| 1 | best defi lending protocols 2026 | Best DeFi Lending Protocols in 2026: Aave, Morpho, Compound, Euler, and Spark Ranked | /protocols/lending/best-defi-lending-protocols-2026 |
+| 1 | best defi lending protocols 2026 | Best DeFi Lending Protocols in 2026: Aave, Morpho, Fluid, Euler, and Spark Ranked | /protocols/lending/best-defi-lending-protocols-2026 |
 | 2 | best liquid staking protocols eth 2026 | Best Liquid Staking Protocols for ETH in 2026: Lido, Rocket Pool, Frax Ether, StakeWise, and Stader Ranked | /protocols/staking/best-liquid-staking-protocols-eth-2026 |
-| 3 | best perpetual dex 2026 | Best Perpetual DEX in 2026: GMX, dYdX v4, Hyperliquid, Vertex, and Gains Network Ranked | /protocols/dex/best-perpetual-dex-2026 |
+| 3 | best perpetual dex 2026 | Best Perpetual DEX in 2026: Hyperliquid, dYdX v4, GMX v2, Vertex, and Gains Network Ranked | /protocols/dex/best-perpetual-dex-2026 |
 | 4 | best dex aggregators 2026 | Best DEX Aggregators in 2026: 1inch, Paraswap, CoW Protocol, Odos, and KyberSwap Ranked | /protocols/dex/best-dex-aggregators-2026 |
 | 5 | best yield farming platforms 2026 | Best Yield Farming Platforms in 2026: Convex, Yearn, Beefy, Pendle, and Equilibria Ranked | /yield/farming/best-yield-farming-platforms-2026 |
 | 6 | best stablecoins for defi yield 2026 | Best Stablecoins for DeFi Yield in 2026: USDC, DAI, USDT, FRAX, and GHO Ranked | /yield/stablecoins/best-stablecoins-defi-yield-2026 |
@@ -46,13 +46,13 @@ Banned words: easy to use, beginner-friendly, simple, just, game-changing, revol
 ## Article 1 -- Best DeFi Lending Protocols 2026
 
 **Primary keyword:** `best defi lending protocols 2026`
-**H1:** Best DeFi Lending Protocols in 2026: Aave, Morpho, Compound, Euler, and Spark Ranked
+**H1:** Best DeFi Lending Protocols in 2026: Aave, Morpho, Fluid, Euler, and Spark Ranked
 **Path:** `/protocols/lending/best-defi-lending-protocols-2026`
 **Word count target:** 2,000-2,800
 **SERP difficulty:** 65/100. Competitor baseline: eco.com, koinly, dextools.
 
 **Opening paragraph (draft):**
-The best DeFi lending protocols in 2026 are Aave v3, Morpho Blue, Compound v3, Euler v2, and Spark. Aave leads by TVL and cross-chain deployment count; Morpho leads by capital efficiency per dollar supplied at matched utilization.
+The best DeFi lending protocols in 2026 are Aave v3, Morpho Blue, Fluid, Euler v2, and Spark. Aave leads by TVL ($14.6B, DeFiLlama May 2026) and cross-chain deployment count; Morpho Blue ($11.8B TVL) leads by capital efficiency via peer-to-peer matching and immutable per-market LLTV parameters.
 
 **Summary comparison table:**
 
@@ -60,7 +60,7 @@ The best DeFi lending protocols in 2026 are Aave v3, Morpho Blue, Compound v3, E
 |----------|------------------|-------|---------------|
 | Aave v3 | Highest TVL, broadest chain coverage | 5/5 | E-Mode concentration risk on correlated assets |
 | Morpho Blue | Best capital efficiency via peer-to-peer matching | 4.5/5 | Curator model shifts due-diligence to the integrator |
-| Compound v3 | Cleanest isolated-collateral model | 4/5 | Lower asset diversity than Aave |
+| Fluid | Lending-DEX hybrid with highest yield-surface density | 4/5 | Combined lending+DEX creates correlated risk surfaces not present in pure lending |
 | Euler v2 | Most flexible vault architecture | 4/5 | Re-launched post-exploit; audit trail scrutiny required |
 | Spark | Best native DAI/USDS borrowing rates via DSR | 4/5 | MakerDAO governance dependency is a single point of failure |
 
@@ -68,7 +68,7 @@ The best DeFi lending protocols in 2026 are Aave v3, Morpho Blue, Compound v3, E
 1. How This Ranking Was Built: Criteria and On-Chain Sources
 2. Aave v3: Interest Rate Mechanism, E-Mode, and Cross-Chain Deployment
 3. Morpho Blue: Peer-to-Peer Matching, Utilization Rate, and Curator Risk
-4. Compound v3: Isolated Collateral Model and COMP Governance
+4. Fluid: Lending-DEX Hybrid Architecture, Correlated Risk Surfaces, and TVL Profile
 5. Euler v2: Vault Architecture, EVC, and Post-Exploit Audit Status
 6. Spark: DSR Integration, Borrowing Rate Mechanics, and MakerDAO Dependency
 7. What We Checked Ourselves Before Ranking These Protocols
@@ -92,7 +92,7 @@ Aave v3: Deepest liquidity and most audited codebase in the lending category. We
 
 Morpho Blue: Utilization efficiency approaches 100% at match, improving net supply yield. Weakness: Curator markets carry idiosyncratic risk that users must evaluate per vault, not just per protocol.
 
-Compound v3: Single borrowable asset per market reduces operational complexity. Weakness: Narrower asset selection limits use for multi-collateral strategies.
+Fluid: Instadapp-built protocol combining lending and DEX in a unified liquidity layer (~$1B TVL, Ethereum + Arbitrum + Base + Polygon). Weakness: The lending-DEX hybrid creates correlated risk surfaces -- a DEX-side liquidity event and a lending-side liquidation cascade can interact in ways that pure lending protocols do not face.
 
 Euler v2: EVC (Ethereum Vault Connector) allows composable vault strategies unavailable elsewhere. Weakness: March 2023 exploit ($197M) requires any due-diligence checklist to verify v2 audit provenance separately from v1.
 
@@ -107,7 +107,7 @@ Aave's dominance in total TVL is tracked in real time on [DeFiLlama's lending pr
 - Screenshot 2: Morpho Blue curator vault list. Alt: Morpho Blue curator vaults list July 2026.
 
 **Closing formula:**
-Choose Aave v3 if you need the broadest collateral selection and highest confidence in liquidity depth. Choose Morpho Blue if your position is large enough that capital efficiency at the margin materially changes your net yield. Choose Euler v2 if the EVC composability unlocks a vault strategy that no other protocol supports and you have reviewed the v2 audit set.
+Choose Aave v3 if you need the broadest collateral selection and highest confidence in liquidity depth. Choose Morpho Blue if capital efficiency at the margin materially changes your net yield and you are prepared to evaluate curator vaults independently. Choose Fluid if you want a lending-DEX hybrid with high yield-surface density and can model the correlated risk between the two product layers. Choose Euler v2 if EVC composability unlocks a vault strategy unavailable elsewhere and you have reviewed the v2 audit set independently.
 
 ---
 
@@ -127,7 +127,7 @@ The best liquid staking protocols for ETH in 2026 are Lido, Rocket Pool, Frax Et
 | Protocol | Outstanding point | Score | One-line note |
 |----------|------------------|-------|---------------|
 | Lido (stETH) | Highest liquidity, deepest DeFi integration | 5/5 | 33% of staked ETH creates consensus-layer concentration risk |
-| Rocket Pool (rETH) | Most decentralized validator set | 4.5/5 | Lower secondary market liquidity than stETH |
+| Rocket Pool (rETH) | Most decentralized validator set; Saturn 1: 4 ETH bond, RPL optional | 4.5/5 | rETH/ETH secondary market thinner than stETH/ETH Curve pool |
 | Frax Ether (frxETH) | Dual-token model enables flexible yield routing | 4/5 | sfrxETH yield depends on Frax protocol health |
 | StakeWise v3 (osETH) | Vault-level isolation per operator | 4/5 | Smaller TVL means thinner secondary market |
 | Stader (ETHx) | Lower node operator bond requirement | 3.5/5 | Newer audit history than Lido or Rocket Pool |
@@ -155,9 +155,9 @@ The best liquid staking protocols for ETH in 2026 are Lido, Rocket Pool, Frax Et
 
 **Per-item strength and weakness:**
 
-Lido: Deepest secondary market (stETH/ETH on Curve routinely above $500M depth). Weakness: Single entity controls over 33% of staked ETH; the Ethereum Foundation has flagged this publicly as a systemic risk.
+Lido: Deepest secondary market (stETH/ETH on Curve routinely above $500M depth) and $20.71B TVL (DeFiLlama, April 2026). Slashing record: CSM event March 13, 2026 (6 validators, <0.047 ETH penalties); prior event October 2023 (20 validators, ~20 ETH). Both verifiable on Rated.network. Weakness: Lido controls over 33% of staked ETH; the Ethereum Foundation has publicly flagged this as a systemic consensus-layer risk.
 
-Rocket Pool: 8 ETH and RPL bond per minipool creates real skin-in-the-game from operators. Weakness: RPL price volatility affects operator incentives and can trigger minipool exits.
+Rocket Pool: ~2,000 independent node operators give rETH the most decentralized validator set in the liquid staking category. The Saturn 1 upgrade changed the bond to 4 ETH with RPL now optional -- the 8 ETH + mandatory RPL figures still published by most competitor articles are outdated. Weakness: rETH secondary market liquidity (rETH/ETH Balancer pool) is materially thinner than stETH/ETH on Curve, increasing exit slippage at scale.
 
 Frax Ether: sfrxETH captures all validator rewards while frxETH provides liquidity, a clean architectural separation. Weakness: Frax protocol health (FRAX stablecoin, FXS governance) is a correlated dependency.
 
@@ -182,36 +182,37 @@ Choose Lido if secondary market liquidity is the primary constraint -- stETH rem
 ## Article 3 -- Best Perpetual DEX 2026
 
 **Primary keyword:** `best perpetual dex 2026`
-**H1:** Best Perpetual DEX in 2026: GMX, dYdX v4, Hyperliquid, Vertex, and Gains Network Ranked
+**H1:** Best Perpetual DEX in 2026: Hyperliquid, dYdX v4, GMX v2, Vertex, and Gains Network Ranked
 **Path:** `/protocols/dex/best-perpetual-dex-2026`
 **Word count target:** 2,200-2,800
 **SERP difficulty:** 60/100. Competitor baseline: perp.wiki, thrive.fi, dextools.
 
 **Opening paragraph (draft):**
-The best perpetual DEX platforms in 2026 are GMX v2, dYdX v4, Hyperliquid, Vertex Protocol, and Gains Network. GMX leads by on-chain TVL among GLP-model perp DEXs; Hyperliquid leads by off-chain order book throughput while maintaining on-chain settlement.
+The best perpetual DEX platforms in 2026 are Hyperliquid, dYdX v4, GMX v2, Vertex Protocol, and Gains Network. Hyperliquid holds over 70% of all perp DEX volume with $180B+ in 30-day volume and $7.3B open interest; dYdX v4 runs the strongest fully on-chain order book via a sovereign Cosmos app-chain.
 
 **Summary comparison table:**
 
 | Protocol | Outstanding point | Score | One-line note |
 |----------|------------------|-------|---------------|
-| GMX v2 | Deepest on-chain LP liquidity, GM pool redesign | 5/5 | LP takes directional risk; high-OI positions can stress pool |
-| dYdX v4 | App-chain model gives highest throughput guarantee | 4.5/5 | Cosmos SDK migration adds a separate validator trust assumption |
-| Hyperliquid | Fastest off-chain matching with on-chain settlement | 4.5/5 | HyperBFT consensus is proprietary; external audit coverage limited |
-| Vertex Protocol | Best unified spot and perp margin account | 4/5 | Sequencer is semi-centralized; off-chain order matching |
-| Gains Network (gTrade) | Best synthetic asset coverage via gDAI vault | 3.5/5 | gDAI collateralization is model-dependent |
+| Hyperliquid | 70%+ perp DEX volume share; HyperBFT L1 settlement | 5/5 | HyperBFT is proprietary consensus; external audit coverage limited to QuillAudits/Zealynx |
+| dYdX v4 | Fully on-chain order book on sovereign Cosmos app-chain | 4.5/5 | Cosmos validator set smaller than Ethereum; market share collapsed from 73% in 2023 |
+| GMX v2 | GM pool per-market isolation reduces contagion vs v1 | 4/5 | ~$152M TVL (July 2026); LP takes directional risk on net trader exposure |
+| Vertex Protocol | Best unified spot and perp margin account | 3.5/5 | Sequencer is semi-centralized; off-chain order matching |
+| Gains Network (gTrade) | Best synthetic asset coverage via gDAI vault | 3.5/5 | gDAI vault capacity constrains max open interest |
 
 **H2 skeleton:**
-1. How This Ranking Was Built: Throughput, Liquidity Depth, and Risk Model
-2. GMX v2: GM Pools, Oracle Pricing, and LP Risk Profile
-3. dYdX v4: App-Chain Architecture, Order Book Model, and Validator Set
-4. Hyperliquid: HyperBFT, Vault Model, and Centralization Tradeoffs
+1. How This Ranking Was Built: Volume Share, Open Interest, and Trust Model
+2. Hyperliquid: HyperBFT Consensus, HyperCore vs HyperEVM, and Volume Quality
+3. dYdX v4: App-Chain Architecture, Order Book Model, and Market Share Trajectory
+4. GMX v2: GM Pools, Oracle Pricing, and LP Risk Profile
 5. Vertex Protocol: Unified Margin, Sequencer Design, and Arbitrum Settlement
 6. Gains Network: gTrade Mechanics, gDAI Vault, and Synthetic Oracle Model
-7. What We Checked Ourselves Before Ranking These Protocols
-8. Side-by-Side: Max Leverage, Funding Rate Mechanism, LP Model, and Audit Count
-9. Why You Can Trust This Guide
-10. FAQ
-11. Choose the Right Perpetual DEX for Your Trading Profile
+7. Volume Quality: Real Open Interest vs Incentive-Inflated Numbers
+8. What We Checked Ourselves Before Ranking These Protocols
+9. Side-by-Side: Max Leverage, Funding Rate Mechanism, LP Model, and Audit Count
+10. Why You Can Trust This Guide
+11. FAQ
+12. Choose the Right Perpetual DEX for Your Trading Profile
 
 **Ranking criteria:**
 - Open interest (protocol dashboards, July 2026)
@@ -224,26 +225,26 @@ The best perpetual DEX platforms in 2026 are GMX v2, dYdX v4, Hyperliquid, Verte
 
 **Per-item strength and weakness:**
 
-GMX v2: GM pool per-market isolation reduces contagion versus the v1 GLP model. Weakness: LPs still take the other side of net trader exposure; directional LP risk is real and measurable on-chain.
+Hyperliquid: HyperBFT consensus (HotStuff-inspired, 3f+1 validators, 2/3 honest majority) settles trades on HyperCore -- a native perp L1. Hyperps use EMA-based on-chain mark prices rather than Chainlink or Pyth, making them oracle-independent. Sub-100ms matching is competitive with centralized exchanges. Weakness: HyperBFT is proprietary and audited only by QuillAudits and Zealynx; it does not carry the external verification depth of Ethereum consensus clients. Volume quality must also be evaluated: not all of the $180B+ 30-day volume represents sticky organic demand.
 
-dYdX v4: Fully on-chain order book as a sovereign Cosmos chain eliminates off-chain sequencer risk. Weakness: Cosmos validator set is smaller and newer than Ethereum mainnet security.
+dYdX v4: Fully on-chain order book as a sovereign Cosmos chain eliminates off-chain sequencer risk. The narrative anchor is the market share data: dYdX held 73% of perp DEX volume in 2023 and is now in single digits -- a cautionary case study in app-chain migration risk. Weakness: Cosmos validator set is smaller and newer than Ethereum mainnet security; the migration also redistributed users to Hyperliquid.
 
-Hyperliquid: Sub-100ms matching latency makes it competitive with centralized exchanges for scalpers. Weakness: HyperBFT is not publicly audited to the standard of Ethereum clients; trust is placed in a newer team.
+GMX v2: GM pool per-market isolation reduces contagion versus the v1 GLP model. TVL ~$152M as of July 2026 -- significantly lower than its 2024 peak. Weakness: LPs still take the other side of net trader exposure; directional LP risk is real and measurable on-chain.
 
 Vertex: Unified spot and perp margin in a single account is architecturally cleaner for capital-efficient traders. Weakness: Sequencer failure mode is not fully mitigated; off-chain risks exist at the order book layer.
 
-Gains Network: Synthetic exposure to equities and forex is unique among on-chain perp DEXs. Weakness: gDAI vault capacity constrains max open interest and can create execution risk in high-demand markets.
+Gains Network: Synthetic exposure to equities and forex is unique among on-chain perp DEXs. Weakness: gDAI vault capacity mathematically constrains max open interest -- when OI demand exceeds vault capacity, execution risk emerges.
 
 **Community signal (inline):**
-GMX LP returns and trader PnL are tracked in real time by on-chain analytics, with detailed breakdowns surfacing regularly in [GMX Governance and stats threads](https://gov.gmx.io) that predate most aggregator updates.
+Hyperliquid volume share and open interest are tracked in real time on [DefiLlama perp DEX dashboards](https://defillama.com/derivatives) and perp.wiki, with the volume quality discussion -- real OI vs. incentive-inflated -- surfacing in on-chain analyst threads ahead of protocol TGE events.
 
 **Image workflow:**
-- Featured Image: GMX v2 open interest dashboard, July 2026. Alt: GMX v2 open interest and TVL July 2026.
-- Screenshot 1: dYdX v4 orderbook UI. Alt: dYdX v4 order book on Cosmos chain July 2026.
-- Screenshot 2: Hyperliquid vault metrics. Alt: Hyperliquid vault TVL and funding rates July 2026.
+- Featured Image: DeFiLlama perp DEX volume share chart showing Hyperliquid dominance, July 2026. Alt: Perpetual DEX volume market share July 2026.
+- Screenshot 1: Hyperliquid open interest and 30-day volume dashboard. Alt: Hyperliquid open interest and volume July 2026.
+- Screenshot 2: dYdX v4 order book UI on Cosmos chain. Alt: dYdX v4 order book July 2026.
 
 **Closing formula:**
-Choose GMX v2 if on-chain settlement and LP depth matter more than execution latency. Choose Hyperliquid if throughput and CEX-competitive execution are the primary criteria and the proprietary consensus trade-off is acceptable. Choose dYdX v4 if a fully on-chain order book and app-chain sovereignty are architectural requirements.
+Choose Hyperliquid if throughput, CEX-competitive execution, and volume depth are the primary criteria and the HyperBFT trust assumption is acceptable. Choose dYdX v4 if a fully on-chain order book with app-chain sovereignty is an architectural requirement and you have evaluated the Cosmos validator trust model. Choose GMX v2 if LP-depth and on-chain settlement are more important than execution latency, and you understand that LPs take directional risk on net trader exposure.
 
 ---
 
@@ -735,4 +736,5 @@ Choose Trail of Bits if formal verification and tooling depth are the primary au
 - [ ] All numerical claims cite on-chain source or protocol doc
 - [ ] Word count target noted per article
 - [ ] Banned words absent: easy to use, beginner-friendly, simple, just, game-changing, revolutionary
+
 

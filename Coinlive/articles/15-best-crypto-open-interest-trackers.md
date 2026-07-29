@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "Best Crypto Open Interest Trackers: Aggregate OI Data by Asset and Exchange"
 meta_title: "Best Crypto Open Interest Trackers 2026: Aggregate OI Data by Asset and Exchange | Coinlive"
 meta_description: "Coinglass, Coinalyze, Velo Data, Bybit/Binance native, and Laevitas compared by OI scope, options coverage, liquidation overlay, and free tier access."
@@ -16,19 +16,23 @@ Open interest (OI) is the total value of outstanding derivative contracts that h
 
 OI alone does not indicate direction. Rising price with rising OI suggests new long positioning is entering. Rising price with falling OI suggests short covering, not new longs. The combination matters.
 
-A critical distinction for accurate analysis: **aggregate OI** and **per-exchange OI** are different data products. Aggregate OI combines all venues into a single number and smooths exchange-specific anomalies. Per-exchange OI shows where the positioning is concentrated â€” and sometimes, which exchange is driving the move.
+A critical distinction for accurate analysis: **aggregate OI** and **per-exchange OI** are different data products. Aggregate OI combines all venues into a single number and smooths exchange-specific anomalies. Per-exchange OI shows where the positioning is concentrated — and sometimes, which exchange is driving the move.
 
 Five platforms cover crypto OI in 2026.
 
+
+> **Data freshness:** OI figures, exchange coverage counts, and pricing tiers in this article reflect July 2026 data and change frequently. The perpetual vs. options OI distinction and the CME vs. perp divergence methodology are structural and stable. Verify current figures at Coinglass or Coinalyze directly.
 ## Coinglass: Aggregate OI Across Exchanges
 
 Coinglass is the dominant OI tracker for retail and professional traders in 2026. It aggregates OI data from Binance, Bybit, OKX, Deribit, CME, Huobi, and others. The exchange breakdown chart shows the per-exchange OI contribution at any given time.
 
 The CME BTC OI figure on Coinglass is significant. CME OI tracks U.S. institutional futures positioning. When CME OI rises while Binance perpetual OI is flat, institutional traders are increasing exposure while retail perpetual positioning holds steady. These populations behave differently.
 
-The platform covers perpetuals and dated futures. Options OI requires selecting the Deribit filter separately â€” by default, the main chart combines perpetual and dated futures.
+The platform covers perpetuals and dated futures. Options OI requires selecting the Deribit filter separately — by default, the main chart combines perpetual and dated futures.
 
 Free tier: available. Real-time OI with sub-minute refresh requires Coinglass Pro at $29.99/month.
+
+The Block's Research section publishes open interest charts as a standalone data product at theblock.co/data. Coinglass OI is also referenced in [futures trading community threads on Reddit](https://www.reddit.com/r/FuturesTrading/comments/1l0foox/anybody_use_bookmap_i_feel_like_i_cant_trade_with/) as the default aggregate OI check before drilling into exchange-specific breakdowns.
 
 **Limitation:** Perpetual OI and options OI are combined in the default view. Apply the contract type filter manually to separate them. Misreading the default chart as perpetual-only is a common analytical error.
 
@@ -36,11 +40,13 @@ Free tier: available. Real-time OI with sub-minute refresh requires Coinglass Pr
 
 ## Coinalyze: Per-Exchange OI with Liquidation Overlay
 
-Coinalyze shows OI on a per-exchange basis and overlays liquidation levels on the same chart. This combination â€” where is OI concentrated, and where would it be liquidated â€” is unique among the platforms reviewed here.
+Coinalyze shows OI on a per-exchange basis and overlays liquidation levels on the same chart. This combination — where is OI concentrated, and where would it be liquidated — is unique among the platforms reviewed here.
 
 The liquidation overlay shows estimated price levels at which clustered positions would be forced to close. When OI is rising at a specific exchange while approaching a liquidation cluster, the tension between those two data points is the analytical signal.
 
 Coverage: Binance, Bybit, OKX, Deribit, BitMEX, Kraken Futures, and others. Free tier available for major pairs. Paid plans unlock extended historical depth and alert notifications.
+
+The OI-plus-liquidation overlay is mentioned in [order flow trader communities on Reddit](https://www.reddit.com/r/OrderFlow_Trading/comments/1lrxnh1/anyone_here_successfully_use_bookmap_for_trading/) as the reason to use Coinalyze alongside Coinglass rather than as a replacement — the combination gives both aggregate view and per-exchange liquidation context.
 
 **Limitation:** No mobile app. Dashboard is desktop-optimized. The multi-panel layout requires familiarity before it becomes efficient to use.
 
@@ -50,7 +56,7 @@ Coverage: Binance, Bybit, OKX, Deribit, BitMEX, Kraken Futures, and others. Free
 
 Velo Data provides institutional-quality OI time-series data. Coverage extends beyond Coinglass on the number of derivative exchanges included. Historical exports are available in CSV and API format.
 
-The use case is not visual monitoring â€” it is data ingestion for systematic strategies. Quant traders who need clean OI data for backtesting or algorithmic triggers use Velo Data rather than building a scraper from individual exchange APIs.
+The use case is not visual monitoring — it is data ingestion for systematic strategies. Quant traders who need clean OI data for backtesting or algorithmic triggers use Velo Data rather than building a scraper from individual exchange APIs.
 
 Paid-only. Pricing is not publicly listed; enterprise inquiry required. No free tier. Not designed for manual monitoring.
 
@@ -70,7 +76,7 @@ The use case is specific: confirming whether an OI move seen on Coinglass's aggr
 
 ## Laevitas: Options OI and Gamma Exposure
 
-Laevitas focuses on derivatives analytics with a primary emphasis on options OI. It covers Deribit's BTC and ETH options in depth â€” showing OI by strike price, expiry date, and direction.
+Laevitas focuses on derivatives analytics with a primary emphasis on options OI. It covers Deribit's BTC and ETH options in depth — showing OI by strike price, expiry date, and direction.
 
 The platform publishes gamma exposure (GEX) calculations, max pain levels, and term structure curves for BTC and ETH options. These are data points not available on Coinglass or Coinalyze at the same resolution.
 
@@ -100,4 +106,13 @@ These setups resolve differently. A CME-driven OI build is typically slower to u
 
 Cross-check either setup with Coinalyze's liquidation overlay to locate the price level at which forced position closures would accelerate.
 
+
+## What This Article Doesn't Cover Yet
+
+- Bybit and Binance native OI figures have not been cross-referenced against Coinglass's breakdown for the same timestamp to quantify any data latency gap
+- Laevitas's gamma exposure calculation methodology has not been independently validated against Deribit's own options analytics
+- Velo Data's full exchange coverage list was not verified independently — the platform is enterprise-only and was not directly accessed for this review
+- We have not tested how quickly Coinglass's aggregate OI updates reflect a new large position opening, versus the native exchange dashboard
+
+If you trade OI signals across platforms and found a gap here, the list above shows what remains unverified.
 **Related:** [Crypto Liquidation Trackers](/price-action/best-crypto-liquidation-trackers) | [Funding Rate Trackers](/price-action/best-crypto-funding-rate-trackers) | [On-Chain Analytics Tools](/exchange-flows/best-on-chain-analytics-tools)

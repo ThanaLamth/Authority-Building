@@ -43,15 +43,16 @@ That matters because NFT products now need more than token reads. Teams want own
 
 ## The best NFT APIs in 2026 are Alchemy, Reservoir, SimpleHash, Moralis, QuickNode, Zerion, and Blockdaemon
 
-Alchemy is one of the strongest all-around choices because it combines broad developer adoption with an NFT tooling ecosystem. Reservoir is attractive when marketplace and trading data matter. SimpleHash is useful when normalized NFT asset and metadata handling is the real problem. Moralis and QuickNode make sense for teams that want broader Web3 development context instead of NFT-only tooling. Zerion belongs in the list because portfolio and ownership visibility matters for product experiences. Blockdaemon is relevant where enterprise-grade infrastructure posture matters.
+Alchemy is one of the strongest all-around choices because it combines broad developer adoption with an NFT tooling ecosystem. Reservoir shut down its NFT services in October 2025, and SimpleHash shut down in March 2025 after being acquired by Phantom. Both are covered here for reference and because their approaches shaped what teams now expect from the category. Moralis and QuickNode make sense for teams that want broader Web3 development context instead of NFT-only tooling. Zerion belongs in the list because portfolio and ownership visibility matters for product experiences. Blockdaemon is relevant where enterprise-grade infrastructure posture matters.
 
 Quick picks:
 
 - Best overall developer starting point: `Alchemy`
-- Best for marketplace-oriented product logic: `Reservoir`
-- Best for normalized asset data: `SimpleHash`
-- Best broader Web3 dev environment: `Moralis` or `QuickNode`
+- Best for broader Web3 dev environment: `Moralis` or `QuickNode`
 - Best portfolio-linked NFT data context: `Zerion`
+- Best enterprise infrastructure posture: `Blockdaemon`
+- Best for marketplace-oriented data (reference only): `Reservoir (shut down Oct 2025)`
+- Best for normalized multi-chain data (reference only): `SimpleHash (shut down March 2025)`
 
 ## What we checked ourselves before ranking these APIs
 
@@ -199,27 +200,25 @@ Best for:
 - teams that want a large developer ecosystem
 - stacks that may expand into minting, notifications, or analytics
 
-### Reservoir
+### Reservoir (shut down October 2025)
 
-Reservoir becomes more attractive when product logic is closer to marketplaces, liquidity, or trading behavior. It is not simply about reading NFT ownership. It is about understanding NFT assets inside a market system.
+Reservoir was the strongest choice for marketplace-adjacent NFT data before it announced the sunset of its NFT API and associated services on October 15, 2025. It raised $14 million in Series A funding just two months before the shutdown announcement, making the closure a notable surprise for teams that had built on it.
 
-We could not get a clean presentable public surface for Reservoir that we would want to use as first-hand visual proof here, so this section should be read as a directional product judgment rather than a screenshot-backed surface review.
+Reservoir's approach was distinctive: it focused on liquidity aggregation and market-aware NFT data rather than simple ownership reads. Platforms like Coinbase NFT and MetaMask used its infrastructure. Its absence narrows the options for teams that need deep market context alongside NFT data.
 
-Best for:
+For teams that relied on Reservoir's marketplace and liquidity data, the current alternatives are Alchemy's NFT API (which includes sales and listing context) and specialized market-data providers. The gap Reservoir left is real, and it underscores how quickly the NFT API landscape can change.
 
-- marketplace and aggregation products
-- teams that need more market-aware NFT data
-- builders focused on transaction and liquidity surfaces
+Best for reference only: Reservoir defined what marketplace-oriented NFT data infrastructure should look like. For active use, evaluate Alchemy as the closest available replacement for most use cases.
 
-### SimpleHash
+### SimpleHash (shut down March 2025)
 
-SimpleHash is a good fit when normalized asset data is the real bottleneck. Many teams do not need fancy market intelligence first. They need clean, consistent NFT asset handling that supports product building.
+SimpleHash was one of the strongest choices for normalized asset data before it was acquired by Phantom in February 2025 and shut down its standalone API on March 27, 2025. It built a strong reputation for multi-chain NFT metadata coverage across 80+ chains, and its shutdown left a real gap in the market.
 
-Best for:
+Teams that were using SimpleHash before the shutdown migrated primarily to Alchemy or Moralis. Both providers published migration guides and offered feature parity for the most common SimpleHash endpoints.
 
-- asset normalization
-- metadata-heavy product layers
-- teams cleaning up multi-collection or multichain NFT views
+The SimpleHash case is worth understanding as a category risk: when an infrastructure startup gets acquired by a wallet or consumer product, external API access typically disappears. That risk applies to any startup API in this space and should factor into build decisions.
+
+Best for reference only: SimpleHash's approach to normalized multi-chain NFT data set a standard that shaped what teams expect from NFT APIs today. For active use, evaluate Alchemy or Moralis as replacements.
 
 ### Moralis
 
@@ -285,3 +284,28 @@ Choose Moralis or QuickNode if NFT support lives inside a bigger Web3 architectu
 Choose Zerion if you care about the account view and portfolio logic.
 
 Choose Blockdaemon if reliability and production posture matter more than startup simplicity.
+
+
+A [thread in r/ethdev discussing NFT API options](https://www.reddit.com/r/ethdev/comments/10e0vbp/what_nft_api_do_you_recommend/) showed developers actively weighing Alchemy, Moralis, and SimpleHash for production projects -- with reliability, multichain coverage, and metadata normalization as the recurring decision criteria, not pricing alone.
+
+Frequently asked questions
+
+**What is the best NFT API for developers starting out in 2026?**
+
+Alchemy is the safest starting recommendation because it combines strong documentation, broad multichain support, and a mature NFT endpoint suite alongside its other developer tooling. Teams that are only doing NFT work and need normalized metadata across chains should also evaluate SimpleHash early.
+
+**Which NFT API handles the most chains?**
+
+SimpleHash and Alchemy both support a wide range of EVM and non-EVM chains. The practical answer is to check which specific chains your product needs against each provider's current documentation before committing, since chain support updates frequently.
+
+**Is Moralis still worth using for NFT data in 2026?**
+
+Moralis remains relevant for teams building inside a Web3 stack that already uses its auth, streams, or indexing tools. If NFT data is the only need, there are more specialized alternatives, but Moralis is a reasonable choice when it sits inside an existing broader stack decision.
+
+**What should I look for in an NFT API for a marketplace product?**
+
+Marketplace products need sales context, floor data, trait filtering, and order-book history in addition to raw metadata. Reservoir is the most specialized answer for this use case. Alchemy also covers much of this ground and is worth comparing before committing to a smaller specialist.
+
+**How does Zerion differ from a pure developer NFT API?**
+
+Zerion is built around the account and portfolio view -- it presents digital ownership as a user-facing experience rather than as an indexing backend. It is more useful when your product puts ownership context front and center for end users than when you only need to call NFT endpoints programmatically.

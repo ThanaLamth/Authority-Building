@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: "Best Crypto Liquidation Trackers: Heatmaps and Live Data by Exchange"
 meta_title: "Best Crypto Liquidation Trackers 2026: Heatmaps and Live Data by Exchange | Coinlive"
 meta_description: "Coinglass, Hyblock, Coinalyze, The Kingfisher, and DYOR Platform compared by exchange coverage, heatmap quality, timeframe granularity, and free tier access."
@@ -18,6 +18,8 @@ Five platforms track liquidation data in 2026. Each covers a different combinati
 
 This article maps each platform by exchange coverage, heatmap capability, timeframe granularity, and free tier access.
 
+
+> **Data freshness:** Pricing tiers and free-tier access terms in this article reflect July 2026 data and are subject to change. Exchange coverage counts are stable but may expand. The heatmap methodology comparison and exchange breakdown analysis are structural and less time-sensitive.
 ## What Liquidation Data Covers
 
 Liquidation data is derivatives data. It tracks forced position closures on perpetual futures and dated futures contracts. It does not track spot stop-loss orders, OTC closures, or positions closed voluntarily before the liquidation threshold.
@@ -36,6 +38,8 @@ Coinglass shows both long and short liquidations separately. The long/short rati
 
 Free tier: live data with approximately 5-minute delay. Coinglass Pro starts at $29.99/month for real-time data and API access.
 
+Coinglass is the default reference in [ethtrader discussions on liquidation heatmap reliability](https://www.reddit.com/r/ethtrader/comments/1gpwdjw/is_liquidation_heatmap_reliable/) — the community calls it out before considering other platforms. Coinglass liquidation data is also the primary source cited in Cointelegraph and CoinDesk reports covering large-scale liquidation events.
+
 **Limitation:** Coinglass does not show individual liquidation wallet addresses. It aggregates by exchange and asset, not by position size or trader identity.
 
 **Best for:** Aggregate liquidation monitoring, exchange breakdown analysis, cross-asset liquidation comparison.
@@ -44,11 +48,13 @@ Free tier: live data with approximately 5-minute delay. Coinglass Pro starts at 
 
 Hyblock Capital specializes in liquidation heatmaps. The heatmap shows where clusters of leveraged positions are concentrated relative to price across a historical and forward-looking grid.
 
-The primary use case is identifying price levels likely to trigger liquidation cascades. When price approaches a high-density cluster, Hyblock's heatmap highlights the zone visually. This is distinct from historical liquidation charts â€” it shows potential, not realized, liquidation events.
+The primary use case is identifying price levels likely to trigger liquidation cascades. When price approaches a high-density cluster, Hyblock's heatmap highlights the zone visually. This is distinct from historical liquidation charts — it shows potential, not realized, liquidation events.
 
 Hyblock's strongest coverage is Binance perpetuals. Other exchanges have thinner data depth on the platform.
 
 Free tier: limited to a preview mode. Paid plans from approximately $50/month. No public API for free tier.
+
+The distinction between heatmap methodology comes up in [CryptoCurrency threads on heatmap modes and methodology](https://www.reddit.com/r/CryptoCurrency/comments/1ogixrv/dont_understand_different_modes_of_heat_maps/) — useful context for understanding why Hyblock and Coinglass render the same underlying data differently.
 
 **Limitation:** Hyblock does not cover all exchanges equally. Exchange coverage depth varies significantly outside of Binance.
 
@@ -70,7 +76,7 @@ Coinalyze's free tier covers major pairs without an account. The paid plan unloc
 
 The Kingfisher is a paid-only heatmap tool focused on liquidation density visualization. It shows historical and live liquidation concentration on a price-and-time grid, updated continuously during market sessions.
 
-The platform's methodology is proprietary. The heatmap renders liquidation density as a color gradient â€” darker zones indicate higher concentration of positions that would be liquidated at that price level.
+The platform's methodology is proprietary. The heatmap renders liquidation density as a color gradient — darker zones indicate higher concentration of positions that would be liquidated at that price level.
 
 The Kingfisher covers derivatives markets only. It does not cover spot liquidations, which are not a meaningful market structure concept in crypto. Plans start at approximately $49/month.
 
@@ -80,7 +86,7 @@ The Kingfisher covers derivatives markets only. It does not cover spot liquidati
 
 ## DYOR Platform: Liquidation Data with Sentiment Overlay
 
-DYOR Platform aggregates liquidation data and adds a social sentiment layer. The combined view lets traders check whether a liquidation spike correlates with elevated social activity â€” a useful cross-check when determining if a move is news-driven.
+DYOR Platform aggregates liquidation data and adds a social sentiment layer. The combined view lets traders check whether a liquidation spike correlates with elevated social activity — a useful cross-check when determining if a move is news-driven.
 
 Exchange coverage is narrower than Coinglass. The platform focuses on BTC and ETH liquidations across top-tier venues. Altcoin coverage is limited.
 
@@ -106,4 +112,13 @@ When BTC liquidations on Coinglass exceed $150M in a 4-hour window, check the ex
 
 Cross-reference Coinglass exchange breakdown with Coinalyze's per-exchange OI chart to confirm whether the liquidation also reduced OI or simply represented a position rollover.
 
+
+## What This Article Doesn't Cover Yet
+
+- Hyblock's forward-looking cluster estimates have not been back-tested here against realized liquidation levels — we describe the methodology, not the historical hit rate
+- The Kingfisher's heatmap rendering has not been compared against exchange-reported liquidation data on a specific historical event to verify directional accuracy
+- DYOR Platform's sentiment data source and update frequency are not fully documented in their public materials — the social layer is described at face value
+- Coinalyze alert delivery speed during rapid OI changes was not tested against a live market event
+
+If a platform or data type is missing from this comparison, the gaps above show what we know we haven't verified.
 **Related:** [Crypto Open Interest Trackers](/price-action/best-crypto-open-interest-trackers) | [Funding Rate Trackers](/price-action/best-crypto-funding-rate-trackers) | [Bitcoin Exchange Flow Trackers](/exchange-flows/best-bitcoin-exchange-flow-trackers)
