@@ -26,6 +26,10 @@ That said, there are situations where going to ChangeNOW directly is the logical
 | ChangeNOW included | Yes | N/A |
 | Coins | 1,600+ | Varies |
 
+![Swapzone BTC to ETH results with ChangeNOW appearing as one of the listed providers — July 2026](../media/11-swapzone-query-with-changenow.png)
+*ChangeNOW appears in Swapzone query results alongside other providers. Running Swapzone first checks ChangeNOW's rate automatically.*
+
+
 ## When Swapzone surfaces a better rate than ChangeNOW
 
 For crypto-to-crypto swaps, Swapzone queries ChangeNOW plus 17 other providers simultaneously. On any given pair at any given moment, one of those other providers may offer a better rate than ChangeNOW. Swapzone shows you that comparison before you commit to anyone.

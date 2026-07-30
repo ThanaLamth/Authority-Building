@@ -36,6 +36,10 @@ Scored out of 10. Total out of 50.
 | StealthEX | 7 | 10 | 10 | 7 | 0 | **34** |
 | SimpleSwap | 7 | 10 | 9 | 7 | 3 | **36** |
 | Exolix | 6 | 10 | 10 | 6 | 0 | **32** |
+
+![Swapzone homepage showing partner logos and exchange aggregator interface — July 2026](../media/13-swapzone-homepage.png)
+*Swapzone as a ChangeNOW alternative: aggregates ChangeNOW alongside 17+ other providers in one rate query.*
+
 | Changelly | 6 | 6 | 8 | 6 | 8 | **34** |
 | SideShift | 4 | 8 | 0 | 4 | 0 | **16** |
 

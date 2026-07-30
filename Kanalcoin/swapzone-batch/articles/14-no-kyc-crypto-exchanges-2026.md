@@ -41,6 +41,10 @@ Scored out of 10. Total out of 50.
 | ChangeNOW | 7 | 10 | 8 | 8 | 4 | **37** |
 | SimpleSwap | 10 | 10 | 7 | 7 | 3 | **37** |
 | Exolix | 10 | 10 | 7 | 6 | 0 | **33** |
+
+![Swapzone swap interface requiring no account or KYC at the aggregator level — July 2026](../media/14-swapzone-no-kyc-flow.png)
+*Swapzone entry flow: no login, no identity check at aggregator level. Individual providers may trigger KYC at high amounts.*
+
 | SideShift | 8 | 10 | 5 | 5 | 0 | **28** |
 | LetsExchange | 10 | 10 | 7 | 8 | 0 | **35** |
 | Godex | 10 | 10 | 5 | 5 | 0 | **30** |

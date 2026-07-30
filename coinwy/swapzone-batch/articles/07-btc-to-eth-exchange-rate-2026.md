@@ -26,6 +26,10 @@ This is one of the highest-volume crypto pairs. Both assets are liquid. The main
 | StealthEX | Yes | ~0.0002 BTC | None | 10-25 min | No upper limit |
 | Exolix | Yes | ~0.0003 BTC | None | 10-25 min | Fixed rate specialist |
 
+![Swapzone BTC to ETH query results with provider rate comparison — July 2026](../media/07-swapzone-btc-eth-results.png)
+*Swapzone BTC→ETH results, July 2026. Rate spread between providers typically 0.3–0.8% on this pair.*
+
+
 Speed range: ChangeNOW processes the swap routing faster, but actual completion time still depends on BTC (10+ min) and ETH (1-2 min) confirmations. Total is typically 15-25 minutes on a clean swap.
 
 Check live BTC to ETH rates across all six providers on [Swapzone](https://swapzone.io/) before committing.

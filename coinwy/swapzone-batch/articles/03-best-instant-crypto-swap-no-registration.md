@@ -18,6 +18,10 @@ Six services consistently deliver no-registration swaps in 2026: **Swapzone, Ste
 ## Comparison Table: 6 No-Registration Swap Services
 
 | Service | Median Swap Time | Registration | Fixed Rate | Min Amount | KYC Level |
+
+![Swapzone swap entry flow showing no login or account creation required — July 2026](../media/03-swapzone-no-registration-flow.png)
+*Swapzone swap start: no account, no login prompt. Destination wallet address is the only required input.*
+
 |---|---|---|---|---|---|
 | Swapzone | 5-30 min (varies by provider) | None | Yes (via providers) | Varies by pair | None |
 | StealthEX | 5-20 min | None | Yes | ~$10-20 equiv | None |

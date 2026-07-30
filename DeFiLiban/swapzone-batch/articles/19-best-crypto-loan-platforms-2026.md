@@ -23,6 +23,10 @@ The best crypto loan platforms in 2026 are YouHodler, CoinRabbit, Nexo, Aave, an
 | Aave | Up to 75% (ETH) | Variable (utilization-based) | LTV > asset-specific threshold | Multi | Non-custodial | DeFi |
 | Compound | Up to 75% | Variable | LTV > asset-specific threshold | Multi | Non-custodial | DeFi |
 
+![Swapzone loans page showing YouHodler, CoinRabbit, and Nexo APR and LTV rates — July 2026](../media/19-swapzone-loans-page.png)
+*Swapzone loan aggregator, July 2026. APR and LTV figures change — verify current rates at swapzone.io/loans before committing.*
+
+
 *APR data for YouHodler (12%), CoinRabbit (14.5%), Nexo (18.9% APR): Swapzone API pull July 2026. Verify live at swapzone.io/loans. DeFi rates are variable and change with protocol utilization.*
 
 ## The LTV ratio: the most critical number

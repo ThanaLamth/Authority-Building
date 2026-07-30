@@ -21,6 +21,10 @@ There is a second factor most guides skip: USDT network choice. ERC20, TRC20, an
 |---|---|---|---|---|---|
 | Swapzone | ERC20, TRC20, BEP20 | Fixed + Float | None | 10-30 min | Aggregator, best rate comparison |
 | ChangeNOW | ERC20, TRC20, BEP20 | Fixed + Float | Threshold | 5-20 min | Fast, KYC threshold risk |
+
+![Swapzone USDT to BTC query showing provider list with rates and estimated completion time — July 2026](../media/06-swapzone-usdt-btc-results.png)
+*Swapzone USDT→BTC results, July 2026. Top provider and rate vary by time and amount — check live before swapping.*
+
 | SimpleSwap | ERC20, TRC20, BEP20 | Fixed + Float | None | 10-20 min | Consistent, clean UI |
 | StealthEX | ERC20, TRC20, BEP20 | Fixed + Float | None | 10-25 min | No upper limit, no KYC |
 | Changelly | ERC20, TRC20 | Fixed + Float | Sometimes | 10-30 min | May request KYC on large amounts |

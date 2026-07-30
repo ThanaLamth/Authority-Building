@@ -23,6 +23,10 @@ This is the only aggregator-versus-aggregator comparison in the Swapzone batch b
 | Fiat support | EUR / GBP / AUD / CAD / USD (full) | Limited |
 | KYC | None | None |
 | Registration | None | None |
+
+![Swapzone BTC to ETH results for rate comparison — July 2026](../media/12-swapzone-btc-eth-results.png)
+*Swapzone BTC→ETH results, July 2026. Compare against SwapSpace for the same pair to check rate spread.*
+
 | Founded | 2019 | 2018 |
 
 ## Does partner count actually matter?

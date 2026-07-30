@@ -16,6 +16,10 @@ For users in Indonesia, Thailand, and the Philippines, the choice between a DEX,
 If the answer is IDR, THB, or PHP, the path through a licensed local exchange (CEX) is unavoidable. No DEX accepts Indonesian rupiah directly. No aggregator currently supports IDR or THB on-ramp. The fiat entry point defines which tool is relevant for each use case.
 
 | Dimension | DEX (e.g., Uniswap) | CEX (e.g., Binance, Bitkub) | Aggregator (Swapzone) |
+
+![Swapzone aggregator interface showing multi-provider rate results in a single query — July 2026](../media/17-swapzone-aggregator-results.png)
+*Swapzone aggregator: one query, rates from 18+ providers. Contrast with CEX (single platform rate) and DEX (on-chain liquidity pool).*
+
 |-----------|--------------------|-----------------------------|----------------------|
 | Fiat on-ramp | No | Yes — IDR/THB/PHP available on licensed SEA exchanges | EUR/GBP/AUD/CAD/USD only |
 | KYC | None | Full (OJK/SEC TH/BSP required) | None |

@@ -91,6 +91,10 @@ Compare live crypto-to-crypto rates before your next swap on [Swapzone](https://
 ## Ranking Scorecard: Aggregator vs Exchange by Use Case
 
 | Use Case | Aggregator Score (out of 10) | Exchange Score (out of 10) |
+
+![Swapzone multi-provider query results showing rate comparison across providers in a single interface — July 2026](../media/02-swapzone-query-results.png)
+*One Swapzone query surfaces rates from multiple providers simultaneously. A direct exchange shows only its own rate.*
+
 |---|---|---|
 | Best crypto-to-crypto rate | 9 | 5 |
 | Fiat on-ramp | 2 | 10 |

@@ -26,6 +26,10 @@ This article compares those six on rate, KYC requirements, upper limits, and fix
 | Godex | None | No (float only) | Lower limits | 20-40 min | Float only, watch limits |
 | SideShift | Email only | No (float only) | Lower limits | 15-30 min | Bitcoin-focused, lower XMR limits |
 
+![Swapzone BTC to XMR query results showing StealthEX, Exolix, and other providers with rates — July 2026](../media/05-swapzone-btc-xmr-results.png)
+*Swapzone BTC→XMR query, July 2026. StealthEX appeared in top position across multiple queries. Provider availability and rates change — verify directly.*
+
+
 Note on speed: XMR requires 10 confirmations by default. Each block takes approximately 2 minutes. That alone is 20 minutes minimum on the XMR output side, regardless of the BTC confirmation time.
 
 Compare live BTC to XMR rates across all active providers on [Swapzone](https://swapzone.io/) before locking in with a single service.

@@ -32,6 +32,10 @@ Scored out of 10. Total out of 50.
 | Independent Reserve | 10 | 10 | 8 | 7 | 0 | **35** |
 | Swyftx | 9 | 10 | 9 | 8 | 0 | **36** |
 | CoinSpot | 9 | 10 | 7 | 10 | 0 | **36** |
+
+![Swapzone AUD to BTC query showing fiat pair results — July 2026](../media/20-swapzone-aud-btc-results.png)
+*Swapzone AUD→BTC, July 2026. AUD fiat support routed through select partners — verify availability at swapzone.io before initiating.*
+
 | BTC Markets | 8 | 10 | 8 | 6 | 0 | **32** |
 | Swapzone | 4 | N/A | 10 | 8 | 10 | **32** |
 

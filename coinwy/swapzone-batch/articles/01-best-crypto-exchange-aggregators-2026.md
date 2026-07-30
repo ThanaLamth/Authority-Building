@@ -55,6 +55,10 @@ Scored out of 10 per category. Total out of 60.
 | LetsExchange | 6 | 0 | 10 | 9 | 7 | 7 | **39** |
 | SideShift | 5 | 0 | 9 | 0 | 5 | 7 | **26** |
 
+![Swapzone BTC to ETH query results showing 8 providers with rates, speed, and fixed/float toggle — July 2026](../media/01-swapzone-query-btc-eth.png)
+*Swapzone query: BTC→ETH, results ranked by rate across 8+ providers. Partner list and rates change — verify at swapzone.io before any swap.*
+
+
 **Scoring notes.** Swapzone leads on fiat access and rate breadth because it is the only aggregator in this comparison with full EUR/GBP/AUD/CAD/USD buy-with-bank support across multiple partners. SwapSpace scores higher on raw partner count (32+ vs 18+) and coin variety (3,800+ vs 1,600+), which matters for obscure altcoin pairs. SimpleSwap ranks third overall because its UX is genuinely the cleanest for first-time no-registration users. SideShift scores lowest because it offers no fixed rate option and limited fiat access, making it a niche tool rather than a general aggregator.
 
 ## 8 Best Crypto Exchange Aggregators Reviewed (2026 List)

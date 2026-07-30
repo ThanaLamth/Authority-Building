@@ -35,6 +35,10 @@ Scored out of 10. Total out of 50.
 | StealthEX | 6 | 9 | 10 | 10 | 10 | **45** |
 | ChangeNOW | 8 | 8 | 7 | 9 | 8 | **40** |
 | Exolix | 5 | 8 | 10 | 7 | 7 | **37** |
+
+![Swapzone BTC to XMR query results — July 2026](../media/16-swapzone-eur-xmr-results.png)
+*EUR→XMR typically routes via BTC or ETH intermediate on most aggregators. Swapzone shows available paths in one query.*
+
 | Godex | 0 | 8 | 10 | 7 | 5 | **30** |
 
 **Scoring notes.** Swapzone leads because it aggregates fiat-enabled partners for EUR on the send side while querying the remaining XMR-available providers simultaneously. StealthEX scores highest on upper limit (no stated cap) which matters specifically for this pair where options are scarce. Godex scores last because it is crypto-only on the send side, requiring an additional step to convert EUR to a crypto bridge asset first.

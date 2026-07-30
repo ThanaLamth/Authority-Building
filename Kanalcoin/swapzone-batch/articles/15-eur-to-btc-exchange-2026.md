@@ -35,6 +35,10 @@ Scored out of 10. Total out of 50.
 | Coinbase | 9 | 9 | 7 | 0 | 10 | **35** |
 | Bitpanda | 8 | 10 | 8 | 0 | 9 | **35** |
 | ChangeNOW | 7 | 7 | 8 | 9 | 5 | **36** |
+
+![Swapzone EUR to BTC query results showing fiat pair availability and provider rates — July 2026](../media/15-swapzone-eur-btc-results.png)
+*Swapzone EUR→BTC results, July 2026. Fiat pair availability depends on active partners — verify before initiating.*
+
 | Changelly | 7 | 6 | 7 | 7 | 5 | **32** |
 
 **Scoring notes.** Swapzone leads on no-KYC and rate competitiveness because it aggregates fiat-to-BTC providers without collecting identity data at the aggregator level. Kraken scores highest on SEPA quality and regulatory trust because it is MiCA licensed with verified SEPA Instant integration across the EU. Bitpanda scores high for SEPA Instant specifically because of its Austria-based integration. Coinbase and Bitpanda score equally on regulatory trust but differ on SEPA Instant availability by country.

@@ -22,6 +22,10 @@ What most comparison articles do not flag: the ETH gas fee on the send side is p
 | SimpleSwap | None | Yes | ETH | 5-30 min | None |
 | StealthEX | None | Yes | ETH / BEP20 | 5-15 min | None |
 | Exolix | None | Yes | ETH | 5-15 min | None |
+
+![Swapzone ETH to BTC query results showing provider comparison — July 2026](../media/08-swapzone-eth-btc-results.png)
+*Swapzone ETH→BTC results, July 2026. Rates change with ETH/BTC market movement — verify before executing.*
+
 | SideShift | Email | No | ETH | 1-10 min | None |
 
 ## 6 ETH to BTC Services Reviewed (2026 List)

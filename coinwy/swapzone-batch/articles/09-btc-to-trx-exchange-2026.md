@@ -23,6 +23,10 @@ TRX network confirmation is fast. The bottleneck in this swap is the BTC confirm
 | ChangeNOW | 2-5 min + BTC confirm | Yes | Low | Threshold |
 | SimpleSwap | 5-30 min | Yes | Low | None |
 | StealthEX | 5-15 min | Yes | Low | None |
+
+![Swapzone BTC to TRX query results — July 2026](../media/09-swapzone-btc-trx-results.png)
+*Swapzone BTC→TRX, July 2026. TRX pairs have fewer active providers than BTC/ETH — check availability directly.*
+
 | LetsExchange | 5-20 min | Yes | Low | None |
 
 ## 5 BTC to TRX Services Reviewed (2026 List)

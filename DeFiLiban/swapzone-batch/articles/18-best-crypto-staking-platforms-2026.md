@@ -27,6 +27,10 @@ The best staking platforms in 2026 are Lido (liquid staking ETH), Rocket Pool (l
 | Nexo (direct) | CeFi staking / lending | 18.9% APR | Custodial | None (off-chain) | Platform solvency |
 | ANKR (direct) | Liquid staking (multi-chain) | ~3-5% APY | Non-custodial | Medium | ankrETH liquidity |
 
+![Swapzone staking page showing P2P, Nexo, CoinRabbit, and ANKR APR rates — July 2026](../media/18-swapzone-staking-page.png)
+*Swapzone staking aggregator, July 2026: P2P 34.8% APR, Nexo 18.9% APR, CoinRabbit 5% APR, ANKR 0.92% APR. Rates change with market conditions — verify at swapzone.io/staking.*
+
+
 *APY/APR data: Swapzone API pull July 2026. Verify live rates at swapzone.io/staking before committing — rates change with market conditions.*
 
 ## The four staking mechanisms

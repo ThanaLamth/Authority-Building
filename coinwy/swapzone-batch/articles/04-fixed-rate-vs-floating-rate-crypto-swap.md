@@ -18,6 +18,10 @@ Fixed rate solves that. It costs a premium. The question is whether the premium 
 ## Quick Comparison: Fixed Rate vs Floating Rate
 
 | Feature | Fixed Rate | Floating Rate |
+
+![Swapzone results page showing fixed and floating rate toggle for provider selection — July 2026](../media/04-swapzone-rate-toggle.png)
+*Swapzone rate toggle: filter results by fixed or floating rate before selecting a provider.*
+
 |---|---|---|
 | Rate lock | At order creation | At transaction execution |
 | Slippage risk | None (provider absorbs it) | Yes, market moves against you |

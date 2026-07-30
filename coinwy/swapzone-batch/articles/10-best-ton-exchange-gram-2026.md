@@ -35,6 +35,10 @@ Scored out of 10. Total out of 50.
 | SimpleSwap | 7 | 10 | 9 | 10 | 8 | **44** |
 | Telegram Wallet | 3 | 7 | 0 | 10 | 10 | **30** |
 
+![Swapzone BTC to TON query showing providers offering TON swaps — July 2026](../media/10-swapzone-btc-ton-results.png)
+*Swapzone BTC→TON results, July 2026. TON liquidity varies — Swapzone aggregates available providers in one query.*
+
+
 **Scoring notes.** Swapzone leads because TON pair coverage varies more between providers than for major pairs like BTC/ETH — multi-provider comparison adds more value here. SimpleSwap scores high for UX because its interface removes friction specifically useful for Telegram users encountering an external swap service for the first time. Telegram Wallet scores low on rate breadth but high on UX because it is the native TON environment — it just does not optimize rates.
 
 ## TON naming explained
