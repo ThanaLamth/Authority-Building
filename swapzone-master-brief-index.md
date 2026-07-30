@@ -1,30 +1,30 @@
-Ôªø# Swapzone x Authority-Building ‚Äî Master Brief Index
+# Swapzone x Authority-Building ó Master Brief Index
 **Client:** Swapzone.io (crypto exchange aggregator)
 **Created:** 2026-07-29
-**Total:** 20 b√†i | 3 sites
+**Total:** 20 b‡i | 3 sites
 
 ---
 
-## Quick reference: B√†i n√†o ·ªü site n√†o
+## Quick reference: B‡i n‡o ? site n‡o
 
 | # | Title | Site | Priority | Brief file |
 |---|-------|------|----------|-----------|
-| 01 | Best Crypto Exchange Aggregators 2026: 8 Platforms Compared | Coinwy | P0 üî¥ | coinwy-swapzone-briefs.md |
+| 01 | Best Crypto Exchange Aggregators 2026: 8 Platforms Compared | Coinwy | P0 ?? | coinwy-swapzone-briefs.md |
 | 02 | Crypto Exchange Aggregator vs Regular Exchange | Coinwy | P1 | coinwy-swapzone-briefs.md |
-| 03 | Best Instant Crypto Swap: No Registration | Coinwy | P0 üî¥ | coinwy-swapzone-briefs.md |
+| 03 | Best Instant Crypto Swap: No Registration | Coinwy | P0 ?? | coinwy-swapzone-briefs.md |
 | 04 | Fixed Rate vs Floating Rate Crypto Swap | Coinwy | P1 | coinwy-swapzone-briefs.md |
-| 05 | BTC to XMR Exchange 2026: 6 Services Still Offering This | Coinwy | P0 üî¥ QUICK WIN | coinwy-swapzone-briefs.md |
-| 06 | USDT to BTC: Best Rate + Fastest Swap 2026 | Coinwy | P0 üî¥ | coinwy-swapzone-briefs.md |
+| 05 | BTC to XMR Exchange 2026: 6 Services Still Offering This | Coinwy | P0 ?? QUICK WIN | coinwy-swapzone-briefs.md |
+| 06 | USDT to BTC: Best Rate + Fastest Swap 2026 | Coinwy | P0 ?? | coinwy-swapzone-briefs.md |
 | 07 | BTC to ETH Exchange Rate: 6 Services Compared | Coinwy | P1 | coinwy-swapzone-briefs.md |
 | 08 | ETH to BTC Swap: Best Rate Without Registration | Coinwy | P1 | coinwy-swapzone-briefs.md |
 | 09 | BTC to TRX Exchange: 5 Fastest Services 2026 | Coinwy | P2 | coinwy-swapzone-briefs.md |
 | 10 | Best TON Exchange 2026: Swap Gram at Best Rate | Coinwy | P1 | coinwy-swapzone-briefs.md |
-| 11 | Swapzone vs ChangeNOW: Which Gives Better Rates? | Coinwy | P0 üî¥ QUICK WIN | coinwy-swapzone-briefs.md |
-| 12 | Swapzone vs SwapSpace: Rate, Partners & Features | Coinwy | P0 üî¥ QUICK WIN | coinwy-swapzone-briefs.md |
-| 13 | 7 Best ChangeNOW Alternatives | Coinwy | P0 üî¥ | coinwy-swapzone-briefs.md |
-| 14 | Top 10 No-KYC Crypto Exchanges 2026 | Kanalcoin | P0 üî¥ QUICK WIN | kanalcoin-swapzone-briefs.md |
-| 15 | EUR to BTC Exchange: Best Rate + SEPA 2026 | Kanalcoin | P0 üî¥ QUICK WIN | kanalcoin-swapzone-briefs.md |
-| 16 | EUR to XMR Exchange: 5 Services Still Available 2026 | Kanalcoin | P0 üî¥ QUICK WIN | kanalcoin-swapzone-briefs.md |
+| 11 | Swapzone vs ChangeNOW: Which Gives Better Rates? | Coinwy | P0 ?? QUICK WIN | coinwy-swapzone-briefs.md |
+| 12 | Swapzone vs SwapSpace: Rate, Partners & Features | Coinwy | P0 ?? QUICK WIN | coinwy-swapzone-briefs.md |
+| 13 | 7 Best ChangeNOW Alternatives | Coinwy | P0 ?? | coinwy-swapzone-briefs.md |
+| 14 | Top 10 No-KYC Crypto Exchanges 2026 | Kanalcoin | P0 ?? QUICK WIN | kanalcoin-swapzone-briefs.md |
+| 15 | EUR to BTC Exchange: Best Rate + SEPA 2026 | Kanalcoin | P0 ?? QUICK WIN | kanalcoin-swapzone-briefs.md |
+| 16 | EUR to XMR Exchange: 5 Services Still Available 2026 | Kanalcoin | P0 ?? QUICK WIN | kanalcoin-swapzone-briefs.md |
 | 17 | DEX vs CEX vs Aggregator: Real Cost Comparison 2026 | Kanalcoin | P1 | kanalcoin-swapzone-briefs.md |
 | 18 | Best Crypto Staking Platforms 2026: APY, Risk & Mechanism | DeFiLiban | P1 | defiliban-swapzone-briefs.md |
 | 19 | Best Crypto Loan Platforms 2026: APR, LTV & Liquidation Risk | DeFiLiban | P2 | defiliban-swapzone-briefs.md |
@@ -34,41 +34,41 @@
 
 ## Publish order (quick wins first)
 
-**Week 1 ‚Äî publish these 6 first:**
-- B√†i 05: BTC to XMR (Coinwy) ‚Äî Godex ranking here, winnable
-- B√†i 16: EUR to XMR (Kanalcoin) ‚Äî near-zero competition
-- B√†i 11: Swapzone vs ChangeNOW (Coinwy) ‚Äî branded, low KD
-- B√†i 12: Swapzone vs SwapSpace (Coinwy) ‚Äî aggregator-vs-aggregator, underserved
-- B√†i 14: No-KYC exchanges (Kanalcoin) ‚Äî P0 SEA angle
-- B√†i 15: EUR to BTC (Kanalcoin) ‚Äî fiat pair, P0
+**Week 1 ó publish these 6 first:**
+- B‡i 05: BTC to XMR (Coinwy) ó Godex ranking here, winnable
+- B‡i 16: EUR to XMR (Kanalcoin) ó near-zero competition
+- B‡i 11: Swapzone vs ChangeNOW (Coinwy) ó branded, low KD
+- B‡i 12: Swapzone vs SwapSpace (Coinwy) ó aggregator-vs-aggregator, underserved
+- B‡i 14: No-KYC exchanges (Kanalcoin) ó P0 SEA angle
+- B‡i 15: EUR to BTC (Kanalcoin) ó fiat pair, P0
 
 **Week 2:**
-- B√†i 01 (hub ‚Äî internal links need week 1 articles to exist first)
-- B√†i 03, 06, 13
+- B‡i 01 (hub ó internal links need week 1 articles to exist first)
+- B‡i 03, 06, 13
 
 **Week 3:**
-- B√†i 02, 04, 07, 08, 10
+- B‡i 02, 04, 07, 08, 10
 
 **Week 4:**
-- B√†i 09, 17, 18, 19, 20
+- B‡i 09, 17, 18, 19, 20
 
 ---
 
-## Key rules cho m·ªçi editor
+## Key rules cho m?i editor
 
-### Swapzone l√† affiliate ‚Äî framing quan tr·ªçng
-- KH√îNG n√≥i "Swapzone is the best" tr·ª±c ti·∫øp
+### Swapzone l‡ affiliate ó framing quan tr?ng
+- KH‘NG nÛi "Swapzone is the best" tr?c ti?p
 - SHOW qua data: partner count (18+), no-KYC, fiat support (EUR/GBP/AUD/CAD/USD), fixed+float filter
-- Swapzone l√† aggregator ‚Äî kh√¥ng ph·∫£i exchange. Lu√¥n frame ƒë√∫ng.
-- ChangeNOW, StealthEX, SimpleSwap, Exolix = Swapzone partners ‚Äî mention n√†y t·∫°o l√Ω do d√πng Swapzone
+- Swapzone l‡ aggregator ó khÙng ph?i exchange. LuÙn frame d˙ng.
+- ChangeNOW, StealthEX, SimpleSwap, Exolix = Swapzone partners ó mention n‡y t?o l˝ do d˘ng Swapzone
 
-### CTA standard (m·ªçi b√†i)
-- Gi·ªØa b√†i (sau comparison table): 1 CTA text link, anchor t·ª± nhi√™n
-- Cu·ªëi b√†i: "Check live rates on Swapzone" ho·∫∑c "Compare [pair] rates on Swapzone"
-- KH√îNG d√πng: "click here", "buy now", "sign up"
+### CTA standard (m?i b‡i)
+- Gi?a b‡i (sau comparison table): 1 CTA text link, anchor t? nhiÍn
+- Cu?i b‡i: "Check live rates on Swapzone" ho?c "Compare [pair] rates on Swapzone"
+- KH‘NG d˘ng: "click here", "buy now", "sign up"
 
-### Data c·∫ßn verify tr∆∞·ªõc publish
-| Data point | Verify ·ªü ƒë√¢u |
+### Data c?n verify tru?c publish
+| Data point | Verify ? d‚u |
 |-----------|-------------|
 | Swapzone partner count (18+) | swapzone.io homepage |
 | SwapSpace partner count (32+) | swapspace.co |
@@ -81,10 +81,10 @@
 | AUSTRAC registered: Ind. Reserve, CoinSpot, Swyftx, BTC Markets | austrac.gov.au |
 
 ### Internal linking structure
-- B√†i 01 (Coinwy) = hub ‚Äî t·∫•t c·∫£ b√†i Coinwy link v·ªÅ ƒë√¢y
-- B√†i 14 v√† 17 (Kanalcoin) cross-link v·ªõi articles 01‚Äì04 (existing Kanalcoin exchange articles)
-- B√†i 15 v√† 16 (Kanalcoin /europe/) cross-link v·ªõi b√†i 10 Kanalcoin (MiCA compliant exchanges)
-- B√†i 18 v√† 19 (DeFiLiban) cross-link v·ªõi nhau
+- B‡i 01 (Coinwy) = hub ó t?t c? b‡i Coinwy link v? d‚y
+- B‡i 14 v‡ 17 (Kanalcoin) cross-link v?i articles 01ñ04 (existing Kanalcoin exchange articles)
+- B‡i 15 v‡ 16 (Kanalcoin /europe/) cross-link v?i b‡i 10 Kanalcoin (MiCA compliant exchanges)
+- B‡i 18 v‡ 19 (DeFiLiban) cross-link v?i nhau
 
 ---
 
@@ -141,4 +141,4 @@ All 20 articles written. Compliance scan (em-dash / placeholders / AI-footprint 
 | EUR/AUD/GBP fiat pairs active | swapzone.io footer |
 | AUSTRAC registered: Ind. Reserve, CoinSpot, Swyftx, BTC Markets | austrac.gov.au |
 
-**Next action:** Run specialist checks (Kanalcoin + DeFiLiban), verify live data, then publish Week 1 batch (b√†i 05, 16, 11, 12, 14, 15).
+**Next action:** Run specialist checks (Kanalcoin + DeFiLiban), verify live data, then publish Week 1 batch (b‡i 05, 16, 11, 12, 14, 15).
