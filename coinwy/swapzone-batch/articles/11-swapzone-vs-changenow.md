@@ -85,6 +85,20 @@ ChangeNOW also has an established direct API relationship with many DeFi and exc
 
 We reviewed the public interfaces and partner documentation for both Swapzone and ChangeNOW in July 2026. We confirmed that ChangeNOW appears as a partner in Swapzone's published partner list and appears in Swapzone query results for common pairs. Rate spread estimates are based on general provider comparison methodology, not live swap execution data across all pairs.
 
+
+## What users actually say
+
+Users who have specifically routed through ChangeNOW via Swapzone share what they found.
+
+> "Everything went as expected for my first time with this service, specifically via ChangeNOW. Got the full exchange of funds to my wallet! A+" — [Daniel](https://www.trustpilot.com/reviews/69d477f4840236f1a5963fb5) (★★★★★, 2026-04)
+
+> "I was scammed by simpleswap before, but with Changenow over simpleswap it worked." — [Arne Kränzlein](https://www.trustpilot.com/reviews/696e9409fe29ae8a6b8a2743) (★★★★★, 2026-01)
+
+> "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms, 5…" — [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (★★★★★, 2022-11)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **Is ChangeNOW a Swapzone partner?**

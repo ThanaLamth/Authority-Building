@@ -142,6 +142,20 @@ Quick rule: BTC daily range under 2%, use floating. BTC daily range above 3%, us
 
 ---
 
+
+## What users actually say
+
+Real swap feedback from users who moved USDT and stablecoin pairs through Swapzone.
+
+> "I recommend using swapzone I exchange my LTC to USDT it only took around 5 minutes to complete I was not expecting it to be that fast but I really recommend using it to swap your cryptocurrency!" — [Mbengi Daudi](https://www.trustpilot.com/reviews/684d82967336371472efc2b4) (★★★★★, 2025-06)
+
+> "Awesome, as other exchange bridges charges so much amount but Swapzone is just amazing, with very minimal charges it swapped and convert my USDT from BNB exchange to USDT ERC20. Just Love it." — [muzzemmil](https://www.trustpilot.com/reviews/66c4e36dafe8e003c133eaf7) (★★★★★, 2024-08)
+
+> "Really great an experience I did a small test run and then did a large swap the second time and everything went very smoothly!!" — [Brandon Conroy](https://www.trustpilot.com/reviews/686bda06d3a2497ebf0163df) (★★★★★, 2025-07)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## FAQ
 
 **Which USDT network should I use for BTC swaps?**

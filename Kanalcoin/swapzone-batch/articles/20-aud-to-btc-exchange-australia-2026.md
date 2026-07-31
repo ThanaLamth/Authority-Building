@@ -143,6 +143,20 @@ AUSTRAC-registered exchanges that operate within current requirements are not af
 
 We reviewed the public AUD acceptance, AUSTRAC registration status, and fee structures of Independent Reserve, CoinSpot, Swyftx, and BTC Markets at time of review in July 2026. AUSTRAC registration was confirmed via each exchange's public documentation. Swapzone's AUD fiat pair listing was observed in the site footer  direct verification is recommended before using Swapzone for AUD-to-crypto purposes.
 
+
+## What users actually say
+
+Users swapping fiat-to-crypto pairs share their experiences with aggregator platforms.
+
+> "The UI of Swapzone feels great, I like the whole design of dashboard and it's quite user-friendly for crypto beginners. I'll definitely consider checking Swapzone's fiat rate first before making any decision!" — [Raul Ginematic](https://www.trustpilot.com/reviews/64804102c9bce34933fe1765) (★★★★★, 2023-06)
+
+> "I recommend using swapzone I exchange my LTC to USDT it only took around 5 minutes to complete I was not expecting it to be that fast but I really recommend using it to swap your cryptocurrency!" — [Mbengi Daudi](https://www.trustpilot.com/reviews/684d82967336371472efc2b4) (★★★★★, 2025-06)
+
+> "Awesome, as other exchange bridges charges so much amount but Swapzone is just amazing, with very minimal charges it swapped and convert my USDT from BNB exchange to USDT ERC20. Just Love it." — [muzzemmil](https://www.trustpilot.com/reviews/66c4e36dafe8e003c133eaf7) (★★★★★, 2024-08)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **Do Australian crypto exchanges require KYC?**

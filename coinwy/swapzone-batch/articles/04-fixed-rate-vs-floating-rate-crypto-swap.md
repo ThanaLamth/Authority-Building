@@ -125,6 +125,19 @@ See both fixed and floating rates side by side on [Swapzone](https://swapzone.io
 
 ---
 
+
+## What users actually say
+
+The fixed vs floating rate decision shows up clearly in user feedback — often the hard way.
+
+> "swap was stuck, i had to contact support and it only got through after several hours. due to this i received more then 3.1% less as initially calculated. no compensation from swapzone, even though the issue was not on customer side." — [peter](https://www.trustpilot.com/reviews/696636b59787311e4cac38cd) (★★☆☆☆, 2026-01)
+
+> "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly recommend!" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
+
+> "i wasn’t sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms, 5 minutes after sending my USDC (ERC20). 5/5" — [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (★★★★★, 2022-11)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
 ## FAQ
 
 **Can I switch from floating to fixed after sending funds?**

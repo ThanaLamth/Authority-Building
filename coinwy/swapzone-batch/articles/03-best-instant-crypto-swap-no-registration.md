@@ -158,6 +158,20 @@ The practical rule: use fixed rate when swapping volatile pairs, large amounts (
 
 ---
 
+
+## What users actually say
+
+Users who value not having to create an account describe what the no-registration experience actually looks like.
+
+> "This was by far the easiest transaction for decentralized coin swap. I was skeptical at first but went for it. So glad I did. I was able to do this within 7 minutes. No KYC. Just wallet to middleman wallet to my other…" — [Roxy Wars](https://www.trustpilot.com/reviews/6506baf6d4a894e351c5520a) (★★★★★, 2023-09)
+
+> "I had no idea this existed!!! It is super easy to use and saves me a lot of stress going between chains. Overall smooth experience." — [Baba](https://www.trustpilot.com/reviews/66573a27d03fd6c904c606f4) (★★★★★, 2024-05)
+
+> "Swapzone.IO continues to deliver fast safe swaps of less common cryptos with no kyc I experienced. Great tool..." — [Bob Stanley Freos](https://www.trustpilot.com/reviews/625853d62b3c3c43cfd2f22b) (★★★★★, 2022-04)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## FAQ
 
 **What does "no registration" actually mean?**

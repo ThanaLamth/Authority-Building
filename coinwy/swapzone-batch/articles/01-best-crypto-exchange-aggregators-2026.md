@@ -217,6 +217,20 @@ For this article, we reviewed the live public surfaces of all 8 platforms — in
 | ChangeNOW KYC trigger threshold | Not verified — threshold undisclosed | Exact threshold amount |
 | All platforms accessible globally | Not verified per country | Geo-restriction specifics per platform |
 
+
+## What users actually say
+
+**Users on Swapzone** across 460 Trustpilot reviews consistently highlight one thing above all: the confidence of comparing providers before committing.
+
+> "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms, 5…" — [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (★★★★★, 2022-11)
+
+> "I'm new to cryptocurrency, and I'm always frightened by the choice of services. I really liked that everything is in one place here, and you can choose from familiar names and compare prices between them. The exchange…" — [Mike](https://www.trustpilot.com/reviews/68ef7c304e1dc26394c71c1f) (★★★★★, 2025-10)
+
+> "It is good, but rates vary sometimes, some partners do it fast and other take some time. The support is very fast to respond. Had a problem, was solved when I wrote the support. It is a good platform to swap your…" — [Vini Pooh](https://www.trustpilot.com/reviews/61124ccbf9f487044c56a6ed) (★★★★★, 2021-08)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **What is a crypto exchange aggregator?**

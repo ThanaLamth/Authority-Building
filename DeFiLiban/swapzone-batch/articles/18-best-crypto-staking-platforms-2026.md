@@ -132,6 +132,20 @@ Nexo and CoinRabbit are centralized  no governance token, no on-chain governan
 
 APY and APR figures are sourced from the Swapzone staking API as of July 2026. Rates change with market conditions  verify current rates at swapzone.io/staking before committing. Lido, Rocket Pool, and Coinbase ETH staking rates are variable and change with ETH network activity. Protocol risk classifications are based on publicly available audit documentation and protocol documentation for Lido, Rocket Pool, Coinbase Staking, and ANKR.
 
+
+## What users actually say
+
+Users who participate in both swapping and staking describe what they look for in a crypto platform.
+
+> "would give 5 stars but had a few problems, but they worked it out and had nothing but great experiences so far with the service and the support team. Always there to help and promptly fixed any problems I had. Will use…" — [Scott](https://www.trustpilot.com/reviews/62e1ac138000af4a884cfcea) (★★★★☆, 2022-07)
+
+> "there was a hiccup in the process but thank God for Dean, he was very very helpful, kept me up to date and the transaction finished on exchange after almost 11 hours. again thank you Dean and Swapzone for correcting…" — [Andrew Stevens](https://www.trustpilot.com/reviews/62ac85c7266eedb3c15c2164) (★★★★★, 2022-06)
+
+> "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly…" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **What is the difference between APY and APR in staking?**

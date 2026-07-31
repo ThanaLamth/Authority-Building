@@ -173,6 +173,20 @@ For smaller amounts below $500 equivalent where the absolute loss is manageable,
 
 ---
 
+
+## What users actually say
+
+Users who have completed BTC to XMR swaps on Swapzone describe the experience directly.
+
+> "I xchanged BTC for ETH much cheaper than doing it in my Exodus wallet. just as simple and was much faster then the time advertised. Very happy with the service." — [Paul](https://www.trustpilot.com/reviews/61aaec4d2b49257fe2947746) (★★★★★, 2021-12)
+
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform." — [Marcin](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a) (★★★★★, 2026-07)
+
+> "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" — [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (★★★★★, 2022-04)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## FAQ
 
 **Why did most exchanges stop offering XMR?**

@@ -166,6 +166,20 @@ Swapzone is a routing layer for the loan as well as the swap  deposits go to t
 
 APR figures for YouHodler (12%), CoinRabbit (14.5%), and Nexo (18.9% APR) are sourced from the Swapzone API pull July 2026. Verify current rates at swapzone.io/loans before any deposit  CeFi rates change with market conditions. Aave and Compound LTV ratios are per publicly available protocol documentation  vary by collateral asset. Smart contract and governance risk assessments are based on publicly available audit documentation and protocol governance history.
 
+
+## What users actually say
+
+Users managing crypto liquidity — including those who have needed quick swaps alongside loans — describe their experience.
+
+> "would give 5 stars but had a few problems, but they worked it out and had nothing but great experiences so far with the service and the support team. Always there to help and promptly fixed any problems I had. Will use…" — [Scott](https://www.trustpilot.com/reviews/62e1ac138000af4a884cfcea) (★★★★☆, 2022-07)
+
+> "there was a hiccup in the process but thank God for Dean, he was very very helpful, kept me up to date and the transaction finished on exchange after almost 11 hours. again thank you Dean and Swapzone for correcting…" — [Andrew Stevens](https://www.trustpilot.com/reviews/62ac85c7266eedb3c15c2164) (★★★★★, 2022-06)
+
+> "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly…" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **What is LTV in crypto loans?**

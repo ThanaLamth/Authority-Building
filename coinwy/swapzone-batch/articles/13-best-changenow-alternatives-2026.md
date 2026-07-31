@@ -146,6 +146,20 @@ An aggregator like Swapzone includes ChangeNOW in its results. Choosing Swapzone
 
 We reviewed the public interfaces, partner lists, KYC policies, and fiat availability documentation for all 7 alternatives in July 2026. Swapzone's inclusion of ChangeNOW as a partner was confirmed via Swapzone's published partner list. Rate spread estimates are based on general methodology, not live swap execution data.
 
+
+## What users actually say
+
+Users who have switched from or compared ChangeNOW to other services share their findings.
+
+> "Everything went as expected for my first time with this service, specifically via ChangeNOW. Got the full exchange of funds to my wallet! A+" — [Daniel](https://www.trustpilot.com/reviews/69d477f4840236f1a5963fb5) (★★★★★, 2026-04)
+
+> "I was scammed by simpleswap before, but with Changenow over simpleswap it worked." — [Arne Kränzlein](https://www.trustpilot.com/reviews/696e9409fe29ae8a6b8a2743) (★★★★★, 2026-01)
+
+> "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms, 5…" — [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (★★★★★, 2022-11)
+
+*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
 ## Frequently asked questions
 
 **What is the best ChangeNOW alternative for no-KYC large amounts?**
