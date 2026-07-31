@@ -12,13 +12,13 @@ schema: ItemList, FAQPage
 word_count_target: 2800
 ---
 
-The best new crypto casinos in 2026 are [Jackbit](https://jackbit.com/) (launched 2023, fast withdrawal, solid provably fair track record), Luckydino (launched 2023, strong bonus structure), Bets.io (launched 2022, established enough for verification), Rollbit (launched 2020 but major overhaul 2023, fast payouts), and Fresh Casino (launched 2024, newest in this list).
+The best new crypto casinos in 2026 are [Jackbit](https://jackbit.com/) (launched 2023, fast withdrawal, solid provably fair track record), Luckydino (launched 2023, strong bonus structure), Bets.io (launched 2022, established enough for verification), [Rollbit](https://rollbit.com/) (launched 2020 but major overhaul 2023, fast payouts), and Fresh Casino (launched 2024, newest in this list).
 
 One definition first. "New" in this guide means launched in 2022 or later with a focus on platforms that launched in 2023-2026. Anything that calls itself new from 2019 is not new. This guide refreshes every two months to reflect platforms that actually launched recently.
 
 | Casino | Launch year | Chains | Welcome bonus | KYC | License | Provably fair |
 |--------|------------|--------|--------------|-----|---------|---------------|
-| Jackbit | 2022 | BTC, ETH, LTC, DOGE, USDT + 100+ | 100% up to 1 BTC | Level 1 (email) | Curacao | Yes |
+| Jackbit | 2022 | BTC, ETH, LTC, DOGE, [USDT](https://tether.to/) + 100+ | 100% up to 1 BTC | Level 1 (email) | Curacao | Yes |
 | Luckydino | 2023 | BTC, ETH, USDT, LTC | 100% up to 1 BTC + free spins | Level 1 | Curacao | Partial |
 | Bets.io | 2022 | BTC, ETH, LTC, DOGE, USDT | 200% up to 1 BTC | Level 1 | Curacao | Partial |
 | Rollbit | 2020 (major update 2023) | BTC, ETH, SOL, RLB token | Cashback-first model | Level 1 | Not disclosed | Yes (crash, dice) |

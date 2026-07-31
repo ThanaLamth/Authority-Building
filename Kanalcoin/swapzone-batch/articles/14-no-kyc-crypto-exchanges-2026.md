@@ -19,7 +19,7 @@ The 10 services below are tiered by KYC level, from zero to full.
 
 | Service | KYC level | Type | Region access | No-KYC limit | Fiat |
 |---------|-----------|------|---------------|--------------|------|
-| Swapzone | 0  none | Aggregator | Global | No stated limit | EUR/GBP/AUD/CAD/USD |
+| [Swapzone](https://swapzone.io/) | 0  none | Aggregator | Global | No stated limit | EUR/GBP/AUD/CAD/USD |
 | [StealthEX](https://stealthex.io/) | 0  none | Single provider | Global | No upper limit | No |
 | [Exolix](https://exolix.com/) | 0  none | Single provider | Global | Medium | No |
 | [SimpleSwap](https://simpleswap.io/) | 0  none | Single provider | Global | Low-medium | Limited |
@@ -27,8 +27,8 @@ The 10 services below are tiered by KYC level, from zero to full.
 | [ChangeNOW](https://changenow.io/) | 0-2 threshold | Single provider | Global | Medium-high | Limited |
 | [Godex](https://godex.io/) | 0  none | Single provider | Global | Lower | No |
 | [LetsExchange](https://letsexchange.io/) | 0  none | Single provider | Global | Medium | No |
-| Changelly | 2 threshold | Single provider | Global | Medium | Yes |
-| Binance | 3  full | CEX | ID/TH/PH (restricted by OJK/SEC/BSP) | N/A | Yes |
+| [Changelly](https://changelly.com/) | 2 threshold | Single provider | Global | Medium | Yes |
+| [Binance](https://www.binance.com/) | 3  full | CEX | ID/TH/PH (restricted by OJK/SEC/BSP) | N/A | Yes |
 
 ## Ranking scorecard
 
@@ -45,7 +45,7 @@ Scored out of 10. Total out of 50.
 ![Swapzone swap interface requiring no account or KYC at the aggregator level  July 2026](../media/14-swapzone-no-kyc-flow.png)
 *Swapzone entry flow: no login, no identity check at aggregator level. Individual providers may trigger KYC at high amounts.*
 
-| SideShift | 8 | 10 | 5 | 5 | 0 | **28** |
+| [SideShift](https://sideshift.ai/) | 8 | 10 | 5 | 5 | 0 | **28** |
 | LetsExchange | 10 | 10 | 7 | 8 | 0 | **35** |
 | Godex | 10 | 10 | 5 | 5 | 0 | **30** |
 | Changelly | 6 | 9 | 6 | 6 | 8 | **35** |
@@ -63,7 +63,7 @@ Not all "no-KYC" claims are the same. Four distinct levels apply to the services
 
 **Level 2  threshold-triggered KYC:** ChangeNOW and Changelly operate without KYC for amounts below a threshold. Above it, identity verification is requested. The exact threshold is not publicly disclosed by either service.
 
-**Level 3  full KYC from sign-up:** Binance, OKX, Kraken, and licensed CEX. Full identity verification, document upload, and facial recognition required before any trading activity.
+**Level 3  full KYC from sign-up:** Binance, [OKX](https://www.okx.com/), [Kraken](https://www.kraken.com/), and licensed CEX. Full identity verification, document upload, and facial recognition required before any trading activity.
 
 ## 10 No-KYC Services Reviewed (2026 List)
 
@@ -140,7 +140,7 @@ Included for reference: Binance, OKX, Kraken operate in Indonesia (OJK-regulated
 
 ## Regional notes for Indonesia, Thailand, and the Philippines
 
-**Indonesia:** OJK-licensed digital asset exchanges (Indodax, Tokocrypto/Binance Indonesia, Reku, Pintu) require full KYC including national ID and selfie verification. Non-custodial services like Swapzone and StealthEX are accessible without restriction from Indonesian connections. They are not classified as OJK-regulated exchanges under current rules.
+**Indonesia:** OJK-licensed digital asset exchanges (Indodax, [Tokocrypto](https://www.tokocrypto.com/)/Binance Indonesia, [Reku](https://reku.id/), [Pintu](https://pintu.co.id/)) require full KYC including national ID and selfie verification. Non-custodial services like Swapzone and StealthEX are accessible without restriction from Indonesian connections. They are not classified as OJK-regulated exchanges under current rules.
 
 **Thailand:** SEC Thailand-licensed exchanges (Bitkub, OKX TH, Upbit TH) require full KYC. Non-custodial swap services operate outside SEC TH jurisdiction under current interpretations. Accessible from Thai connections.
 

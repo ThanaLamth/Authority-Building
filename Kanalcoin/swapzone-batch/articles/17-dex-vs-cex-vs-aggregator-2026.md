@@ -15,10 +15,10 @@ For users in Indonesia, Thailand, and the Philippines, the choice between a DEX,
 
 If the answer is IDR, THB, or PHP, the path through a licensed local exchange (CEX) is unavoidable. No DEX accepts Indonesian rupiah directly. No aggregator currently supports IDR or THB on-ramp. The fiat entry point defines which tool is relevant for each use case.
 
-| Dimension | DEX (e.g., Uniswap) | CEX (e.g., Binance, [Bitkub](https://www.bitkub.com/)) | Aggregator (Swapzone) |
+| Dimension | DEX (e.g., [Uniswap](https://app.uniswap.org/)) | CEX (e.g., [Binance](https://www.binance.com/), [Bitkub](https://www.bitkub.com/)) | Aggregator (Swapzone) |
 
 ![Swapzone aggregator interface showing multi-provider rate results in a single query  July 2026](../media/17-swapzone-aggregator-results.png)
-*Swapzone aggregator: one query, rates from 18+ providers. Contrast with CEX (single platform rate) and DEX (on-chain liquidity pool).*
+*[Swapzone](https://swapzone.io/) aggregator: one query, rates from 18+ providers. Contrast with CEX (single platform rate) and DEX (on-chain liquidity pool).*
 
 |-----------|--------------------|-----------------------------|----------------------|
 | Fiat on-ramp | No | Yes  IDR/THB/PHP available on licensed SEA exchanges | EUR/GBP/AUD/CAD/USD only |
@@ -41,7 +41,7 @@ Caption: `Swapzone aggregator reviewed July 2026 -- bridges DEX and CEX provider
 
 ## DEX in Southeast Asia: where it works and where it does not
 
-A DEX like Uniswap, PancakeSwap, or similar requires no registration and no KYC. You connect a wallet, approve the token swap, and transact on-chain. The swap rate is determined by the AMM (automated market maker) pricing formula, which includes slippage based on pool depth.
+A DEX like Uniswap, [PancakeSwap](https://pancakeswap.finance/), or similar requires no registration and no KYC. You connect a wallet, approve the token swap, and transact on-chain. The swap rate is determined by the AMM (automated market maker) pricing formula, which includes slippage based on pool depth.
 
 The friction for SEA users is the gas fee and the fiat gap. A $5-20 ETH gas fee on Uniswap during network congestion is 1-4% overhead on a $500 swap  before factoring in the AMM spread. For users on BNB Chain (PancakeSwap), gas is $0.50 to $2, which is more manageable.
 
@@ -59,7 +59,7 @@ AMM stands for Automated Market Maker. Instead of matching buy and sell orders b
 
 ## CEX in Southeast Asia: the necessary entry point
 
-A licensed CEX is the only tool that directly accepts IDR, THB, and PHP. OJK-licensed exchanges in Indonesia ([Indodax](https://www.indodax.com/), Tokocrypto, Reku, Pintu) accept IDR via bank transfer. Bitkub and OKX TH accept THB. [PDAX](https://pdax.ph/) and [Coins.ph](https://coins.ph/) accept PHP.
+A licensed CEX is the only tool that directly accepts IDR, THB, and PHP. OJK-licensed exchanges in Indonesia ([Indodax](https://www.indodax.com/), [Tokocrypto](https://www.tokocrypto.com/), [Reku](https://reku.id/), [Pintu](https://pintu.co.id/)) accept IDR via bank transfer. Bitkub and [OKX](https://www.okx.com/) TH accept THB. [PDAX](https://pdax.ph/) and [Coins.ph](https://coins.ph/) accept PHP.
 
 Full KYC is required by all licensed SEA exchanges without exception. OJK, SEC Thailand, and BSP mandate identity verification for all customer accounts. This means national ID upload, selfie verification, and in some cases address proof.
 
@@ -93,7 +93,7 @@ An aggregator is the right tool for:
 **Scenario 1: First-time crypto buyer in Indonesia with 1,000,000 IDR**
 Required tool: OJK-licensed CEX (Indodax, Tokocrypto, Reku, or Pintu). Full KYC required. IDR to BTC via bank transfer, low fee. No alternative path exists for this use case.
 
-**Scenario 2: Indonesian user with USDT wanting to swap to ETH**
+**Scenario 2: Indonesian user with [USDT](https://tether.to/) wanting to swap to ETH**
 Best tool: Swapzone (no KYC, best rate from 18+ providers, no gas fee) or a DEX (no KYC, on-chain, gas fee applies). Swapzone wins on total cost for most amounts  no gas overhead.
 
 **Scenario 3: Thai user wanting to rebalance from BTC to ETH**

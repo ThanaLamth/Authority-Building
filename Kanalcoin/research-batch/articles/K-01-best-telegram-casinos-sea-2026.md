@@ -14,7 +14,7 @@ word_count_target: 3000
 
 For users in Indonesia, Vietnam, Thailand, and the Philippines, Telegram is not just a messaging app. It is a primary financial interface for a growing number of crypto transactions, P2P trades, and now, gambling. The reason is practical: Telegram does not require a bank account, it works on any Android phone, and TON-based payments settle in seconds without crossing any banking infrastructure.
 
-The best Telegram casinos for SEA users in 2026 are TonKeeper Play (TON mini-app, no KYC, instant settlement), [Crypto Games](https://crypto.games/) (bot casino, no registration, provably fair), [BC.Game](https://bc.game/) (external with Telegram integration, wide game selection), 1xBit (external, email-only KYC, strong sports coverage), and Stake (external, largest platform, Telegram community).
+The best Telegram casinos for SEA users in 2026 are [TonKeeper Play](https://tonkeeper.com/) (TON mini-app, no KYC, instant settlement), [Crypto Games](https://crypto.games/) (bot casino, no registration, provably fair), [BC.Game](https://bc.game/) (external with Telegram integration, wide game selection), [1xBit](https://1xbit.com/) (external, email-only KYC, strong sports coverage), and [Stake](https://stake.com/) (external, largest platform, Telegram community).
 
 | Casino | Type | TON payments | Countries accessible | KYC level | Languages | Min deposit |
 |--------|------|-------------|---------------------|-----------|-----------|------------|
@@ -72,7 +72,7 @@ This review does not include funded deposit testing. Claims about withdrawal spe
 
 ### TonKeeper Play
 
-TonKeeper Play is the most SEA-relevant option in this list for one specific reason: it requires no banking infrastructure at all. You connect a TON wallet, which you fund via P2P (available through Binance P2P and OKX P2P in IDR, VND, THB, PHP), and play inside Telegram.
+TonKeeper Play is the most SEA-relevant option in this list for one specific reason: it requires no banking infrastructure at all. You connect a TON wallet, which you fund via P2P (available through [Binance](https://www.binance.com/) P2P and [OKX](https://www.okx.com/) P2P in IDR, VND, THB, PHP), and play inside Telegram.
 
 For a user in Jakarta or Ho Chi Minh City who cannot use a foreign gambling site with an international card, this workflow is genuinely accessible. Fund TON via P2P in local currency, open the mini-app, play. The settlement is under 5 seconds because TON block finality is that fast.
 
@@ -90,7 +90,7 @@ Tradeoffs: Requires TON wallet setup. Limited game selection. TON price volatili
 
 Crypto Games has operated since 2014 and is one of the few provably fair gambling platforms with a decade-long withdrawal verification trail. The Telegram bot interface lets you play dice, crash, and roulette via commands, with no account registration.
 
-For SEA users, the relevant detail is which cryptocurrencies are accepted: BTC, ETH, DOGE, LTC, and XRP. Funding the bot requires holding one of those assets, which means a prior P2P or exchange purchase in local currency. The flow for an Indonesian user is: buy USDT via [Indodax](https://www.indodax.com/) or Binance P2P with IDR, convert to BTC or ETH, send to Crypto Games bot address. That is more steps than TonKeeper Play but still avoids international banking.
+For SEA users, the relevant detail is which cryptocurrencies are accepted: BTC, ETH, DOGE, LTC, and XRP. Funding the bot requires holding one of those assets, which means a prior P2P or exchange purchase in local currency. The flow for an Indonesian user is: buy [USDT](https://tether.to/) via [Indodax](https://www.indodax.com/) or Binance P2P with IDR, convert to BTC or ETH, send to Crypto Games bot address. That is more steps than TonKeeper Play but still avoids international banking.
 
 **Screenshot 2**
 File: `../media/K-01-cryptogames-bot-sea-flow.png`

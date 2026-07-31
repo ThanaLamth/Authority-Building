@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 4000
 ---
 
-The best Bitcoin casinos in 2026 are Cloudbet (fastest BTC payout, operating since 2013), [Crypto Games](https://crypto.games/) (provably fair, Level 0 KYC, bot interface), [BC.Game](https://bc.game/) (widest game selection, 8,000+ titles), mBit Casino (Lightning Network support, BTC-native), and 1xBit (email-only KYC, BTC sportsbook).
+The best Bitcoin casinos in 2026 are [Cloudbet](https://cloudbet.com/) (fastest BTC payout, operating since 2013), [Crypto Games](https://crypto.games/) (provably fair, Level 0 KYC, bot interface), [BC.Game](https://bc.game/) (widest game selection, 8,000+ titles), [mBit Casino](https://mbitcasino.com/) (Lightning Network support, BTC-native), and [1xBit](https://1xbit.com/) (email-only KYC, BTC sportsbook).
 
 The difference between a Bitcoin casino and a crypto casino is specific and matters before you deposit. Bitcoin casinos accept BTC as primary currency, often settle in BTC rather than converting to USD internally, and in some cases support Lightning Network for near-instant sub-second transactions. Casinos that accept BTC among 200 other coins but operate in USD-denominated accounts are crypto casinos with BTC support, not Bitcoin casinos.
 
@@ -21,7 +21,7 @@ The difference between a Bitcoin casino and a crypto casino is specific and matt
 | Cloudbet | No | Up to 5 BTC (100%) | Under 15 min | Level 1 (email) | No | BTC-denominated |
 | Crypto Games | No | No bonus | 5-15 min | Level 0 (none) | Yes | BTC-denominated |
 | BC.Game | No | Up to 5 BTC (multi-deposit) | 15-30 min | Level 2 (threshold) | No | Internal credits |
-| mBit Casino | Yes (deposit/withdraw) | 1 BTC (100%) + FS | Under 30 min on-chain, instant via LN | Level 1 (email) | No | BTC-denominated |
+| [mBit](https://mbitcasino.com/) Casino | Yes (deposit/withdraw) | 1 BTC (100%) + FS | Under 30 min on-chain, instant via LN | Level 1 (email) | No | BTC-denominated |
 | 1xBit | No | Up to 1 BTC | 20-60 min | Level 1 (email) | No | Internal credits |
 
 | Casino | BTC payout speed | Lightning | Provably fair | KYC freedom | BTC track record | Total |

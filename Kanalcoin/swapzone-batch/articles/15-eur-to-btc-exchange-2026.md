@@ -13,7 +13,7 @@ last_reviewed: "2026-07-29"
 
 For users sending EUR to Bitcoin, the difference between services is not just the rate. The payment rail determines the actual cost. SEPA transfers, SEPA Instant, and card payments carry different fees and processing speeds, and that difference reaches 1 to 3.5% of the transaction value depending on which method and service you use.
 
-The six services that handle EUR to BTC in 2026 are Swapzone, Changelly, [ChangeNOW](https://changenow.io/), Kraken, Coinbase, and Bitpanda. Each sits in a different position on the custodial-to-non-custodial spectrum and the KYC-required-to-none spectrum.
+The six services that handle EUR to BTC in 2026 are [Swapzone](https://swapzone.io/), [Changelly](https://changelly.com/), [ChangeNOW](https://changenow.io/), [Kraken](https://www.kraken.com/), [Coinbase](https://www.coinbase.com/), and [Bitpanda](https://www.bitpanda.com/). Each sits in a different position on the custodial-to-non-custodial spectrum and the KYC-required-to-none spectrum.
 
 | Service | EUR payment method | SEPA | SEPA Instant | KYC | Rate type | MiCA licensed |
 |---------|-------------------|------|--------------|-----|-----------|--------------|
@@ -64,7 +64,7 @@ The payment rail matters more than most EUR to BTC guides acknowledge:
 
 ## 6 EUR to BTC Services Reviewed (2026 List)
 
-If you are also looking at EUR to XMR, see the [EUR to XMR exchange breakdown](./16-eur-to-xmr-exchange-2026.md) — availability is considerably more restricted due to MiCA and FATF pressure on Monero.
+If you are also looking at EUR to XMR, see the [EUR to XMR exchange breakdown](./16-eur-to-xmr-exchange-2026.md) — availability is considerably more restricted due to MiCA and FATF pressure on [Monero](https://www.getmonero.org/).
 
 ### Swapzone
 

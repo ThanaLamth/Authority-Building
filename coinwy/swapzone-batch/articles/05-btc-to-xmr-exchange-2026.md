@@ -128,7 +128,7 @@ For a user who needs a quick small BTC to XMR swap and does not mind the email r
 
 ## Why BTC to XMR Is Harder to Find in 2026
 
-The EU's FATF Travel Rule and related national implementations pushed major centralized exchanges to delist XMR between 2023 and 2024. Binance, Kraken, and others removed the pair for EU-facing accounts. Regulated exchanges cannot easily comply with Travel Rule requirements for Monero because XMR's privacy features prevent sender verification.
+The EU's FATF Travel Rule and related national implementations pushed major centralized exchanges to delist XMR between 2023 and 2024. [Binance](https://www.binance.com/), [Kraken](https://www.kraken.com/), and others removed the pair for EU-facing accounts. Regulated exchanges cannot easily comply with Travel Rule requirements for [Monero](https://www.getmonero.org/) because XMR's privacy features prevent sender verification.
 
 Non-custodial services were less directly affected. When you swap BTC to XMR through Swapzone, StealthEX, or Exolix, the transaction is wallet-to-wallet. The provider is not taking custody of your XMR between the time you send BTC and the time you receive XMR. This structure is legally different from a custodial exchange holding your assets.
 
@@ -164,7 +164,7 @@ For smaller amounts below $500 equivalent where the absolute loss is manageable,
 
 ## What We Checked
 
-- XMR delisting timeline: Binance EU (May 2024), Kraken UK/EU (Nov 2023), OKX (Feb 2024) verified via official announcements
+- XMR delisting timeline: Binance EU (May 2024), Kraken UK/EU (Nov 2023), [OKX](https://www.okx.com/) (Feb 2024) verified via official announcements
 - StealthEX 4.7 grade confirmed on Swapzone partner listing
 - ChangeNOW KYC threshold sourced from community reports and Trustpilot reviews
 - XMR confirmation time: 10 confirmations documented at ~2 min/block in Monero documentation

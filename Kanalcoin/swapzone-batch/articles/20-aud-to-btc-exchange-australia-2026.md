@@ -11,9 +11,9 @@ last_reviewed: "2026-07-29"
 
 # AUD to BTC Exchange in 2026: Best Rate for Australian Users
 
-For users in Australia, AUD to BTC has two distinct options: local exchanges with direct bank transfer in AUD, and aggregators like Swapzone that access the global best rate once you are already holding crypto.
+For users in Australia, AUD to BTC has two distinct options: local exchanges with direct bank transfer in AUD, and aggregators like [Swapzone](https://swapzone.io/) that access the global best rate once you are already holding crypto.
 
-The local AUD path  Independent Reserve, [CoinSpot](https://www.coinspot.com.au/), [Swyftx](https://swyftx.com/), BTC Markets  involves AUSTRAC registration, full KYC, and Australian bank transfer rails (POLi, BPAY, bank transfer). These are the only services that accept AUD directly. The aggregator path handles the crypto-to-crypto layer after the AUD on-ramp is complete.
+The local AUD path  [Independent Reserve](https://www.independentreserve.com/), [CoinSpot](https://www.coinspot.com.au/), [Swyftx](https://swyftx.com/), [BTC Markets](https://www.btcmarkets.net/)  involves AUSTRAC registration, full KYC, and Australian bank transfer rails (POLi, BPAY, bank transfer). These are the only services that accept AUD directly. The aggregator path handles the crypto-to-crypto layer after the AUD on-ramp is complete.
 
 | Service | AUD accepted | AUSTRAC registered | KYC | Rate type | Best for |
 |---------|-------------|-------------------|-----|-----------|---------|
@@ -112,7 +112,7 @@ The mandatory 100-point KYC check at AUSTRAC-registered exchanges means there is
 
 ## Where Swapzone fits for Australian users
 
-After buying BTC via a local exchange, Australian users who want to swap BTC to another crypto (ETH, XMR, USDT, etc.) can use Swapzone for the crypto-to-crypto leg without creating another account or undergoing additional KYC.
+After buying BTC via a local exchange, Australian users who want to swap BTC to another crypto (ETH, XMR, [USDT](https://tether.to/), etc.) can use Swapzone for the crypto-to-crypto leg without creating another account or undergoing additional KYC.
 
 The workflow:
 

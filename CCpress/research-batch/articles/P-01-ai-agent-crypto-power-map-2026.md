@@ -25,7 +25,7 @@ Caption: "AI agent crypto project power structure reviewed in July 2026 — infr
 
 *AI agent crypto power map reviewed as part of CCpress investigation, July 2026.*
 
-**Live Screenshot — ElizaOS AI Agent Framework (July 2026)**
+**Live Screenshot — [ElizaOS](https://elizaos.ai/) AI Agent Framework (July 2026)**
 File: `../media/live-elizaos-homepage.png`
 Alt text: `ElizaOS AI agent open-source framework homepage, reviewed July 2026`
 Caption: `ElizaOS homepage reviewed in July 2026 — the open-source AI agent framework at the center of the ai16z ecosystem, infrastructure layer not a speculative token.`
@@ -38,11 +38,11 @@ Caption: `ElizaOS homepage reviewed in July 2026 — the open-source AI agent fr
 
 Before the accountability question, the taxonomy. These three types are not interchangeable, and most coverage treats them as if they are.
 
-**Type 1: Infrastructure (tools for building agents).** ElizaOS (the AI agent framework open-sourced by the ai16z team) and Olas Network fall here. These are not funds or investment products. They are development tools that enable others to build AI agents. The risk profile is developer adoption risk, not financial custody risk.
+**Type 1: Infrastructure (tools for building agents).** ElizaOS (the AI agent framework open-sourced by the ai16z team) and [Olas](https://olas.network/) Network fall here. These are not funds or investment products. They are development tools that enable others to build AI agents. The risk profile is developer adoption risk, not financial custody risk.
 
 **Type 2: Agent tokens (speculative, agent-themed).** VIRTUAL (Virtual Protocol), ai16z (the token associated with the ai16z DAO), GOAT (Great Oven of AI Tokens, a memecoin that became a cultural moment), and hundreds of copycat tokens. These are speculative assets. Their price reflects market sentiment about AI-crypto as a narrative, not operational cash flow from actual autonomous agents. Many of them are controlled by small teams with concentrated token allocations.
 
-**Type 3: Autonomous DeFi protocols.** Fetch.ai (now merged into ASI Alliance), Bittensor (TAO), and Autonolas represent the most technically complex category: systems where AI agents are meant to execute economic actions (staking, trading, consensus) with varying degrees of human oversight removal. This is where the accountability gap is most serious.
+**Type 3: Autonomous DeFi protocols.** Fetch.ai (now merged into ASI Alliance), [Bittensor](https://bittensor.com/) (TAO), and Autonolas represent the most technically complex category: systems where AI agents are meant to execute economic actions (staking, trading, consensus) with varying degrees of human oversight removal. This is where the accountability gap is most serious.
 
 The distinction matters because the risk profile is completely different. An ElizaOS user faces developer adoption risk. A VIRTUAL token holder faces speculative volatility and team concentration risk. A Bittensor validator faces smart contract risk, model validation risk, and governance risk simultaneously.
 

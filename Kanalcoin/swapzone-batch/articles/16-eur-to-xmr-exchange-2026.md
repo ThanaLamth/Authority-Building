@@ -11,19 +11,19 @@ last_reviewed: "2026-07-29"
 
 # EUR to XMR Exchange in 2026: 5 Services That Still Offer This
 
-EUR to XMR is one of the hardest pairs to find in 2026. Not because the swap is complicated, but because most European exchanges have delisted Monero under MiCA and FATF pressure. Kraken removed XMR from EU accounts in early 2024. Binance delisted XMR globally. Bitpanda removed XMR from its European platform.
+EUR to XMR is one of the hardest pairs to find in 2026. Not because the swap is complicated, but because most European exchanges have delisted [Monero](https://www.getmonero.org/) under MiCA and FATF pressure. [Kraken](https://www.kraken.com/) removed XMR from EU accounts in early 2024. [Binance](https://www.binance.com/) delisted XMR globally. [Bitpanda](https://www.bitpanda.com/) removed XMR from its European platform.
 
 Five services still offer EUR to XMR access as of this review. All are non-custodial. None are classified as MiCA-regulated CASPs under current interpretations. Whether that remains true depends on how EU regulators classify non-custodial services in future MiCA revisions.
 
 | Service | EUR accepted | XMR available | KYC | Rate type | EU accessible |
 |---------|-------------|--------------|-----|-----------|--------------|
-| Swapzone | Yes (via fiat partners) | Yes | None (aggregator) | Both | Yes |
+| [Swapzone](https://swapzone.io/) | Yes (via fiat partners) | Yes | None (aggregator) | Both | Yes |
 | [StealthEX](https://stealthex.io/) | Card / crypto | Yes | None | Both | Yes |
 | [ChangeNOW](https://changenow.io/) | Card / bank | Yes | Rare | Both | Yes |
 | [Exolix](https://exolix.com/) | Card / crypto | Yes | None | Float | Yes |
 | [Godex](https://godex.io/) | Crypto only | Yes | None | Float | Yes |
 
-*Note: Godex accepts crypto-only as the send side. For EUR to XMR via Godex, the workflow is: EUR to USDT via a bank/card service, then USDT to XMR via Godex.*
+*Note: Godex accepts crypto-only as the send side. For EUR to XMR via Godex, the workflow is: EUR to [USDT](https://tether.to/) via a bank/card service, then USDT to XMR via Godex.*
 
 **Live Screenshot (July 2026)**
 File: `../media/live-swapzone-eur-xmr-query.png`

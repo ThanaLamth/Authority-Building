@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 3800
 ---
 
-The best crypto casino bonuses in 2026, by category: best welcome bonus EV is Bets.io (200% match, 40x WR, highest real value per dollar); best no-deposit bonus is [Wild.io](https://wild.io/) (free spins, no deposit required); best cashback is Rollbit (daily rakeback, highest long-term player value); best VIP program is [BC.Game](https://bc.game/) (tiered rakeback up to 10%); best free spins offer is Stake (weekly reload with free spins on current slots).
+The best crypto casino bonuses in 2026, by category: best welcome bonus EV is Bets.io (200% match, 40x WR, highest real value per dollar); best no-deposit bonus is [Wild.io](https://wild.io/) (free spins, no deposit required); best cashback is [Rollbit](https://rollbit.com/) (daily rakeback, highest long-term player value); best VIP program is [BC.Game](https://bc.game/) (tiered rakeback up to 10%); best free spins offer is [Stake](https://stake.com/) (weekly reload with free spins on current slots).
 
 Most bonus lists rank by percentage. Percentage means nothing without wagering requirements.
 
@@ -117,7 +117,7 @@ Total value = 20 x 0.20 = 4 USD. After WR: 4/40 x 0.80 = 0.08 USD expected real 
 
 No-deposit bonus real value is low by design. The value is not the expected monetary return. The value is getting familiar with a platform's interface, game loading speed, and customer service behavior before committing any of your own funds.
 
-**Betplay.io wallet-connect free play:** Betplay.io offers small amounts of free play upon wallet connection (no email). Real expected value is minimal. The value is zero-friction platform testing.
+**[Betplay.io](https://betplay.io/) wallet-connect free play:** Betplay.io offers small amounts of free play upon wallet connection (no email). Real expected value is minimal. The value is zero-friction platform testing.
 
 **Screenshot 2**
 File: ../media/C-08-wildio-no-deposit-free-spins.png

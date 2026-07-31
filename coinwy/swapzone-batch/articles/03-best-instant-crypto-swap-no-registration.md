@@ -36,7 +36,7 @@ Caption: `Swapzone homepage reviewed July 2026 -- no account, no email, no KYC r
 | StealthEX | 5-20 min | None | Yes | ~$10-20 equiv | None |
 | ChangeNOW | 2-5 min (common pairs) | None | Yes | ~$2 equiv | Threshold-triggered |
 | SimpleSwap | 5-15 min | None | Yes | ~$10 equiv | None |
-| SideShift | 5-20 min | Email only | No | Low | None |
+| [SideShift](https://sideshift.ai/) | 5-20 min | Email only | No | Low | None |
 | Exolix | 5-20 min | None | Yes | ~$5 equiv | None |
 
 No service can bypass blockchain confirmation time. ChangeNOW's 2-5 minute figure applies to fast-chain pairs like BEP20 tokens. BTC-based swaps add 10-40 minutes regardless of which service you use.

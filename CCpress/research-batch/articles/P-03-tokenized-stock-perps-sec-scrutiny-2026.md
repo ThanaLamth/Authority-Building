@@ -38,7 +38,7 @@ Caption: `dYdX homepage reviewed July 2026 -- delisted most synthetic equity pro
 
 A tokenized stock perpetual is an on-chain derivative that tracks the price of a real equity using an oracle price feed.
 
-When you open a long position on a synthetic AAPL perpetual, you are not buying Apple stock. You are not holding a token issued by Apple. You are entering a contract with a DeFi protocol that pays you the difference between your entry price and exit price, based on what an oracle (typically Chainlink or Pyth) reports as the AAPL price at any given moment.
+When you open a long position on a synthetic AAPL perpetual, you are not buying Apple stock. You are not holding a token issued by Apple. You are entering a contract with a DeFi protocol that pays you the difference between your entry price and exit price, based on what an oracle (typically [Chainlink](https://chain.link/) or Pyth) reports as the AAPL price at any given moment.
 
 The mechanism has three components: the price oracle, the liquidity pool that backs positions, and the smart contract that executes settlement. None of these are registered financial instruments under US securities law. None are operated by a registered broker-dealer. None have SEC approval.
 
@@ -62,7 +62,7 @@ Caption: "Synthetix synthetic stock perpetuals (sSPY, sAAPL) reviewed from publi
 | Synthetix (Kwenta) | sSPY, sAAPL, sTSLA, others | Optimism (Ethereum L2) | Chainlink | Geo-restricted (not enforced on-chain) |
 | dYdX | Historical — most equity perps delisted | Cosmos appchain | Pyth | US blocked (centralized KYC layer) |
 | [Drift](https://www.drift.trade/) Protocol | Synthetic equity exposure | Solana | Pyth | No geo-restriction on-chain |
-| GMX | Limited equity-adjacent perpetuals | Arbitrum, Avalanche | Chainlink + Pyth | No explicit restriction |
+| [GMX](https://gmx.io/) | Limited equity-adjacent perpetuals | Arbitrum, Avalanche | Chainlink + Pyth | No explicit restriction |
 
 **Synthetix and Kwenta.** Synthetix is the dominant DeFi protocol for synthetic assets. Through its front-end Kwenta, users can trade perpetual contracts on indices (sSPY, tracking S&P 500) and individual equities (sAAPL, sTSLA). The protocol is governed by SNX token holders. The founding team (based outside the US) does not control individual transactions.
 
@@ -94,7 +94,7 @@ The Howey Test, the standard framework for determining whether something is a se
 
 The SEC has not issued a formal ruling on DeFi synthetic equity perpetuals. However, it has taken relevant adjacent actions:
 
-In 2021, the SEC sued Ripple arguing XRP was an unregistered security. In 2023, the SEC charged Binance and Coinbase, arguing various crypto assets were securities. In the same period, the CFTC argued perpetual contracts on crypto assets were commodity derivatives under its jurisdiction.
+In 2021, the SEC sued Ripple arguing XRP was an unregistered security. In 2023, the SEC charged [Binance](https://www.binance.com/) and [Coinbase](https://www.coinbase.com/), arguing various crypto assets were securities. In the same period, the CFTC argued perpetual contracts on crypto assets were commodity derivatives under its jurisdiction.
 
 The jurisdictional question itself is unresolved. Stock perpetuals might be SEC jurisdiction (securities derivatives), CFTC jurisdiction (commodity futures analogs), or both. That ambiguity has not protected platforms from enforcement; it has delayed it.
 

@@ -70,7 +70,7 @@ We reviewed the public product surfaces, documentation, backtest tools, and comm
 
 ### [3Commas](https://3commas.io/)
 
-3Commas is the most complete retail trading bot platform in 2026: DCA bots, grid bots, options bots, and a SmartTrade terminal in a single interface. Exchange support covers 23+ CEX integrations via API, including Binance, Bybit, OKX, KuCoin, and Coinbase Advanced.
+3Commas is the most complete retail trading bot platform in 2026: DCA bots, grid bots, options bots, and a SmartTrade terminal in a single interface. Exchange support covers 23+ CEX integrations via API, including [Binance](https://www.binance.com/), [Bybit](https://www.bybit.com/), [OKX](https://www.okx.com/), [KuCoin](https://www.kucoin.com/), and [Coinbase](https://www.coinbase.com/) Advanced.
 
 What stood out from the public interface review was the risk management layering. 3Commas allows trailing stop-loss, safety orders (automated averaging down), take-profit targets, and bot-level position sizing within a single bot configuration. For users building a systematic risk framework, that layering is genuinely more sophisticated than most competitors.
 
@@ -106,7 +106,7 @@ Setup friction: under 10 minutes. Lowest in this list.
 
 Cryptohopper differentiates with signal-based trading: bots can execute trades based on technical indicator signals (RSI, MACD, Bollinger Bands) or third-party signals from external providers in the Cryptohopper marketplace.
 
-The 100+ exchange connection range is the widest in this list. For users who trade on less common CEXs (KuCoin, MEXC, Gate.io, Bitget, Kraken, Gemini), Cryptohopper covers exchanges that 3Commas or Bitsgap may not.
+The 100+ exchange connection range is the widest in this list. For users who trade on less common CEXs (KuCoin, [MEXC](https://www.mexc.com/), [Gate.io](https://www.gate.io/), [Bitget](https://www.bitget.com/), [Kraken](https://www.kraken.com/), [Gemini](https://www.gemini.com/)), Cryptohopper covers exchanges that 3Commas or Bitsgap may not.
 
 The signal marketplace creates risk: third-party signal providers sell subscriptions within Cryptohopper. Signal quality is variable. Never purchase a signal subscription without reviewing its historical performance data.
 

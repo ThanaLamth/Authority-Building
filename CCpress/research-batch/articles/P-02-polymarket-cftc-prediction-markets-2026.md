@@ -83,7 +83,7 @@ File: `../media/P-02-kalshi-cftc-licensed-interface.png`
 Alt text: "Kalshi CFTC-licensed prediction market interface for US users"
 Caption: "Kalshi CFTC-licensed prediction market reviewed in July 2026 — the only legally accessible prediction market for US persons."
 
-**Manifold Markets: the non-financial alternative.**
+**[Manifold](https://manifold.markets/) Markets: the non-financial alternative.**
 
 Manifold Markets operates on play-money, not real money. Users trade with "mana" tokens that have no cash value. This positioning removes Manifold from CFTC jurisdiction entirely: if there is no financial instrument, there is no financial regulation.
 

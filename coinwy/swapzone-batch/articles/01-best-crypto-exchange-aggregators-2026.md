@@ -71,7 +71,7 @@ Scored out of 10 per category. Total out of 60.
 | StealthEX | 7 | 0 | 10 | 9 | 7 | 8 | **41** |
 | Exolix | 6 | 0 | 10 | 10 | 6 | 8 | **40** |
 | LetsExchange | 6 | 0 | 10 | 9 | 7 | 7 | **39** |
-| SideShift | 5 | 0 | 9 | 0 | 5 | 7 | **26** |
+| [SideShift](https://sideshift.ai/) | 5 | 0 | 9 | 0 | 5 | 7 | **26** |
 
 ![Swapzone BTC to ETH query results showing 8 providers with rates, speed, and fixed/float toggle — July 2026](../media/01-swapzone-query-btc-eth.png)
 *Swapzone query: BTC→ETH, results ranked by rate across 8+ providers. Partner list and rates change — verify at swapzone.io before any swap.*
@@ -129,7 +129,7 @@ Coin selection is narrower than SwapSpace but covers the main trading pairs well
 
 **Our pick for:** Fastest swap times and high transaction limits for common pairs.
 
-ChangeNOW operates as a single provider, not an aggregator, but its rate for high-volume common pairs (BTC/ETH, ETH/USDT) is often competitive with what aggregators surface. Median swap time on standard pairs is 2 to 5 minutes. Limits are higher than most no-KYC services. KYC is threshold-triggered rather than always required, which puts it at Level 2 on the KYC scale but still accessible without ID for most swap sizes.
+ChangeNOW operates as a single provider, not an aggregator, but its rate for high-volume common pairs (BTC/ETH, ETH/[USDT](https://tether.to/)) is often competitive with what aggregators surface. Median swap time on standard pairs is 2 to 5 minutes. Limits are higher than most no-KYC services. KYC is threshold-triggered rather than always required, which puts it at Level 2 on the KYC scale but still accessible without ID for most swap sizes.
 
 ChangeNOW is also a partner within the Swapzone network, which means Swapzone may surface ChangeNOW's rate when it is best for a given pair. See the [Swapzone vs ChangeNOW comparison](./11-swapzone-vs-changenow.md) for why that matters.
 

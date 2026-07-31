@@ -73,7 +73,7 @@ Floating rate calculates your receive amount at execution, not at order creation
 
 Between the moment you confirm and the moment the blockchain processes your transaction, the market moves. If it moves in your favor, you receive slightly more than quoted. If it moves against you, you receive less. For common pairs on fast chains (ETH-based swaps completing in under 5 minutes), the movement is usually negligible. For slower chains, the risk grows.
 
-The advantage is price. Floating rate quotes are lower than fixed because the provider is not absorbing slippage risk. If you are swapping USDT to BTC and BTC is stable, the quoted rate is close to what you actually receive.
+The advantage is price. Floating rate quotes are lower than fixed because the provider is not absorbing slippage risk. If you are swapping [USDT](https://tether.to/) to BTC and BTC is stable, the quoted rate is close to what you actually receive.
 
 ---
 
@@ -83,7 +83,7 @@ The advantage is price. Floating rate quotes are lower than fixed because the pr
 
 **Volatile market conditions.** When BTC or ETH is moving more than 2% in daily range, confirmation windows carry real risk. During periods of sharp price action (news events, major liquidations), floating rate swaps that take 15+ minutes can land 2-3% worse than quoted. Fixed rate eliminates that exposure.
 
-**XMR swaps.** Monero confirmations take longer than most chains, 10 required confirmations averaging 20-40 minutes. XMR itself is a volatile asset. Floating rate on a BTC-to-XMR swap is a meaningful gamble on a 20-40 minute window. Fixed rate is usually the right call here. See the [BTC to XMR exchange guide](/exchanges/btc-to-xmr-exchange-2026) for specifics.
+**XMR swaps.** [Monero](https://www.getmonero.org/) confirmations take longer than most chains, 10 required confirmations averaging 20-40 minutes. XMR itself is a volatile asset. Floating rate on a BTC-to-XMR swap is a meaningful gamble on a 20-40 minute window. Fixed rate is usually the right call here. See the [BTC to XMR exchange guide](/exchanges/btc-to-xmr-exchange-2026) for specifics.
 
 **Large ETH swaps during congestion.** If gas prices spike and your ETH-side confirmation stalls, a floating rate swap can sit pending for 20-40 minutes. Fixed rate holds the quoted amount until the swap completes.
 
@@ -99,7 +99,7 @@ The advantage is price. Floating rate quotes are lower than fixed because the pr
 
 **Small amounts.** Below $200 equivalent, the fixed rate premium is a flat dollar amount that represents a larger percentage of your total. A $1 premium on a $100 swap is 1%. The slippage risk at that size on a fast chain is less than 0.5%.
 
-**When the pair is liquid and tight-spread.** BTC/ETH, ETH/USDC, and other high-liquidity pairs have tight floating rate spreads. The gap between quoted and executed is smaller because the order book depth is greater and price impact is low.
+**When the pair is liquid and tight-spread.** BTC/ETH, ETH/[USDC](https://www.circle.com/usdc), and other high-liquidity pairs have tight floating rate spreads. The gap between quoted and executed is smaller because the order book depth is greater and price impact is low.
 
 ---
 
@@ -134,7 +134,7 @@ No. Rate type is selected at order creation. Once you send your funds, the rate 
 The quoted rate is higher. The final received amount may be better than floating if the market moves against you during confirmation. On a stable day for fast chains, floating usually nets more. On a volatile day for slow chains, fixed usually nets more.
 
 **Which services only offer floating rate?**
-SideShift offers floating rate only. Most other major services (ChangeNOW, StealthEX, SimpleSwap, Exolix) offer both. [Godex](https://godex.io/) offers floating rate only.
+[SideShift](https://sideshift.ai/) offers floating rate only. Most other major services (ChangeNOW, StealthEX, SimpleSwap, Exolix) offer both. [Godex](https://godex.io/) offers floating rate only.
 
 **What happens if a fixed rate order expires before I send?**
 Fixed rate orders have a time window (typically 10-30 minutes depending on provider) for you to send funds. If you miss the window, the order expires and you need to create a new one at the current rate.

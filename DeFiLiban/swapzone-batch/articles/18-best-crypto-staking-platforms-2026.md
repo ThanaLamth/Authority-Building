@@ -13,7 +13,7 @@ last_reviewed: "2026-07-29"
 
 Staking yield is not a single mechanism. It is at least four different risk models that happen to pay in the same token. Comparing APY figures across native staking, liquid staking, CeFi staking, and aggregator staking without understanding the risk structure underneath produces a misleading ranking. The 34.8% APY figure from one provider and the 0.92% from another are not the same product.
 
-The best staking platforms in 2026 are [Lido](https://lido.fi/) (liquid staking ETH), [Rocket Pool](https://rocketpool.net/) (liquid staking ETH, more decentralized), Coinbase (cbETH, regulated liquid staking), ANKR (multi-chain liquid staking), [Nexo](https://nexo.com/) (CeFi yield), and Swapzone Staking (aggregator layer querying P2P, Nexo, [CoinRabbit](https://coinrabbit.io/), and ANKR simultaneously).
+The best staking platforms in 2026 are [Lido](https://lido.fi/) (liquid staking ETH), [Rocket Pool](https://rocketpool.net/) (liquid staking ETH, more decentralized), [Coinbase](https://www.coinbase.com/) (cbETH, regulated liquid staking), ANKR (multi-chain liquid staking), [Nexo](https://nexo.com/) (CeFi yield), and [Swapzone](https://swapzone.io/) Staking (aggregator layer querying P2P, Nexo, [CoinRabbit](https://coinrabbit.io/), and ANKR simultaneously).
 
 | Platform | Type | APY / APR | Custody | Smart contract risk | Liquidity risk |
 |----------|------|-----------|---------|--------------------|--------------------|
@@ -35,7 +35,7 @@ The best staking platforms in 2026 are [Lido](https://lido.fi/) (liquid staking 
 
 **Live Screenshot (July 2026)**
 File: `../media/live-lido-homepage.png`
-Alt text: `Lido Finance liquid staking homepage July 2026`
+Alt text: `[Lido Finance](https://lido.fi/) liquid staking homepage July 2026`
 Caption: `Lido Finance homepage reviewed July 2026 -- largest liquid staking protocol by TVL, daily stETH yield without lockup.`
 
 ![Lido Finance liquid staking homepage July 2026](../media/live-lido-homepage.png)
@@ -60,7 +60,7 @@ Because stETH is a separate token from the staked ETH, it can trade at a discoun
 
 Smart contract risk is present in every liquid staking protocol. Lido's smart contracts have been audited by multiple firms and have operated for several years, but an exploited contract would affect all stETH holders simultaneously regardless of validator performance.
 
-Because the derivative token is composable with DeFi protocols (stETH is usable as collateral on Aave, for example), liquid staking creates an additional chain of risk: if the DeFi protocol using stETH as collateral is exploited, stETH holders who deployed there face additional exposure.
+Because the derivative token is composable with DeFi protocols (stETH is usable as collateral on [Aave](https://aave.com/), for example), liquid staking creates an additional chain of risk: if the DeFi protocol using stETH as collateral is exploited, stETH holders who deployed there face additional exposure.
 
 ### Mechanism 3: CeFi staking and yield (Nexo, CoinRabbit)
 
@@ -102,7 +102,7 @@ Native staking has unbonding period illiquidity. ETH unbonding is variable (days
 
 ### Oracle risk
 
-Liquid staking derivatives that use oracle price feeds carry oracle manipulation risk. Lido's stETH pricing uses Chainlink on major DeFi integrations  Chainlink is well-audited but not immune to failure. ANKR's derivative pricing also relies on oracle feeds for DeFi composability.
+Liquid staking derivatives that use oracle price feeds carry oracle manipulation risk. Lido's stETH pricing uses [Chainlink](https://chain.link/) on major DeFi integrations  Chainlink is well-audited but not immune to failure. ANKR's derivative pricing also relies on oracle feeds for DeFi composability.
 
 CeFi platforms use their own internal pricing for yield calculation  single point of failure but not the same oracle manipulation vector as on-chain derivatives.
 
