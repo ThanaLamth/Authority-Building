@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 4000
 ---
 
-The best Bitcoin casinos in 2026 are Cloudbet (fastest BTC payout, operating since 2013), Crypto Games (provably fair, Level 0 KYC, bot interface), BC.Game (widest game selection, 8,000+ titles), mBit Casino (Lightning Network support, BTC-native), and 1xBit (email-only KYC, BTC sportsbook).
+The best Bitcoin casinos in 2026 are Cloudbet (fastest BTC payout, operating since 2013), Crypto Games (provably fair, Level 0 KYC, bot interface), [BC.Game](https://bc.game/) (widest game selection, 8,000+ titles), mBit Casino (Lightning Network support, BTC-native), and 1xBit (email-only KYC, BTC sportsbook).
 
 The difference between a Bitcoin casino and a crypto casino is specific and matters before you deposit. Bitcoin casinos accept BTC as primary currency, often settle in BTC rather than converting to USD internally, and in some cases support Lightning Network for near-instant sub-second transactions. Casinos that accept BTC among 200 other coins but operate in USD-denominated accounts are crypto casinos with BTC support, not Bitcoin casinos.
 
@@ -33,6 +33,15 @@ The difference between a Bitcoin casino and a crypto casino is specific and matt
 | 1xBit | 7/10 | 4/10 | 4/10 | 8/10 | 7/10 | 30/50 |
 
 Scoring notes: Crypto Games leads on the combination of provably fair mechanics and Level 0 KYC. Cloudbet leads on BTC track record (12 years of verified payouts). mBit leads on Lightning Network implementation. BC.Game leads on game selection but scores lower on KYC and provably fair. The right choice depends on which criteria you weight most.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-jackbit-homepage.png`
+Alt text: `[Jackbit](https://jackbit.com/) Bitcoin casino homepage July 2026`
+Caption: `Jackbit homepage reviewed July 2026 -- provably fair games, instant BTC withdrawals, no mandatory KYC for standard play.`
+
+![Jackbit Bitcoin casino homepage July 2026](../media/live-jackbit-homepage.png)
+
+*Jackbit homepage reviewed July 2026 -- provably fair games, instant BTC withdrawals, no mandatory KYC for standard play.*
 
 ## The Bitcoin hold model: why it matters
 

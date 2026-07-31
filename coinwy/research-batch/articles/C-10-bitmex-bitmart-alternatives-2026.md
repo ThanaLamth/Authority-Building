@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 3000
 ---
 
-The best BitMEX alternatives for derivatives trading are Bybit, dYdX, Hyperliquid, and OKX. The best BitMart alternatives for spot and altcoin trading are KuCoin, Gate.io, MEXC, and Bitget.
+The best BitMEX alternatives for derivatives trading are Bybit, [dYdX](https://dydx.exchange/), Hyperliquid, and OKX. The best BitMart alternatives for spot and altcoin trading are KuCoin, Gate.io, MEXC, and Bitget.
 
 These are two different problems. BitMEX users are usually derivatives traders who need perpetuals, leverage, and funding rate mechanics. BitMart users are usually altcoin hunters who need wide token listings and reasonable fees. Mixing them into one list produces useless recommendations.
 
@@ -46,6 +46,15 @@ These are two different problems. BitMEX users are usually derivatives traders w
 | Bitget | 8/10 | 8/10 | 8/10 | 9/10 | 7/10 | **40/50** |
 
 **Scoring notes.** dYdX leads the derivatives track specifically because it has no geo-restriction for US users and full on-chain transparency. Bybit and OKX are stronger for product depth but US users cannot access them. For the spot track, KuCoin, Gate.io, and Bitget are tied; the right choice depends on which altcoins you specifically need.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-3commas-homepage.png`
+Alt text: `3Commas trading platform July 2026 as BitMEX alternative`
+Caption: `3Commas homepage reviewed July 2026 -- recommended tool layer for users migrating from BitMEX or BitMart.`
+
+![3Commas trading platform July 2026 as BitMEX alternative](../media/live-3commas-homepage.png)
+
+*3Commas homepage reviewed July 2026 -- recommended tool layer for users migrating from BitMEX or BitMart.*
 
 ## Why users are leaving BitMEX and BitMart
 

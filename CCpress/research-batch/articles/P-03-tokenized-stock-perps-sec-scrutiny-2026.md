@@ -25,6 +25,15 @@ Caption: "Tokenized stock perpetual platforms reviewed in July 2026 — syntheti
 
 *On-chain synthetic equity platforms reviewed as part of CCpress investigation into regulatory exposure, July 2026.*
 
+**Live Screenshot (July 2026)**
+File: `../media/live-dydx-homepage.png`
+Alt text: `[dYdX](https://dydx.exchange/) perpetuals platform after synthetic equity delisting July 2026`
+Caption: `dYdX homepage reviewed July 2026 -- delisted most synthetic equity products citing regulatory requirements.`
+
+![dYdX perpetuals platform after synthetic equity delisting July 2026](../media/live-dydx-homepage.png)
+
+*dYdX homepage reviewed July 2026 -- delisted most synthetic equity products citing regulatory requirements.*
+
 ## How tokenized stock perpetuals work
 
 A tokenized stock perpetual is an on-chain derivative that tracks the price of a real equity using an oracle price feed.
@@ -35,7 +44,7 @@ The mechanism has three components: the price oracle, the liquidity pool that ba
 
 The users who hold open positions assume three layered risks most product guides do not state clearly.
 
-**Oracle risk.** If the Chainlink feed for AAPL fails, reports a stale price, or is manipulated, positions are settled at a wrong price. Users have been mass-liquidated in oracle incidents on Synthetix and other protocols before. The protocol's governance token holders decide whether to compensate victims. They are not required to.
+**Oracle risk.** If the Chainlink feed for AAPL fails, reports a stale price, or is manipulated, positions are settled at a wrong price. Users have been mass-liquidated in oracle incidents on [Synthetix](https://synthetix.io/) and other protocols before. The protocol's governance token holders decide whether to compensate victims. They are not required to.
 
 **Smart contract risk.** The code executing trades can be exploited. Audits reduce but do not eliminate this risk. When exploits happen, user funds are drained. There is no FDIC equivalent, no deposit insurance, no recourse beyond the protocol's treasury.
 
@@ -52,7 +61,7 @@ Caption: "Synthetix synthetic stock perpetuals (sSPY, sAAPL) reviewed from publi
 |----------|--------------------------|-------|--------|-----------|
 | Synthetix (Kwenta) | sSPY, sAAPL, sTSLA, others | Optimism (Ethereum L2) | Chainlink | Geo-restricted (not enforced on-chain) |
 | dYdX | Historical — most equity perps delisted | Cosmos appchain | Pyth | US blocked (centralized KYC layer) |
-| Drift Protocol | Synthetic equity exposure | Solana | Pyth | No geo-restriction on-chain |
+| [Drift](https://www.drift.trade/) Protocol | Synthetic equity exposure | Solana | Pyth | No geo-restriction on-chain |
 | GMX | Limited equity-adjacent perpetuals | Arbitrum, Avalanche | Chainlink + Pyth | No explicit restriction |
 
 **Synthetix and Kwenta.** Synthetix is the dominant DeFi protocol for synthetic assets. Through its front-end Kwenta, users can trade perpetual contracts on indices (sSPY, tracking S&P 500) and individual equities (sAAPL, sTSLA). The protocol is governed by SNX token holders. The founding team (based outside the US) does not control individual transactions.
@@ -67,6 +76,15 @@ Synthetix's geographic restriction is a soft block: the Kwenta front-end display
 File: `../media/P-03-drift-protocol-solana-perps.png`
 Alt text: "Drift Protocol on Solana showing synthetic perpetual trading interface"
 Caption: "Drift Protocol Solana interface reviewed in July 2026 — synthetic perpetuals without explicit geographic restriction."
+
+**Live Screenshot (July 2026)**
+File: `../media/live-synthetix-homepage.png`
+Alt text: `Synthetix synthetic asset protocol July 2026`
+Caption: `Synthetix homepage reviewed July 2026 -- synthetic asset protocol governed by SNX holders without SEC or CFTC registration.`
+
+![Synthetix synthetic asset protocol July 2026](../media/live-synthetix-homepage.png)
+
+*Synthetix homepage reviewed July 2026 -- synthetic asset protocol governed by SNX holders without SEC or CFTC registration.*
 
 ## The SEC question
 

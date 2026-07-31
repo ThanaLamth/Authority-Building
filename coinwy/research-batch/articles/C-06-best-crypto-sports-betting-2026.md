@@ -34,6 +34,15 @@ The real difference between crypto sportsbooks and fiat sportsbooks is settlemen
 
 Scoring notes: SportsBet.io leads narrowly on the combination of live betting depth, crypto payout speed, and email-only KYC. Betplay.io leads on KYC freedom (wallet-only) but has narrower sport coverage.
 
+**Live Screenshot (July 2026)**
+File: `../media/live-sportsbetio-homepage.png`
+Alt text: `[Sportsbet.io](https://sportsbet.io/) live betting markets July 2026`
+Caption: `Sportsbet.io homepage reviewed July 2026 -- live in-play betting across major sports, BTC and USDT withdrawals.`
+
+![Sportsbet.io live betting markets July 2026](../media/live-sportsbetio-homepage.png)
+
+*Sportsbet.io homepage reviewed July 2026 -- live in-play betting across major sports, BTC and USDT withdrawals.*
+
 ## Why crypto sportsbooks settle faster
 
 The mechanism is straightforward and worth stating clearly because it affects betting strategy.

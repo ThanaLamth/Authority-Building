@@ -34,6 +34,15 @@ The best crypto sports betting sites for SEA users in 2026 are 1xBit (widest SEA
 
 Scoring notes: 1xBit leads for SEA specifically because it is the only platform in this list with dedicated coverage of Mobile Legends Bang Bang and PUBG Mobile, the two dominant esports titles in Indonesia, Philippines, Malaysia, and Vietnam.
 
+**Live Screenshot (July 2026)**
+File: `../media/live-sportsbetio-homepage.png`
+Alt text: `[Sportsbet.io](https://sportsbet.io/) sports betting accessible from SEA July 2026`
+Caption: `Sportsbet.io homepage reviewed July 2026 -- accessible from Indonesia Thailand Vietnam Philippines, live markets.`
+
+![Sportsbet.io sports betting accessible from SEA July 2026](../media/live-sportsbetio-homepage.png)
+
+*Sportsbet.io homepage reviewed July 2026 -- accessible from Indonesia Thailand Vietnam Philippines, live markets.*
+
 ## What makes crypto sportsbooks better for SEA users
 
 Three practical reasons, not marketing claims.

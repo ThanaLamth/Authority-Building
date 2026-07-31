@@ -25,6 +25,15 @@ Caption: "AI agent crypto project power structure reviewed in July 2026 — infr
 
 *AI agent crypto power map reviewed as part of CCpress investigation, July 2026.*
 
+**Live Screenshot — ElizaOS AI Agent Framework (July 2026)**
+File: `../media/live-elizaos-homepage.png`
+Alt text: `ElizaOS AI agent open-source framework homepage, reviewed July 2026`
+Caption: `ElizaOS homepage reviewed in July 2026 — the open-source AI agent framework at the center of the ai16z ecosystem, infrastructure layer not a speculative token.`
+
+![ElizaOS AI agent open-source framework homepage, reviewed July 2026](../media/live-elizaos-homepage.png)
+
+*ElizaOS homepage reviewed in July 2026.*
+
 ## Three types of AI agent crypto projects
 
 Before the accountability question, the taxonomy. These three types are not interchangeable, and most coverage treats them as if they are.
@@ -62,7 +71,7 @@ Admin keys are the specific technical control mechanism that the AI agent crypto
 
 An admin key is a cryptographic key that grants privileged access to a smart contract. In most DeFi protocols, admin keys can: pause the protocol, upgrade contract code, change risk parameters, or, in poorly designed systems, drain funds.
 
-**The Synthetix precedent is instructive.** Synthetix, a DeFi protocol that predates the AI agent wave, maintained admin key control over its oracle system. In 2019, an oracle failure combined with admin response prevented a potentially catastrophic exploit but also demonstrated that admin intervention in "decentralized" systems is real and consequential.
+**The [Synthetix](https://synthetix.io/) precedent is instructive.** Synthetix, a DeFi protocol that predates the AI agent wave, maintained admin key control over its oracle system. In 2019, an oracle failure combined with admin response prevented a potentially catastrophic exploit but also demonstrated that admin intervention in "decentralized" systems is real and consequential.
 
 For AI agent crypto protocols:
 

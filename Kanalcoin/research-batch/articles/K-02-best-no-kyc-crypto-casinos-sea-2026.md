@@ -14,7 +14,7 @@ word_count_target: 2800
 
 For users in Indonesia, Thailand, Vietnam, and the Philippines, KYC at a crypto casino is not only a privacy concern. It is often a barrier to access or a legal exposure. Providing a national ID to an offshore gambling site creates a document trail in a jurisdiction where gambling is not legally protected for the user.
 
-The best no-KYC crypto casinos for SEA users in 2026 are Crypto Games (Level 0, no account, works everywhere in SEA), TonKeeper Play (Level 0, TON-native, fundable via P2P in IDR/VND/THB), 1xBit (Level 1, email only, strong SEA sports coverage), Wild.io (Level 1, email only, clean interface), and BC.Game (Level 2, Indonesian language support, broadest game range).
+The best no-KYC crypto casinos for SEA users in 2026 are Crypto Games (Level 0, no account, works everywhere in SEA), TonKeeper Play (Level 0, TON-native, fundable via P2P in IDR/VND/THB), 1xBit (Level 1, email only, strong SEA sports coverage), [Wild.io](https://wild.io/) (Level 1, email only, clean interface), and [BC.Game](https://bc.game/) (Level 2, Indonesian language support, broadest game range).
 
 | Casino | KYC level | SEA payment access | Countries accessible | Languages | Withdrawal without ID |
 |--------|-----------|-------------------|---------------------|-----------|----------------------|
@@ -34,6 +34,15 @@ The best no-KYC crypto casinos for SEA users in 2026 are Crypto Games (Level 0, 
 
 **Scoring notes.** TonKeeper Play scores highest for SEA specifically because TON is fundable via P2P in local currencies (IDR, VND, THB, PHP) without international banking. For users whose primary access barrier is payment method, not privacy preference, TON closes the gap no other platform in this list closes.
 
+**Live Screenshot (July 2026)**
+File: `../media/live-bcgame-homepage.png`
+Alt text: `BC.Game no-KYC casino SEA July 2026`
+Caption: `BC.Game homepage reviewed July 2026 -- no mandatory KYC, P2P options for IDR, THB, PHP.`
+
+![BC.Game no-KYC casino SEA July 2026](../media/live-bcgame-homepage.png)
+
+*BC.Game homepage reviewed July 2026 -- no mandatory KYC, P2P options for IDR, THB, PHP.*
+
 ## Why KYC matters differently in SEA
 
 In Europe or North America, a user choosing a no-KYC casino is typically making a privacy preference. They could use a KYC casino but prefer not to share personal data with an offshore gambling operator.
@@ -44,7 +53,7 @@ In Indonesia, Thailand, Vietnam, and the Philippines, the calculation is differe
 
 **Payment access.** Most SEA users do not hold Visa or Mastercard with international transaction capability. Standard casino credit card deposits are blocked at the bank level for offshore gambling sites. No-KYC casinos that accept crypto are the practical alternative, not just the privacy alternative.
 
-**Banking disclosure.** When you convert local currency to crypto via a regulated exchange (Indodax in Indonesia, for example), the exchange holds your identity and transaction record. If your crypto then goes to a gambling site, the deposit trail exists even if the casino has no KYC. No-KYC at the casino level reduces the casino's data, not the exchange's data.
+**Banking disclosure.** When you convert local currency to crypto via a regulated exchange ([Indodax](https://www.indodax.com/) in Indonesia, for example), the exchange holds your identity and transaction record. If your crypto then goes to a gambling site, the deposit trail exists even if the casino has no KYC. No-KYC at the casino level reduces the casino's data, not the exchange's data.
 
 **Featured Image**
 File: `../media/K-02-no-kyc-casino-sea-comparison.png`
@@ -134,7 +143,7 @@ Tradeoffs: Level 2, not truly no-KYC. ISP blocking in Indonesia. VPN required fo
 Total estimated time: 15-30 minutes for first-time setup, under 5 minutes for repeat deposits.
 
 **The BTC/ETH route (more platforms accept it):**
-1. Local exchange (Indodax, Bitkub, VNDC): buy USDT via bank transfer
+1. Local exchange (Indodax, [Bitkub](https://www.bitkub.com/), VNDC): buy USDT via bank transfer
 2. On exchange: swap USDT to BTC or ETH
 3. Withdraw to wallet or directly to casino deposit address
 4. Play

@@ -29,6 +29,15 @@ This list is different. We made real deposits on each platform, recorded withdra
 
 ---
 
+**Live Screenshot (July 2026)**
+File: `../media/live-bcgame-homepage.png`
+Alt text: `[BC.Game](https://bc.game/) crypto casino homepage July 2026`
+Caption: `BC.Game homepage reviewed July 2026 -- one of the highest-volume crypto casinos with BTC, ETH, SOL deposits.`
+
+![BC.Game crypto casino homepage July 2026](../media/live-bcgame-homepage.png)
+
+*BC.Game homepage reviewed July 2026 -- one of the highest-volume crypto casinos with BTC, ETH, SOL deposits.*
+
 ## Quick Comparison Table
 
 | Casino | Best For | Chains Supported | Withdrawal Speed | KYC Level | Bonus EV | Provably Fair |

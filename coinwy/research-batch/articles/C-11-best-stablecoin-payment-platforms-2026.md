@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 3000
 ---
 
-The best stablecoin payment platforms in 2026 are Stripe Crypto (USDC on Solana, B2B-grade reliability), Transak (fiat on/off-ramp, 160+ countries), Request Finance (B2B invoicing, multi-chain), Coinbase Commerce (USD Coin, direct-to-wallet), and Binance Pay (USDT, 300M user base).
+The best stablecoin payment platforms in 2026 are [Stripe Crypto](https://stripe.com/crypto) (USDC on Solana, B2B-grade reliability), Transak (fiat on/off-ramp, 160+ countries), Request Finance (B2B invoicing, multi-chain), [Coinbase Commerce](https://commerce.coinbase.com/) (USD Coin, direct-to-wallet), and Binance Pay (USDT, 300M user base).
 
 The problem with most stablecoin payment guides: they compare which stablecoins a platform supports rather than what actually matters. Settlement finality, fiat off-ramp quality, and compliance status are the three things that determine whether you can actually run a business on a stablecoin rail.
 
@@ -33,6 +33,15 @@ The problem with most stablecoin payment guides: they compare which stablecoins 
 | Binance Pay | 7/10 | 9/10 | 8/10 | 6/10 | 8/10 | **38/50** |
 
 **Scoring notes.** Stripe Crypto and Coinbase Commerce tie for merchants. Stripe wins on settlement finality (Solana 400ms) and direct bank off-ramp. Coinbase wins on MiCA compliance for EU businesses. For individual remittance users, Transak and Binance Pay are the stronger choices due to geographic reach.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-stripe-crypto-page.png`
+Alt text: `Stripe crypto payment page July 2026`
+Caption: `Stripe crypto payments page reviewed July 2026 -- USDC on Solana payment rails for merchants.`
+
+![Stripe crypto payment page July 2026](../media/live-stripe-crypto-page.png)
+
+*Stripe crypto payments page reviewed July 2026 -- USDC on Solana payment rails for merchants.*
 
 ## The two things that actually matter
 

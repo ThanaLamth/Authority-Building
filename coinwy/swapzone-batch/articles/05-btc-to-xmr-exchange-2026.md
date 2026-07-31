@@ -11,7 +11,7 @@ last_reviewed: 2026-07-29
 
 # BTC to XMR Exchange 2026: 6 Services That Still Offer the Pair
 
-Six services still handle BTC to XMR swaps without mandatory KYC in 2026: **Swapzone, StealthEX, ChangeNOW, Exolix, Godex, and SideShift**. Most centralized exchanges dropped the pair after regulatory pressure around XMR in 2023-2024, which makes non-custodial and aggregator options the only reliable route.
+Six services still handle BTC to XMR swaps without mandatory KYC in 2026: **Swapzone, StealthEX, [ChangeNOW](https://changenow.io/), Exolix, Godex, and [SideShift.ai](https://sideshift.ai/)**. Most centralized exchanges dropped the pair after regulatory pressure around XMR in 2023-2024, which makes non-custodial and aggregator options the only reliable route.
 
 This article compares those six on rate, KYC requirements, upper limits, and fixed rate availability, because fixed rate matters more here than on most pairs.
 
@@ -29,6 +29,24 @@ This article compares those six on rate, KYC requirements, upper limits, and fix
 ![Swapzone BTC to XMR query results showing StealthEX, Exolix, and other providers with rates — July 2026](../media/05-swapzone-btc-xmr-results.png)
 *Swapzone BTC→XMR query, July 2026. StealthEX appeared in top position across multiple queries. Provider availability and rates change — verify directly.*
 
+
+**Live Screenshot — Swapzone BTC to XMR Live Query (July 2026)**
+File: `../media/live-swapzone-btc-xmr-query.png`
+Alt text: `Swapzone BTC to XMR live query results showing provider rates and availability, July 2026`
+Caption: `Swapzone BTC to XMR live query captured July 2026 — provider availability and rates at time of capture. Run your own query to verify current conditions.`
+
+![Swapzone BTC to XMR live query results showing provider rates and availability, July 2026](../media/live-swapzone-btc-xmr-query.png)
+
+*Swapzone BTC to XMR live query, July 2026.*
+
+**Live Screenshot — Swapzone BTC to XMR Live Query (July 2026)**
+File: `../media/live-swapzone-btc-xmr-query.png`
+Alt text: `Swapzone BTC to XMR live query results showing provider rates and availability, July 2026`
+Caption: `Swapzone BTC to XMR live query captured July 2026 — provider availability and rates at time of capture. Run your own query to verify current conditions.`
+
+![Swapzone BTC to XMR live query results showing provider rates and availability, July 2026](../media/live-swapzone-btc-xmr-query.png)
+
+*Swapzone BTC to XMR live query, July 2026.*
 
 Note on speed: XMR requires 10 confirmations by default. Each block takes approximately 2 minutes. That alone is 20 minutes minimum on the XMR output side, regardless of the BTC confirmation time.
 
@@ -52,7 +70,7 @@ This is the most reliable way to confirm which services actually have XMR liquid
 
 ### StealthEX: Our Pick for Large Amounts No KYC
 
-StealthEX offers BTC to XMR without registration and without a publicly stated upper limit. It holds a 4.7 grade within the Swapzone partner network, placing it among the better-rated providers. Fixed rate available.
+[StealthEX](https://stealthex.io/) offers BTC to XMR without registration and without a publicly stated upper limit. It holds a 4.7 grade within the Swapzone partner network, placing it among the better-rated providers. Fixed rate available.
 
 For users swapping large amounts where KYC would otherwise be triggered at ChangeNOW or similar services, StealthEX is the cleanest option. No email required, no account, no ID. Just wallet addresses.
 
@@ -76,7 +94,7 @@ Fixed rate available. Solid coin coverage.
 
 ### Exolix: Our Pick for Fixed Rate Guarantee
 
-Exolix is a fixed rate specialist. For BTC to XMR specifically, where the confirmation window is 20-40 minutes and XMR price can move noticeably during that time, fixed rate is a meaningful protection.
+[Exolix](https://exolix.com/) is a fixed rate specialist. For BTC to XMR specifically, where the confirmation window is 20-40 minutes and XMR price can move noticeably during that time, fixed rate is a meaningful protection.
 
 No registration required. No KYC. Fixed rate available. The premium over floating is typically 0.5-1%, which on a 20-40 minute confirmation window for a volatile asset is usually worth paying.
 
@@ -88,7 +106,7 @@ Exolix handles fewer pairs than ChangeNOW or StealthEX but does the core pairs w
 
 ### Godex: Our Pick for Floating Rate Without Account
 
-Godex operates with no account required and no KYC, floating rate only. The limitation compared to StealthEX or Exolix is the lower upper limit on XMR pairs. Very large swaps are not well-suited to Godex.
+[Godex](https://godex.io/) operates with no account required and no KYC, floating rate only. The limitation compared to StealthEX or Exolix is the lower upper limit on XMR pairs. Very large swaps are not well-suited to Godex.
 
 For smaller amounts where you are comfortable with floating rate risk, Godex is a workable option. The platform has been operating since 2018 and has a reasonable track record on standard pairs.
 
@@ -100,7 +118,7 @@ The floating-only policy means your final XMR amount is calculated at execution,
 
 ### SideShift: Our Pick If You Only Have BTC and Need Basic XMR
 
-SideShift requires an email address rather than a full account. It is Bitcoin-centric and has reasonable liquidity for BTC-based pairs. Float only, no fixed rate. Lower limits apply on XMR, making it unsuitable for large conversions.
+[SideShift](https://sideshift.ai/) requires an email address rather than a full account. It is Bitcoin-centric and has reasonable liquidity for BTC-based pairs. Float only, no fixed rate. Lower limits apply on XMR, making it unsuitable for large conversions.
 
 For a user who needs a quick small BTC to XMR swap and does not mind the email requirement, SideShift works. For anything above a few hundred dollars, the lower limits and float-only policy push you toward StealthEX or Exolix.
 

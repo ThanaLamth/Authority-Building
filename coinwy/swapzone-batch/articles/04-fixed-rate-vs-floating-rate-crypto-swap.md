@@ -15,6 +15,24 @@ The problem with floating rates is you send one amount and receive another, some
 
 Fixed rate solves that. It costs a premium. The question is whether the premium is worth it for your swap. The answer depends on amount, pair volatility, and how long the confirmation takes.
 
+**Live Screenshot — Swapzone Rate Type Toggle (July 2026)**
+File: `../media/live-swapzone-btc-eth-query.png`
+Alt text: `Swapzone BTC to ETH query showing fixed and floating rate toggle options across providers, July 2026`
+Caption: `Swapzone rate type options reviewed in July 2026 — fixed and floating rate providers shown side by side for the same pair, enabling direct comparison.`
+
+![Swapzone BTC to ETH query showing fixed and floating rate toggle options across providers, July 2026](../media/live-swapzone-btc-eth-query.png)
+
+*Swapzone fixed vs floating rate toggle, July 2026.*
+
+**Live Screenshot — Swapzone Rate Type Toggle (July 2026)**
+File: `../media/live-swapzone-btc-eth-query.png`
+Alt text: `Swapzone BTC to ETH query showing fixed and floating rate toggle options across providers, July 2026`
+Caption: `Swapzone rate type options reviewed in July 2026 — fixed and floating rate providers shown side by side for the same pair, enabling direct comparison.`
+
+![Swapzone BTC to ETH query showing fixed and floating rate toggle options across providers, July 2026](../media/live-swapzone-btc-eth-query.png)
+
+*Swapzone fixed vs floating rate toggle, July 2026.*
+
 ## Quick Comparison: Fixed Rate vs Floating Rate
 
 | Feature | Fixed Rate | Floating Rate |
@@ -28,7 +46,7 @@ Fixed rate solves that. It costs a premium. The question is whether the premium 
 | Quoted rate | Higher (~0.5-1% premium) | Lower quoted rate |
 | Final received amount | Guaranteed | Variable |
 | Best market conditions | Volatile markets, slow chains | Stable pairs, fast chains |
-| Availability | Swapzone, ChangeNOW, StealthEX, Exolix, SimpleSwap | All services |
+| Availability | Swapzone, [ChangeNOW](https://changenow.io/), [StealthEX](https://stealthex.io/), [Exolix](https://exolix.com/), [SimpleSwap](https://simpleswap.io/) | All services |
 | Recommended for | BTC, XMR, ETH pairs above $1,000 | Stablecoin swaps, small amounts |
 
 The short answer: floating rate is not inherently worse. For stable-to-crypto swaps at small amounts, it is usually fine. For volatile pairs or large amounts, fixed rate often produces a better real outcome despite the higher quoted rate.
@@ -102,7 +120,7 @@ See both fixed and floating rates side by side on [Swapzone](https://swapzone.io
 - Fixed rate premium range sourced from Swapzone quote comparisons and StealthEX/Exolix documentation
 - Floating rate execution timing based on documented chain confirmation times: BTC (~10 min per confirmation), XMR (~2 min per block, 10 confirmations), ETH (~15 sec per block, 12 confirmations)
 - Provider fixed rate availability confirmed: ChangeNOW, StealthEX, SimpleSwap, Exolix all offer fixed rate
-- SideShift confirmed float-only via platform documentation
+- [SideShift.ai](https://sideshift.ai/) confirmed float-only via platform documentation
 - Swapzone filter functionality confirmed via live site review
 
 ---
@@ -116,7 +134,7 @@ No. Rate type is selected at order creation. Once you send your funds, the rate 
 The quoted rate is higher. The final received amount may be better than floating if the market moves against you during confirmation. On a stable day for fast chains, floating usually nets more. On a volatile day for slow chains, fixed usually nets more.
 
 **Which services only offer floating rate?**
-SideShift offers floating rate only. Most other major services (ChangeNOW, StealthEX, SimpleSwap, Exolix) offer both. Godex offers floating rate only.
+SideShift offers floating rate only. Most other major services (ChangeNOW, StealthEX, SimpleSwap, Exolix) offer both. [Godex](https://godex.io/) offers floating rate only.
 
 **What happens if a fixed rate order expires before I send?**
 Fixed rate orders have a time window (typically 10-30 minutes depending on provider) for you to send funds. If you miss the window, the order expires and you need to create a new one at the current rate.

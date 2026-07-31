@@ -13,7 +13,16 @@ last_reviewed: 2026-07-29
 
 The problem with most swap services is you do not know whether "instant" means 2 minutes or 40 minutes until after you confirm. "Instant" is a marketing claim. What is real is network confirmation time, which varies by chain and congestion.
 
-Six services consistently deliver no-registration swaps in 2026: **Swapzone, StealthEX, ChangeNOW, SimpleSwap, SideShift, and Exolix**. Each works without creating an account. They differ on speed, coin count, fixed-rate availability, and how they handle larger amounts.
+Six services consistently deliver no-registration swaps in 2026: **Swapzone, [StealthEX](https://stealthex.io/), [ChangeNOW](https://changenow.io/), [SimpleSwap](https://simpleswap.io/), [SideShift.ai](https://sideshift.ai/), and [Exolix](https://exolix.com/)**. Each works without creating an account. They differ on speed, coin count, fixed-rate availability, and how they handle larger amounts.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-swapzone-homepage.png`
+Alt text: `Swapzone no-account instant swap interface July 2026`
+Caption: `Swapzone homepage reviewed July 2026 -- no account, no email, no KYC required at the aggregator level.`
+
+![Swapzone no-account instant swap interface July 2026](../media/live-swapzone-homepage.png)
+
+*Swapzone homepage reviewed July 2026 -- no account, no email, no KYC required at the aggregator level.*
 
 ## Comparison Table: 6 No-Registration Swap Services
 

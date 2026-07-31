@@ -1,5 +1,5 @@
 ﻿---
-title: "Polymarket vs the CFTC: The Regulatory Fight Reshaping Crypto Prediction Markets in 2026"
+title: "[Polymarket](https://polymarket.com/) vs the CFTC: The Regulatory Fight Reshaping Crypto Prediction Markets in 2026"
 slug: polymarket-cftc-prediction-markets-2026
 meta_title: "Polymarket vs the CFTC: The Regulatory Fight Reshaping Crypto Prediction Markets in 2026"
 meta_description: "How CFTC pressure on Polymarket created today's fragmented prediction market landscape — and what the unresolved regulatory question means for platforms, traders, and US access."
@@ -25,6 +25,15 @@ Caption: "Polymarket platform reviewed in July 2026 — US users blocked since 2
 
 *Polymarket reviewed as part of CCpress investigation into prediction market regulation, July 2026.*
 
+**Live Screenshot (July 2026)**
+File: `../media/live-polymarket-homepage.png`
+Alt text: `Polymarket prediction market homepage July 2026`
+Caption: `Polymarket homepage reviewed July 2026 -- largest on-chain prediction market by liquidity, US users blocked since 2022 CFTC settlement.`
+
+![Polymarket prediction market homepage July 2026](../media/live-polymarket-homepage.png)
+
+*Polymarket homepage reviewed July 2026 -- largest on-chain prediction market by liquidity, US users blocked since 2022 CFTC settlement.*
+
 ## The Polymarket CFTC story
 
 Polymarket launched in 2020. It is an on-chain prediction market built on Polygon. Users buy shares in binary outcomes: "Will X happen by date Y?" The share price reflects the market's implied probability. If the outcome occurs, shares pay out $1. If not, they expire worthless.
@@ -47,6 +56,15 @@ The 2024 US presidential election generated over $3.5 billion in trading volume 
 That contradiction, a regulated-away platform becoming the global standard for real-time probability assessment, is what the CFTC has not addressed.
 
 The CFTC's 2022 settlement did not resolve the fundamental legal question: are on-chain binary event contracts commodity derivatives under CFTC jurisdiction? The settlement was a compliance action, not a ruling. Polymarket settled to avoid further enforcement, not because it admitted that its products were illegal.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-kalshi-homepage.png`
+Alt text: `[Kalshi](https://kalshi.com/) CFTC-licensed prediction market July 2026`
+Caption: `Kalshi homepage reviewed July 2026 -- only CFTC-designated contract market for event contracts as of July 2026.`
+
+![Kalshi CFTC-licensed prediction market July 2026](../media/live-kalshi-homepage.png)
+
+*Kalshi homepage reviewed July 2026 -- only CFTC-designated contract market for event contracts as of July 2026.*
 
 ## Who filled the gap
 

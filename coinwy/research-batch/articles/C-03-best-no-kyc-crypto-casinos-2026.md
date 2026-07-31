@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 3000
 ---
 
-The best no-KYC crypto casinos in 2026 are Crypto Games (Level 0, no account), TonKeeper Play (Level 0, wallet-connect only), 1xBit (Level 1, email only), Wild.io (Level 1, email only), and BC.Game (Level 2, threshold-triggered KYC).
+The best no-KYC crypto casinos in 2026 are Crypto Games (Level 0, no account), TonKeeper Play (Level 0, wallet-connect only), 1xBit (Level 1, email only), [Wild.io](https://wild.io/) (Level 1, email only), and [BC.Game](https://bc.game/) (Level 2, threshold-triggered KYC).
 
 The problem with most no-KYC casino lists: they call Level-2 platforms "no-KYC" and readers find out at the withdrawal window. A casino that triggers KYC at $500 in withdrawals is not a no-KYC casino. It is a delayed-KYC casino. The distinction matters before you deposit.
 
@@ -33,6 +33,15 @@ The problem with most no-KYC casino lists: they call Level-2 platforms "no-KYC" 
 | BC.Game | 6/10 | 5/10 | 9/10 | 8/10 | 9/10 | **37/50** |
 
 **Scoring notes.** Crypto Games leads because Level 0 KYC and unlimited withdrawals are the actual definition of no-KYC. BC.Game scores lower on privacy and withdrawal freedom despite its higher overall reputation, because its KYC trigger is real and affects high-volume users.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-bcgame-homepage.png`
+Alt text: `BC.Game no-KYC crypto casino homepage July 2026`
+Caption: `BC.Game homepage reviewed July 2026 -- no mandatory KYC for crypto deposits and standard gameplay.`
+
+![BC.Game no-KYC crypto casino homepage July 2026](../media/live-bcgame-homepage.png)
+
+*BC.Game homepage reviewed July 2026 -- no mandatory KYC for crypto deposits and standard gameplay.*
 
 ## What "no-KYC" actually means at a crypto casino
 

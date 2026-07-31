@@ -20,9 +20,18 @@ The best crypto assets on Robinhood in 2026 are Bitcoin (BTC), Ethereum (ETH), S
 
 **Disclaimer:** This article is not financial advice. Crypto assets carry significant price volatility and investment risk. The information below is for educational reference only. Consult a financial adviser before making investment decisions.
 
+**Live Screenshot — [Indodax](https://www.indodax.com/) Exchange for SEA Investors (July 2026)**
+File: `../media/live-indodax-homepage.png`
+Alt text: `Indodax Indonesia crypto exchange homepage showing BTC ETH XRP trading pairs, July 2026`
+Caption: `Indodax homepage reviewed in July 2026 — Indonesia's largest regulated exchange, covering most Robinhood-listed assets for IDR-based investors.`
+
+![Indodax Indonesia crypto exchange homepage showing BTC ETH XRP trading pairs, July 2026](../media/live-indodax-homepage.png)
+
+*Indodax homepage reviewed in July 2026.*
+
 | Asset | Robinhood listed | Binance SEA | OKX SEA | Local exchange | Market cap rank |
 |-------|-----------------|-------------|---------|----------------|----------------|
-| BTC | Yes | Yes | Yes | Indodax, Bitkub, VNDC | #1 |
+| BTC | Yes | Yes | Yes | Indodax, [Bitkub](https://www.bitkub.com/), VNDC | #1 |
 | ETH | Yes | Yes | Yes | Indodax, Bitkub | #2 |
 | SOL | Yes | Yes | Yes | Binance ID, OKX | #5 |
 | ADA | Yes | Yes | Yes | Indodax, Gate.io | #9 |
@@ -104,7 +113,7 @@ Most assets listed on Robinhood are available on Binance and OKX, which both ope
 
 **Vietnam:** Regulated crypto exchanges are limited in Vietnam. Most Vietnamese investors use Binance or OKX directly. VNDC (Vietnamese stablecoin platform) covers BTC and ETH.
 
-**Philippines:** Coins.ph and PDAX are the licensed local exchanges. BTC, ETH, XRP are available locally. For other Robinhood-listed assets, Binance and OKX serve Philippine users.
+**Philippines:** [Coins.ph](https://coins.ph/) and [PDAX](https://pdax.ph/) are the licensed local exchanges. BTC, ETH, XRP are available locally. For other Robinhood-listed assets, Binance and OKX serve Philippine users.
 
 | Country | Local exchange options | Binance/OKX access | Notes |
 |---------|----------------------|-------------------|-------|

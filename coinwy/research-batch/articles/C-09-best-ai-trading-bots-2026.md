@@ -55,11 +55,20 @@ Caption: AI crypto trading bots reviewed in July 2026 -- 5 platforms compared by
 
 AI crypto trading bots reviewed in July 2026.
 
+**Live Screenshot — 3Commas Trading Bot Platform (July 2026)**
+File: `../media/live-3commas-homepage.png`
+Alt text: `3Commas AI trading bot platform showing DCA and grid bot options with exchange integrations, July 2026`
+Caption: `3Commas homepage reviewed in July 2026 — DCA bots, grid bots, and SmartTrade terminal across 23-plus exchange integrations.`
+
+![3Commas AI trading bot platform showing DCA and grid bot options with exchange integrations, July 2026](../media/live-3commas-homepage.png)
+
+*3Commas homepage reviewed in July 2026.*
+
 ## 5 best AI trading bots reviewed (2026 list)
 
 We reviewed the public product surfaces, documentation, backtest tools, and community-reported performance for each platform in July 2026.
 
-### 3Commas
+### [3Commas](https://3commas.io/)
 
 3Commas is the most complete retail trading bot platform in 2026: DCA bots, grid bots, options bots, and a SmartTrade terminal in a single interface. Exchange support covers 23+ CEX integrations via API, including Binance, Bybit, OKX, KuCoin, and Coinbase Advanced.
 
@@ -77,7 +86,7 @@ Tradeoffs: 22-79 USD/month cost. Setup takes 2-3 hours for first bot configurati
 
 3Commas has a large community presence in crypto trading communities on Reddit where users share bot configurations and discuss strategy performance across market conditions.
 
-### Pionex
+### [Pionex](https://www.pionex.com/)
 
 Pionex is the most accessible option in this list. Bots are built into the Pionex exchange itself: no API connection required, no monthly software fee. You create a Pionex account, fund it, and start a grid bot in under 10 minutes. The trade fee is 0.05%, lower than Binance standard rate.
 
@@ -93,7 +102,7 @@ Tradeoffs: Limited to Pionex exchange. Grid bot failure mode: price breaks out o
 
 Setup friction: under 10 minutes. Lowest in this list.
 
-### Cryptohopper
+### [Cryptohopper](https://www.cryptohopper.com/)
 
 Cryptohopper differentiates with signal-based trading: bots can execute trades based on technical indicator signals (RSI, MACD, Bollinger Bands) or third-party signals from external providers in the Cryptohopper marketplace.
 
@@ -104,7 +113,7 @@ The signal marketplace creates risk: third-party signal providers sell subscript
 Best for: Signal-based strategy users, widest exchange coverage, users on less common exchanges.
 Tradeoffs: Signal quality is unverified independently. 19-99 USD/month cost.
 
-### Bitsgap
+### [Bitsgap](https://bitsgap.com/)
 
 Bitsgap COMBO bot combines DCA with a grid in a single position. When price trends, the DCA component accumulates. When price oscillates, the grid component profits. The combination attempts to handle both market regimes.
 
@@ -113,7 +122,7 @@ Futures bot support is the key differentiator: Bitsgap supports leveraged future
 Best for: COMBO strategy, futures grid bot users, Binance/Bybit/OKX users.
 Tradeoffs: 23-85 USD/month. Futures bots add leverage risk. COMBO strategy is a tradeoff not an upgrade.
 
-### Hummingbot
+### [Hummingbot](https://hummingbot.org/)
 
 Hummingbot is open-source, free, and the most powerful bot platform in this list by capability. It supports 40+ CEX and DEX integrations, market-making strategies, arbitrage (cross-exchange, DEX-CEX), and AMM liquidity provision.
 

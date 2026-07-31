@@ -14,7 +14,7 @@ word_count_target: 3000
 
 For users in Indonesia, Vietnam, Thailand, and the Philippines, Telegram is not just a messaging app. It is a primary financial interface for a growing number of crypto transactions, P2P trades, and now, gambling. The reason is practical: Telegram does not require a bank account, it works on any Android phone, and TON-based payments settle in seconds without crossing any banking infrastructure.
 
-The best Telegram casinos for SEA users in 2026 are TonKeeper Play (TON mini-app, no KYC, instant settlement), Crypto Games (bot casino, no registration, provably fair), BC.Game (external with Telegram integration, wide game selection), 1xBit (external, email-only KYC, strong sports coverage), and Stake (external, largest platform, Telegram community).
+The best Telegram casinos for SEA users in 2026 are TonKeeper Play (TON mini-app, no KYC, instant settlement), Crypto Games (bot casino, no registration, provably fair), [BC.Game](https://bc.game/) (external with Telegram integration, wide game selection), 1xBit (external, email-only KYC, strong sports coverage), and Stake (external, largest platform, Telegram community).
 
 | Casino | Type | TON payments | Countries accessible | KYC level | Languages | Min deposit |
 |--------|------|-------------|---------------------|-----------|-----------|------------|
@@ -35,6 +35,15 @@ The best Telegram casinos for SEA users in 2026 are TonKeeper Play (TON mini-app
 | Stake | 6/10 | 6/10 | 9/10 | 7/10 | **28/40** |
 
 **Scoring notes.** TonKeeper Play ranks highest for SEA specifically because TON payments bypass banking infrastructure entirely. For users in Indonesia or Vietnam without international cards, that is not a convenience feature, it is the deciding factor.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-bcgame-homepage.png`
+Alt text: `BC.Game Telegram casino for SEA July 2026`
+Caption: `BC.Game homepage reviewed July 2026 -- Telegram bot active, accessible from Indonesia Thailand Vietnam Philippines.`
+
+![BC.Game Telegram casino for SEA July 2026](../media/live-bcgame-homepage.png)
+
+*BC.Game homepage reviewed July 2026 -- Telegram bot active, accessible from Indonesia Thailand Vietnam Philippines.*
 
 ## Why Telegram casinos work differently for SEA users
 
@@ -81,7 +90,7 @@ Tradeoffs: Requires TON wallet setup. Limited game selection. TON price volatili
 
 Crypto Games has operated since 2014 and is one of the few provably fair gambling platforms with a decade-long withdrawal verification trail. The Telegram bot interface lets you play dice, crash, and roulette via commands, with no account registration.
 
-For SEA users, the relevant detail is which cryptocurrencies are accepted: BTC, ETH, DOGE, LTC, and XRP. Funding the bot requires holding one of those assets, which means a prior P2P or exchange purchase in local currency. The flow for an Indonesian user is: buy USDT via Indodax or Binance P2P with IDR, convert to BTC or ETH, send to Crypto Games bot address. That is more steps than TonKeeper Play but still avoids international banking.
+For SEA users, the relevant detail is which cryptocurrencies are accepted: BTC, ETH, DOGE, LTC, and XRP. Funding the bot requires holding one of those assets, which means a prior P2P or exchange purchase in local currency. The flow for an Indonesian user is: buy USDT via [Indodax](https://www.indodax.com/) or Binance P2P with IDR, convert to BTC or ETH, send to Crypto Games bot address. That is more steps than TonKeeper Play but still avoids international banking.
 
 **Screenshot 2**
 File: `../media/K-01-cryptogames-bot-sea-flow.png`
@@ -151,7 +160,7 @@ The practical funding flow for users in Indonesia, Vietnam, Thailand, or the Phi
 5. Play in TON mini-app casino
 
 **Option 2: BTC/ETH via local exchange (for Crypto Games, BC.Game)**
-1. Buy USDT on Indodax (Indonesia), Bitkub (Thailand), or local exchange
+1. Buy USDT on Indodax (Indonesia), [Bitkub](https://www.bitkub.com/) (Thailand), or local exchange
 2. Transfer to Binance or OKX
 3. Convert to BTC or ETH
 4. Send to casino deposit address

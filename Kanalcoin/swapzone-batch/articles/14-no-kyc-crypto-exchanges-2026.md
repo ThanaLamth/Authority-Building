@@ -2,7 +2,7 @@
 title: "Top 10 No-KYC Crypto Exchanges in 2026: What Still Works"
 slug: "/asia/no-kyc-crypto-exchanges-2026"
 meta_title: "Top 10 No-KYC Crypto Exchanges 2026 for Indonesia, Thailand, Philippines"
-meta_description: "KYC requirements block access in Indonesia, Thailand, and the Philippines. 10 services ranked by actual KYC level — from zero-account aggregators to threshold-triggered CEX."
+meta_description: "KYC requirements block access in Indonesia, Thailand, and the Philippines. 10 services ranked by actual KYC level Â— from zero-account aggregators to threshold-triggered CEX."
 primary_keyword: "no KYC crypto exchange"
 schema: "Article + ItemList + FAQPage"
 category: "asia"
@@ -19,16 +19,16 @@ The 10 services below are tiered by KYC level, from zero to full.
 
 | Service | KYC level | Type | Region access | No-KYC limit | Fiat |
 |---------|-----------|------|---------------|--------------|------|
-| Swapzone | 0 — none | Aggregator | Global | No stated limit | EUR/GBP/AUD/CAD/USD |
-| StealthEX | 0 — none | Single provider | Global | No upper limit | No |
-| Exolix | 0 — none | Single provider | Global | Medium | No |
-| SimpleSwap | 0 — none | Single provider | Global | Low-medium | Limited |
-| SideShift | 1 — email | Single provider | Global | Low | No |
-| ChangeNOW | 0-2 threshold | Single provider | Global | Medium-high | Limited |
-| Godex | 0 — none | Single provider | Global | Lower | No |
-| LetsExchange | 0 — none | Single provider | Global | Medium | No |
+| Swapzone | 0 Â— none | Aggregator | Global | No stated limit | EUR/GBP/AUD/CAD/USD |
+| [StealthEX](https://stealthex.io/) | 0 Â— none | Single provider | Global | No upper limit | No |
+| [Exolix](https://exolix.com/) | 0 Â— none | Single provider | Global | Medium | No |
+| [SimpleSwap](https://simpleswap.io/) | 0 Â— none | Single provider | Global | Low-medium | Limited |
+| [SideShift.ai](https://sideshift.ai/) | 1 Â— email | Single provider | Global | Low | No |
+| [ChangeNOW](https://changenow.io/) | 0-2 threshold | Single provider | Global | Medium-high | Limited |
+| [Godex](https://godex.io/) | 0 Â— none | Single provider | Global | Lower | No |
+| [LetsExchange](https://letsexchange.io/) | 0 Â— none | Single provider | Global | Medium | No |
 | Changelly | 2 threshold | Single provider | Global | Medium | Yes |
-| Binance | 3 — full | CEX | ID/TH/PH (restricted by OJK/SEC/BSP) | N/A | Yes |
+| Binance | 3 Â— full | CEX | ID/TH/PH (restricted by OJK/SEC/BSP) | N/A | Yes |
 
 ## Ranking scorecard
 
@@ -42,7 +42,7 @@ Scored out of 10. Total out of 50.
 | SimpleSwap | 10 | 10 | 7 | 7 | 3 | **37** |
 | Exolix | 10 | 10 | 7 | 6 | 0 | **33** |
 
-![Swapzone swap interface requiring no account or KYC at the aggregator level — July 2026](../media/14-swapzone-no-kyc-flow.png)
+![Swapzone swap interface requiring no account or KYC at the aggregator level Â— July 2026](../media/14-swapzone-no-kyc-flow.png)
 *Swapzone entry flow: no login, no identity check at aggregator level. Individual providers may trigger KYC at high amounts.*
 
 | SideShift | 8 | 10 | 5 | 5 | 0 | **28** |
@@ -57,19 +57,28 @@ Scored out of 10. Total out of 50.
 
 Not all "no-KYC" claims are the same. Four distinct levels apply to the services in this comparison:
 
-**Level 0 — no account, no email, non-custodial:** Swapzone, StealthEX, Exolix, SimpleSwap, Godex, LetsExchange. These require nothing from you before initiating a swap. No identity data, no email, no tracking beyond a transaction ID.
+**Level 0 Â— no account, no email, non-custodial:** Swapzone, StealthEX, Exolix, SimpleSwap, Godex, LetsExchange. These require nothing from you before initiating a swap. No identity data, no email, no tracking beyond a transaction ID.
 
-**Level 1 — email only, no government ID:** SideShift requests an email address. No photo ID or identity document required.
+**Level 1 Â— email only, no government ID:** SideShift requests an email address. No photo ID or identity document required.
 
-**Level 2 — threshold-triggered KYC:** ChangeNOW and Changelly operate without KYC for amounts below a threshold. Above it, identity verification is requested. The exact threshold is not publicly disclosed by either service.
+**Level 2 Â— threshold-triggered KYC:** ChangeNOW and Changelly operate without KYC for amounts below a threshold. Above it, identity verification is requested. The exact threshold is not publicly disclosed by either service.
 
-**Level 3 — full KYC from sign-up:** Binance, OKX, Kraken, and licensed CEX. Full identity verification, document upload, and facial recognition required before any trading activity.
+**Level 3 Â— full KYC from sign-up:** Binance, OKX, Kraken, and licensed CEX. Full identity verification, document upload, and facial recognition required before any trading activity.
 
 ## 10 No-KYC Services Reviewed (2026 List)
 
-For users in Indonesia, Thailand, and the Philippines specifically, note that all Level 0 services in this list are accessible from these countries. None of these services are blocked at the service level for SEA — geo-restriction is applied only by specific CEX based on their regulatory licensing in the region.
+For users in Indonesia, Thailand, and the Philippines specifically, note that all Level 0 services in this list are accessible from these countries. None of these services are blocked at the service level for SEA Â— geo-restriction is applied only by specific CEX based on their regulatory licensing in the region.
 
-[Swapzone requires no account, no email, no KYC — accessible from Indonesia, Thailand, and the Philippines.](https://swapzone.io/)
+**Live Screenshot â€” Swapzone No-KYC Entry Flow (July 2026)**
+File: `../media/live-swapzone-homepage.png`
+Alt text: `Swapzone homepage July 2026 showing no registration or KYC required to initiate a swap from Indonesia Thailand Philippines`
+Caption: `Swapzone homepage reviewed in July 2026 â€” no account, no email, no KYC required. Accessible without geo-restriction from Indonesia, Thailand, and the Philippines.`
+
+![Swapzone homepage July 2026 showing no registration or KYC required to initiate a swap from Indonesia Thailand Philippines](../media/live-swapzone-homepage.png)
+
+*Swapzone no-KYC entry flow, July 2026.*
+
+[Swapzone requires no account, no email, no KYC Â— accessible from Indonesia, Thailand, and the Philippines.](https://swapzone.io/)
 
 ### Swapzone
 
@@ -81,7 +90,7 @@ For Indonesian, Thai, and Filipino users who have crypto from any source and wan
 
 **Best for:** All crypto-to-crypto no-KYC swaps in SEA. Anyone with a foreign currency account needing fiat-to-crypto access.
 
-**Not recommended for:** Buying crypto with IDR, THB, or PHP directly. Swapzone does not have SEA fiat rails — use a licensed local exchange for the fiat on-ramp.
+**Not recommended for:** Buying crypto with IDR, THB, or PHP directly. Swapzone does not have SEA fiat rails Â— use a licensed local exchange for the fiat on-ramp.
 
 The question of whether Swapzone and similar non-custodial services will remain outside OJK/SEC TH/BSP licensing scope is worth watching. Regulatory pressure on non-custodial services is increasing globally.
 
@@ -109,7 +118,7 @@ ChangeNOW processes standard pairs in 2 to 5 minutes with no registration. KYC t
 
 **Our pick for:** Cleanest no-registration UX for first-time non-custodial swap from SEA.
 
-SimpleSwap requires nothing beyond a destination address. The interface is minimal and direct — well-suited for users coming from a licensed CEX (Indodax, Bitkub, PDAX) who are accessing a non-custodial service for the first time.
+SimpleSwap requires nothing beyond a destination address. The interface is minimal and direct Â— well-suited for users coming from a licensed CEX ([Indodax](https://www.indodax.com/), [Bitkub](https://www.bitkub.com/), [PDAX](https://pdax.ph/)) who are accessing a non-custodial service for the first time.
 
 **Best for:** First non-custodial swap for SEA users. Simple flow without rate-comparison overhead.
 
@@ -135,13 +144,13 @@ Included for reference: Binance, OKX, Kraken operate in Indonesia (OJK-regulated
 
 **Thailand:** SEC Thailand-licensed exchanges (Bitkub, OKX TH, Upbit TH) require full KYC. Non-custodial swap services operate outside SEC TH jurisdiction under current interpretations. Accessible from Thai connections.
 
-**Philippines:** BSP-licensed exchanges (PDAX, Coins.ph) require full KYC. Non-custodial services remain accessible. BSP has not classified non-custodial swap aggregators as VASPs requiring registration as of this review.
+**Philippines:** BSP-licensed exchanges (PDAX, [Coins.ph](https://coins.ph/)) require full KYC. Non-custodial services remain accessible. BSP has not classified non-custodial swap aggregators as VASPs requiring registration as of this review.
 
 ## The regulatory risk caveat
 
 Non-custodial no-KYC services are not classified as illegal in Indonesia, Thailand, or the Philippines under current frameworks. However, regulatory environments are evolving. FATF Travel Rule pressure is increasing globally, and how non-custodial services are classified in SEA jurisdictions is subject to change.
 
-Users should check the current regulatory position in their specific country before using any service for amounts above local threshold guidance. This is the standing caveat for this market — the landscape is not static.
+Users should check the current regulatory position in their specific country before using any service for amounts above local threshold guidance. This is the standing caveat for this market Â— the landscape is not static.
 
 ## Country quick pick
 
@@ -153,7 +162,7 @@ Users should check the current regulatory position in their specific country bef
 
 ## What we checked
 
-We reviewed the public interfaces and regional accessibility documentation for all 10 services at time of review in July 2026. OJK, SEC Thailand, and BSP regulatory frameworks cited are based on publicly available licensing information as of the review date. Regulatory status changes — verify local regulations before use.
+We reviewed the public interfaces and regional accessibility documentation for all 10 services at time of review in July 2026. OJK, SEC Thailand, and BSP regulatory frameworks cited are based on publicly available licensing information as of the review date. Regulatory status changes Â— verify local regulations before use.
 
 ## Frequently asked questions
 

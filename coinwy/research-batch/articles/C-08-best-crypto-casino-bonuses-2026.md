@@ -12,7 +12,7 @@ schema: ItemList, FAQPage
 word_count_target: 3800
 ---
 
-The best crypto casino bonuses in 2026, by category: best welcome bonus EV is Bets.io (200% match, 40x WR, highest real value per dollar); best no-deposit bonus is Wild.io (free spins, no deposit required); best cashback is Rollbit (daily rakeback, highest long-term player value); best VIP program is BC.Game (tiered rakeback up to 10%); best free spins offer is Stake (weekly reload with free spins on current slots).
+The best crypto casino bonuses in 2026, by category: best welcome bonus EV is Bets.io (200% match, 40x WR, highest real value per dollar); best no-deposit bonus is [Wild.io](https://wild.io/) (free spins, no deposit required); best cashback is Rollbit (daily rakeback, highest long-term player value); best VIP program is [BC.Game](https://bc.game/) (tiered rakeback up to 10%); best free spins offer is Stake (weekly reload with free spins on current slots).
 
 Most bonus lists rank by percentage. Percentage means nothing without wagering requirements.
 
@@ -41,6 +41,15 @@ Caption: Crypto casino bonus EV comparison reviewed in July 2026 -- welcome offe
 ![Crypto casino bonus expected value comparison](../media/C-08-crypto-casino-bonuses-ev-comparison.png)
 
 Crypto casino bonus comparison reviewed in July 2026.
+
+**Live Screenshot (July 2026)**
+File: `../media/live-jackbit-homepage.png`
+Alt text: `[Jackbit](https://jackbit.com/) casino bonus structure July 2026`
+Caption: `Jackbit homepage reviewed July 2026 -- bonus terms and wagering requirements disclosed upfront, provably fair verification available.`
+
+![Jackbit casino bonus structure July 2026](../media/live-jackbit-homepage.png)
+
+*Jackbit homepage reviewed July 2026 -- bonus terms and wagering requirements disclosed upfront, provably fair verification available.*
 
 ## The EV formula every bonus hunter should know
 

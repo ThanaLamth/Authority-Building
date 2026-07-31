@@ -13,7 +13,7 @@ last_reviewed: "2026-07-29"
 
 For users sending EUR to Bitcoin, the difference between services is not just the rate. The payment rail determines the actual cost. SEPA transfers, SEPA Instant, and card payments carry different fees and processing speeds, and that difference reaches 1 to 3.5% of the transaction value depending on which method and service you use.
 
-The six services that handle EUR to BTC in 2026 are Swapzone, Changelly, ChangeNOW, Kraken, Coinbase, and Bitpanda. Each sits in a different position on the custodial-to-non-custodial spectrum and the KYC-required-to-none spectrum.
+The six services that handle EUR to BTC in 2026 are Swapzone, Changelly, [ChangeNOW](https://changenow.io/), Kraken, Coinbase, and Bitpanda. Each sits in a different position on the custodial-to-non-custodial spectrum and the KYC-required-to-none spectrum.
 
 | Service | EUR payment method | SEPA | SEPA Instant | KYC | Rate type | MiCA licensed |
 |---------|-------------------|------|--------------|-----|-----------|--------------|
@@ -23,6 +23,15 @@ The six services that handle EUR to BTC in 2026 are Swapzone, Changelly, ChangeN
 | Kraken | SEPA + wire | Yes | Yes (EU) | Full KYC | Exchange rate | MiCA licensed |
 | Coinbase | SEPA + card | Yes | Yes (EU) | Full KYC | Exchange rate | MiCA licensed |
 | Bitpanda | SEPA | Yes | Yes (AT/DE/EU) | Full KYC | Exchange rate | MiCA licensed (AT) |
+
+**Live Screenshot (July 2026)**
+File: `../media/live-swapzone-eur-btc-query.png`
+Alt text: `Swapzone EUR to BTC live query July 2026`
+Caption: `Swapzone EUR to BTC query reviewed July 2026 -- provider rates for SEPA fiat-to-crypto routes at capture time.`
+
+![Swapzone EUR to BTC live query July 2026](../media/live-swapzone-eur-btc-query.png)
+
+*Swapzone EUR to BTC query reviewed July 2026 -- provider rates for SEPA fiat-to-crypto routes at capture time.*
 
 ## Ranking scorecard
 
