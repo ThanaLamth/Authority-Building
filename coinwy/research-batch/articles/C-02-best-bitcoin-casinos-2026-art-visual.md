@@ -118,6 +118,8 @@ I reviewed all five platforms in July 2026: navigated each public interface, cro
 
 If you are weighing Bitcoin casinos against crypto-general casinos, the [best crypto casinos comparison](../C-01-best-crypto-casinos-2026.md) covers that broader landscape. For no-KYC access specifically, see the [no-KYC crypto casinos breakdown](../C-03-best-no-kyc-crypto-casinos-2026.md).
 
+### 1. Cloudbet — Best Track Record (Operating Since 2013)
+
 <div class="casino-entry">
 <div class="casino-header"><span class="casino-rank">1</span><span class="casino-title">Cloudbet</span><span class="hold-badge hold-btc">BTC-denominated</span></div>
 <p class="pick-for"><strong>Our pick for:</strong> Longest track record, BTC-denominated balance, BTC sportsbook with a 12-year withdrawal history.</p>
@@ -131,6 +133,9 @@ BTC withdrawals process in under 15 minutes for standard on-chain transactions. 
 ![Cloudbet Bitcoin casino and sportsbook — July 2026](../media/C-02-cloudbet-btc-sportsbook-casino.png)
 
 *Cloudbet homepage, July 2026 — BTC-denominated balance, 12-year operating history confirmed.*
+Cloudbet's VIP program runs on a tier system tied to wagering volume. Higher tiers unlock reload bonuses, a personal account manager, and increased withdrawal limits with no ceiling on the maximum BTC withdrawal per transaction. The KYC structure is Level 1: email verification is required at signup, but government ID is not requested unless a compliance threshold is triggered — for most standard-volume players, that threshold is never reached in practice.
+
+The sportsbook covers football, basketball, tennis, esports, and niche markets including kabaddi and darts. Live in-play betting is available across major leagues with odds updated in real time. All settlements land directly in your BTC balance — no conversion, no rate slippage.
 
 <div class="callout-warn"><div class="cw-title">Account compliance risk</div><p>A user called <em>yostthibaultp</em> on Reddit describes an account locked with 0.5 BTC inside, citing “suspicious activity” with no evidence provided. This pattern is common to any BTC casino with automated compliance. Test with a small withdrawal before committing a meaningful balance.</p></div>
 <div class="testimony-block">
@@ -146,11 +151,16 @@ BTC withdrawals process in under 15 minutes for standard on-chain transactions. 
 <div class="verdict-grid"><div class="verdict-pro"><div class="verdict-head">Best for</div><ul><li>Bitcoin holders maintaining BTC exposure</li><li>Longest verified track record (12 years)</li><li>BTC sportsbook with documented payouts</li></ul></div><div class="verdict-con"><div class="verdict-head">Tradeoffs</div><ul><li>No Lightning Network</li><li>No provably fair</li><li>Compliance holds possible on large balances</li><li>40x WR on welcome bonus</li></ul></div></div>
 </div>
 <hr class="casino-divider">
+### 2. Crypto Games — Best for Privacy and Provably Fair
+
 <div class="casino-entry">
 <div class="casino-header"><span class="casino-rank">2</span><span class="casino-title">Crypto Games</span><span class="hold-badge hold-btc">BTC-denominated</span></div>
 <p class="pick-for"><strong>Our pick for:</strong> Level 0 privacy, mathematically provably fair, BTC-denominated balance, no account ever required.</p>
 <div class="stat-row"><div class="stat-pill"><span class="num">2014</span><br><span class="lab">Est.</span></div><div class="stat-pill"><span class="num">Level 0</span><br><span class="lab">KYC: none ever</span></div><div class="stat-pill"><span class="num">5</span><br><span class="lab">Game types</span></div><div class="stat-pill"><span class="num">0.0001 BTC</span><br><span class="lab">Min bet</span></div></div>
 Crypto Games is the Level 0 Bitcoin casino: no account, no email, no registration. The provably fair mechanism uses a server seed and client seed system where you can verify each bet result using publicly available cryptographic proof. No other platform in this comparison offers this level of mathematical verification.
+The platform offers five game types: dice, crash, blackjack, video poker, and baccarat. Every game uses the same server/client seed architecture, and the verification tool is built into the interface — you do not need an external calculator. Minimum bets start at 0.0001 BTC, which makes it practical for testing the system at low stakes before committing to larger sessions.
+
+Withdrawals route back to whatever address you used to deposit. There is no withdrawal form, no manual approval queue for standard amounts, and no email confirmation step. Average on-chain settlement runs 5–15 minutes depending on network congestion. Lightning is not supported — but for users whose priority is privacy over raw speed, that is a deliberate constraint, not an oversight.
 
 <span class="kyc-tier">Level 0 KYC — no account, no email, no ID ever required</span>
 
@@ -178,11 +188,16 @@ Crypto Games is the Level 0 Bitcoin casino: no account, no email, no registratio
 <div class="verdict-grid"><div class="verdict-pro"><div class="verdict-head">Best for</div><ul><li>Level 0 — no account, no email, no ID ever</li><li>Provably fair on every game type</li><li>BTC-denominated balance</li><li>Operating since 2014</li></ul></div><div class="verdict-con"><div class="verdict-head">Tradeoffs</div><ul><li>Only 5 game types</li><li>No welcome bonus</li><li>No Lightning Network</li><li>Interface less polished than BC.Game</li></ul></div></div>
 </div>
 <hr class="casino-divider">
+### 3. mBit Casino — Best Lightning Network Bitcoin Casino
+
 <div class="casino-entry">
 <div class="casino-header"><span class="casino-rank">3</span><span class="casino-title">mBit Casino</span><span class="hold-badge hold-btc">BTC-denominated</span></div>
 <p class="pick-for"><strong>Our pick for:</strong> Lightning Network users — fastest BTC deposits and withdrawals available in 2026, 1 BTC welcome bonus.</p>
 <div class="stat-row"><div class="stat-pill"><span class="num">< 1 sec</span><br><span class="lab">Lightning</span></div><div class="stat-pill"><span class="num">2,000+</span><br><span class="lab">Slots</span></div><div class="stat-pill"><span class="num">1 BTC</span><br><span class="lab">Bonus</span></div><div class="stat-pill"><span class="num">35×</span><br><span class="lab">Wagering req.</span></div><div class="stat-pill"><span class="num">2017</span><br><span class="lab">Est.</span></div></div>
 mBit Casino is the Lightning Network leader in this list. Both deposits and withdrawals support Lightning Network, enabling sub-second BTC settlement. For users with a funded Lightning wallet — Phoenix, Wallet of Satoshi, Zeus — the friction of funding mBit is lower than any on-chain BTC casino.
+The Lightning setup flow is straightforward: select Bitcoin, choose Lightning as the network, and mBit generates a payment invoice as a QR code. Compatible wallets include Phoenix (self-custodial, auto path-finding — best for most users), Wallet of Satoshi (custodial, zero setup friction), Zeus (advanced, connects to your own Lightning node), and Muun (hybrid on-chain/LN model). The same QR also works with any Lightning-enabled exchange withdrawal screen, including Kraken and Bitfinex.
+
+On-chain BTC withdrawals process in under 30 minutes as a standard path. Lightning withdrawals are effectively instant. The game library spans 2,000+ slots from providers including Pragmatic Play, BGaming, and Hacksaw, plus live dealer tables from Evolution and Ezugi. The welcome bonus is a four-deposit match — 110% on the first deposit up to 1 BTC, plus 300 free spins distributed across the first three deposits. The 35x wagering requirement applies to the bonus amount only, not your deposit principal.
 
 **Screenshot — mBit Lightning deposit (July 2026)**
 
@@ -203,11 +218,16 @@ mBit Casino is the Lightning Network leader in this list. Both deposits and with
 <div class="verdict-grid"><div class="verdict-pro"><div class="verdict-head">Best for</div><ul><li>Lightning deposits and withdrawals (< 1 second)</li><li>2,000+ games with BTC-denominated balance</li><li>Email-only KYC (Level 1)</li></ul></div><div class="verdict-con"><div class="verdict-head">Tradeoffs</div><ul><li>35× WR — high for casual players</li><li>Lightning wallet required for LN benefits</li><li>Operating since 2017 (shorter than Cloudbet)</li><li>No provably fair</li></ul></div></div>
 </div>
 <hr class="casino-divider">
+### 4. BC.Game — Best for Game Variety (8,000+ Titles)
+
 <div class="casino-entry">
 <div class="casino-header"><span class="casino-rank">4</span><span class="casino-title">BC.Game</span><span class="hold-badge hold-credit">Internal credits</span></div>
 <p class="pick-for"><strong>Our pick for:</strong> Widest game selection of any Bitcoin casino in 2026 — for regular players who want a full-service platform.</p>
 <div class="stat-row"><div class="stat-pill"><span class="num">8,000+</span><br><span class="lab">Slots</span></div><div class="stat-pill"><span class="num">200+</span><br><span class="lab">Live tables</span></div><div class="stat-pill"><span class="num">5 BTC</span><br><span class="lab">Multi-deposit bonus</span></div><div class="stat-pill"><span class="num">Level 2</span><br><span class="lab">KYC threshold</span></div></div>
 BC.Game has 8,000+ slots, 200+ live dealer tables, crash games, sports betting, and native crypto price prediction games.
+The slot library sources from 100+ providers including Pragmatic Play, Hacksaw, Nolimit City, and Play'n GO — broad enough that players migrating from fiat casinos will find familiar titles alongside crypto-native exclusives. The BC Originals crash game uses a provably fair multiplier model with a documented house edge of approximately 1%. Live dealer tables are powered by Evolution Gaming and cover blackjack, baccarat, roulette, and game show variants including Lightning Roulette and Crazy Time.
+
+The sportsbook covers 30+ sports with live in-play markets. BTC deposits are accepted but convert to BC.Game's internal credit unit at the point of deposit. For players who care primarily about game access and platform breadth rather than BTC-denominated exposure, BC.Game offers the widest library in this comparison by a significant margin.
 
 <div class="callout-warn"><div class="cw-title">Credit model — not BTC-denominated</div><p>Depositing BTC converts to BC.Game credits at the current rate. You do <strong>not</strong> hold BTC during your session. Bitcoin holders who care about maintaining BTC exposure throughout will find <strong>Cloudbet or Crypto Games</strong> more aligned with that priority.</p></div>
 <span class="kyc-tier">Level 2 KYC — threshold-triggered at roughly $2,000–$10,000 equivalent</span>
@@ -231,11 +251,16 @@ BC.Game has 8,000+ slots, 200+ live dealer tables, crash games, sports betting, 
 <div class="verdict-grid"><div class="verdict-pro"><div class="verdict-head">Best for</div><ul><li>Widest game selection (8,000+ slots, 200+ live tables)</li><li>Crash, prediction games, sportsbook all in one</li><li>Strong RTP transparency from licensed providers</li></ul></div><div class="verdict-con"><div class="verdict-head">Tradeoffs</div><ul><li>Internal credit model — not BTC-denominated</li><li>Level 2 KYC above ~$2,000</li><li>No Lightning Network</li><li>No provably fair</li></ul></div></div>
 </div>
 <hr class="casino-divider">
+### 5. 1xBit — Best Bitcoin Sportsbook
+
 <div class="casino-entry">
 <div class="casino-header"><span class="casino-rank">5</span><span class="casino-title">1xBit</span><span class="hold-badge hold-credit">Internal credits</span></div>
 <p class="pick-for"><strong>Our pick for:</strong> BTC sports betting with email-only KYC and the widest sport and league coverage in this list.</p>
 <div class="stat-row"><div class="stat-pill"><span class="num">40+</span><br><span class="lab">Sports</span></div><div class="stat-pill"><span class="num">Level 1</span><br><span class="lab">KYC: email only</span></div><div class="stat-pill"><span class="num">1 BTC</span><br><span class="lab">Max bonus</span></div><div class="stat-pill"><span class="num">20–60 min</span><br><span class="lab">BTC withdrawal</span></div></div>
 1xBit covers 40+ sports with BTC-denominated betting. For BTC holders who primarily want sports betting rather than casino games, 1xBit’s sportsbook breadth and email-only KYC make it the strongest option outside Cloudbet. The hold model is internal credits.
+The sportsbook covers football, basketball, tennis, cricket, rugby, darts, and eSports including CS2, Dota 2, and League of Legends, plus niche markets like table tennis, futsal, and virtual sports simulations. Live in-play betting is available across most major leagues, and the eSports depth — pre-match and live — is stronger here than at any other platform in this list.
+
+The casino section includes slots, live tables, and crash games, but the sportsbook is clearly the primary product. The 1 BTC welcome bonus applies to sports betting and carries a rollover requirement — check the current terms before depositing with the bonus active, as rollover conditions have changed across versions. Standard on-chain BTC withdrawals process in 20–60 minutes.
 
 <span class="kyc-tier">Level 1 KYC — email only, no government ID required for standard play</span>
 
