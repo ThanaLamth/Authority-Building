@@ -47,11 +47,11 @@ Our entry into this keyword is through `crypto betting platform` (KD 62) and the
 | **[Betplay.io](https://betplay.io/)** | SOL, BTC, ETH | No | Yes | No | Level 0 | SOL-native speed |
 | **[1xBit](https://1xbit.com/)** | 50+ coins | No | Yes (deep) | BTC/ETH price | Level 1 | Coin range + sports depth |
 | **[BC.Game](https://bc.game/) Sportsbook** | 12 chains | No | Yes | Crypto price markets | Level 0-1 | Casino + sports combined |
-| **Bet365** | Fiat only | GBP/EUR/USD+ | Yes (best) | No | Level 3 | Fiat users, odds quality |
-| **Pinnacle** | Fiat only | USD/EUR | Yes | No | Level 3 | Sharp bettors, best lines |
-| **Betway** | Fiat + limited crypto | Yes | Yes | No | Level 2-3 | Hybrid users, esports |
-| **DraftKings** | Fiat only | USD | Yes | No | Level 3 | US market fiat users |
-| **BetOnline.ag** | BTC, ETH, LTC | Yes | Yes | No | Level 2 | US-facing crypto-fiat bridge |
+| **[Bet365](https://www.bet365.com/)** | Fiat only | GBP/EUR/USD+ | Yes (best) | No | Level 3 | Fiat users, odds quality |
+| **[Pinnacle](https://www.pinnacle.com/)** | Fiat only | USD/EUR | Yes | No | Level 3 | Sharp bettors, best lines |
+| **[Betway](https://www.betway.com/)** | Fiat + limited crypto | Yes | Yes | No | Level 2-3 | Hybrid users, esports |
+| **[DraftKings](https://www.draftkings.com/)** | Fiat only | USD | Yes | No | Level 3 | US market fiat users |
+| **[BetOnline.ag](https://www.betonline.ag/)** | BTC, ETH, LTC | Yes | Yes | No | Level 2 | US-facing crypto-fiat bridge |
 
 *KYC levels: 0 = wallet-only / 1 = email + threshold trigger / 2 = ID before first withdrawal / 3 = full KYC from first deposit.*
 
@@ -92,7 +92,7 @@ Our entry into this keyword is through `crypto betting platform` (KD 62) and the
 |----------|---------|----------|-----------|--------------|------|
 | Withdrawal | KYC | Deposits | Sports | Unique markets | Est. |
 
-Stake.com is the most visible crypto sportsbook globally, with SOL withdrawals averaging 8 minutes and ETH withdrawals at 12 minutes in our July 2026 test. Crypto price prediction markets (ETH/BTC/SOL weekly outcomes) are a genuine differentiator -- these let you bet on whether ETH will close above $3,200 on Friday, for example, within the same sportsbook account as your football bets.
+[Stake.com](https://stake.com/) is the most visible crypto sportsbook globally, with SOL withdrawals averaging 8 minutes and ETH withdrawals at 12 minutes in our July 2026 test. Crypto price prediction markets (ETH/BTC/SOL weekly outcomes) are a genuine differentiator -- these let you bet on whether ETH will close above $3,200 on Friday, for example, within the same sportsbook account as your football bets.
 
 Sports coverage spans 40+ disciplines including esports (CS2, DOTA2, LOL, Valorant) at competitive odds. Live betting is deep -- real-time odds on all major markets with sub-second update speed in our test. Parlays available across sports and crypto price outcomes combined.
 
@@ -153,7 +153,7 @@ The odds gap with Pinnacle is real: Stake averages 4.5-6% vig on major football 
 |----------|-----------|----------|-----------|----------------|------|
 | Withdrawal | KYC | Deposits | Sports | Integration | Est. |
 
-BC.Game runs one of the few genuine combined casino-and-sportsbook products. The casino is the stronger half -- see our [best crypto casino breakdown](C-01-best-crypto-casinos-2026.md) for BC.Game's casino score -- but the sportsbook functions well: 25+ sports, live betting, and crypto price prediction markets alongside the standard event slate.
+[BC.Game](https://bc.game/) runs one of the few genuine combined casino-and-sportsbook products. The casino is the stronger half -- see our [best crypto casino breakdown](C-01-best-crypto-casinos-2026.md) for BC.Game's casino score -- but the sportsbook functions well: 25+ sports, live betting, and crypto price prediction markets alongside the standard event slate.
 
 For players who want to play slots between matches and bet live when a game starts, BC.Game removes the friction of switching accounts. The 12-chain deposit range (including TON and BASE added Q1 2026) is the widest of any sportsbook in this list.
 
@@ -211,7 +211,7 @@ KYC Level 0 below the $10,000 cumulative threshold. For recreational bettors who
 |---------|---------|-------------------|----------|---------|------|
 | Withdrawal | KYC | Chains | Sports covered | Settlement | Est. |
 
-Rollbit's sportsbook is secondary to its casino product. The market depth is limited: roughly 15 sports, no cryptocurrency price prediction markets, and live betting coverage is thinner than Stake or Cloudbet. What it does uniquely is settle withdrawals in SOL or TON in under 5 minutes consistently.
+[Rollbit](https://rollbit.com/)'s sportsbook is secondary to its casino product. The market depth is limited: roughly 15 sports, no cryptocurrency price prediction markets, and live betting coverage is thinner than Stake or Cloudbet. What it does uniquely is settle withdrawals in SOL or TON in under 5 minutes consistently.
 
 If you are already using Rollbit for casino and want occasional sports bets on major events without opening a new account, it works. If sports betting is your primary use case, Stake.com has more depth.
 
@@ -270,7 +270,7 @@ The on-chain settlement model means winnings go directly to your wallet -- no in
 |----------|---------|---------------|-----|----------------|------|
 | Withdrawal | KYC | Chains | Live betting | Settlement | Est. |
 
-Betplay.io stands out technically: withdrawals settle through a publicly auditable smart contract rather than a proprietary internal ledger. For players who want to verify that payouts are handled correctly on-chain, this is the most transparent option in the list.
+[Betplay.io](https://betplay.io/) stands out technically: withdrawals settle through a publicly auditable smart contract rather than a proprietary internal ledger. For players who want to verify that payouts are handled correctly on-chain, this is the most transparent option in the list.
 
 SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only registration. The market depth is limited compared to Stake.com, which is the primary tradeoff. For SOL-native sports betting with maximum on-chain transparency, nothing else comes close.
 
@@ -322,7 +322,7 @@ SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only reg
 |-----------|---------|----------------------|-----------|-----------|--------|
 | Withdrawal | KYC | Chains | Sports markets | Operating since | License |
 
-Cloudbet launched in 2013 and has more documented large-withdrawal verifications than any other platform in this list. Most crypto sportsbooks quietly impose withdrawal limits that are not advertised. Cloudbet's documented maximum withdrawals exceed $500,000 BTC equivalent with community-verified evidence. This is unusual enough to be a genuine differentiator.
+[Cloudbet](https://cloudbet.com/) launched in 2013 and has more documented large-withdrawal verifications than any other platform in this list. Most crypto sportsbooks quietly impose withdrawal limits that are not advertised. Cloudbet's documented maximum withdrawals exceed $500,000 BTC equivalent with community-verified evidence. This is unusual enough to be a genuine differentiator.
 
 Sports coverage spans 35+ sports with 80,000+ pre-match events per month. Odds quality is the best of any crypto sportsbook in this list -- competitive with Pinnacle margins on major events, better than Stake.com on average. Level 2 KYC required before the first withdrawal.
 
@@ -375,7 +375,7 @@ Bonus: 100% on first deposit, 30x wagering. Cloudbet's bonus EV is below average
 |-----------|---------|-----------|-----------|-----------|------|
 | Withdrawal | KYC | Chains | Sports | Registration | Est. |
 
-1xBit has the largest sports market in this list -- 40+ sports with deep coverage including cricket, kabaddi, and table tennis. The 50+ coin support is the broadest in the list. For exotic altcoin holders who want email-only registration and the widest possible sports market, 1xBit has no real competitor.
+[1xBit](https://1xbit.com/) has the largest sports market in this list -- 40+ sports with deep coverage including cricket, kabaddi, and table tennis. The 50+ coin support is the broadest in the list. For exotic altcoin holders who want email-only registration and the widest possible sports market, 1xBit has no real competitor.
 
 The transparency concerns are documented: no provably fair games found in our test, KYC triggered at lower thresholds than advertised, customer support averaged 47 minutes -- the worst in this list. We include 1xBit only for the use case where coin breadth and sports depth are the primary criteria.
 
@@ -428,7 +428,7 @@ The transparency concerns are documented: no provably fair games found in our te
 |---------|---------|-----------|----------|------|
 | KYC | Vig on major events | Sports | Deposits | Est. |
 
-Pinnacle is the reference platform for odds quality. Every serious bettor who compares lines uses Pinnacle as the benchmark -- it is the lowest-margin sportsbook with a long operational history. There is no crypto deposit option. Full KYC from the first bet (Level 3). Withdrawals via bank transfer in 1-3 business days.
+[Pinnacle](https://www.pinnacle.com/) is the reference platform for odds quality. Every serious bettor who compares lines uses Pinnacle as the benchmark -- it is the lowest-margin sportsbook with a long operational history. There is no crypto deposit option. Full KYC from the first bet (Level 3). Withdrawals via bank transfer in 1-3 business days.
 
 The practical question for crypto users: Pinnacle + a fast crypto off-ramp (Kraken or Binance withdrawal to Pinnacle via fiat) will often produce better EV over volume than a crypto sportsbook at worse margins. The friction cost is the exchange step. Whether that friction is worth 2-4% margin savings depends on bet size and volume.
 
@@ -477,7 +477,7 @@ The practical question for crypto users: Pinnacle + a fast crypto off-ramp (Krak
 |---------|----------|-----------|-------------------|------|
 | KYC | Deposits | Sports | Live betting | Est. |
 
-Bet365 is the global benchmark for live betting depth. In-play markets span more events and update faster than any platform in this list, including the crypto sportsbooks. The trade-off for crypto users is complete: no crypto deposits, no on-chain withdrawals, full KYC from signup.
+[Bet365](https://www.bet365.com/) is the global benchmark for live betting depth. In-play markets span more events and update faster than any platform in this list, including the crypto sportsbooks. The trade-off for crypto users is complete: no crypto deposits, no on-chain withdrawals, full KYC from signup.
 
 The market breadth is the widest available: 40+ sports, obscure leagues, and minor events that most platforms don't cover. For users who specifically need live betting depth on a wide range of sports, Bet365 is the only answer -- including cryptocurrency sportsbooks.
 
@@ -526,7 +526,7 @@ The market breadth is the widest available: 40+ sports, obscure leagues, and min
 |-----------|---------------|-----------|-------------------|------|
 | KYC | Crypto support | Sports | Specialty | Est. |
 
-Betway covers esports more deeply than any platform in this list, including minor leagues and regional competitions. CS2 coverage extends to tier-3 tournaments. LoL regional splits across multiple regions. Valorant Challengers series across Southeast Asia, EMEA, and Americas.
+[Betway](https://www.betway.com/) covers esports more deeply than any platform in this list, including minor leagues and regional competitions. CS2 coverage extends to tier-3 tournaments. LoL regional splits across multiple regions. Valorant Challengers series across Southeast Asia, EMEA, and Americas.
 
 For dedicated esports bettors who need deep coverage rather than just major events, Betway is the only platform with this breadth. Limited crypto support in select markets only -- primarily fiat. Level 2-3 KYC.
 
@@ -573,7 +573,7 @@ For dedicated esports bettors who need deep coverage rather than just major even
 |---------|---------------------|--------------|-----------|-----------|
 | KYC | Deposits | Market | Sports | Est. |
 
-BetOnline.ag is the main bridge platform for US users who want crypto deposit options alongside fiat. It accepts BTC, ETH, and LTC on the deposit side. Withdrawal in crypto is available but slower than pure crypto sportsbooks -- 48-72 hours for large amounts in community reports.
+[BetOnline.ag](https://www.betonline.ag/) is the main bridge platform for US users who want crypto deposit options alongside fiat. It accepts BTC, ETH, and LTC on the deposit side. Withdrawal in crypto is available but slower than pure crypto sportsbooks -- 48-72 hours for large amounts in community reports.
 
 The US market access is the primary differentiator. For American bettors who cannot cleanly access offshore crypto-only platforms, BetOnline.ag provides a legitimate option with crypto deposit rails.
 
@@ -620,7 +620,7 @@ The US market access is the primary differentiator. For American bettors who can
 |---------|----------|-----------|------------|------|
 | KYC | Deposits | Sports | Regulation | Est. |
 
-DraftKings is the US state-licensed sportsbook in this list. It operates under direct gaming licenses in states including New Jersey, Colorado, Virginia, and 20+ others. For US bettors who want the security of a fully regulated domestic platform, DraftKings is the correct answer.
+[DraftKings](https://www.draftkings.com/) is the US state-licensed sportsbook in this list. It operates under direct gaming licenses in states including New Jersey, Colorado, Virginia, and 20+ others. For US bettors who want the security of a fully regulated domestic platform, DraftKings is the correct answer.
 
 The crypto integration is essentially non-existent. No BTC deposits, no on-chain withdrawals. The scoring reflects this -- DraftKings scores lowest in the crypto integration column (1/10) because it is a fiat-native product.
 

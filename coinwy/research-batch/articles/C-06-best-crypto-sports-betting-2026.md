@@ -31,11 +31,11 @@ The real difference between crypto sportsbooks and fiat sportsbooks is settlemen
 
 | Platform | Sports | Live betting | Crypto | KYC level | Payout speed | Odds format |
 |----------|--------|-------------|--------|-----------|-------------|-------------|
-| Sportsbet.io | 35+ sports | Yes (deep) | BTC, ETH, LTC, USDT, DOGE | Level 1 (email) | Under 20 min | Decimal |
-| Stake | 40+ sports | Yes | BTC, ETH, USDT, SOL, others | Level 2 (threshold) | Under 30 min | Decimal, American |
-| Cloudbet | 30+ sports | Yes | BTC, BCH, ETH, USDT | Level 1 (email) | Under 15 min (BTC) | Decimal |
-| 1xBit | 40+ sports | Yes | BTC, ETH, LTC, XRP, USDT | Level 1 (email) | 20-60 min | Decimal, American, Fractional |
-| Betplay.io | 25+ sports | Yes | BTC, ETH, USDT | Level 0 (wallet) | Under 15 min | Decimal |
+| [Sportsbet.io](https://sportsbet.io/) | 35+ sports | Yes (deep) | BTC, ETH, LTC, USDT, DOGE | Level 1 (email) | Under 20 min | Decimal |
+| [Stake](https://stake.com/) | 40+ sports | Yes | BTC, ETH, USDT, SOL, others | Level 2 (threshold) | Under 30 min | Decimal, American |
+| [Cloudbet](https://cloudbet.com/) | 30+ sports | Yes | BTC, BCH, ETH, USDT | Level 1 (email) | Under 15 min (BTC) | Decimal |
+| [1xBit](https://1xbit.com/) | 40+ sports | Yes | BTC, ETH, LTC, XRP, USDT | Level 1 (email) | 20-60 min | Decimal, American, Fractional |
+| [Betplay.io](https://betplay.io/) | 25+ sports | Yes | BTC, ETH, USDT | Level 0 (wallet) | Under 15 min | Decimal |
 
 ## Ranking Scorecard
 
@@ -74,7 +74,7 @@ For bettors who parlay winnings into subsequent bets, the settlement speed diffe
 |----------|---------|--------------------------|-----------|------------|------|
 | Withdrawal | KYC | Chains | Sports | Live markets/match | Est. |
 
-Sportsbet.io is the live betting depth leader in this list. In-play markets for football matches include over 50 concurrent wagering options per match -- next goal scorer, next throw-in, exact minute range for next goal, team to score in next 5 minutes, and more. This is deeper than any crypto sportsbook we compared against.
+[Sportsbet.io](https://sportsbet.io/) is the live betting depth leader in this list. In-play markets for football matches include over 50 concurrent wagering options per match -- next goal scorer, next throw-in, exact minute range for next goal, team to score in next 5 minutes, and more. This is deeper than any crypto sportsbook we compared against.
 
 Live odds update speed is the operational differentiator: Sportsbet.io updates in-play odds more frequently than Stake or 1xBit during high-event sports, which matters for bettors who use live betting as a hedging mechanism for pre-match positions.
 
@@ -127,7 +127,7 @@ Crypto settlement is fast: USDT withdrawals under 5 minutes in community reports
 |----------|---------|----------|-----------|----------------|------|
 | Withdrawal | KYC | Deposits | Sports | Specialty | Est. |
 
-Stake is the largest crypto gambling platform by user base, and its sportsbook benefits from that scale. The sport coverage is the widest in this list: 40+ sports including football, basketball, tennis, cricket, MMA, boxing, esports, and niche markets (darts, snooker, table tennis).
+[Stake](https://stake.com/) is the largest crypto gambling platform by user base, and its sportsbook benefits from that scale. The sport coverage is the widest in this list: 40+ sports including football, basketball, tennis, cricket, MMA, boxing, esports, and niche markets (darts, snooker, table tennis).
 
 The esports coverage includes CS2, League of Legends, Dota 2, and Valorant with live betting. Crypto price prediction markets (ETH/BTC/SOL weekly outcomes) let you bet on whether ETH will close above a set price -- a unique feature available at no other platform in this list.
 
@@ -186,7 +186,7 @@ KYC is Level 2: threshold-triggered. For casual bettors with modest withdrawal v
 |----------|---------|----------------------|-----------|----------------|------|
 | BTC withdrawal | KYC | Chains | Sports | Model | Est. |
 
-Cloudbet has operated since 2013, making it the oldest platform in this list by a significant margin. Community-verified withdrawals exceeding $500,000 BTC equivalent exist in public forums -- a meaningful trust signal.
+[Cloudbet](https://cloudbet.com/) has operated since 2013, making it the oldest platform in this list by a significant margin. Community-verified withdrawals exceeding $500,000 BTC equivalent exist in public forums -- a meaningful trust signal.
 
 The Bitcoin-native focus is Cloudbet's distinctive feature: BTC deposits and withdrawals are processed in under 15 minutes for standard confirmations, and the platform accepts betting in BTC-denominated units rather than converting to USD internally. For Bitcoin holders who want to bet and receive winnings in BTC without conversion, Cloudbet preserves BTC exposure throughout.
 
@@ -239,7 +239,7 @@ Odds quality is the best of any crypto sportsbook in this list -- competitive wi
 |-----------|---------|-----------|-----------|--------------|------|
 | Withdrawal | KYC | Chains | Sports | Market specialty | Est. |
 
-1xBit has the widest international sports coverage in this list, including leagues from Africa, Central Asia, and smaller European football associations that Stake and Cloudbet do not cover. For bettors interested in arbitrage across markets, the breadth creates more matching opportunities.
+[1xBit](https://1xbit.com/) has the widest international sports coverage in this list, including leagues from Africa, Central Asia, and smaller European football associations that Stake and Cloudbet do not cover. For bettors interested in arbitrage across markets, the breadth creates more matching opportunities.
 
 The esports coverage extends to PUBG Mobile and Mobile Legends -- the dominant esports titles in Southeast Asia and the Philippines -- that are underserved by Western-focused sportsbooks. For SEA-focused bettors, 1xBit has the most relevant market coverage.
 
@@ -294,7 +294,7 @@ The transparency concerns are documented: community forum reputation is more var
 |----------|---------|----------------|-----------|----------------|------|
 | Withdrawal | KYC | Chains | Sports | Settlement | Est. |
 
-Betplay.io is the privacy maximum option: wallet-only (Level 0), no email required. You connect a wallet, deposit BTC, ETH, or USDT, and bet. No account in the traditional sense. Withdrawals settle through a publicly auditable smart contract -- verifiable on-chain.
+[Betplay.io](https://betplay.io/) is the privacy maximum option: wallet-only (Level 0), no email required. You connect a wallet, deposit BTC, ETH, or USDT, and bet. No account in the traditional sense. Withdrawals settle through a publicly auditable smart contract -- verifiable on-chain.
 
 The tradeoff is sport coverage: 25+ sports, narrower than Stake or 1xBit. The live betting interface is functional but less deep than Sportsbet.io. For the bettor whose primary concern is privacy and on-chain verifiability, Betplay.io is the strongest option.
 
