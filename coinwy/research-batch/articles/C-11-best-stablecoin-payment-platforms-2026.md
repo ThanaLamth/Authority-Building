@@ -72,6 +72,11 @@ The problem with most stablecoin payment guides: they compare which stablecoins 
 
 **Payment model:** USDC on Solana merchant gateway, direct ACH/SEPA bank payout
 
+
+![Stablecoin payment platforms comparison 2026](../media/C-11-stablecoin-payment-platforms-comparison.png)
+
+*Stablecoin payment platforms July 2026 -- Stripe, Coinbase Commerce, Transak, Request Finance and Binance Pay compared by settlement rail, MiCA compliance and off-ramp coverage.*
+
 > **Our pick for:** B2B merchants already using Stripe who want to add stablecoin acceptance with direct bank settlement — Stripe Crypto provides the fastest Solana USDC settlement (400ms) with the off-ramp infrastructure merchants expect, and the Stripe name carries institutional trust that no crypto-native platform currently matches.
 
 | 400ms | 1.5% | USDC | Solana | ACH/SEPA |
@@ -188,6 +193,11 @@ The fee range is wide (0.5–5%) because Transak routes through local payment pa
 
 What Transak provides that most platforms in this list cannot: 160+ country coverage for fiat off-ramp. For a freelancer in Brazil receiving USDC from a US client, Transak's BRL off-ramp is a meaningful service unavailable from Stripe or Coinbase Commerce.
 
+
+![Transak fiat off-ramp homepage July 2026](../media/live-transak-homepage.png)
+
+*Transak homepage reviewed July 2026 -- widest fiat off-ramp coverage, 170+ countries, individual and remittance users.*
+
 **What users say**
 
 **Positive**
@@ -291,6 +301,11 @@ Regulatory caveat: Binance's global regulatory situation has been complex since 
 ![Coinbase Commerce homepage July 2026](../media/live-coinbase-commerce-homepage.png)
 
 *Binance Pay ecosystem context: Coinbase Commerce reviewed July 2026 as MiCA-compliant alternative for EU markets.*
+
+
+![Binance Pay homepage July 2026](../media/live-binancepay-homepage.png)
+
+*Binance Pay reviewed July 2026 -- largest user base, strongest coverage for SEA and Latin America markets.*
 
 **What users say**
 

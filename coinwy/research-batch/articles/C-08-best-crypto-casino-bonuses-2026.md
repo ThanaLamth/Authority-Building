@@ -60,6 +60,11 @@ The 100% bonus at 20x beats the 500% bonus at 80x by a factor of 4. Wagering req
 
 > **How to read the scorecard:** EV reflects real expected value after wagering requirements, not headline bonus size. Loyalty model scores the long-term cashback/VIP structure. Rollbit scores highest on EV because rakeback has no wagering requirement — every return dollar is freely withdrawable.
 
+
+![Crypto casino bonus EV comparison 2026](../media/C-08-crypto-casino-bonuses-ev-comparison.png)
+
+*Bonus EV comparison July 2026 -- real expected value per 1,000 USD bonus after wagering requirements, calculated across Bets.io, BC.Game, Wild.io, Rollbit and Stake.*
+
 ## 5 best crypto casino bonus platforms reviewed (2026 list)
 
 ### 1. Bets.io — Highest Real Welcome Bonus EV
@@ -231,6 +236,11 @@ For a player wagering 10,000 USD/day with 3% rakeback: 300 USD returned daily. A
 
 Rollbit's VIP tier progression is based on cumulative RLB token wager volume. Players holding RLB tokens can accelerate tier advancement compared to platforms using USD-denominated thresholds. The returned rakeback funds are withdrawable without additional wagering requirements — a critical distinction from bonus funds with WR attached.
 
+
+![Rollbit rakeback model homepage July 2026](../media/live-rollbit-homepage.png)
+
+*Rollbit homepage reviewed July 2026 -- daily rakeback model, no wagering requirement, highest long-term value.*
+
 **What users say**
 
 **Positive**
@@ -282,6 +292,11 @@ The cashback on losses varies by tier. For entry-level players, the rate is mode
 ![Wild.io homepage reviewed July 2026](../media/live-wildio-homepage.png)
 
 *Wild.io and Stake both prioritize regular-player promotions. Reviewed July 2026.*
+
+
+![Stake.com weekly reload bonus July 2026](../media/live-stake-homepage.png)
+
+*Stake.com homepage reviewed July 2026 -- weekly reload at 15x WR, lowest wagering requirement reload in this list.*
 
 **What users say**
 

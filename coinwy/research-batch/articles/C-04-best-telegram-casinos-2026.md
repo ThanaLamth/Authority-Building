@@ -43,6 +43,11 @@ Most guides lump all three Telegram casino types together. That is where they fa
 
 *TonKeeper Play and BC.Game tie at the top for different reasons. TonKeeper wins on privacy and speed (instant TON settlement). BC.Game wins on game depth and bonus breadth. Neither is best for everyone.*
 
+
+![Telegram casino types comparison 2026](../media/C-04-telegram-casino-types-comparison.png)
+
+*Telegram casino types July 2026 -- bot-native, TON mini-app, and channel-managed models compared by UX, custody model and KYC level.*
+
 ## 3 types of Telegram casinos (read this before you pick)
 
 **Type 1: Bot casinos.** You interact through chat commands. Send `/dice 0.001 BTC`, the bot confirms, the result returns in seconds. No UI beyond the chat window. No app download. Privacy is high because there is no account. Game selection is limited: dice, crash, lottery, simple card games.

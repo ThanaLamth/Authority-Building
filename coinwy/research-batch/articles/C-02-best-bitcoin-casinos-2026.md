@@ -45,6 +45,11 @@ I reviewed all five platforms in July 2026: navigated each public interface, cro
 
 > **How to read the scorecard:** BTC track record scores operating history with verifiable community withdrawal confirmations. KYC freedom scores how little identity information is required at standard deposit sizes. Crypto Games leads on provably fair and KYC freedom; Cloudbet leads on track record; mBit leads on Lightning.
 
+
+![Bitcoin casinos 2026 comparison summary](../media/C-02-bitcoin-casinos-2026-comparison.png)
+
+*Bitcoin casinos 2026 -- BTC hold model, Lightning support, provably fair and KYC level compared across Cloudbet, Crypto Games, mBit, BC.Game and 1xBit.*
+
 ## The Bitcoin hold model: why it matters
 
 Most "Bitcoin casinos" convert your BTC to USD internally. You deposit 0.01 BTC, the casino credits you at the current rate, you play in USD-equivalent, and when you withdraw the casino converts back to BTC at the current rate. Your Bitcoin exposure is eliminated the moment you deposit.

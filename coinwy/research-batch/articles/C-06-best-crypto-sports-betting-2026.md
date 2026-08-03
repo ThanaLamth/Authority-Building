@@ -49,6 +49,11 @@ The real difference between crypto sportsbooks and fiat sportsbooks is settlemen
 
 *Sportsbet.io leads narrowly on the combination of live betting depth, crypto payout speed, and email-only KYC. Betplay.io leads on KYC freedom (wallet-only) but has narrower sport coverage.*
 
+
+![Crypto sportsbooks comparison 2026](../media/C-06-crypto-sportsbooks-comparison-2026.png)
+
+*Crypto sportsbooks July 2026 -- withdrawal speed, live betting depth, chain support and KYC level across Sportsbet.io, Stake, Cloudbet, 1xBit and Betplay.io.*
+
 ## Why crypto sportsbooks settle faster
 
 When you win a bet at a traditional fiat sportsbook (Bet365, DraftKings), the withdrawal path is: sportsbook processes the request, initiates a bank transfer, bank clears the transfer. Total time: 2-5 business days. During that window, your funds are inaccessible.
@@ -127,6 +132,16 @@ Stake is the largest crypto gambling platform by user base, and its sportsbook b
 The esports coverage includes CS2, League of Legends, Dota 2, and Valorant with live betting. Crypto price prediction markets (ETH/BTC/SOL weekly outcomes) let you bet on whether ETH will close above a set price -- a unique feature available at no other platform in this list.
 
 KYC is Level 2: threshold-triggered. For casual bettors with modest withdrawal volumes, Stake functions as de facto email-only. For high-volume bettors, ID verification is triggered. This is the primary constraint for privacy-focused players.
+
+
+![Stake.com sportsbook homepage July 2026](../media/live-stake-homepage.png)
+
+*Stake.com reviewed July 2026 -- widest sport and esports coverage, Curacao licensed.*
+
+
+![Stake.com esports markets July 2026](../media/C-06-stake-sportsbook-esports-markets.png)
+
+*Stake.com esports section, July 2026 -- CS2, Valorant, Dota 2 and League of Legends markets with live betting.*
 
 **What users say**
 
@@ -282,6 +297,11 @@ The transparency concerns are documented: community forum reputation is more var
 Betplay.io is the privacy maximum option: wallet-only (Level 0), no email required. You connect a wallet, deposit BTC, ETH, or USDT, and bet. No account in the traditional sense. Withdrawals settle through a publicly auditable smart contract -- verifiable on-chain.
 
 The tradeoff is sport coverage: 25+ sports, narrower than Stake or 1xBit. The live betting interface is functional but less deep than Sportsbet.io. For the bettor whose primary concern is privacy and on-chain verifiability, Betplay.io is the strongest option.
+
+
+![Betplay.io sportsbook July 2026](../media/live-betplay-homepage.png)
+
+*Betplay.io reviewed July 2026 -- on-chain settlement, Level 0 KYC, maximum privacy.*
 
 **What users say**
 

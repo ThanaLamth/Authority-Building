@@ -49,6 +49,11 @@ One definition first: "new" in this guide means launched in 2022 or later. This 
 
 *Jackbit leads on the combination of fast withdrawals, provably fair games, and three years of community-verified withdrawal records. Fresh Casino scores lowest because track record is the most important criterion for a new casino, and 2024 launch means minimal history to verify.*
 
+
+![New crypto casinos 2026 comparison](../media/C-07-new-crypto-casinos-2026-comparison.png)
+
+*New crypto casinos 2026 -- 5 platforms compared by launch date, bonus EV, KYC level and provably fair status, July 2026.*
+
 ## How to vet a new casino before depositing
 
 **License verification.** Curacao eGaming is the most common license for crypto casinos. It is easier to obtain than Malta MGA or UK UKGC, which makes it the default for new operators. A Curacao license is meaningful but not a strong trust signal on its own. Verify the license number directly on the Curacao eGaming registry.
@@ -138,6 +143,11 @@ Solana integration is the headline feature: sub-5-second SOL withdrawals for pla
 
 > **Note:** Rollbit's domain accessibility is inconsistent across regions. Some users report needing a VPN to access the platform. Verify accessibility from your location before depositing.
 
+
+![Rollbit crypto casino homepage July 2026](../media/live-rollbit-homepage.png)
+
+*Rollbit homepage reviewed July 2026 -- rakeback model, SOL-native on-chain settlement, Level 0 KYC.*
+
 **What users say**
 
 **Positive**
@@ -190,6 +200,11 @@ The track record is verified: consistent withdrawal confirmations over three yea
 ![Bets.io welcome bonus terms reviewed July 2026](../media/C-07-betsio-welcome-bonus-terms.png)
 
 *Bets.io bonus terms reviewed in July 2026 -- 200% match, 40x wagering requirement, highest bonus EV in this new casino list.*
+
+
+![Bets.io crypto casino homepage July 2026](../media/live-betsio-homepage.png)
+
+*Bets.io homepage reviewed July 2026 -- 200% welcome bonus at 40x WR, highest EV welcome offer in this list.*
 
 **What users say**
 

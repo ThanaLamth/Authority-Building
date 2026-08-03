@@ -43,6 +43,11 @@ The problem with most no-KYC casino lists: they call Level-2 platforms "no-KYC" 
 
 *Crypto Games leads because Level 0 KYC and unlimited withdrawals are the actual definition of no-KYC. BC.Game scores lower on privacy and withdrawal freedom despite its higher overall reputation, because its KYC trigger is real and affects high-volume users.*
 
+
+![KYC tier comparison across crypto casinos July 2026](../media/C-03-kyc-tier-comparison-crypto-casinos.png)
+
+*KYC tier comparison July 2026 -- Level 0 (no registration), Level 1 (email only), Level 2 (ID threshold) mapped across all platforms in this list.*
+
 ## What "no-KYC" actually means at a crypto casino
 
 This is the section most lists skip. It is the most important one.

@@ -74,6 +74,11 @@ The reasons for migrating matter for choosing the right alternative.
 
 **Exchange type:** Decentralized perpetuals on dYdX Chain (Cosmos appchain), no geo-restriction
 
+
+![BitMEX BitMart alternatives comparison 2026](../media/C-10-bitmex-bitmart-alternatives-comparison.png)
+
+*BitMEX and BitMart alternatives July 2026 -- KuCoin, dYdX, Hyperliquid, Gate.io, MEXC and Bitget compared by derivatives, altcoin range and KYC.*
+
 > **Our pick for:** US users who need derivatives access without geo-restriction, and any trader who wants no exchange custody risk — dYdX settles all trades on-chain with no KYC requirement and no CFTC exposure.
 
 | No KYC | 0%/0.05% | 20x | 30+ | On-chain |

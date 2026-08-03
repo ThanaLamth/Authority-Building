@@ -61,6 +61,11 @@ Why this distinction matters for your risk model: a rule-based grid bot optimize
 
 **Bot type:** Rule-based DCA + Grid + Options, 23+ CEX integrations
 
+
+![AI trading bots comparison 2026](../media/C-09-ai-trading-bots-comparison-2026.png)
+
+*AI trading bots 2026 -- 5 platforms compared by strategy type, exchange support, pricing and AI vs rule-based distinction.*
+
 > **Our pick for:** Traders who want the widest strategy range and the most layered risk management tools in a single platform — 3Commas covers DCA bots, grid bots, and options bots alongside trailing stop-loss and safety order configuration unavailable in simpler platforms.
 
 | 23+ | 22–79 USD/mo | 50 USD | DCA + Grid | Yes |
