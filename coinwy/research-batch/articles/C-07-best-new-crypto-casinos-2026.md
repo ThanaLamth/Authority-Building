@@ -126,6 +126,21 @@ Solana integration is the headline feature: sub-5-second SOL withdrawals for pla
 
 *[Rollbit](https://rollbit.com/) homepage reviewed July 2026 -- rakeback model, SOL-native on-chain settlement, Level 0 KYC.*
 
+**What users say**
+
+**Positive**
+
+> "Rollbit has been my favorite crypto casino for a long time. The platform feels polished and reliable, with one of the best combinations of casino gaming and crypto features."
+>
+> -- shomy_btc, [Trustpilot](https://www.trustpilot.com/reviews/6a5b749e8e7096f75893a3c1)
+
+**Critical**
+
+> "If you want to lose all your money, this site is for you. They won't let you withdraw -- they will ask to verify email and I didn't receive any verification email, meaning my funds are stuck."
+>
+> -- Disappointed, [Trustpilot](https://www.trustpilot.com/reviews/6a64c351e2564cb4b2269603)
+
+
 > **Thiago Alvarez -- My take:** Rollbit is the right pick for regular players who understand the rakeback model and hold SOL. The sub-5-second withdrawal speed is unmatched. The RLB token dependency is the honest complexity -- if you're a one-time player who wants a deposit bonus and to cash out, the rakeback model doesn't serve you. For SOL-native regular players, Rollbit is the strongest new-generation casino available.
 
 | Best for | Tradeoffs |

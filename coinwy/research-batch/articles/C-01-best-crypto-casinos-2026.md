@@ -148,6 +148,21 @@ Game library is smaller than [BC.Game](https://bc.game/) or [Mystake](https://my
 
 *Rollbit SOL withdrawal test, July 2026 -- 4 min 38 sec median across 5 transactions. On-chain settlement, no internal batch queue.*
 
+**What users say**
+
+**Positive**
+
+> "Rollbit has been my favorite crypto casino for a long time. The platform feels polished and reliable, with one of the best combinations of casino gaming and crypto features."
+>
+> -- shomy_btc, [Trustpilot](https://www.trustpilot.com/reviews/6a5b749e8e7096f75893a3c1)
+
+**Critical**
+
+> "If you want to lose all your money, this site is for you. They won't let you withdraw -- they will ask to verify email and I didn't receive any verification email, meaning my funds are stuck."
+>
+> -- Disappointed, [Trustpilot](https://www.trustpilot.com/reviews/6a64c351e2564cb4b2269603)
+
+
 > **Thiago Alvarez -- My take:** If you hold SOL or TON and speed is your criterion, Rollbit wins this list outright. The 3-9 minute withdrawal window held across every test date in July. The game library tradeoff is real -- I wouldn't use Rollbit for slots variety. But for provably fair crash and fast exits, the architecture is simply better than platforms running internal ledgers.
 
 | Best for | Tradeoffs |
@@ -179,6 +194,15 @@ On-chain settlement delivers 4-10 minute withdrawals in our test. Provably fair 
 ![Duelbits crypto casino homepage July 2026](../media/live-duelbits-homepage.png)
 
 *Duelbits homepage reviewed July 2026 -- esports markets, 150% welcome bonus at 25x WR, on-chain settlement.*
+
+**What users say**
+
+**Critical**
+
+> "I won 2nd place in the weekly leaderboard on Duelbits and I still haven't received my prize. I've contacted support multiple times with no resolution."
+>
+> -- MTS, [Trustpilot](https://www.trustpilot.com/reviews/6a71d537a51e2154021293e8)
+
 
 > **Thiago Alvarez -- My take:** Duelbits scores highest on bonus EV and I find the esports integration more serious than most. The limited chain range is the honest tradeoff -- if you hold SOL or BTC, you're fine. If you're on TON or BASE you'll need to convert first. For a combined esports + casino experience with the best bonus math, this is the pick.
 
@@ -212,6 +236,21 @@ Bonus EV scores at 24% in our calculation -- middle of the pack. The promotional
 
 *Stake.com homepage reviewed July 2026 -- combined sports and casino, 40+ sports, Curacao licensed, 8-20 min withdrawal.*
 
+**What users say**
+
+**Positive**
+
+> "I recently used this site to try my luck with some sports betting. I went straight to the sports section, selected a few matches, and placed my bets. The process was smooth and the interface is easy to navigate."
+>
+> -- Nicole Murphy, [Trustpilot](https://www.trustpilot.com/reviews/6a720bda16e0101adddc7914)
+
+**Critical**
+
+> "I deposited 499 USDT of my personal funds and placed a sports bet. When I tried to withdraw my balance, the account was flagged with no clear explanation. Support responses were slow and unhelpful."
+>
+> -- Stake user, [Trustpilot](https://www.trustpilot.com/reviews/6a7277716a4a737553327290)
+
+
 > **Thiago Alvarez -- My take:** Stake.com scores highest on licensing and brand credibility but not on withdrawal speed or bonus value. If you want the security of playing at the most established name in the industry and you need both sports and casino on one account, Stake is the logical choice. Players who want speed or bonus EV should look at Rollbit or Duelbits.
 
 | Best for | Tradeoffs |
@@ -244,6 +283,21 @@ Level 0 KYC: wallet-only registration with no email required. Bonus EV scores at
 
 *Betplay.io homepage reviewed July 2026 -- smart contract settlement, Level 0 KYC, SOL/BTC/ETH deposits.*
 
+**What users say**
+
+**Positive**
+
+> "Its a very good casino. Good bonus system. Good and fast pay out. Customer service also perfect."
+>
+> -- klant Ricardo, [Trustpilot](https://www.trustpilot.com/reviews/6a70de8e47ea7b99604c49ab)
+
+**Critical**
+
+> "All games on Betplay platform operate using rigged RNG systems. Lazy customer support are refusing to provide answers about deposit issues. I've been waiting weeks."
+>
+> -- honest Human, [Trustpilot](https://www.trustpilot.com/reviews/6a4d8fca195f7a7d8c4248e3)
+
+
 > **Thiago Alvarez -- My take:** Betplay.io is the most technically rigorous platform in this list for on-chain verification. I wouldn't use it as my primary casino because the game selection is too limited. But for SOL holders who want provably fair play with smart contract settlement and no KYC, there's nothing more transparent available.
 
 | Best for | Tradeoffs |
@@ -274,6 +328,21 @@ Bonus EV at 29% is in the upper third of this list. Wagering requirement average
 ![Metaspins crypto casino homepage July 2026](../media/live-metaspins-homepage.png)
 
 *Metaspins homepage reviewed July 2026 -- Level 0 KYC, wallet-only registration, provably fair dice and crash.*
+
+**What users say**
+
+**Positive**
+
+> "Instant deposits, instant withdrawals, very good customer service -- everything you can ask for. And a variety of slots. Highly recommend."
+>
+> -- J.Leam, [Trustpilot](https://www.trustpilot.com/reviews/696b995b7749e9826f72f9ca)
+
+**Critical**
+
+> "I've been waiting for my withdrawal for over 2 days now and it's still pending. My account is fully verified, I didn't use any bonuses, and I've met all the requirements. No explanation from support."
+>
+> -- sainceeejs, [Trustpilot](https://www.trustpilot.com/reviews/69f709f35ff334b8543c9edc)
+
 
 > **Thiago Alvarez -- My take:** Metaspins fills a specific niche -- anonymous, simple, provably fair, without BC.Game's feature overload. I'd recommend it to players who want a no-friction entry point to crypto gambling without committing to a complex multi-chain platform. The shorter track record is the honest risk; I wouldn't deposit more than I'd play in a single session.
 
@@ -309,6 +378,21 @@ The game count is lower than newer platforms -- [FortuneJack](https://fortunejac
 
 *FortuneJack homepage reviewed July 2026 -- provably fair since 2014, published RTP for every game, BTC-focused.*
 
+**What users say**
+
+**Positive**
+
+> "I've been using FortuneJack for a few months now, and I can confidently say it's one of the best platforms out there for both casino gaming and sports betting. The interface is clean and easy to navigate."
+>
+> -- Charles, [Trustpilot](https://www.trustpilot.com/reviews/699c484241b00ee7cd821332)
+
+**Critical**
+
+> "Garbage bonuses. Terrible support. Garbage product. Avoid it."
+>
+> -- GBL, [Trustpilot](https://www.trustpilot.com/reviews/6a6d9e1888182f4f169d1230)
+
+
 > **Thiago Alvarez -- My take:** FortuneJack is the right pick if your priority is verified history over feature count. A casino that has operated continuously since 2014, published per-game RTP, and maintained a clean payout track record is genuinely rare. The slower withdrawals and smaller game library are real tradeoffs. For BTC-only players who want the most documented provably fair system, this is the choice.
 
 | Best for | Tradeoffs |
@@ -339,6 +423,21 @@ Bonus EV at 22% is below average -- the welcome offer prioritizes BTC volume ove
 ![Cloudbet BTC sportsbook and casino interface July 2026](../media/C-02-cloudbet-btc-sportsbook-casino.png)
 
 *Cloudbet BTC sportsbook and casino reviewed July 2026 -- highest institutional reliability in this list, operating since 2013.*
+
+**What users say**
+
+**Positive**
+
+> "12 years since I have been using Cloudbet -- you can't write a better story for this amazing platform. I am mainly a sportsbook guy. Best odds, best support, best rewards and bonuses."
+>
+> -- Salah alshaikh, [Trustpilot](https://www.trustpilot.com/reviews/6a7149dbf236bb69ab65d203)
+
+**Critical**
+
+> "They scammed my deposits over a full year. Fake slots, fake games, and every time the same answers when reporting issues. Support is useless."
+>
+> -- Muhammad Saad, [Trustpilot](https://www.trustpilot.com/reviews/6a5e92c2334d07fa82309805)
+
 
 > **Thiago Alvarez -- My take:** Cloudbet is the institutional choice -- verified, documented, and reliable at scale. I wouldn't use it for recreational play because the KYC barrier and below-average bonus EV aren't justified unless you're moving serious volume. For players making $10,000+ transactions who want the most verifiable withdrawal track record available, Cloudbet is the right answer.
 
@@ -374,6 +473,21 @@ Bonus structure is complex with multiple terms layers. Read carefully before opt
 
 *Mystake homepage reviewed July 2026 -- 20+ coins with confirmed working deposits, 5,000+ game library.*
 
+**What users say**
+
+**Positive**
+
+> "Easy to use and fun casino. A lot of choice of games and easy withdrawals and deposits."
+>
+> -- Micah Wellstood, [Trustpilot](https://www.trustpilot.com/reviews/6a5679a7eb125b87f06f0b98)
+
+**Critical**
+
+> "The worst casino website ever. I've deposited money but I wasn't able to make a bet -- support told me I am restricted for sports betting. I've requested a refund of my deposit and still waiting."
+>
+> -- Yurii Dykyi, [Trustpilot](https://www.trustpilot.com/reviews/6a58bb782454409f1fdcd32a)
+
+
 > **Thiago Alvarez -- My take:** Mystake earns its place on altcoin support alone. If you hold ADA, AVAX, or MATIC and don't want to convert before playing, your options are limited -- Mystake handles this better than anything else in the list. The complex bonus terms and partial provably fair coverage mean I wouldn't recommend it for players who prioritize those factors.
 
 | Best for | Tradeoffs |
@@ -404,6 +518,21 @@ Game library is substantial, with a focus on slot titles from major providers. T
 ![mBit Casino homepage July 2026](../media/live-mbit-homepage.png)
 
 *mBit Casino homepage reviewed July 2026 -- operating since 2014, BTC/ETH/LTC/BCH deposits, Level 1 KYC.*
+
+**What users say**
+
+**Positive**
+
+> "mBit Casino is a legit online casino platform. This online casino has an endless amount of fun games to choose from on their app and you can make withdrawals super quick."
+>
+> -- Stan Taxx, [Trustpilot](https://www.trustpilot.com/reviews/6a62240801dcfebc3a232742)
+
+**Critical**
+
+> "The female staff unhelpful most of the time and stingy. You will get better customer service with the overnight guys. The support quality is inconsistent."
+>
+> -- Wesley Booker, [Trustpilot](https://www.trustpilot.com/reviews/6a4b221410514c9e00ef8bc5)
+
 
 > **Thiago Alvarez -- My take:** mBit is a known quantity. It has a clean decade-long withdrawal record and a solid slot library. The bonus math doesn't work -- skip it entirely. If you want a simple, established crypto casino with no surprises, mBit earns a spot. For speed or bonus EV, look higher in this list.
 
@@ -438,6 +567,21 @@ Bonus EV at 20% is below average. [BitStarz](https://www.bitstarz.com/) has won 
 
 > **Note:** If you are a crypto-native player with no need for fiat rails, BitStarz's speed and KYC profile are not competitive. Its value is specifically for the fiat + crypto use case.
 
+**What users say**
+
+**Positive**
+
+> "Love it! Fast deposits, fast withdrawals, great games, what more can you ask for!"
+>
+> -- travissnider, [Trustpilot](https://www.trustpilot.com/reviews/6a6fdb0034c9dba10ad13ac2)
+
+**Critical**
+
+> "Efficient withdrawal process, but the overall experience does not live up to the marketing. Support response times need work."
+>
+> -- Enrique, [Trustpilot](https://www.trustpilot.com/reviews/6a7274456c391d2cb8a8f74c)
+
+
 > **Thiago Alvarez -- My take:** BitStarz solves the fiat-crypto bridge problem better than anything else in this list. That's a real use case for some players. If you're purely crypto-native, there's no reason to accept the KYC burden and slower withdrawals. The awards are deserved for what it does, but what it does isn't what most crypto-first players need.
 
 | Best for | Tradeoffs |
@@ -469,6 +613,21 @@ Bonus EV at 19% is below average. The welcome offer is competitive on headline p
 
 *7Bit Casino homepage reviewed July 2026 -- 5,000+ game library, BTC/ETH/LTC/DOGE deposits, operating since 2014.*
 
+**What users say**
+
+**Positive**
+
+> "I think 7Bit Casino is a good reliable casino to game with and make withdrawals from -- the process is fast and available in many different methods. Handy to have more than a few withdrawal options."
+>
+> -- C.H., [Trustpilot](https://www.trustpilot.com/reviews/6a70ab0f2c57e09aaeb9bfb1)
+
+**Critical**
+
+> "Sent a crypto deposit that confirmed on the blockchain within minutes but it took almost six hours to actually show up on my casino balance. Support just said blockchain confirmation takes time -- that's not what..."
+>
+> -- Sophie Kennedy, [Trustpilot](https://www.trustpilot.com/reviews/6a719819937b17b969159f38)
+
+
 > **Thiago Alvarez -- My take:** 7Bit earns its place for game selection and operating history. The absence of provably fair is a real transparency gap -- I don't recommend 7Bit to players for whom game integrity is a priority. For casual players who want variety and have no strong provably fair requirement, the 5,000+ library and decade-long track record make it a reasonable choice.
 
 | Best for | Tradeoffs |
@@ -499,6 +658,15 @@ The transparency concerns are real and documented. No provably fair games were f
 ![1xBit KYC Level 1 -- email only, no government ID for standard play](../media/C-03-1xbit-level1-kyc-no-id.png)
 
 *1xBit KYC registration -- email-only at Level 1, no government ID for standard play reviewed July 2026.*
+
+**What users say**
+
+**Critical**
+
+> "I've had a terrible experience with this casino. They suddenly stopped crediting loyalty points for my bets with no bonuses active, and despite sending several emails, it took them 3 weeks to respond."
+>
+> -- Antonio Marapuan, [Trustpilot](https://www.trustpilot.com/reviews/68eb98fc10f2f4bd08c6eaab)
+
 
 > **Thiago Alvarez -- My take:** I use 1xBit reluctantly for one thing: sports markets that aren't available elsewhere. The transparency record is the worst in this list and the customer support response time is concerning. For sports-only bettors who need exotic markets and altcoin access, the tradeoffs might be acceptable. For casino play, the provably fair gap is a dealbreaker.
 

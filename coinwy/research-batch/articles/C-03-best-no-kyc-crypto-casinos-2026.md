@@ -152,6 +152,15 @@ The sports coverage for international events is particularly strong: football fr
 
 *1xBit registration flow reviewed in July 2026 -- email-only Level 1 KYC, no identity document required.*
 
+**What users say**
+
+**Critical**
+
+> "I've had a terrible experience with this casino. They suddenly stopped crediting loyalty points for my bets with no bonuses active, and despite sending several emails, it took them 3 weeks to respond."
+>
+> -- Antonio Marapuan, [Trustpilot](https://www.trustpilot.com/reviews/68eb98fc10f2f4bd08c6eaab)
+
+
 > **Thiago Alvarez -- My take:** 1xBit occupies a specific position: the only platform in this list that combines email-only registration with a genuine 40+ sports sportsbook and 50+ chain deposits. The transparency gap is real -- no provably fair, and KYC thresholds can be inconsistent. For sports-first players who need no-ID access to broad markets, 1xBit is the only credible option. For casino play, Crypto Games or Wild.io serve you better on game integrity.
 
 | Best for | Tradeoffs |

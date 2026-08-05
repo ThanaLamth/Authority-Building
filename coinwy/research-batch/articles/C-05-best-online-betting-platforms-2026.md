@@ -110,6 +110,21 @@ The odds gap with Pinnacle is real: Stake averages 4.5-6% vig on major football 
 
 *Stake.com sportsbook, July 2026 -- live odds display, 40+ sports, combined casino + sports navigation.*
 
+**What users say**
+
+**Positive**
+
+> "I recently used this site to try my luck with some sports betting. I went straight to the sports section, selected a few matches, and placed my bets. The process was smooth and the interface is easy to navigate."
+>
+> -- Nicole Murphy, [Trustpilot](https://www.trustpilot.com/reviews/6a720bda16e0101adddc7914)
+
+**Critical**
+
+> "I deposited 499 USDT of my personal funds and placed a sports bet. When I tried to withdraw my balance, the account was flagged with no clear explanation. Support responses were slow and unhelpful."
+>
+> -- Stake user, [Trustpilot](https://www.trustpilot.com/reviews/6a7277716a4a737553327290)
+
+
 > **Thiago Alvarez -- My take:** Stake.com earns the top crypto sportsbook position because it wins the combination -- broad chains, crypto price markets, competitive esports odds, proven payout record. The margin gap with Pinnacle is real and should not be ignored. If you're placing $50 bets for entertainment, the 3-4% odds difference doesn't matter much. If you're a volume bettor, Pinnacle and an off-ramp will produce better EV.
 
 | Best for | Tradeoffs |
@@ -183,6 +198,21 @@ The on-chain settlement model means winnings go directly to your wallet -- no in
 
 *Rollbit sportsbook, July 2026 -- sports betting interface with on-chain SOL/TON settlement.*
 
+**What users say**
+
+**Positive**
+
+> "Rollbit has been my favorite crypto casino for a long time. The platform feels polished and reliable, with one of the best combinations of casino gaming and crypto features."
+>
+> -- shomy_btc, [Trustpilot](https://www.trustpilot.com/reviews/6a5b749e8e7096f75893a3c1)
+
+**Critical**
+
+> "If you want to lose all your money, this site is for you. They won't let you withdraw -- they will ask to verify email and I didn't receive any verification email, meaning my funds are stuck."
+>
+> -- Disappointed, [Trustpilot](https://www.trustpilot.com/reviews/6a64c351e2564cb4b2269603)
+
+
 > **Thiago Alvarez -- My take:** Rollbit sportsbook is the right answer to one specific question: "I already use Rollbit and want to bet on the Champions League final -- do I need another account?" No, you don't. For anything beyond the major events on the biggest sports, the depth isn't there. Stake.com or 1xBit is the answer for serious sports bettors.
 
 | Best for | Tradeoffs |
@@ -212,6 +242,21 @@ SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only reg
 ![Betplay.io SOL-native sportsbook July 2026](../media/live-betplay-homepage.png)
 
 *Betplay.io reviewed July 2026 -- smart contract settlement, Level 0 KYC.*
+
+**What users say**
+
+**Positive**
+
+> "Its a very good casino. Good bonus system. Good and fast pay out. Customer service also perfect."
+>
+> -- klant Ricardo, [Trustpilot](https://www.trustpilot.com/reviews/6a70de8e47ea7b99604c49ab)
+
+**Critical**
+
+> "All games on Betplay platform operate using rigged RNG systems. Lazy customer support are refusing to provide answers about deposit issues. I've been waiting weeks."
+>
+> -- honest Human, [Trustpilot](https://www.trustpilot.com/reviews/6a4d8fca195f7a7d8c4248e3)
+
 
 > **Thiago Alvarez -- My take:** Betplay.io is the pick for SOL holders who want the most verifiable sportsbook architecture. The smart contract settlement is a genuine technical differentiator. The market depth tradeoff is real -- this is not the answer for high-volume sports bettors who need niche markets. For occasional betting on major events with maximum on-chain transparency, it's the strongest option.
 
@@ -244,6 +289,21 @@ Bonus: 100% on first deposit, 30x wagering. [Cloudbet](https://cloudbet.com/)'s 
 
 *Cloudbet BTC sportsbook interface reviewed July 2026 -- operating since 2013, best odds of any crypto sportsbook in this list.*
 
+**What users say**
+
+**Positive**
+
+> "12 years since I have been using Cloudbet -- you can't write a better story for this amazing platform. I am mainly a sportsbook guy. Best odds, best support, best rewards and bonuses."
+>
+> -- Salah alshaikh, [Trustpilot](https://www.trustpilot.com/reviews/6a7149dbf236bb69ab65d203)
+
+**Critical**
+
+> "They scammed my deposits over a full year. Fake slots, fake games, and every time the same answers when reporting issues. Support is useless."
+>
+> -- Muhammad Saad, [Trustpilot](https://www.trustpilot.com/reviews/6a5e92c2334d07fa82309805)
+
+
 > **Thiago Alvarez -- My take:** Cloudbet is the institutional-grade crypto sportsbook. Better odds than Stake, longer track record than anyone else, documented large-withdrawal history. The KYC requirement and limited chain support are the honest constraints. For a $500 recreational bettor, these constraints matter. For a $50,000 bettor who needs the most reliable large-bet payout in crypto, Cloudbet is the answer.
 
 | Best for | Tradeoffs |
@@ -274,6 +334,15 @@ The transparency concerns are documented: no provably fair games found in our te
 *1xBit KYC registration reviewed July 2026 -- email-only, no government ID required at Level 1.*
 
 > **Warning:** 1xBit scored the lowest for transparency in this list. No provably fair implementation was confirmed, KYC was triggered below advertised thresholds in our test, and customer support response averaged 47 minutes. Proceed with awareness.
+
+**What users say**
+
+**Critical**
+
+> "I've had a terrible experience with this casino. They suddenly stopped crediting loyalty points for my bets with no bonuses active, and despite sending several emails, it took them 3 weeks to respond."
+>
+> -- Antonio Marapuan, [Trustpilot](https://www.trustpilot.com/reviews/68eb98fc10f2f4bd08c6eaab)
+
 
 > **Thiago Alvarez -- My take:** I use 1xBit reluctantly for niche sports markets. For cricket or kabaddi at email-only KYC, there's no alternative. For standard football or esports, Stake.com has better transparency and comparable or better market depth. If transparency is important, 1xBit is the last choice in the crypto group. If niche sports matter and you understand the tradeoffs, it serves that use case.
 
