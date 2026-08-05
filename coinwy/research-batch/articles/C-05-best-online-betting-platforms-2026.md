@@ -58,7 +58,7 @@ Our entry into this keyword is through `crypto betting platform` (KD 62) and the
 
 ![Odds comparison sheet across betting platforms July 2026](../media/C-05-odds-comparison-sheet.png)
 
-*Odds comparison July 2026 -- key markets compared across Stake, Rollbit, Betplay, Cloudbet, 1xBit and fiat sportsbooks.*
+*Odds comparison July 2026 -- key markets compared across Stake, [Rollbit](https://rollbit.com/), Betplay, [Cloudbet](https://cloudbet.com/), [1xBit](https://1xbit.com/) and fiat sportsbooks.*
 
 ## Ranking Scorecard
 
@@ -110,28 +110,6 @@ The odds gap with Pinnacle is real: Stake averages 4.5-6% vig on major football 
 
 *Stake.com sportsbook, July 2026 -- live odds display, 40+ sports, combined casino + sports navigation.*
 
-**What users say**
-
-**Positive**
-
-> "Stake has the most reliable withdrawal track record I've seen over three years. Not the fastest but it's always worked."
->
-> -- r/CryptoCasino community
-
-> "The crypto price prediction markets are unique. I can run a combined BTC price + football parlay in one account. Nothing else does this."
->
-> -- r/sportsbook community
-
-**Critical**
-
-> "Geo-blocked in my country. VPN required every session. That's friction I shouldn't have with a crypto platform."
->
-> -- r/gambling community
-
-> "The odds on mainstream sports are noticeably worse than Pinnacle. The convenience has a cost."
->
-> -- r/sportsbook community
-
 > **Thiago Alvarez -- My take:** Stake.com earns the top crypto sportsbook position because it wins the combination -- broad chains, crypto price markets, competitive esports odds, proven payout record. The margin gap with Pinnacle is real and should not be ignored. If you're placing $50 bets for entertainment, the 3-4% odds difference doesn't matter much. If you're a volume bettor, Pinnacle and an off-ramp will produce better EV.
 
 | Best for | Tradeoffs |
@@ -155,7 +133,7 @@ The odds gap with Pinnacle is real: Stake averages 4.5-6% vig on major football 
 
 [BC.Game](https://bc.game/) runs one of the few genuine combined casino-and-sportsbook products. The casino is the stronger half -- see our [best crypto casino breakdown](C-01-best-crypto-casinos-2026.md) for BC.Game's casino score -- but the sportsbook functions well: 25+ sports, live betting, and crypto price prediction markets alongside the standard event slate.
 
-For players who want to play slots between matches and bet live when a game starts, BC.Game removes the friction of switching accounts. The 12-chain deposit range (including TON and BASE added Q1 2026) is the widest of any sportsbook in this list.
+For players who want to play slots between matches and bet live when a game starts, [BC.Game](https://bc.game/) removes the friction of switching accounts. The 12-chain deposit range (including TON and BASE added Q1 2026) is the widest of any sportsbook in this list.
 
 KYC Level 0 below the $10,000 cumulative threshold. For recreational bettors who won't approach that volume, this is effectively a no-registration sportsbook.
 
@@ -167,28 +145,6 @@ KYC Level 0 below the $10,000 cumulative threshold. For recreational bettors who
 ![BC.Game sportsbook interface July 2026](../media/live-bcgame-sportsbook.png)
 
 *BC.Game sportsbook, July 2026 -- crypto-native sportsbook with BTC/ETH/SOL/TON deposits, combined casino and sports on one account.*
-
-**What users say**
-
-**Positive**
-
-> "BC.Game is the only place I can switch from slots to live sports betting without a different account. That seamlessness is genuinely useful."
->
-> -- r/CryptoCasino community
-
-> "TON and BASE deposits are fast. BC.Game was ahead of other large casinos on adding these."
->
-> -- Telegram TON community
-
-**Critical**
-
-> "The sportsbook is weaker than the casino. Market depth is not as good as dedicated sportsbooks."
->
-> -- r/sportsbook community
-
-> "KYC at the $10k threshold is the reality. Don't treat this as unlimited no-KYC."
->
-> -- r/CryptoCasino community
 
 > **Thiago Alvarez -- My take:** BC.Game earns the second position here specifically on the casino + sports integration. If you're already using BC.Game for slots and want to add sports betting without a separate account, it delivers. For sports-only users, Stake.com has more depth. BC.Game's sportsbook is a strong addition to a casino-primary user, not a replacement for a dedicated sportsbook.
 
@@ -211,9 +167,9 @@ KYC Level 0 below the $10,000 cumulative threshold. For recreational bettors who
 |---------|---------|-------------------|----------|---------|------|
 | Withdrawal | KYC | Chains | Sports covered | Settlement | Est. |
 
-[Rollbit](https://rollbit.com/)'s sportsbook is secondary to its casino product. The market depth is limited: roughly 15 sports, no cryptocurrency price prediction markets, and live betting coverage is thinner than Stake or Cloudbet. What it does uniquely is settle withdrawals in SOL or TON in under 5 minutes consistently.
+[Rollbit](https://rollbit.com/)'s sportsbook is secondary to its casino product. The market depth is limited: roughly 15 sports, no cryptocurrency price prediction markets, and live betting coverage is thinner than Stake or [Cloudbet](https://cloudbet.com/). What it does uniquely is settle withdrawals in SOL or TON in under 5 minutes consistently.
 
-If you are already using Rollbit for casino and want occasional sports bets on major events without opening a new account, it works. If sports betting is your primary use case, Stake.com has more depth.
+If you are already using [Rollbit](https://rollbit.com/) for casino and want occasional sports bets on major events without opening a new account, it works. If sports betting is your primary use case, [Stake.com](https://stake.com/) has more depth.
 
 The on-chain settlement model means winnings go directly to your wallet -- no internal credit conversion, no batch processing schedule. This is the structural advantage over platforms that claim "instant" but batch their transactions.
 
@@ -226,28 +182,6 @@ The on-chain settlement model means winnings go directly to your wallet -- no in
 ![Rollbit sportsbook UI July 2026](../media/C-05-rollbit-sportsbook-ui.png)
 
 *Rollbit sportsbook, July 2026 -- sports betting interface with on-chain SOL/TON settlement.*
-
-**What users say**
-
-**Positive**
-
-> "I use Rollbit sportsbook for Champions League matches. The market is there and my winnings are in my wallet in 4 minutes. Can't argue with that."
->
-> -- r/CryptoCasino community
-
-> "SOL settlement speed is the only reason I use the sportsbook. For anything beyond major events, I go to Stake."
->
-> -- r/sportsbook community
-
-**Critical**
-
-> "15 sports is not a sportsbook -- it's a supplement. No cricket, no kabaddi, thin live markets."
->
-> -- r/sportsbook community
-
-> "Rollbit.com doesn't resolve from my region. Geo-access is inconsistent."
->
-> -- r/CryptoCasino community
 
 > **Thiago Alvarez -- My take:** Rollbit sportsbook is the right answer to one specific question: "I already use Rollbit and want to bet on the Champions League final -- do I need another account?" No, you don't. For anything beyond the major events on the biggest sports, the depth isn't there. Stake.com or 1xBit is the answer for serious sports bettors.
 
@@ -272,34 +206,12 @@ The on-chain settlement model means winnings go directly to your wallet -- no in
 
 [Betplay.io](https://betplay.io/) stands out technically: withdrawals settle through a publicly auditable smart contract rather than a proprietary internal ledger. For players who want to verify that payouts are handled correctly on-chain, this is the most transparent option in the list.
 
-SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only registration. The market depth is limited compared to Stake.com, which is the primary tradeoff. For SOL-native sports betting with maximum on-chain transparency, nothing else comes close.
+SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only registration. The market depth is limited compared to [Stake.com](https://stake.com/), which is the primary tradeoff. For SOL-native sports betting with maximum on-chain transparency, nothing else comes close.
 
 
 ![Betplay.io SOL-native sportsbook July 2026](../media/live-betplay-homepage.png)
 
 *Betplay.io reviewed July 2026 -- smart contract settlement, Level 0 KYC.*
-
-**What users say**
-
-**Positive**
-
-> "Betplay settles through a smart contract. I can verify the payout happened correctly on-chain. That's unique."
->
-> -- r/solana community
-
-> "SOL withdrawals are fast and I've never had a stuck transaction. The on-chain architecture works."
->
-> -- r/CryptoCasino community
-
-**Critical**
-
-> "Market depth is very limited. I can't find the leagues I want to bet on. Good for major events, weak for everything else."
->
-> -- r/sportsbook community
-
-> "Only 3 chains. If you hold anything other than SOL, BTC, or ETH you need to convert first."
->
-> -- r/gambling community
 
 > **Thiago Alvarez -- My take:** Betplay.io is the pick for SOL holders who want the most verifiable sportsbook architecture. The smart contract settlement is a genuine technical differentiator. The market depth tradeoff is real -- this is not the answer for high-volume sports bettors who need niche markets. For occasional betting on major events with maximum on-chain transparency, it's the strongest option.
 
@@ -324,35 +236,13 @@ SOL settlement averages 5-15 minutes in our test. Level 0 KYC -- wallet-only reg
 
 [Cloudbet](https://cloudbet.com/) launched in 2013 and has more documented large-withdrawal verifications than any other platform in this list. Most crypto sportsbooks quietly impose withdrawal limits that are not advertised. Cloudbet's documented maximum withdrawals exceed $500,000 BTC equivalent with community-verified evidence. This is unusual enough to be a genuine differentiator.
 
-Sports coverage spans 35+ sports with 80,000+ pre-match events per month. Odds quality is the best of any crypto sportsbook in this list -- competitive with Pinnacle margins on major events, better than Stake.com on average. Level 2 KYC required before the first withdrawal.
+Sports coverage spans 35+ sports with 80,000+ pre-match events per month. Odds quality is the best of any crypto sportsbook in this list -- competitive with Pinnacle margins on major events, better than [Stake.com](https://stake.com/) on average. Level 2 KYC required before the first withdrawal.
 
-Bonus: 100% on first deposit, 30x wagering. Cloudbet's bonus EV is below average (22%) by our formula but high-volume players typically skip it.
+Bonus: 100% on first deposit, 30x wagering. [Cloudbet](https://cloudbet.com/)'s bonus EV is below average (22%) by our formula but high-volume players typically skip it.
 
 ![Cloudbet BTC sportsbook reviewed July 2026](../media/C-02-cloudbet-btc-sportsbook-casino.png)
 
 *Cloudbet BTC sportsbook interface reviewed July 2026 -- operating since 2013, best odds of any crypto sportsbook in this list.*
-
-**What users say**
-
-**Positive**
-
-> "Cloudbet is the only crypto sportsbook I trust for large bets. The KYC is annoying but the track record is unmatched."
->
-> -- r/CryptoCasino community
-
-> "Odds are noticeably better than Stake on football. The margin difference is real over volume."
->
-> -- r/sportsbook community
-
-**Critical**
-
-> "Level 2 KYC from the first withdrawal. If you care about privacy, this is not the right platform."
->
-> -- r/Bitcoin community
-
-> "Only 4 chains. No SOL, no TON, no altcoins. Needs to catch up on chain support."
->
-> -- r/CryptoCasino community
 
 > **Thiago Alvarez -- My take:** Cloudbet is the institutional-grade crypto sportsbook. Better odds than Stake, longer track record than anyone else, documented large-withdrawal history. The KYC requirement and limited chain support are the honest constraints. For a $500 recreational bettor, these constraints matter. For a $50,000 bettor who needs the most reliable large-bet payout in crypto, Cloudbet is the answer.
 
@@ -377,35 +267,13 @@ Bonus: 100% on first deposit, 30x wagering. Cloudbet's bonus EV is below average
 
 [1xBit](https://1xbit.com/) has the largest sports market in this list -- 40+ sports with deep coverage including cricket, kabaddi, and table tennis. The 50+ coin support is the broadest in the list. For exotic altcoin holders who want email-only registration and the widest possible sports market, 1xBit has no real competitor.
 
-The transparency concerns are documented: no provably fair games found in our test, KYC triggered at lower thresholds than advertised, customer support averaged 47 minutes -- the worst in this list. We include 1xBit only for the use case where coin breadth and sports depth are the primary criteria.
+The transparency concerns are documented: no provably fair games found in our test, KYC triggered at lower thresholds than advertised, customer support averaged 47 minutes -- the worst in this list. We include [1xBit](https://1xbit.com/) only for the use case where coin breadth and sports depth are the primary criteria.
 
 ![1xBit KYC -- email only, no government ID for standard play](../media/C-03-1xbit-level1-kyc-no-id.png)
 
 *1xBit KYC registration reviewed July 2026 -- email-only, no government ID required at Level 1.*
 
 > **Warning:** 1xBit scored the lowest for transparency in this list. No provably fair implementation was confirmed, KYC was triggered below advertised thresholds in our test, and customer support response averaged 47 minutes. Proceed with awareness.
-
-**What users say**
-
-**Positive**
-
-> "1xBit is the only place with cricket and kabaddi markets at email-only KYC. The niche sports coverage is unmatched."
->
-> -- r/sportsbook community
-
-> "50+ coins works as advertised. I deposited ADA and MATIC without any bridge. That's genuinely useful."
->
-> -- r/CryptoCasino community
-
-**Critical**
-
-> "KYC came at a lower threshold than advertised. Verify the actual threshold before depositing large amounts."
->
-> -- r/CryptoCasino community
-
-> "47-minute support wait is unacceptable. I've had withdrawal delays that took days to resolve."
->
-> -- r/gambling community
 
 > **Thiago Alvarez -- My take:** I use 1xBit reluctantly for niche sports markets. For cricket or kabaddi at email-only KYC, there's no alternative. For standard football or esports, Stake.com has better transparency and comparable or better market depth. If transparency is important, 1xBit is the last choice in the crypto group. If niche sports matter and you understand the tradeoffs, it serves that use case.
 
@@ -434,28 +302,6 @@ The practical question for crypto users: Pinnacle + a fast crypto off-ramp (Krak
 
 > **Note:** Pinnacle does not accept users from all jurisdictions. Verify access before registering.
 
-**What users say**
-
-**Positive**
-
-> "Pinnacle is the benchmark. If you're betting serious money, the 2-3% margin difference compounds over hundreds of bets."
->
-> -- r/sportsbook community
-
-> "Best odds on football and basketball, period. Every other book copies Pinnacle's lines and marks up."
->
-> -- Betting forums
-
-**Critical**
-
-> "Full KYC from bet one. No crypto deposits. No on-chain withdrawals. This is a traditional sportsbook."
->
-> -- r/CryptoCasino community
-
-> "Restricted in so many markets. And bank transfer withdrawals take 1-3 days. Crypto users will find this painful."
->
-> -- r/sportsbook community
-
 > **Thiago Alvarez -- My take:** Pinnacle is the only fiat sportsbook I'd put on this list. The margin advantage is real and documentable. For crypto-primary users, the KYC burden and fiat-only deposit model are dealbreakers. For volume bettors who can tolerate the friction, routing through fiat to access Pinnacle's lines is worth analyzing seriously.
 
 | Best for | Tradeoffs |
@@ -483,28 +329,6 @@ The market breadth is the widest available: 40+ sports, obscure leagues, and min
 
 > **Note:** Bet365 is not available in the US. Restricted in many markets. Bank transfer withdrawals only.
 
-**What users say**
-
-**Positive**
-
-> "Bet365 live betting is in a different league from crypto sportsbooks. The market count and update speed aren't comparable."
->
-> -- r/sportsbook community
-
-> "The breadth of events covered is unmatched. I can find any league I want."
->
-> -- Betting community
-
-**Critical**
-
-> "Full KYC from bet one, fiat only, and restricted in half the world. Not useful for crypto-native users."
->
-> -- r/CryptoCasino community
-
-> "Bank withdrawals take days. For someone used to crypto settlement, this feels like going backwards."
->
-> -- r/gambling community
-
 > **Thiago Alvarez -- My take:** Bet365 is on this list because its live betting depth is genuinely superior to any crypto sportsbook. If live in-play betting is your primary use case and you can tolerate fiat, Bet365 delivers something no crypto platform currently matches. For anyone crypto-native, the KYC and fiat-only model make it impractical.
 
 | Best for | Tradeoffs |
@@ -530,28 +354,6 @@ The market breadth is the widest available: 40+ sports, obscure leagues, and min
 
 For dedicated esports bettors who need deep coverage rather than just major events, Betway is the only platform with this breadth. Limited crypto support in select markets only -- primarily fiat. Level 2-3 KYC.
 
-**What users say**
-
-**Positive**
-
-> "Betway has CS2 coverage that goes down to tier-3 tournaments. No other platform comes close for depth."
->
-> -- r/esportsbetting community
-
-> "The LoL regional splits are fully covered. I can bet on LPL, LCK, LEC, and LCS matches in one place."
->
-> -- r/leagueoflegends community
-
-**Critical**
-
-> "Crypto support is minimal and geographically restricted. This is essentially a fiat sportsbook."
->
-> -- r/CryptoCasino community
-
-> "KYC Level 2-3 depending on withdrawal amount. Not suitable for anonymous play."
->
-> -- r/gambling community
-
 > **Thiago Alvarez -- My take:** Betway is on this list for one reason: if you bet on minor esports tournaments, no crypto sportsbook has the same depth. Stake.com covers major esports events well. Betway covers everything below that. For crypto-native users, the limited crypto support and KYC requirements are real friction. For esports-specialist bettors who need depth, Betway is worth the tradeoffs.
 
 | Best for | Tradeoffs |
@@ -576,28 +378,6 @@ For dedicated esports bettors who need deep coverage rather than just major even
 [BetOnline.ag](https://www.betonline.ag/) is the main bridge platform for US users who want crypto deposit options alongside fiat. It accepts BTC, ETH, and LTC on the deposit side. Withdrawal in crypto is available but slower than pure crypto sportsbooks -- 48-72 hours for large amounts in community reports.
 
 The US market access is the primary differentiator. For American bettors who cannot cleanly access offshore crypto-only platforms, BetOnline.ag provides a legitimate option with crypto deposit rails.
-
-**What users say**
-
-**Positive**
-
-> "BetOnline is one of the few places that takes American bettors and lets me deposit with BTC. That combination is rare."
->
-> -- r/sportsbook community
-
-> "The site has been around since 2004. As an American crypto bettor, reliability matters more than speed."
->
-> -- US betting forums
-
-**Critical**
-
-> "Crypto withdrawal takes 48-72 hours. This is not a fast-withdrawal crypto platform."
->
-> -- r/CryptoCasino community
-
-> "The odds are not competitive. I use BetOnline because I can, not because the lines are good."
->
-> -- r/sportsbook community
 
 > **Thiago Alvarez -- My take:** BetOnline.ag is on this list specifically for US-based readers. If you're American and want crypto deposit options at an offshore sportsbook, your options are limited -- BetOnline fills that niche. The slow crypto withdrawals and below-average odds are the price of US accessibility. For non-US readers, any other crypto sportsbook in this list serves you better.
 
@@ -625,28 +405,6 @@ The US market access is the primary differentiator. For American bettors who can
 The crypto integration is essentially non-existent. No BTC deposits, no on-chain withdrawals. The scoring reflects this -- DraftKings scores lowest in the crypto integration column (1/10) because it is a fiat-native product.
 
 > **Note:** DraftKings is only available to bettors physically located in US states where it holds an active license. This is not an offshore or unlicensed platform.
-
-**What users say**
-
-**Positive**
-
-> "DraftKings is the only sportsbook I can use legally in my state. Regulatory compliance matters for my peace of mind."
->
-> -- US r/sportsbook community
-
-> "The app and UX are the most polished of any sportsbook I've used. Clearly the most consumer-focused product."
->
-> -- r/DraftKings community
-
-**Critical**
-
-> "No crypto at all. If you hold BTC and want to bet, this platform is useless."
->
-> -- r/CryptoCasino community
-
-> "Odds are worse than Pinnacle and sometimes worse than offshore books. The regulatory premium is real."
->
-> -- r/sportsbook community
 
 > **Thiago Alvarez -- My take:** DraftKings closes this list because it's the answer to a specific question: "I'm in the US and I want a legal, regulated sportsbook." The crypto integration doesn't exist. The odds aren't the best. But the regulatory compliance and UX polish are the strongest on this list. For US bettors who need legal compliance above everything else, DraftKings is the answer.
 
@@ -681,11 +439,11 @@ A feature unique to crypto sportsbooks: betting on cryptocurrency prices as even
 
 **Platforms offering crypto price markets (July 2026):**
 
-- Stake.com: BTC/ETH/SOL weekly markets, ongoing
-- BC.Game: BTC/ETH markets, periodic
-- 1xBit: BTC/ETH price markets, updated monthly
+- [Stake.com](https://stake.com/): BTC/ETH/SOL weekly markets, ongoing
+- [BC.Game](https://bc.game/): BTC/ETH markets, periodic
+- [1xBit](https://1xbit.com/): BTC/ETH price markets, updated monthly
 
-**Practical note:** These markets are not liquid enough for large positions. Stake.com's crypto price markets cap at roughly $500 per bet. They are supplementary, not a primary trading mechanism.
+**Practical note:** These markets are not liquid enough for large positions. [Stake.com](https://stake.com/)'s crypto price markets cap at roughly $500 per bet. They are supplementary, not a primary trading mechanism.
 
 ## Live settlement: crypto vs fiat
 
@@ -727,16 +485,16 @@ We did not receive affiliate pre-funded accounts, bonus chips, or promotional te
 ## Frequently asked questions
 
 **What is the best online betting platform for crypto users in 2026?**
-Stake.com is the strongest all-round crypto sportsbook based on our July 2026 testing: broad chain support, crypto price prediction markets, competitive odds, and an 8-year payout history. For speed only, Rollbit is faster. For high limits, Cloudbet has the better track record.
+[Stake.com](https://stake.com/) is the strongest all-round crypto sportsbook based on our July 2026 testing: broad chain support, crypto price prediction markets, competitive odds, and an 8-year payout history. For speed only, [Rollbit](https://rollbit.com/) is faster. For high limits, [Cloudbet](https://cloudbet.com/) has the better track record.
 
 **Do crypto betting platforms have better odds than fiat sportsbooks?**
 No -- on mainstream sports, they do not. Pinnacle (fiat) has the lowest margins in the market. Crypto sportsbooks average 4-6% vig on major events versus Pinnacle's 1.5-2.5%. The crypto advantage is in withdrawal speed, anonymity, and access -- not odds quality.
 
 **Can I bet on crypto prices at an online sportsbook?**
-Yes, on select platforms. Stake.com, BC.Game, and 1xBit all offer markets where you bet on whether BTC, ETH, or SOL will close above or below a set price by a specified date. These markets cap at roughly $500 per bet and are supplementary, not primary trading instruments.
+Yes, on select platforms. [Stake.com](https://stake.com/), [BC.Game](https://bc.game/), and [1xBit](https://1xbit.com/) all offer markets where you bet on whether BTC, ETH, or SOL will close above or below a set price by a specified date. These markets cap at roughly $500 per bet and are supplementary, not primary trading instruments.
 
 **How long do crypto sportsbook withdrawals take?**
-With SOL or TON: under 15 minutes on platforms that settle individually on-chain (Stake, Rollbit, Betplay.io). With BTC: 15-35 minutes typical. Some platforms batch withdrawals on a 12-24 hour schedule -- check the platform's stated processing time before depositing.
+With SOL or TON: under 15 minutes on platforms that settle individually on-chain (Stake, [Rollbit](https://rollbit.com/), [Betplay.io](https://betplay.io/)). With BTC: 15-35 minutes typical. Some platforms batch withdrawals on a 12-24 hour schedule -- check the platform's stated processing time before depositing.
 
 **Are online betting platforms legal in my country?**
 This varies by jurisdiction. Crypto sportsbooks typically operate under Curacao or similar offshore licenses, which are not accepted in many countries. Verify your local regulations before depositing. For US bettors, only platforms with state-specific licenses (DraftKings, FanDuel) are fully legal in licensed states.
