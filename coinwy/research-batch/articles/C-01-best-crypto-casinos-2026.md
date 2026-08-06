@@ -107,6 +107,21 @@ Support response: 9 minutes median across 6 test tickets.
 
 *BC.Game homepage reviewed July 2026 -- 12 chains with confirmed working deposits, including TON and BASE added Q1 2026.*
 
+**What users say**
+
+**Positive**
+
+> "BC.Game has established itself as a leader in the online gaming industry, with multi-chain support across 12 confirmed chains that sets it apart from most crypto gambling platforms."
+>
+> -- u/coingambling_op, [r/coingambling](https://reddit.com/r/coingambling/comments/1oallxx/best_alternative_websites_like_bc_game/)
+
+**Critical**
+
+> "Don't swap from crypto to fiat on BC.game -- it might get stuck. Took multiple days to resolve through support."
+>
+> -- u/onlinegambling_user, [r/onlinegambling](https://reddit.com/r/onlinegambling/comments/1ld6wk9/dont_swap_form_crypto_to_fiat_on_bcgame_it_might/)
+
+
 > **Note:** BC.Game operates at Level 0 until a cumulative $10,000 threshold or single withdrawal over $5,000. High-volume players above $50k/month will hit full KYC requirements. For a deeper look at BC.Game's no-KYC standing versus competitors, see our [no-KYC crypto casino guide](C-03-best-no-kyc-crypto-casinos-2026.md).
 
 > **Thiago Alvarez -- My take:** BC.Game earns the top spot on chain support alone, but the 40x wagering kills bonus value. I register here when I'm using an unusual chain -- TON or BASE deposits go through faster than anywhere else I've tested. If you're a BTC-only player, FortuneJack or Cloudbet serve you better. If chain breadth matters, nothing else comes close.
@@ -696,6 +711,15 @@ The crypto experience is not competitive with crypto-native platforms. Only 3 ch
 ![Punt Casino homepage July 2026](../media/live-puntcasino-homepage.png)
 
 *Punt Casino homepage reviewed July 2026 -- AUD-native platform with BTC, ETH, LTC crypto deposit support.*
+
+**What users say**
+
+**Critical**
+
+> "Punt Casino offers a no deposit 'bonus'. I met the wagering requirements for the amount to become withdrawable. But they never sent my winnings. Customer service admitted you can't withdraw winnings from a no deposit bonus no matter what. It's monopoly money, that's it."
+>
+> -- u/spasticspetsnaz, [r/onlinegambling](https://reddit.com/r/onlinegambling/comments/t8xxfb/punt_casino_is_a_scam/)
+
 
 > **Thiago Alvarez -- My take:** Punt Casino closes this list because its crypto offering is the weakest. I include it because it genuinely serves a market -- Australian players who want AUD fiat primary with crypto as an option. If you're not Australian or if crypto performance is your priority, there is no reason to choose Punt Casino over any other platform in this list.
 
