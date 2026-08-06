@@ -92,7 +92,24 @@ The welcome bonus is 100% up to 1 BTC. Wagering requirement is 40x on the bonus 
 
 *[Jackbit](https://jackbit.com/) reviewed in July 2026 -- fastest verified withdrawal time in this new casino list, provably fair game selection.*
 
-> **Thiago Alvarez -- My take:** Jackbit is the safest choice in this new casino list because its track record is real and verifiable. Three years of community withdrawal confirmations is the most important signal I look for in a newer platform. The bonus EV is fair. The provably fair is genuine. For players who want a newer platform without the risk profile of a 2024 launch, Jackbit is the answer.
+
+**What users say**
+
+**Positive**
+
+> "Overall all seems okay, very decent promotion system and cash back bonuses.
+Daily spins for activity giveaways. "
+>
+> -- Tomas, [Trustpilot](https://www.trustpilot.com/reviews/6a14867ae2c0903640e98cc9)
+
+**Critical**
+
+> "Stay away from this casino, their games are rigged especially simulated tennis matches, they literally run simulated games individually for all users, so everyone has different outcome so their algorithm after you placed your bet it will go against you to make you lose your bet"
+>
+> -- Alex Vindez, [Trustpilot](https://www.trustpilot.com/reviews/6a5c8351f94fa73d6f4c2346)
+
+
+*Jackbit is the safest choice in this new casino list because its track record is real and verifiable. Three years of community withdrawal confirmations is the most important signal I look for in a newer platform. The bonus EV is fair. The provably fair is genuine. For players who want a newer platform without the risk profile of a 2024 launch, Jackbit is the answer.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -141,7 +158,7 @@ Solana integration is the headline feature: sub-5-second SOL withdrawals for pla
 > -- Disappointed, [Trustpilot](https://www.trustpilot.com/reviews/6a64c351e2564cb4b2269603)
 
 
-> **Thiago Alvarez -- My take:** Rollbit is the right pick for regular players who understand the rakeback model and hold SOL. The sub-5-second withdrawal speed is unmatched. The RLB token dependency is the honest complexity -- if you're a one-time player who wants a deposit bonus and to cash out, the rakeback model doesn't serve you. For SOL-native regular players, Rollbit is the strongest new-generation casino available.
+*Rollbit is the right pick for regular players who understand the rakeback model and hold SOL. The sub-5-second withdrawal speed is unmatched. The RLB token dependency is the honest complexity -- if you're a one-time player who wants a deposit bonus and to cash out, the rakeback model doesn't serve you. For SOL-native regular players, Rollbit is the strongest new-generation casino available.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -177,7 +194,26 @@ The track record is verified: consistent withdrawal confirmations over three yea
 
 *[Bets.io](https://bets.io/) homepage reviewed July 2026 -- 200% welcome bonus at 40x WR, highest EV welcome offer in this list.*
 
-> **Thiago Alvarez -- My take:** Bets.io earns the third position on bonus value and track record. The 200% at 40x WR is the most favorable bonus math in this list. The absence of provably fair is the honest gap -- if verifiable game fairness matters to you, Jackbit or Rollbit serve you better. For bonus-focused players who want the best EV on a new platform with verified payouts, Bets.io delivers.
+
+**What users say**
+
+**Positive**
+
+> "Just here to say, That Dennis from Bets.io is the best VIP manager i have ever seen. 
+Really understanding and fast responding. 
+Very good platform to use. "
+>
+> -- D. Paskov, [Trustpilot](https://www.trustpilot.com/reviews/6a5895fe26cc2fc4fe3d988f)
+
+**Critical**
+
+> "Like I see they also try to fraud activity here on trustpilot.  
+This is absolute scam site, do not try."
+>
+> -- aleksandrs oleinikovs, [Trustpilot](https://www.trustpilot.com/reviews/6a5f4f457b7b0abe27456c96)
+
+
+*Bets.io earns the third position on bonus value and track record. The 200% at 40x WR is the most favorable bonus math in this list. The absence of provably fair is the honest gap -- if verifiable game fairness matters to you, Jackbit or Rollbit serve you better. For bonus-focused players who want the best EV on a new platform with verified payouts, Bets.io delivers.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -204,7 +240,7 @@ The track record is shorter than [Jackbit](https://jackbit.com/) or [Bets.io](ht
 
 Wagering requirement averages 35x -- lower than [Jackbit](https://jackbit.com/) and [Bets.io](https://bets.io/) at 40x. Lower WR produces better EV per bonus dollar at the same bonus percentage.
 
-> **Thiago Alvarez -- My take:** Luckydino's multi-deposit bonus and 35x wagering requirement are genuinely favorable. The shorter track record (2 years vs. 3 for Jackbit and Bets.io) is the honest risk. For players who understand that tradeoff and want bonus stacking across multiple deposits at lower WR, Luckydino is worth considering.
+*Luckydino's multi-deposit bonus and 35x wagering requirement are genuinely favorable. The shorter track record (2 years vs. 3 for Jackbit and Bets.io) is the honest risk. For players who understand that tradeoff and want bonus stacking across multiple deposits at lower WR, Luckydino is worth considering.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -233,7 +269,7 @@ Fresh Casino is included because it is genuinely new (2024) and because some use
 
 > **Warning:** Fresh Casino has the shortest track record in this list (2024 launch). Community withdrawal confirmations exist but the sample size is small compared to platforms with 3+ years of history. The 50x wagering requirement and lowest bonus EV make this the highest-risk, lowest-EV option in this list. Deposit only what you are prepared to lose.
 
-> **Thiago Alvarez -- My take:** Fresh Casino closes this list as the highest-risk, lowest-EV option. I include it because some readers specifically want the newest launch. If that's you, Fresh Casino is the 2024 answer. If you want the safest new casino, Jackbit is the correct choice. Do not deposit large amounts at a 2024 casino -- wait for 2+ years of community withdrawal confirmations.
+*Fresh Casino closes this list as the highest-risk, lowest-EV option. I include it because some readers specifically want the newest launch. If that's you, Fresh Casino is the 2024 answer. If you want the safest new casino, Jackbit is the correct choice. Do not deposit large amounts at a 2024 casino -- wait for 2+ years of community withdrawal confirmations.*
 
 | Best for | Tradeoffs |
 |----------|-----------|

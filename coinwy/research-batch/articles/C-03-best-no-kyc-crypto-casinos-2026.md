@@ -90,7 +90,7 @@ The game range is limited: dice, crash, lottery, roulette, and blackjack. It is 
 
 [Crypto Games](https://crypto.games/) has maintained a consistent presence in provably fair gambling threads on Reddit for several years, often cited as the reference point for verifiable fairness alongside Stake's provably fair games.
 
-> **Thiago Alvarez -- My take:** Crypto Games is the reference point for privacy in crypto gambling. No other platform offers Level 0 KYC combined with genuine provably fair across multiple game types. The narrow game selection is the real tradeoff -- this is not a full-service casino. If you want maximum privacy and verifiability, nothing competes. If you want 5,000 slots, look at BC.Game or Wild.io.
+*Crypto Games is the reference point for privacy in crypto gambling. No other platform offers Level 0 KYC combined with genuine provably fair across multiple game types. The narrow game selection is the real tradeoff -- this is not a full-service casino. If you want maximum privacy and verifiability, nothing competes. If you want 5,000 slots, look at BC.Game or Wild.io.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -121,7 +121,7 @@ Game range is narrower than most full casinos: crash variants, dice, casual game
 
 *TonKeeper Play mini-app reviewed July 2026 -- Level 0 KYC, instant TON settlement, Telegram-native.*
 
-> **Thiago Alvarez -- My take:** TonKeeper Play is the right answer for a specific profile: a TON holder who wants instant settlement and complete anonymity. The under-5-second withdrawal is a real, felt difference. If you're already in the TON/Telegram ecosystem, this is the most frictionless no-KYC casino experience currently available. For anyone outside that ecosystem, the TON concentration risk and limited game selection make it a secondary choice.
+*TonKeeper Play is the right answer for a specific profile: a TON holder who wants instant settlement and complete anonymity. The under-5-second withdrawal is a real, felt difference. If you're already in the TON/Telegram ecosystem, this is the most frictionless no-KYC casino experience currently available. For anyone outside that ecosystem, the TON concentration risk and limited game selection make it a secondary choice.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -161,7 +161,7 @@ The sports coverage for international events is particularly strong: football fr
 > -- Antonio Marapuan, [Trustpilot](https://www.trustpilot.com/reviews/68eb98fc10f2f4bd08c6eaab)
 
 
-> **Thiago Alvarez -- My take:** 1xBit occupies a specific position: the only platform in this list that combines email-only registration with a genuine 40+ sports sportsbook and 50+ chain deposits. The transparency gap is real -- no provably fair, and KYC thresholds can be inconsistent. For sports-first players who need no-ID access to broad markets, 1xBit is the only credible option. For casino play, Crypto Games or Wild.io serve you better on game integrity.
+*1xBit occupies a specific position: the only platform in this list that combines email-only registration with a genuine 40+ sports sportsbook and 50+ chain deposits. The transparency gap is real -- no provably fair, and KYC thresholds can be inconsistent. For sports-first players who need no-ID access to broad markets, 1xBit is the only credible option. For casino play, Crypto Games or Wild.io serve you better on game integrity.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -192,7 +192,23 @@ For players who want both game variety and clear terms without ID submission, [W
 
 *[Wild.io](https://wild.io/) homepage reviewed July 2026 -- Level 1 KYC (email only), 5,000+ slots from major providers.*
 
-> **Thiago Alvarez -- My take:** Wild.io is where I'd send someone who wants a real casino experience -- major provider games, clean interface, transparent terms -- without submitting ID. The newer track record is the honest risk. For players with moderate withdrawal volumes who want slots from providers they recognize, Wild.io does this better than anything else at Level 1 KYC.
+
+**What users say**
+
+**Positive**
+
+> "Over all a great casino it could however add some no deposit bonuses or allow gambling directly with wild points "
+>
+> -- Robert, [Trustpilot](https://www.trustpilot.com/reviews/6a5d5ec8324e67e7a3a7bb93)
+
+**Critical**
+
+> "They didn’t pay out. They were happy to take my money and let me deposit and play. However, as soon as I was winning and I wanted to withdraw the funds, they initiated a KYC check and took away winnings."
+>
+> -- corbyn davidson, [Trustpilot](https://www.trustpilot.com/reviews/6a5fc602dfb112bbf9190315)
+
+
+*Wild.io is where I'd send someone who wants a real casino experience -- major provider games, clean interface, transparent terms -- without submitting ID. The newer track record is the honest risk. For players with moderate withdrawal volumes who want slots from providers they recognize, Wild.io does this better than anything else at Level 1 KYC.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -225,7 +241,25 @@ For casual gamblers with modest withdrawal volumes, [BC.Game](https://bc.game/) 
 
 > **Note:** BC.Game is not no-KYC. It is threshold-KYC. Players who plan to withdraw above the trigger amount should expect to submit government ID. The threshold is not always clearly disclosed at signup and has varied in community reports from $2,000 to $10,000 depending on the payment method used.
 
-> **Thiago Alvarez -- My take:** BC.Game belongs on this list with a clear label: threshold-KYC, not no-KYC. For recreational players who won't hit the withdrawal trigger, it delivers the best game selection and chain breadth available. For high-volume players or privacy-focused players who need guaranteed no-ID withdrawal at any amount, Crypto Games or TonKeeper Play are the correct answers.
+
+**What users say**
+
+**Positive**
+
+> "Great platform with an excelent customer support. They also provide a  very nice promotions for new and vip players. 
+
+All in all, definatelly 5 ⭐!"
+>
+> -- Pingxor, [Trustpilot](https://www.trustpilot.com/reviews/6a71a32857cf351a0dae22b8)
+
+**Critical**
+
+> "All they do is take your money. I've spent 100s and haven't won once. It's a scam so do not play here. "
+>
+> -- socalborn, [Trustpilot](https://www.trustpilot.com/reviews/6a6e622018db56c8ff10db97)
+
+
+*BC.Game belongs on this list with a clear label: threshold-KYC, not no-KYC. For recreational players who won't hit the withdrawal trigger, it delivers the best game selection and chain breadth available. For high-volume players or privacy-focused players who need guaranteed no-ID withdrawal at any amount, Crypto Games or TonKeeper Play are the correct answers.*
 
 | Best for | Tradeoffs |
 |----------|-----------|

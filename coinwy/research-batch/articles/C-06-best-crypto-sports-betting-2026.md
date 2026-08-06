@@ -84,7 +84,23 @@ Crypto settlement is fast: USDT withdrawals under 5 minutes in community reports
 
 *[Sportsbet.io](https://sportsbet.io/) live betting interface reviewed in July 2026 -- 50+ concurrent in-play markets per football match, fast odds updates.*
 
-> **Thiago Alvarez -- My take:** Sportsbet.io wins the live betting category outright. If in-play is your primary strategy, the 50+ market count per match and fast odds updates are real advantages. The email-only KYC is the tradeoff for players who want Level 0 access. For pre-match betting volume across the widest sport range, Stake or 1xBit are stronger.
+
+**What users say**
+
+**Positive**
+
+> "Good, low max bet limit on the match and had to do KYC to withdraw but no issues with that."
+>
+> -- Tobias H, [Trustpilot](https://www.trustpilot.com/reviews/692c52f6b65e8b43c9c9957b)
+
+**Critical**
+
+> "Sportsbet.io is fully scammer site! Don't dare to use this site.. they will not give you your deposit funds!! I deposit 1400USDT then win 1100USDT they didn't withdrawal me single of money. Fully Scammer site!! Warning Alart!!!"
+>
+> -- Md Abu Kawsar, [Trustpilot](https://www.trustpilot.com/reviews/6a1291df3a93dba3f4d0dbdf)
+
+
+*Sportsbet.io wins the live betting category outright. If in-play is your primary strategy, the 50+ market count per match and fast odds updates are real advantages. The email-only KYC is the tradeoff for players who want Level 0 access. For pre-match betting volume across the widest sport range, Stake or 1xBit are stronger.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -136,7 +152,7 @@ KYC is Level 2: threshold-triggered. For casual bettors with modest withdrawal v
 > -- Stake user, [Trustpilot](https://www.trustpilot.com/reviews/6a7277716a4a737553327290)
 
 
-> **Thiago Alvarez -- My take:** Stake earns the second position on sport breadth and esports quality. If you're betting on CS2 or LoL at volume, Stake is the best crypto sportsbook available. The geo-blocking and Level 2 KYC at higher volumes are the real constraints. For a crypto user who needs all-round sports coverage with esports depth, Stake is the strongest answer.
+*Stake earns the second position on sport breadth and esports quality. If you're betting on CS2 or LoL at volume, Stake is the best crypto sportsbook available. The geo-blocking and Level 2 KYC at higher volumes are the real constraints. For a crypto user who needs all-round sports coverage with esports depth, Stake is the strongest answer.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -182,7 +198,7 @@ Odds quality is the best of any crypto sportsbook in this list -- competitive wi
 > -- Muhammad Saad, [Trustpilot](https://www.trustpilot.com/reviews/6a5e92c2334d07fa82309805)
 
 
-> **Thiago Alvarez -- My take:** Cloudbet is the institutional-grade crypto sportsbook. Better odds than Stake, fastest BTC settlement, longest track record. The chain support constraint is real -- if you hold SOL or TON, Sportsbet.io or Stake serve you better. For Bitcoin-primary bettors who want the most verified platform with the best BTC odds, Cloudbet is the correct answer.
+*Cloudbet is the institutional-grade crypto sportsbook. Better odds than Stake, fastest BTC settlement, longest track record. The chain support constraint is real -- if you hold SOL or TON, Sportsbet.io or Stake serve you better. For Bitcoin-primary bettors who want the most verified platform with the best BTC odds, Cloudbet is the correct answer.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -224,7 +240,7 @@ The transparency concerns are documented: community forum reputation is more var
 > -- Antonio Marapuan, [Trustpilot](https://www.trustpilot.com/reviews/68eb98fc10f2f4bd08c6eaab)
 
 
-> **Thiago Alvarez -- My take:** I use 1xBit for one specific use case: niche markets unavailable elsewhere. African football, kabaddi, Mobile Legends -- these are legitimate betting interests that only 1xBit covers at email-only KYC. The reputation risk is real. I wouldn't deposit more than I'm prepared to fight to withdraw. For standard football or esports, Stake or Cloudbet are cleaner choices.
+*I use 1xBit for one specific use case: niche markets unavailable elsewhere. African football, kabaddi, Mobile Legends -- these are legitimate betting interests that only 1xBit covers at email-only KYC. The reputation risk is real. I wouldn't deposit more than I'm prepared to fight to withdraw. For standard football or esports, Stake or Cloudbet are cleaner choices.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -269,7 +285,7 @@ The tradeoff is sport coverage: 25+ sports, narrower than [Stake](https://stake.
 > -- honest Human, [Trustpilot](https://www.trustpilot.com/reviews/6a4d8fca195f7a7d8c4248e3)
 
 
-> **Thiago Alvarez -- My take:** Betplay.io answers a specific question: "What is the most privacy-preserving sportsbook with verifiable on-chain settlement?" If that question matters to you, Betplay.io is the only correct answer in this list. If you need 40 sports and deep live markets, accept the privacy tradeoff and use Stake or Sportsbet.io.
+*Betplay.io answers a specific question: "What is the most privacy-preserving sportsbook with verifiable on-chain settlement?" If that question matters to you, Betplay.io is the only correct answer in this list. If you need 40 sports and deep live markets, accept the privacy tradeoff and use Stake or Sportsbet.io.*
 
 | Best for | Tradeoffs |
 |----------|-----------|

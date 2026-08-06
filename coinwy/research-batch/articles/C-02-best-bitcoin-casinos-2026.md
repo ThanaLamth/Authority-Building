@@ -80,6 +80,8 @@ BTC withdrawals process in under 15 minutes for standard on-chain transactions. 
 
 *Cloudbet homepage, July 2026 -- BTC-denominated balance, 12-year operating history, sportsbook with BTC-denominated odds confirmed.*
 
+*Twelve years is the data point that matters. Every other casino on this list launched post-2017 -- Cloudbet predates the 2017 bull run, paid out through the 2018 crash, and kept operating through FTX. The absence of Lightning is a real gap if you’re a Lightning user, but BTC-denominated settlement throughout is the correct model for Bitcoin-native players. For track record alone, nothing else competes.*
+
 ---
 
 ### 2. Crypto Games -- Level 0 KYC, Mathematically Provably Fair
@@ -104,6 +106,8 @@ The BTC hold model is pure: your balance is always in BTC. Minimum bet is 0.0001
 
 *Provably fair verification on [Crypto Games](https://crypto.games/) -- server seed + client seed system confirmed. Every bet result independently verifiable.*
 
+*I’d take this further than the specs suggest: Crypto Games isn’t just the no-KYC leader -- it’s the only platform on this list where you can mathematically prove you weren’t cheated. That’s not a minor feature. The narrow game selection is the tradeoff you accept, and for the audience that cares about verifiable fairness, it’s the right one to make.*
+
 ---
 
 ### 3. mBit Casino -- Lightning Network Leader, Fastest BTC Settlement
@@ -123,6 +127,22 @@ The welcome bonus is 100% up to 1 BTC + 300 free spins with a 35x wagering requi
 ![mBit Casino Lightning Network deposit -- July 2026](../media/C-02-mbit-lightning-network-deposit.png)
 
 *mBit Lightning deposit, July 2026 -- Lightning invoice QR code, instant settlement, compatible with Phoenix, Wallet of Satoshi, Zeus.*
+
+**What users say**
+
+**Positive**
+
+> "Mbits support team are incredible there so kind professional and always helps in any way they can"
+>
+> -- Chelsea Jean, [Trustpilot](https://www.trustpilot.com/reviews/6a6540706a765f814b0e1acc)
+
+**Critical**
+
+> "This site is absolutely the biggest scam online!! Clearest case of rigging games and controlling all outcomes I have ever seen in my life. They repeatedly crash games but only when you land the bonus and then it’s immediately only a loss! Like you get nothing on multiple bonuses. That is not even possible if it’s not rigged! Total fraud do not play"
+>
+> -- Michael, [Trustpilot](https://www.trustpilot.com/reviews/69fe8c0fd87c2217dd6ca9d5)
+
+*Chelsea’s praise is accurate on support responsiveness -- that tracks with what we’ve seen from mBit historically. The critical complaint about rigging is the pattern you see on every crypto casino Trustpilot page: someone lost money and interpreted variance as fraud. What I’d actually flag is that mBit’s Lightning integration is the one thing no other casino in this list does. If you hold sats in Phoenix or Zeus and want to gamble without an on-chain wait, mBit is the only answer here.*
 
 ---
 
@@ -144,6 +164,22 @@ The welcome bonus is 100% up to 1 BTC + 300 free spins with a 35x wagering requi
 
 *BC.Game, July 2026 -- 8,000+ game titles, crash games, live dealer, sports betting. Internal credit model applies.*
 
+**What users say**
+
+**Positive**
+
+> "Great platform with an excelent customer support. They also provide a very nice promotions for new and vip players. All in all, definatelly 5 stars!"
+>
+> -- Pingxor, [Trustpilot](https://www.trustpilot.com/reviews/6a71a32857cf351a0dae22b8)
+
+**Critical**
+
+> "All they do is take your money. I’ve spent 100s and haven’t won once. It’s a scam so do not play here."
+>
+> -- socalborn, [Trustpilot](https://www.trustpilot.com/reviews/6a6e622018db56c8ff10db97)
+
+*Pingxor’s five stars read like someone who’s never tried to swap crypto-to-fiat mid-session. socalborn’s complaint is familiar -- it’s the universal 1-star pattern, not specific evidence of fraud. The actual issue with BC.Game for Bitcoin-focused players is structural, not behavioral: your BTC converts to credits on deposit. If you believe in Bitcoin and don’t want to lose BTC exposure the moment you start playing, you’re in the wrong place. If you just want the widest game selection and don’t care about the hold model, BC.Game delivers.*
+
 ---
 
 ### 5. 1xBit -- Widest BTC Sportsbook, Email-Only KYC
@@ -161,6 +197,22 @@ The welcome bonus is 100% up to 1 BTC + 300 free spins with a 35x wagering requi
 ![1xBit Level 1 KYC email-only registration -- July 2026](../media/C-03-1xbit-level1-kyc-no-id.png)
 
 *1xBit, July 2026 -- email-only KYC confirmed. No government ID required for standard play.*
+
+**What users say**
+
+**Positive**
+
+> "The range of payment methods is impressive, especially all the altcoins. Deposited with Ethereum nicely while it goes up with price. However, trying to find specific transaction history beyond a month ago in the wallet section is not very clear."
+>
+> -- Barry L., [Trustpilot](https://www.trustpilot.com/reviews/689db2bfb0023f4857e35fea)
+
+**Critical**
+
+> "I strongly advise everyone to stay away from this bookmaker. Today, they refused to pay out my winnings and claimed that I had multiple accounts, even though this was my first and only account. I am extremely disappointed with how my case was handled and would not recommend this company to anyone."
+>
+> -- Mikolaj, [Trustpilot](https://www.trustpilot.com/reviews/6a6139091c6ce43ceaf50ec3)
+
+*Barry’s complaint about 30-day transaction history limits is a real usability issue -- I’d add that to any decision about using 1xBit as your primary sportsbook. The refused payout story from Mikolaj is the one to take seriously: account closure on a "duplicate account" claim is the most common exit used by offshore books. 1xBit’s email-only KYC is its appeal, but that same structure creates zero recourse when something goes wrong. Use it for niche markets where no other book operates. Don’t make it your primary.*
 
 ---
 

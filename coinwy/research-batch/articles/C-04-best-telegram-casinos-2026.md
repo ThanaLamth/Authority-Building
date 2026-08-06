@@ -73,7 +73,7 @@ Game selection is narrow: dice, crash, lottery, roulette, blackjack. No slots, n
 
 > **Note:** Any Telegram gambling bot without 12+ months of documented public withdrawals should be treated as unverified. [Crypto Games](https://crypto.games/) is the benchmark.
 
-> **Thiago Alvarez -- My take:** [Crypto Games](https://crypto.games/) is the only bot casino I recommend without reservation. The decade-long provably fair record is irreplaceable. The command interface has a learning curve. For users who want a GUI, TonKeeper Play is the right step. For maximum verifiability, nothing in this list comes close.
+*[Crypto Games](https://crypto.games/) is the only bot casino I recommend without reservation. The decade-long provably fair record is irreplaceable. The command interface has a learning curve. For users who want a GUI, TonKeeper Play is the right step. For maximum verifiability, nothing in this list comes close.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -104,7 +104,7 @@ Game selection is narrower than a full crypto casino. Casual games, dice, crash 
 
 *[TonKeeper Play](https://tonkeeper.com/) mini-app reviewed July 2026 -- full game interface inside Telegram, TON wallet connection, instant settlement.*
 
-> **Thiago Alvarez -- My take:** [TonKeeper Play](https://tonkeeper.com/) answers what a Telegram casino should be better than anything else in this list. TON-only and limited game selection are real constraints. For TON holders who want instant, no-registration in-app gambling, nothing else comes close.
+*[TonKeeper Play](https://tonkeeper.com/) answers what a Telegram casino should be better than anything else in this list. TON-only and limited game selection are real constraints. For TON holders who want instant, no-registration in-app gambling, nothing else comes close.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -129,7 +129,7 @@ Game selection is narrower than a full crypto casino. Casual games, dice, crash 
 
 For players who want more than dice and crash but still want to stay inside Telegram, [TONBet](https://tonbet.com/) is the right pick.
 
-> **Thiago Alvarez -- My take:** [TONBet](https://tonbet.com/) is the right choice when [TonKeeper Play](https://tonkeeper.com/) is not enough on game variety. Same TON-only constraint. Same mini-app format. More game types within the true Telegram casino category.
+*[TONBet](https://tonbet.com/) is the right choice when [TonKeeper Play](https://tonkeeper.com/) is not enough on game variety. Same TON-only constraint. Same mini-app format. More game types within the true Telegram casino category.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -152,7 +152,7 @@ For players who want more than dice and crash but still want to stay inside Tele
 
 [@Dice_Bot](https://t.me/Dice_Bot) is a BTC dice bot on Telegram active since 2016. Deposit BTC to the bot address, use `/dice` or `/roll` commands to bet, withdraw at any time. Level 0 KYC: no email, no account. Community reports from r/CryptoCasino and Bitcointalk confirm consistent withdrawals across multiple years.
 
-> **Thiago Alvarez -- My take:** [@Dice_Bot](https://t.me/Dice_Bot) is for BTC purists who want the simplest possible interface. [Crypto Games](https://crypto.games/) is better on multi-chain support and provably fair depth. DiceBot wins on simplicity alone: one game, one chain, reliable payouts since 2016.
+*[@Dice_Bot](https://t.me/Dice_Bot) is for BTC purists who want the simplest possible interface. [Crypto Games](https://crypto.games/) is better on multi-chain support and provably fair depth. DiceBot wins on simplicity alone: one game, one chain, reliable payouts since 2016.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
@@ -177,7 +177,7 @@ For players who want more than dice and crash but still want to stay inside Tele
 
 The track record is short (2024 launch). Start with small amounts and verify your first withdrawal before scaling.
 
-> **Thiago Alvarez -- My take:** [TON Spin](https://t.me/tonspin_bot) is for quick, lightweight TON sessions inside Telegram. The short track record means more uncertainty. Verify before scaling.
+*[TON Spin](https://t.me/tonspin_bot) is for quick, lightweight TON sessions inside Telegram. The short track record means more uncertainty. Verify before scaling.*
 
 | Best for | Tradeoffs |
 |----------|-----------|
