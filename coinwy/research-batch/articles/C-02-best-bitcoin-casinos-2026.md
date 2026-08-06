@@ -80,6 +80,20 @@ BTC withdrawals process in under 15 minutes for standard on-chain transactions. 
 
 *Cloudbet homepage, July 2026 -- BTC-denominated balance, 12-year operating history, sportsbook with BTC-denominated odds confirmed.*
 
+**What users say**
+
+**Positive**
+
+> "And this is why we challenge people who show up out of the blue crying 'scam', especially when they are unwilling to share complete information or something doesn’t seem right about their story. It’s not that we don’t want to believe people -- it’s that history shows us we can’t believe them, at least until they give us reason to."
+>
+> -- u/djbayko, [r/sportsbook](https://reddit.com/r/sportsbook/comments/asq0fi/_/egvvz3l/)
+
+**Critical**
+
+> "They told me 'we have this in rules', but couldn’t find anything in rules. Another rep sent me a link for ... reddit discussion about bookmakers language instead of rules!"
+>
+> -- u/millionpicks, [r/sportsbook](https://reddit.com/r/sportsbook/comments/7rcn60/_/dsvvh2a/)
+
 *Twelve years is the data point that matters. Every other casino on this list launched post-2017 -- Cloudbet predates the 2017 bull run, paid out through the 2018 crash, and kept operating through FTX. The absence of Lightning is a real gap if you’re a Lightning user, but BTC-denominated settlement throughout is the correct model for Bitcoin-native players. For track record alone, nothing else competes.*
 
 ---
