@@ -38,20 +38,20 @@ This list is different. We made real deposits on each platform, recorded withdra
 
 | Casino | Best For | Chains Supported | Withdrawal Speed | KYC Level | Bonus EV | Provably Fair |
 |--------|----------|-----------------|------------------|-----------|----------|---------------|
-| **[BC.Game](https://bc.game/)** | No-KYC + chain variety | BTC, ETH, SOL, TON, BASE, [USDT](https://tether.to/) | 4-12 min | Level 0-1 | 38% | Yes |
-| **[Stake.com](https://stake.com/)** | Brand trust + sports combo | BTC, ETH, LTC, XRP, DOGE, BNB | 8-20 min | Level 1 | 24% | Partial |
-| **[Rollbit](https://rollbit.com/)** | SOL/TON users | SOL, TON, BTC, ETH | 3-9 min | Level 0 | 31% | Yes |
-| **[Cloudbet](https://cloudbet.com/)** | High-limit BTC | BTC, ETH, [USDC](https://www.circle.com/usdc), USDT | 15-35 min | Level 2 | 22% | Partial |
-| **[Metaspins](https://metaspins.com/)** | New + anonymous | BTC, ETH, LTC, DOGE | 6-18 min | Level 0 | 29% | Yes |
-| **[Mystake](https://mystake.com/)** | Altcoin range | 20+ coins | 10-25 min | Level 1 | 21% | Partial |
-| **[1xBit](https://1xbit.com/)** | Sports + casino combo | BTC, ETH, ADA, XRP, 50+ | 20-60 min | Level 1 | 18% | No |
-| **[FortuneJack](https://fortunejack.com/)** | BTC purists | BTC, ETH, LTC, DOGE | 12-30 min | Level 1 | 27% | Yes |
-| **[Betplay.io](https://betplay.io/)** | SOL-native | SOL, BTC, ETH | 5-15 min | Level 0 | 33% | Yes |
-| **[mBit Casino](https://mbitcasino.com/)** | Bonus hunters | BTC, ETH, LTC, BCH | 10-40 min | Level 1 | 16% | Partial |
-| **[BitStarz](https://www.bitstarz.com/)** | Fiat + crypto hybrid | BTC, ETH, LTC + EUR/USD | 25-90 min | Level 2 | 20% | Partial |
-| **[7Bit Casino](https://7bitcasino.com/)** | Game library depth | BTC, ETH, LTC, DOGE | 15-45 min | Level 1-2 | 19% | No |
-| **[Punt Casino](https://puntcasino.com/)** | AUD + crypto | BTC, ETH, LTC | 30-90 min | Level 2 | 17% | No |
-| **[Duelbits](https://duelbits.com/)** | Esports niche | BTC, ETH, SOL, USDT | 4-10 min | Level 0 | 35% | Yes |
+| **BC.Game** | No-KYC + chain variety | BTC, ETH, SOL, TON, BASE, [USDT](https://tether.to/) | 4-12 min | Level 0-1 | 38% | Yes |
+| **Stake.com** | Brand trust + sports combo | BTC, ETH, LTC, XRP, DOGE, BNB | 8-20 min | Level 1 | 24% | Partial |
+| **Rollbit** | SOL/TON users | SOL, TON, BTC, ETH | 3-9 min | Level 0 | 31% | Yes |
+| **Cloudbet** | High-limit BTC | BTC, ETH, [USDC](https://www.circle.com/usdc), USDT | 15-35 min | Level 2 | 22% | Partial |
+| **Metaspins** | New + anonymous | BTC, ETH, LTC, DOGE | 6-18 min | Level 0 | 29% | Yes |
+| **Mystake** | Altcoin range | 20+ coins | 10-25 min | Level 1 | 21% | Partial |
+| **1xBit** | Sports + casino combo | BTC, ETH, ADA, XRP, 50+ | 20-60 min | Level 1 | 18% | No |
+| **FortuneJack** | BTC purists | BTC, ETH, LTC, DOGE | 12-30 min | Level 1 | 27% | Yes |
+| **Betplay.io** | SOL-native | SOL, BTC, ETH | 5-15 min | Level 0 | 33% | Yes |
+| **mBit Casino** | Bonus hunters | BTC, ETH, LTC, BCH | 10-40 min | Level 1 | 16% | Partial |
+| **BitStarz** | Fiat + crypto hybrid | BTC, ETH, LTC + EUR/USD | 25-90 min | Level 2 | 20% | Partial |
+| **7Bit Casino** | Game library depth | BTC, ETH, LTC, DOGE | 15-45 min | Level 1-2 | 19% | No |
+| **Punt Casino** | AUD + crypto | BTC, ETH, LTC | 30-90 min | Level 2 | 17% | No |
+| **Duelbits** | Esports niche | BTC, ETH, SOL, USDT | 4-10 min | Level 0 | 35% | Yes |
 
 *KYC levels: 0 = wallet-only / 1 = email + verification at threshold / 2 = full ID upfront. Withdrawal speed: measured across 5 test withdrawals July 2026. Bonus EV calculated using formula below.*
 

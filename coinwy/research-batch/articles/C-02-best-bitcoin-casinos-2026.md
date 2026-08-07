@@ -31,11 +31,11 @@ I reviewed all five platforms in July 2026: navigated each public interface, cro
 
 | Casino | Lightning | BTC bonus | Withdrawal (BTC) | KYC | Provably fair | BTC hold model |
 |--------|-----------|-----------|-----------------|-----|---------------|----------------|
-| [Cloudbet](https://cloudbet.com/) | No | Up to 5 BTC (100%) | Under 15 min | Level 1 (email) | No | BTC-denominated |
-| [Crypto Games](https://crypto.games/) | No | None | 5-15 min | Level 0 (none) | Yes | BTC-denominated |
-| [mBit Casino](https://mbitcasino.com/) | Yes (deposit + withdraw) | 1 BTC (100%) + FS | Instant via LN | Level 1 (email) | No | BTC-denominated |
-| [BC.Game](https://bc.game/) | No | Up to 5 BTC (multi-deposit) | 15-30 min | Level 2 (threshold) | No | Internal credits |
-| [1xBit](https://1xbit.com/) | No | Up to 1 BTC | 20-60 min | Level 1 (email) | No | Internal credits |
+| Cloudbet | No | Up to 5 BTC (100%) | Under 15 min | Level 1 (email) | No | BTC-denominated |
+| Crypto Games | No | None | 5-15 min | Level 0 (none) | Yes | BTC-denominated |
+| mBit Casino | Yes (deposit + withdraw) | 1 BTC (100%) + FS | Instant via LN | Level 1 (email) | No | BTC-denominated |
+| BC.Game | No | Up to 5 BTC (multi-deposit) | 15-30 min | Level 2 (threshold) | No | Internal credits |
+| 1xBit | No | Up to 1 BTC | 20-60 min | Level 1 (email) | No | Internal credits |
 
 ## Ranking scorecard
 

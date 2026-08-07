@@ -9,9 +9,11 @@ site: ccpress
 category: investigations
 tags: [tokenized stock perpetuals, synthetic equities defi, sec crypto enforcement, dydx synthetix, stock perps crypto 2026]
 schema: Article, FAQPage
+author: Felix van Dijk
 word_count_target: 3000
 ---
 
+*By Felix van Dijk -- Reviewed July 2026*
 Several DeFi protocols allow users to trade perpetual contracts tracking Apple, Tesla, and S&P 500 prices on-chain, without registering with the SEC. The SEC has not acted yet. The platforms are not waiting for permission.
 
 This is not a product guide. It is an accounting of who is operating in a regulatory grey zone that the SEC has not closed, and what happens to users when it does.

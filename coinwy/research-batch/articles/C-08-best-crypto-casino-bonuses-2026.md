@@ -42,11 +42,11 @@ The 100% bonus at 20x beats the 500% bonus at 80x by a factor of 4. Wagering req
 
 | Casino | Bonus type | Amount | WR | Real EV (per 1000 USD bonus) |
 |--------|-----------|--------|-----|------------------------------|
-| [Bets.io](https://bets.io/) | Welcome 200% | 1 BTC match | 40x | ~24.50 USD |
-| [BC.Game](https://bc.game/) | Welcome package | Up to 5 BTC | 40x | Variable by deposit |
-| [Wild.io](https://wild.io/) | Welcome 100% | 500 USD + 200 FS | 35x | ~14.00 USD |
-| [Rollbit](https://rollbit.com/) | Rakeback | 1–5% daily | N/A | Long-term, no WR |
-| [Stake](https://stake.com/) | Weekly reload | Varies | 15x | Best per-dollar reload |
+| Bets.io | Welcome 200% | 1 BTC match | 40x | ~24.50 USD |
+| BC.Game | Welcome package | Up to 5 BTC | 40x | Variable by deposit |
+| Wild.io | Welcome 100% | 500 USD + 200 FS | 35x | ~14.00 USD |
+| Rollbit | Rakeback | 1–5% daily | N/A | Long-term, no WR |
+| Stake | Weekly reload | Varies | 15x | Best per-dollar reload |
 
 ## Scorecard
 

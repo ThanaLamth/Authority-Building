@@ -29,11 +29,11 @@ The problem with most no-KYC casino lists: they call Level-2 platforms "no-KYC" 
 
 | Casino | KYC level | Withdrawal limit without ID | Min deposit | Chains | Provably fair |
 |--------|-----------|---------------------------|------------|--------|---------------|
-| [Crypto Games](https://crypto.games/) | Level 0 (none) | Unlimited | 0.0001 BTC | BTC, ETH, DOGE, LTC, XRP | Yes |
-| [TonKeeper Play](https://tonkeeper.com/) | Level 0 (none) | Unlimited | 0.1 TON | TON | Partial |
-| [1xBit](https://1xbit.com/) | Level 1 (email) | High (varies by method) | 0.001 BTC | BTC, ETH, LTC, XRP, [USDT](https://tether.to/) | No |
-| [Wild.io](https://wild.io/) | Level 1 (email) | Up to ~$10,000 | $10 equivalent | BTC, ETH, LTC, USDT, ADA | No |
-| [BC.Game](https://bc.game/) | Level 2 (threshold) | $2,000-$10,000 before trigger | $10 | 100+ coins | No |
+| Crypto Games | Level 0 (none) | Unlimited | 0.0001 BTC | BTC, ETH, DOGE, LTC, XRP | Yes |
+| TonKeeper Play | Level 0 (none) | Unlimited | 0.1 TON | TON | Partial |
+| 1xBit | Level 1 (email) | High (varies by method) | 0.001 BTC | BTC, ETH, LTC, XRP, [USDT](https://tether.to/) | No |
+| Wild.io | Level 1 (email) | Up to ~$10,000 | $10 equivalent | BTC, ETH, LTC, USDT, ADA | No |
+| BC.Game | Level 2 (threshold) | $2,000-$10,000 before trigger | $10 | 100+ coins | No |
 
 ## Ranking Scorecard
 

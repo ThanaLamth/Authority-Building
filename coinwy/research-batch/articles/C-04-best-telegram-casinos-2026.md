@@ -42,11 +42,11 @@ Everything else -- external sites with a Telegram support channel, bots that onl
 
 | Platform | Type | Chain | KYC | Settlement | Est. |
 |----------|------|-------|-----|-----------|------|
-| [Crypto Games](https://crypto.games/) | Bot casino | BTC, ETH, LTC, DOGE, XRP | Level 0 | 5-15 min | 2013 |
-| [DiceBot (@Dice_Bot)](https://t.me/Dice_Bot) | Bot casino | BTC | Level 0 | On-chain | 2016 |
-| [TonKeeper Play](https://tonkeeper.com/) | TON mini-app | TON | Level 0 | < 5 sec | 2023 |
-| [TONBet](https://tonbet.com/) | TON mini-app | TON | Level 0 | < 5 sec | 2023 |
-| [TON Spin](https://t.me/tonspin_bot) | TON mini-app bot | TON | Level 0 | < 5 sec | 2024 |
+| Crypto Games | Bot casino | BTC, ETH, LTC, DOGE, XRP | Level 0 | 5-15 min | 2013 |
+| DiceBot (@Dice_Bot) | Bot casino | BTC | Level 0 | On-chain | 2016 |
+| TonKeeper Play | TON mini-app | TON | Level 0 | < 5 sec | 2023 |
+| TONBet | TON mini-app | TON | Level 0 | < 5 sec | 2023 |
+| TON Spin | TON mini-app bot | TON | Level 0 | < 5 sec | 2024 |
 
 
 ## 5 best Telegram casinos reviewed (2026)
@@ -215,11 +215,11 @@ Before depositing to any Telegram gambling bot:
 
 | Platform | Steps |
 |----------|-------|
-| [Crypto Games](https://crypto.games/) | 1. Find bot on Telegram. 2. Send crypto to deposit address. 3. Use commands to play. |
+| Crypto Games | 1. Find bot on Telegram. 2. Send crypto to deposit address. 3. Use commands to play. |
 | DiceBot | 1. Open @Dice_Bot. 2. Send BTC to deposit address. 3. Use /dice command. |
-| [TonKeeper Play](https://tonkeeper.com/) | 1. Install Tonkeeper. 2. Fund with TON. 3. Open mini-app in Telegram. 4. Connect wallet. 5. Play. |
-| [TONBet](https://tonbet.com/) | 1. Install Tonkeeper. 2. Fund with TON. 3. Open TONBet mini-app. 4. Connect. 5. Play. |
-| [TON Spin](https://t.me/tonspin_bot) | 1. Fund Telegram Wallet with TON. 2. Open @tonspin_bot. 3. Connect wallet. 4. Play. |
+| TonKeeper Play | 1. Install Tonkeeper. 2. Fund with TON. 3. Open mini-app in Telegram. 4. Connect wallet. 5. Play. |
+| TONBet | 1. Install Tonkeeper. 2. Fund with TON. 3. Open TONBet mini-app. 4. Connect. 5. Play. |
+| TON Spin | 1. Fund Telegram Wallet with TON. 2. Open @tonspin_bot. 3. Connect wallet. 4. Play. |
 
 ## Which platform should you use?
 

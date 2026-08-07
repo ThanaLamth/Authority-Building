@@ -31,11 +31,11 @@ One definition first: "new" in this guide means launched in 2022 or later. This 
 
 | Casino | Launch year | Chains | Welcome bonus | KYC | License | Provably fair |
 |--------|------------|--------|--------------|-----|---------|---------------|
-| [Jackbit](https://jackbit.com/) | 2022 | BTC, ETH, LTC, DOGE, [USDT](https://tether.to/) + 100+ | 100% up to 1 BTC | Level 1 (email) | Curacao | Yes |
-| [Luckydino](https://luckydino.com/) | 2023 | BTC, ETH, USDT, LTC | 100% up to 1 BTC + free spins | Level 1 | Curacao | Partial |
-| [Bets.io](https://bets.io/) | 2022 | BTC, ETH, LTC, DOGE, USDT | 200% up to 1 BTC | Level 1 | Curacao | Partial |
-| [Rollbit](https://rollbit.com/) | 2020 (major update 2023) | BTC, ETH, SOL, RLB token | Cashback-first model | Level 0 | Not disclosed | Yes (crash, dice) |
-| [Fresh Casino](https://freshcasino.com/) | 2024 | BTC, ETH, USDT | 100% up to 0.5 BTC + 200 FS | Level 1 | Curacao | No |
+| Jackbit | 2022 | BTC, ETH, LTC, DOGE, [USDT](https://tether.to/) + 100+ | 100% up to 1 BTC | Level 1 (email) | Curacao | Yes |
+| Luckydino | 2023 | BTC, ETH, USDT, LTC | 100% up to 1 BTC + free spins | Level 1 | Curacao | Partial |
+| Bets.io | 2022 | BTC, ETH, LTC, DOGE, USDT | 200% up to 1 BTC | Level 1 | Curacao | Partial |
+| Rollbit | 2020 (major update 2023) | BTC, ETH, SOL, RLB token | Cashback-first model | Level 0 | Not disclosed | Yes (crash, dice) |
+| Fresh Casino | 2024 | BTC, ETH, USDT | 100% up to 0.5 BTC + 200 FS | Level 1 | Curacao | No |
 
 ## Ranking Scorecard
 

@@ -41,17 +41,17 @@ Our entry into this keyword is through `crypto betting platform` (KD 62) and the
 
 | Platform | Crypto Deposits | Fiat Deposits | Live Betting | Crypto Odds Markets | KYC | Best For |
 |----------|----------------|--------------|-------------|---------------------|-----|----------|
-| **[Stake.com](https://stake.com/)** | BTC, ETH, SOL, DOGE, XRP, LTC, BNB | No | Yes | Crypto price prediction | Level 1 | All-round crypto sportsbook |
-| **[Cloudbet](https://cloudbet.com/)** | BTC, ETH, [USDC](https://www.circle.com/usdc), [USDT](https://tether.to/) | No | Yes | No (sports only) | Level 2 | High-limit BTC betting |
-| **[Rollbit](https://rollbit.com/) Sportsbook** | SOL, TON, BTC, ETH | No | Limited | No | Level 0 | Fast withdrawal + casual betting |
-| **[Betplay.io](https://betplay.io/)** | SOL, BTC, ETH | No | Yes | No | Level 0 | SOL-native speed |
-| **[1xBit](https://1xbit.com/)** | 50+ coins | No | Yes (deep) | BTC/ETH price | Level 1 | Coin range + sports depth |
-| **[BC.Game](https://bc.game/) Sportsbook** | 12 chains | No | Yes | Crypto price markets | Level 0-1 | Casino + sports combined |
-| **[Bet365](https://www.bet365.com/)** | Fiat only | GBP/EUR/USD+ | Yes (best) | No | Level 3 | Fiat users, odds quality |
-| **[Pinnacle](https://www.pinnacle.com/)** | Fiat only | USD/EUR | Yes | No | Level 3 | Sharp bettors, best lines |
-| **[Betway](https://www.betway.com/)** | Fiat + limited crypto | Yes | Yes | No | Level 2-3 | Hybrid users, esports |
-| **[DraftKings](https://www.draftkings.com/)** | Fiat only | USD | Yes | No | Level 3 | US market fiat users |
-| **[BetOnline.ag](https://www.betonline.ag/)** | BTC, ETH, LTC | Yes | Yes | No | Level 2 | US-facing crypto-fiat bridge |
+| **Stake.com** | BTC, ETH, SOL, DOGE, XRP, LTC, BNB | No | Yes | Crypto price prediction | Level 1 | All-round crypto sportsbook |
+| **Cloudbet** | BTC, ETH, [USDC](https://www.circle.com/usdc), [USDT](https://tether.to/) | No | Yes | No (sports only) | Level 2 | High-limit BTC betting |
+| **Rollbit Sportsbook** | SOL, TON, BTC, ETH | No | Limited | No | Level 0 | Fast withdrawal + casual betting |
+| **Betplay.io** | SOL, BTC, ETH | No | Yes | No | Level 0 | SOL-native speed |
+| **1xBit** | 50+ coins | No | Yes (deep) | BTC/ETH price | Level 1 | Coin range + sports depth |
+| **BC.Game Sportsbook** | 12 chains | No | Yes | Crypto price markets | Level 0-1 | Casino + sports combined |
+| **Bet365** | Fiat only | GBP/EUR/USD+ | Yes (best) | No | Level 3 | Fiat users, odds quality |
+| **Pinnacle** | Fiat only | USD/EUR | Yes | No | Level 3 | Sharp bettors, best lines |
+| **Betway** | Fiat + limited crypto | Yes | Yes | No | Level 2-3 | Hybrid users, esports |
+| **DraftKings** | Fiat only | USD | Yes | No | Level 3 | US market fiat users |
+| **BetOnline.ag** | BTC, ETH, LTC | Yes | Yes | No | Level 2 | US-facing crypto-fiat bridge |
 
 *KYC levels: 0 = wallet-only / 1 = email + threshold trigger / 2 = ID before first withdrawal / 3 = full KYC from first deposit.*
 

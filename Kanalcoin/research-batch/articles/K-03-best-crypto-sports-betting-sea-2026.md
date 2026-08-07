@@ -9,9 +9,11 @@ site: kanalcoin
 category: asia
 tags: [crypto sports betting sea, crypto sportsbook indonesia, vietnam sports betting crypto, thai crypto betting, sea esports betting]
 schema: ItemList, FAQPage
+author: Nakamura Haruto
 word_count_target: 3500
 ---
 
+*By Nakamura Haruto -- Reviewed July 2026*
 For users in Indonesia, Vietnam, Thailand, and the Philippines, sports betting is a cultural constant. The question is which crypto sportsbooks cover the right sports, accept local payment methods, and work without a bank account.
 
 The best crypto sports betting sites for SEA users in 2026 are [1xBit](https://1xbit.com/) (widest SEA sport coverage, PUBG Mobile, Mobile Legends), [Stake](https://stake.com/) (dominant platform, esports betting, fast USDT), SportsBet.io (live betting depth, email-only KYC), [Cloudbet](https://cloudbet.com/) (Bitcoin-native, fast BTC, cricket), and [Betplay.io](https://betplay.io/) (wallet-only, no email, maximum privacy).

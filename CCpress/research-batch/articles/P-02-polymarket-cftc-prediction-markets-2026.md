@@ -9,9 +9,11 @@ site: ccpress
 category: investigations
 tags: [polymarket cftc, crypto prediction market 2026, polymarket alternative, kalshi prediction market, decentralized prediction market]
 schema: Article, FAQPage
+author: Felix van Dijk
 word_count_target: 3200
 ---
 
+*By Felix van Dijk -- Reviewed July 2026*
 In 2024, Polymarket, the largest on-chain prediction market, blocked US users under pressure from CFTC regulatory scrutiny. By 2026, the market had moved to alternatives. The legal question had not been resolved.
 
 That unresolved question is the story. Not the products. The story is what happens to a $3.5 billion market when the regulator decides it might be operating illegally, then does not finish deciding.

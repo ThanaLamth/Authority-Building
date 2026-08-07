@@ -31,11 +31,11 @@ The real difference between crypto sportsbooks and fiat sportsbooks is settlemen
 
 | Platform | Sports | Live betting | Crypto | KYC level | Payout speed | Odds format |
 |----------|--------|-------------|--------|-----------|-------------|-------------|
-| [Sportsbet.io](https://sportsbet.io/) | 35+ sports | Yes (deep) | BTC, ETH, LTC, USDT, DOGE | Level 1 (email) | Under 20 min | Decimal |
-| [Stake](https://stake.com/) | 40+ sports | Yes | BTC, ETH, USDT, SOL, others | Level 2 (threshold) | Under 30 min | Decimal, American |
-| [Cloudbet](https://cloudbet.com/) | 30+ sports | Yes | BTC, BCH, ETH, USDT | Level 1 (email) | Under 15 min (BTC) | Decimal |
-| [1xBit](https://1xbit.com/) | 40+ sports | Yes | BTC, ETH, LTC, XRP, USDT | Level 1 (email) | 20-60 min | Decimal, American, Fractional |
-| [Betplay.io](https://betplay.io/) | 25+ sports | Yes | BTC, ETH, USDT | Level 0 (wallet) | Under 15 min | Decimal |
+| Sportsbet.io | 35+ sports | Yes (deep) | BTC, ETH, LTC, USDT, DOGE | Level 1 (email) | Under 20 min | Decimal |
+| Stake | 40+ sports | Yes | BTC, ETH, USDT, SOL, others | Level 2 (threshold) | Under 30 min | Decimal, American |
+| Cloudbet | 30+ sports | Yes | BTC, BCH, ETH, USDT | Level 1 (email) | Under 15 min (BTC) | Decimal |
+| 1xBit | 40+ sports | Yes | BTC, ETH, LTC, XRP, USDT | Level 1 (email) | 20-60 min | Decimal, American, Fractional |
+| Betplay.io | 25+ sports | Yes | BTC, ETH, USDT | Level 0 (wallet) | Under 15 min | Decimal |
 
 ## Ranking Scorecard
 

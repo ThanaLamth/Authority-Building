@@ -37,11 +37,11 @@ The problem with most stablecoin payment guides: they compare which stablecoins 
 
 | Platform | Stablecoins | Chains | Settlement | Fiat off-ramp | MiCA | Fee |
 |----------|------------|--------|-----------|--------------|------|-----|
-| [Stripe Crypto](https://stripe.com/crypto) | USDC | Solana, Ethereum | 400ms (SOL) | Yes — direct to bank | In progress | 1.5% |
-| [Coinbase Commerce](https://commerce.coinbase.com/) | USDC, ETH, BTC | Base, Ethereum | 400ms (Base) | Yes — Coinbase account | Yes (CASP) | 1% |
-| [Transak](https://transak.com/) | USDT, USDC, DAI | 75+ chains | Chain-dependent | Yes — 50+ countries | Partial | 0.5–5% |
-| [Request Finance](https://request.finance/) | USDT, USDC, DAI | ETH, Polygon, Gnosis | 12–30s | No | No | 0.5%/invoice |
-| [Binance Pay](https://pay.binance.com/) | USDT, BUSD, USDC | BNB Chain, ETH | 1–3s (BNB) | Yes — Binance P2P | Partial | 0% crypto-to-crypto |
+| Stripe Crypto | USDC | Solana, Ethereum | 400ms (SOL) | Yes — direct to bank | In progress | 1.5% |
+| Coinbase Commerce | USDC, ETH, BTC | Base, Ethereum | 400ms (Base) | Yes — Coinbase account | Yes (CASP) | 1% |
+| Transak | USDT, USDC, DAI | 75+ chains | Chain-dependent | Yes — 50+ countries | Partial | 0.5–5% |
+| Request Finance | USDT, USDC, DAI | ETH, Polygon, Gnosis | 12–30s | No | No | 0.5%/invoice |
+| Binance Pay | USDT, BUSD, USDC | BNB Chain, ETH | 1–3s (BNB) | Yes — Binance P2P | Partial | 0% crypto-to-crypto |
 
 ## Scorecard
 

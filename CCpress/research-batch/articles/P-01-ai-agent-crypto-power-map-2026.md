@@ -9,9 +9,11 @@ site: ccpress
 category: investigations
 tags: [ai agent crypto 2026, ai crypto power map, ai16z elizaos, virtual protocol, olas network crypto]
 schema: Article, FAQPage
+author: Felix van Dijk
 word_count_target: 3500
 ---
 
+*By Felix van Dijk -- Reviewed July 2026*
 ai16z, the AI agent fund that reached $500 million in assets under autonomous management by early 2026, is governed by a DAO. The DAO's founding team retains administrative override keys.
 
 That detail matters more than any yield figure or autonomy claim. In the AI agent crypto space, the gap between what is presented to users (autonomous, decentralized, trustless) and what is actually true (admin keys, VC control, team-controlled parameters) is the central accountability question nobody is asking loudly enough.

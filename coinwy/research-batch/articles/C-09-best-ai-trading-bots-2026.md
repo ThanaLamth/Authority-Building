@@ -37,11 +37,11 @@ Why this distinction matters for your risk model: a rule-based grid bot optimize
 
 | Bot | Strategy types | Exchange support | Min capital | Monthly cost | Backtest |
 |-----|---------------|-----------------|------------|-------------|---------|
-| [3Commas](https://3commas.io/) | DCA, Grid, Options | 23+ CEX | 50 USD | 22–79 USD/mo | Yes |
-| [Pionex](https://www.pionex.com/) | Grid, DCA, Leveraged | Pionex built-in | 1 USD | Free (0.05% fee) | Limited |
-| [Cryptohopper](https://www.cryptohopper.com/) | Signal, DCA, Market Making | 100+ exchanges | 100 USD | 19–99 USD/mo | Yes |
-| [Bitsgap](https://bitsgap.com/) | Grid, DCA, COMBO | 25+ exchanges | 100 USD | 23–85 USD/mo | Yes |
-| [Hummingbot](https://hummingbot.org/) | Arbitrage, Market Making, AMM | 40+ CEX/DEX | 1000 USD+ | Free (open-source) | Manual |
+| 3Commas | DCA, Grid, Options | 23+ CEX | 50 USD | 22–79 USD/mo | Yes |
+| Pionex | Grid, DCA, Leveraged | Pionex built-in | 1 USD | Free (0.05% fee) | Limited |
+| Cryptohopper | Signal, DCA, Market Making | 100+ exchanges | 100 USD | 19–99 USD/mo | Yes |
+| Bitsgap | Grid, DCA, COMBO | 25+ exchanges | 100 USD | 23–85 USD/mo | Yes |
+| Hummingbot | Arbitrage, Market Making, AMM | 40+ CEX/DEX | 1000 USD+ | Free (open-source) | Manual |
 
 ## Scorecard
 

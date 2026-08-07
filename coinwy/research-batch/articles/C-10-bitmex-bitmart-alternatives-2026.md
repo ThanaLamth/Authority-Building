@@ -39,14 +39,14 @@ The reasons for migrating matter for choosing the right alternative.
 
 | Exchange | Type | Derivatives | Spot | Proof of reserves | US access | KYC | Maker/taker fees |
 |----------|------|------------|------|------------------|-----------|-----|-----------------|
-| [Bybit](https://www.bybit.com/) | CEX | Full perps | Yes | Yes | No | Level 2 | 0.01%/0.06% |
-| [dYdX](https://dydx.exchange/) | DEX | Full perps | No | On-chain | Yes | None | 0%/0.05% |
-| [Hyperliquid](https://hyperliquid.xyz/) | DEX | Full perps | No | On-chain | Yes | None | 0%/0.045% |
-| [OKX](https://www.okx.com/) | CEX | Full perps | Yes | Yes | No | Level 2 | 0.02%/0.05% |
-| [KuCoin](https://www.kucoin.com/) | CEX | Limited perps | Yes | Partial | No | Level 1 | 0.1%/0.1% |
-| [Gate.io](https://www.gate.io/) | CEX | Yes | Yes | Yes | No | Level 2 | 0.02%/0.05% |
-| [MEXC](https://www.mexc.com/) | CEX | Yes | Yes | Limited | No | Level 1 | 0%/0% spot |
-| [Bitget](https://www.bitget.com/) | CEX | Full perps | Yes | Yes | No | Level 2 | 0.02%/0.06% |
+| Bybit | CEX | Full perps | Yes | Yes | No | Level 2 | 0.01%/0.06% |
+| dYdX | DEX | Full perps | No | On-chain | Yes | None | 0%/0.05% |
+| Hyperliquid | DEX | Full perps | No | On-chain | Yes | None | 0%/0.045% |
+| OKX | CEX | Full perps | Yes | Yes | No | Level 2 | 0.02%/0.05% |
+| KuCoin | CEX | Limited perps | Yes | Partial | No | Level 1 | 0.1%/0.1% |
+| Gate.io | CEX | Yes | Yes | Yes | No | Level 2 | 0.02%/0.05% |
+| MEXC | CEX | Yes | Yes | Limited | No | Level 1 | 0%/0% spot |
+| Bitget | CEX | Full perps | Yes | Yes | No | Level 2 | 0.02%/0.06% |
 
 ## Track A scorecard: BitMEX derivatives alternatives
 
