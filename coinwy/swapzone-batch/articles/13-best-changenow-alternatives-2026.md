@@ -84,6 +84,14 @@ SwapSpace is the largest aggregator by partner count and coin inventory. For pai
 
 **Tradeoffs:** Fiat support is limited compared to Swapzone. For common pairs, rates are similar to Swapzone.
 
+**What users say**
+
+**Positive**
+> "5 stars all the way!! I love this service!!! They make exchanging crypto easy for dumbasses like myself! Simple, Fast and reliable! You don't have to have an account, login, give your personal info or anything. Love it!"
+>
+> -- Richie Rich, [Trustpilot](https://www.trustpilot.com/reviews/6a514e79ebbd79bf33601548) (★★★★★, 2026-07)
+
+
 ### Single-provider alternatives
 
 ### StealthEX
@@ -96,6 +104,19 @@ StealthEX requires no registration and has no stated upper swap limit, with a 4.
 
 **Tradeoffs:** Single provider rate — use Swapzone to compare StealthEX against others before committing.
 
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
+
 ### SimpleSwap
 
 **Our pick for:** Cleanest single-provider alternative to ChangeNOW in terms of UX simplicity.
@@ -106,7 +127,24 @@ SimpleSwap routes through 15-plus providers and offers fixed and floating rate w
 
 **Tradeoffs:** Single provider rate. Not as fast as ChangeNOW for common pairs.
 
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
+
 ### Exolix
+
+
+![Exolix crypto exchange homepage July 2026](../media/13-exolix-homepage.png)
+*Exolix homepage reviewed July 2026.*
 
 **Our pick for:** Fixed rate alternative to ChangeNOW when price certainty is the primary requirement.
 
@@ -115,6 +153,19 @@ Exolix specializes in fixed rate swaps, requires no account, and applies no KYC 
 **Best for:** Fixed rate priority. No-KYC fixed rate at standard swap sizes.
 
 **Tradeoffs:** Lower partner count and coin variety. Rate should be compared via Swapzone.
+
+**What users say**
+
+**Positive**
+> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+>
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+
+**Critical**
+> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+>
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+
 
 ### Changelly
 
@@ -127,6 +178,10 @@ Changelly has fiat buy options alongside crypto swaps and an established brand i
 **Tradeoffs:** KYC trigger exists and threshold is not publicly disclosed.
 
 ### SideShift
+
+
+![LetsExchange altcoin exchange homepage July 2026](../media/live-letsexchange-homepage.png)
+*LetsExchange homepage reviewed July 2026 -- 4,500+ coins, no KYC.*
 
 **Our pick for:** ChangeNOW alternative specifically for Bitcoin-focused users who want no registration.
 
@@ -158,6 +213,11 @@ Users who have switched from or compared ChangeNOW to other services share their
 > "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms, 5…" — [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (★★★★★, 2022-11)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+"What are good ChangeNOW alternatives" threads on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=ChangeNOW+alternative&sort=top) consistently surface three names: SimpleSwap, StealthEX, and Swapzone. The community preference skews toward aggregators when users want to avoid committing to a single provider.
 
 > **Coinwy Editorial Team -- My take:** Arne's "scammed by SimpleSwap, ChangeNOW worked" is exactly the kind of provider-trust variance that makes aggregators useful. Had Arne run the pair on Swapzone first, he would have seen both options with Trustpilot ratings attached. JepettO's "a little extra compared to other platforms" confirms the rate competition model delivers for common pairs. Neither review is a strong argument for any single service -- they are an argument for checking multiple options before committing.
 

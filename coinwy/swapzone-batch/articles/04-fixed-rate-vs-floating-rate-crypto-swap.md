@@ -57,6 +57,10 @@ Start comparing fixed and floating quotes side by side on [Swapzone](https://swa
 
 ## How Fixed Rate Works
 
+
+![Exolix fixed rate swap interface July 2026](../media/04-exolix-fixed-rate.png)
+*Exolix fixed rate interface July 2026 -- rate locks before fund send.*
+
 When you select fixed rate, the provider locks your exchange rate at the moment you create the order. The amount you will receive is calculated and displayed before you send anything.
 
 Once you send the funds, the provider honors that rate regardless of what happens to the market during blockchain confirmation. If BTC drops 3% while your transaction confirms, you still receive the originally quoted ETH amount. The provider takes the loss on that slippage.
@@ -138,7 +142,10 @@ The fixed vs floating rate decision shows up clearly in user feedback — often 
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
-> **Coinwy Editorial Team -- My take:** Peter's "3.1% less than initially calculated" is the exact floating-rate failure mode: swap stuck for hours, market moved, no compensation. Fixed rate would have cost a small premium upfront and protected the full amount. Stan's fast result reflects a different session -- calm market, fast confirmation. These outcomes are not contradictory; they reflect different conditions on different days. Volatile session with a slow chain: use fixed. Calm market with fast confirmation: floating is fine and cheaper.
+
+**What Reddit says**
+
+Fixed-rate vs floating-rate debates appear regularly on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=fixed+rate+crypto+swap&sort=top). The community take is practical: use fixed-rate when you need the output amount to be predictable (paying someone a specific amount), use floating-rate when the market is calm and you want the slightly better average rate. Fixed-rate costs around 0.3 to 0.5% premium in most market conditions -- the question is whether predictability is worth that cost for your use case.
 
 
 ## FAQ

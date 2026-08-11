@@ -41,6 +41,10 @@ Caption: `Swapzone aggregator reviewed July 2026 -- bridges DEX and CEX provider
 
 ## DEX in Southeast Asia: where it works and where it does not
 
+
+![Uniswap DEX interface July 2026](../media/17-uniswap-dex.png)
+*Uniswap DEX reviewed July 2026.*
+
 A DEX like Uniswap, [PancakeSwap](https://pancakeswap.finance/), or similar requires no registration and no KYC. You connect a wallet, approve the token swap, and transact on-chain. The swap rate is determined by the AMM (automated market maker) pricing formula, which includes slippage based on pool depth.
 
 The friction for SEA users is the gas fee and the fiat gap. A $5-20 ETH gas fee on Uniswap during network congestion is 1-4% overhead on a $500 swap  before factoring in the AMM spread. For users on BNB Chain (PancakeSwap), gas is $0.50 to $2, which is more manageable.
@@ -58,6 +62,10 @@ DEX works well for SEA users who:
 AMM stands for Automated Market Maker. Instead of matching buy and sell orders between users, an AMM uses a mathematical formula (typically x multiplied by y equals k) to price swaps based on the ratio of two assets in a shared liquidity pool. The more of one asset you buy relative to pool depth, the worse your price  this is slippage.
 
 ## CEX in Southeast Asia: the necessary entry point
+
+
+![Binance centralized exchange interface July 2026](../media/17-binance-cex.png)
+*Binance CEX reviewed July 2026.*
 
 A licensed CEX is the only tool that directly accepts IDR, THB, and PHP. OJK-licensed exchanges in Indonesia ([Indodax](https://www.indodax.com/), [Tokocrypto](https://www.tokocrypto.com/), [Reku](https://reku.id/), [Pintu](https://pintu.co.id/)) accept IDR via bank transfer. Bitkub and [OKX](https://www.okx.com/) TH accept THB. [PDAX](https://pdax.ph/) and [Coins.ph](https://coins.ph/) accept PHP.
 
@@ -132,6 +140,11 @@ Users who made the choice between DEX, CEX, and aggregator explain their reasoni
 > "It is good, but rates vary sometimes, some partners do it fast and other take some time. The support is very fast to respond. Had a problem, was solved when I wrote the support. It is a good platform to swap your…" — [Vini Pooh](https://www.trustpilot.com/reviews/61124ccbf9f487044c56a6ed) (★★★★★, 2021-08)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+DEX vs CEX debates on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=DEX+vs+CEX&sort=top) and [r/defi](https://www.reddit.com/r/defi/) are well-worn. The practical community consensus has evolved: DEXes win on trustlessness and privacy for on-chain assets; CEXes win on fiat access and liquidity for major pairs; aggregators (a third category) win on non-custodial swaps across chains without requiring a wallet connection.
 
 > **Nakamura Haruto -- My take:** Mike's reaction -- "frightened by choice, liked everything in one place" -- is the aggregator value in a sentence. For SEA users specifically, the three-way comparison has a local dimension: IDR, THB, and PHP on-ramps require a licensed CEX with full KYC. The aggregator enters the picture only after you have already converted fiat to crypto. Vini Pooh's speed variance note is the honest caveat: in this region, local provider liquidity affects execution time in ways that quoted rates do not predict.
 

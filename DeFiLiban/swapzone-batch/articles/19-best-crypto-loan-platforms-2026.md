@@ -66,6 +66,10 @@ For comparison with yield-generating alternatives, see the [staking platform com
 
 ### YouHodler
 
+
+![YouHodler crypto loan platform homepage July 2026](../media/live-youhodler-homepage.png)
+*YouHodler homepage reviewed July 2026 -- 12% APR crypto loans.*
+
 **Our pick for:** The highest LTV available in this comparison (90%) for users who need maximum borrowing capacity against their collateral and who actively manage their position.
 
 YouHodler's 90% LTV is aggressive and requires understanding. At initiation, a 5% collateral price drop closes 52% of the remaining margin before liquidation. Users who take 90% LTV loans must be prepared to top up collateral or repay partially on short notice in volatile conditions.
@@ -76,7 +80,24 @@ The APR of 12% (per Swapzone API July 2026) is the lowest in this comparison on 
 
 **Not recommended for:** Users who will not actively monitor their LTV. A 90% LTV loan against BTC or ETH on a 10% down day can trigger liquidation without warning if no buffer is maintained.
 
+**What users say**
+
+**Positive**
+> "Hey there! I really didn't write recommendations on any platforms so far. You know, excuses are for example being too lazy, it makes no difference and so on... At this time I want to give youhodler a shoutout. Many many suppliers got rekt over the last years in crypto."
+>
+> -- Hans Fischer, [Trustpilot](https://www.trustpilot.com/reviews/6a4bff87529926ea99ae7131) (★★★★★, 2026-07)
+
+**Critical**
+> "Totally scam. They are just busy stealing your money, there is no question of any serious and reliable company."
+>
+> -- Alakbar Mammad, [Trustpilot](https://www.trustpilot.com/reviews/6a67ba3e4e4c3c5cf58b0153) (★, 2026-07)
+
+
 ### CoinRabbit
+
+
+![CoinRabbit crypto loan platform homepage July 2026](../media/live-coinrabbit-homepage.png)
+*CoinRabbit homepage reviewed July 2026 -- 14.5% APR crypto loans.*
 
 **Our pick for:** Moderate LTV (70%) with a wider cushion before liquidation at a mid-range APR.
 
@@ -88,6 +109,10 @@ CoinRabbit's 70% LTV initiation and 85% liquidation threshold gives a 15-percent
 
 ### Nexo
 
+
+![Nexo crypto loan interface July 2026](../media/19-nexo-loan.png)
+*Nexo loan interface reviewed July 2026 -- 18.9% APR.*
+
 **Our pick for:** Conservative LTV (50%) and the most established CeFi crypto lender with verifiable audit history.
 
 Nexo operates at a maximum 50% LTV, which is the most conservative in this comparison and leaves substantial buffer before the 83.33% liquidation threshold. The APR is 18.9% (per Swapzone API July 2026)  the highest CeFi rate in this comparison, reflecting the lower leverage offered.
@@ -97,6 +122,14 @@ Nexo has operated continuously through the 2022 market stress events without exp
 **Best for:** Conservative borrowers. Users who prioritize established CeFi track record and audit transparency over LTV and APR optimization.
 
 **Not recommended for:** Users who need high LTV leverage or who want the lowest borrow rate.
+
+**What users say**
+
+**Positive**
+> "I have been able to use several of your services—especially the savings options, which provide detailed information on how to use your instruments to generate returns based on available capital, all without friction. Thank you for the specific details regarding the wide range of options you offer."
+>
+> -- Alejandro, [Trustpilot](https://www.trustpilot.com/reviews/6a7368dea5685f13d0a1c235) (★★★★★, 2026-08)
+
 
 ### Aave
 
@@ -178,6 +211,11 @@ Users managing crypto liquidity — including those who have needed quick swaps 
 > "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly…" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+Crypto loan platform discussions on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=YouHodler+Nexo+crypto+loan&sort=top) typically center on counterparty risk. After Celsius's 2022 collapse, the community became markedly more cautious about any yield-bearing or lending platform. The consensus advice is to use regulated platforms (Nexo holds regulatory licenses in several jurisdictions) and keep loan amounts well below what would be catastrophic to lose if the platform froze.
 
 > **DeFiLiban Editorial -- My take:** Andrew's 11-hour swap resolution illustrates the time-risk that CeFi loan users rarely account for: if you are posting collateral urgently during a market dip, a swap sitting for hours is not a neutral delay. Stan's "$30 overall" entry cost matters here: for a $500 loan position, that is 6% of notional before the first interest payment. On YouHodler's 12% APR, you have paid two and a half months of interest just to open the position. Loan utility improves dramatically at higher principal amounts where the fixed entry cost becomes a smaller fraction of the total.
 

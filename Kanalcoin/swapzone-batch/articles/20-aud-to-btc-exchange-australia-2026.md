@@ -66,6 +66,10 @@ Independent Reserve is the most liquid AUD to BTC venue in Australia by trading 
 
 ### CoinSpot
 
+
+![CoinSpot Australian crypto exchange homepage July 2026](../media/20-coinspot-homepage.png)
+*CoinSpot homepage reviewed July 2026 -- AUSTRAC-registered Australian exchange.*
+
 **Our pick for:** Widest coin selection and simplest UX for retail AUD to BTC buyers.
 
 CoinSpot accepts POLi, BPAY, and card for AUD deposits. Coin selection is the widest of the four Australian exchanges. For retail users who want to start with BTC and later explore altcoins without switching platforms, CoinSpot's breadth keeps options open. AUSTRAC-registered and operating since 2013.
@@ -74,7 +78,24 @@ CoinSpot accepts POLi, BPAY, and card for AUD deposits. Coin selection is the wi
 
 **Not recommended for:** Active traders who need tight spreads  Swyftx's maker/taker fee structure is more competitive for frequent trading.
 
+**What users say**
+
+**Positive**
+> "The ease of setting up the account was simple and intuitive. The vast range of options to transfer funds was helpful and easy to process. And the app design and user experience made everything clear and straightforward."
+>
+> -- Mattew van Blerk, [Trustpilot](https://www.trustpilot.com/reviews/6a69a94727702090f37ee085) (★★★★★, 2026-07)
+
+**Critical**
+> "CoinSpot is easy to use, reliable, and secure. Deposits and withdrawals have always been smooth, and the platform makes buying and selling crypto simple. Overall, I’ve had a great experience and would definitely recommend it."
+>
+> -- Herina Darmawaty, [Trustpilot](https://www.trustpilot.com/reviews/6a69591bba03aaa10e17a2e6) (★★, 2026-07)
+
+
 ### Swyftx
+
+
+![Swyftx Australian crypto exchange homepage July 2026](../media/20-swyftx-homepage.png)
+*Swyftx homepage reviewed July 2026 -- low-fee AUD crypto exchange.*
 
 **Our pick for:** Lowest fee structure for active retail AUD to BTC buyers.
 
@@ -83,6 +104,19 @@ Swyftx operates a maker/taker fee structure that is among the most competitive o
 **Best for:** Fee-conscious active traders. Regular AUD to BTC buyers.
 
 **Not recommended for:** OTC volume where Independent Reserve's depth is preferred.
+
+**What users say**
+
+**Positive**
+> "We had a wonderful experience with Swyftx, especially with their employee Adam. I was having trouble with my Trezor and had to urgently make a large SMSF BTC deposit into my personal Swyftx account. Adam sorted it out for me step by step and was very patient with me, in an extremely stressful situation - thank you Adam and Swyftx."
+>
+> -- Joanna Fowler, [Trustpilot](https://www.trustpilot.com/reviews/6a717daaf23a7db2d65bbb6f) (★★★★★, 2026-08)
+
+**Critical**
+> "I tried several times to withdraw my money, but I kept running into one obstacle after another. I spent hours trying to complete everything, only to get stuck waiting for an email verification that never arrived. It was incredibly frustrating. After switching to #𝐺casc𝗈# I finally stopped worrying every time I requested a withdrawal."
+>
+> -- Jesse Boyle, [Trustpilot](https://www.trustpilot.com/reviews/6a6bf3b269207a174092c981) (★, 2026-07)
+
 
 ### BTC Markets
 
@@ -156,7 +190,10 @@ Users swapping fiat-to-crypto pairs share their experiences with aggregator plat
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
-> **Nakamura Haruto -- My take:** Raul Ginematic's "I'll check Swapzone's fiat rate first" is the right starting point. The question is what you do when Swapzone's AUD partner is card-only and running 1.5 to 3% above the rate you would get via a direct AUSTRAC-registered exchange with bank transfer. For amounts above AUD 500, a local exchange with direct bank deposit will almost always win on effective rate. Swapzone's AUD pair is most useful for users who want a no-registration path and are willing to pay the card premium for that convenience.
+
+**What Reddit says**
+
+[r/AusFinance](https://www.reddit.com/r/AusFinance/) has consistent threads comparing CoinSpot and Swyftx, the two dominant AUD-to-crypto onramps. The community consensus: CoinSpot wins on brand trust and longevity (founded 2013, AUSTRAC registered), Swyftx wins on fee structure for active traders. For pure AUD-to-BTC conversion, both work fine; the real question is whether you want to keep the BTC on the exchange or move it to self-custody immediately after purchase.
 
 
 

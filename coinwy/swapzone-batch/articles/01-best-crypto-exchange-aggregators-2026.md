@@ -103,6 +103,10 @@ The question of whether fiat pairs remain active and competitive on Swapzone is 
 
 ### SwapSpace
 
+
+![SwapSpace crypto exchange aggregator homepage July 2026](../media/01-swapspace-homepage.png)
+*SwapSpace homepage reviewed July 2026 -- 32+ partners, 3,800+ coins.*
+
 **Our pick for:** The largest partner count and widest coin variety of any aggregator in this list.
 
 SwapSpace aggregates 32-plus providers and supports 3,800-plus coins — both figures higher than any other platform compared here. For obscure altcoins or cross-chain pairs not covered by smaller aggregators, SwapSpace is typically the first place to check. Its fixed and floating rate options work the same as other aggregators: no account needed, no upper limits on most pairs.
@@ -113,7 +117,19 @@ Fiat support is limited compared to Swapzone — SwapSpace does not match Swapzo
 
 **Not recommended for:** Fiat-to-crypto workflows where Swapzone's fiat rail access is more complete.
 
+**What users say**
+
+**Positive**
+> "5 stars all the way!! I love this service!!! They make exchanging crypto easy for dumbasses like myself! Simple, Fast and reliable! You don't have to have an account, login, give your personal info or anything. Love it!"
+>
+> -- Richie Rich, [Trustpilot](https://www.trustpilot.com/reviews/6a514e79ebbd79bf33601548) (★★★★★, 2026-07)
+
+
 ### SimpleSwap
+
+
+![SimpleSwap instant crypto exchange homepage July 2026](../media/01-simpleswap-homepage.png)
+*SimpleSwap homepage reviewed July 2026 -- no registration, 15+ partners.*
 
 **Our pick for:** The cleanest, least-friction no-registration experience in this comparison.
 
@@ -125,7 +141,24 @@ Coin selection is narrower than SwapSpace but covers the main trading pairs well
 
 **Not recommended for:** Complex multi-pair routing or obscure coins not in SimpleSwap's inventory.
 
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
+
 ### ChangeNOW
+
+
+![ChangeNOW cryptocurrency exchange homepage July 2026](../media/live-changenow-homepage.png)
+*ChangeNOW homepage reviewed July 2026.*
 
 **Our pick for:** Fastest swap times and high transaction limits for common pairs.
 
@@ -137,7 +170,24 @@ ChangeNOW is also a partner within the Swapzone network, which means Swapzone ma
 
 **Not recommended for:** Users who need guaranteed no-KYC at any transaction size.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### StealthEX
+
+
+![StealthEX no-KYC crypto exchange homepage July 2026](../media/01-stealthex-homepage.png)
+*StealthEX homepage reviewed July 2026 -- no KYC, no upper limits.*
 
 **Our pick for:** No-KYC swaps without upper limits — the best option for privacy-conscious users and large no-KYC volumes.
 
@@ -149,7 +199,24 @@ For BTC to XMR and similar privacy-sensitive pairs where upper limits elsewhere 
 
 **Not recommended for:** Fiat-to-crypto on-ramp — fiat is not available on StealthEX directly.
 
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
+
 ### Exolix
+
+
+![Exolix fixed rate crypto exchange homepage July 2026](../media/live-exolix-homepage.png)
+*Exolix homepage reviewed July 2026 -- fixed rate focus.*
 
 **Our pick for:** Fixed rate reliability on standard pairs.
 
@@ -159,7 +226,24 @@ Exolix focuses on fixed rate swaps. Its user interface is simple, no account req
 
 **Not recommended for:** Obscure pairs or users optimizing for the absolute lowest rate.
 
+**What users say**
+
+**Positive**
+> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+>
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+
+**Critical**
+> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+>
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+
+
 ### LetsExchange
+
+
+![LetsExchange altcoin exchange homepage July 2026](../media/live-letsexchange-homepage.png)
+*LetsExchange homepage reviewed July 2026 -- 4,500+ coins.*
 
 **Our pick for:** Altcoin variety at no-KYC, no upper limit conditions.
 
@@ -168,6 +252,14 @@ LetsExchange supports over 4,500 coins according to its own documentation, makin
 **Best for:** Obscure altcoin pairs not covered by the other aggregators on this list.
 
 **Not recommended for:** Common pairs where Swapzone or SwapSpace will surface a better rate.
+
+**What users say**
+
+**Positive**
+> "Gotta say these guys really excel as XMR-swappers - with good rates and middlish execution-times as per Trocador - and THEN they warn they may await 150 confirmations - but actually complete the swap after just 5 - so that's "exceeding customer-expectations" - and you can nicely track your swap even when you start it elsewhere, e.g. on Trocador."
+>
+> -- Martin Anantharaman, [Trustpilot](https://www.trustpilot.com/reviews/6a43e2d3c82ecb5f5482d41b) (★★★★★, 2026-06)
+
 
 ### SideShift
 
@@ -229,6 +321,15 @@ For this article, we reviewed the live public surfaces of all 8 platforms — in
 > "It is good, but rates vary sometimes, some partners do it fast and other take some time. The support is very fast to respond. Had a problem, was solved when I wrote the support. It is a good platform to swap your…" — [Vini Pooh](https://www.trustpilot.com/reviews/61124ccbf9f487044c56a6ed) (★★★★★, 2021-08)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+On [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) and [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/), discussions about Swapzone cluster around two themes: the value of rate comparison before committing, and accountability questions about partner providers. The clearest Reddit signal on aggregators: when a single exchange provider causes a problem (delayed swap, wrong rate), the aggregator layer is rarely the source of the issue. The failure point is almost always the downstream provider -- which is exactly why comparing provider reputation before you pick one matters.
+
+> "Not saying these won\'t also steal people\'s funds at some point, but I\'ve had good success with them so far: fixedfloat.com, simpleswap.io"
+>
+> -- u/cameron_davies, [r/Bitcoin](https://reddit.com/r/Bitcoin/comments/iyh4mk/beware_swapzoneio_changelly_steal_my_bitcoin/g6dns56/)
 
 > **Coinwy Editorial Team -- My take:** JepettO's "a little extra compared to other platforms" is accurate in mechanism -- Swapzone's rate competition pushes partners to tighten spreads. Vini Pooh's complaint about rate variability between partners is also accurate, and it is not a bug: you are seeing real market spread differences across providers. The point of an aggregator is to show you those differences, not eliminate them. Pick the provider with the rate you want, and lock it in with fixed rate if the market is moving.
 

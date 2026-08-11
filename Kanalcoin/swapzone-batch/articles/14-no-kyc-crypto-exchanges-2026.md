@@ -104,6 +104,19 @@ StealthEX has no stated upper swap limit and no KYC requirement. A 4.7 grade on 
 
 **Not recommended for:** Fiat on-ramp. IDR, THB, PHP not supported.
 
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
+
 ### ChangeNOW
 
 **Our pick for:** Fastest no-KYC swap for standard amounts across SEA.
@@ -114,6 +127,19 @@ ChangeNOW processes standard pairs in 2 to 5 minutes with no registration. KYC t
 
 **Not recommended for:** Very large amounts where the KYC threshold becomes relevant.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### SimpleSwap
 
 **Our pick for:** Cleanest no-registration UX for first-time non-custodial swap from SEA.
@@ -121,6 +147,19 @@ ChangeNOW processes standard pairs in 2 to 5 minutes with no registration. KYC t
 SimpleSwap requires nothing beyond a destination address. The interface is minimal and direct  well-suited for users coming from a licensed CEX ([Indodax](https://www.indodax.com/), [Bitkub](https://www.bitkub.com/), [PDAX](https://pdax.ph/)) who are accessing a non-custodial service for the first time.
 
 **Best for:** First non-custodial swap for SEA users. Simple flow without rate-comparison overhead.
+
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
 
 ### Exolix
 
@@ -130,9 +169,35 @@ Exolix offers fixed rate options without any registration requirement, accessibl
 
 **Best for:** Fixed rate certainty without KYC.
 
+**What users say**
+
+**Positive**
+> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+>
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+
+**Critical**
+> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+>
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+
+
 ### SideShift, Godex, LetsExchange, Changelly
 
 These services are accessible from SEA without geo-restriction. SideShift requires email (Level 1). Godex and LetsExchange are Level 0. Changelly is Level 2 with an undisclosed threshold. Each is a functional fallback for pairs where Swapzone's primary providers do not offer competitive rates.
+
+**What users say**
+
+**Positive**
+> "Let me first start by saying I don't usually leave reviews for businesses as most are mediocre. However, Godex.io have gone above and beyond with their customer service. I was looking to swap ETH for XMR but had stupidly sent the ETH via the wrong network but to the correct address."
+>
+> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (★★★★★, 2026-05)
+
+**Critical**
+> "I did a transfer of xmr to usdt , I was able to lock it in fixed rate at 543 xmr , godex not only took a week to respond and not action the transfer, but also said this and I quote "Unfortunately, due to the significant rate change, the system was unable to perform the swap at the fixed rate."
+>
+> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (★, 2026-06)
+
 
 ### Binance (and licensed CEX)
 
@@ -176,6 +241,11 @@ Privacy-conscious users explain why no-KYC access was the deciding factor in the
 > "Swapzone.IO continues to deliver fast safe swaps of less common cryptos with no kyc I experienced. Great tool..." — [Bob Stanley Freos](https://www.trustpilot.com/reviews/625853d62b3c3c43cfd2f22b) (★★★★★, 2022-04)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+No-KYC exchange discussions on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=no+KYC+crypto+exchange&sort=top) and [r/privacy](https://www.reddit.com/r/privacy/) are nuanced. The community distinguishes between platforms that are structurally non-custodial (and therefore have no KYC to enforce) vs platforms that are custodial but choose not to implement KYC below certain thresholds. The former category is more reliable for long-term no-KYC access -- regulatory pressure can force the latter to add KYC retroactively. The consensus recommendation for no-KYC swaps is non-custodial, wallet-to-wallet services.
 
 > **Nakamura Haruto -- My take:** Roxy Wars's "7 minutes, no KYC, wallet to wallet" is the realistic ceiling for fast-confirmation pairs. Bob Stanley's "less common cryptos with no KYC" is the stronger signal for SEA users: for coins that local licensed exchanges do not carry -- or where local KYC requirements are more onerous than users want to navigate -- no-KYC aggregators fill a gap that regulation will not close anytime soon. The caution is the same one regulators raise: threshold triggers exist, and they differ by provider. Swapzone shows the KYC level per partner before you commit.
 

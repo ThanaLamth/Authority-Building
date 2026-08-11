@@ -61,6 +61,19 @@ ChangeNOW processes standard pairs in 2 to 5 minutes. No registration required. 
 
 **Tradeoffs:** ERC20 only — no BEP20 gas reduction option. KYC trigger at high amounts.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### SimpleSwap
 
 **Our pick for:** Straightforward ETH to BTC without registration or rate-comparison overhead.
@@ -70,6 +83,19 @@ SimpleSwap's interface is the most direct: pair, amount, destination address, ra
 **Best for:** Clean no-registration flow. First-time non-custodial swap.
 
 **Tradeoffs:** Single provider rate. ERC20 only.
+
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
 
 ### StealthEX
 
@@ -81,7 +107,24 @@ StealthEX accepts both ERC20 and BEP20 ETH, has no upper swap limit, and require
 
 **Tradeoffs:** Slower than ChangeNOW. Rate is not compared across providers unless using Swapzone.
 
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
+
 ### Exolix
+
+
+![Exolix ETH to BTC swap interface July 2026](../media/08-exolix-eth-btc.png)
+*Exolix ETH to BTC reviewed July 2026 -- fixed rate.*
 
 **Our pick for:** Fixed rate certainty on ETH to BTC.
 
@@ -90,6 +133,19 @@ Exolix specializes in fixed rate. If both ETH and BTC are moving on the day of y
 **Best for:** Price certainty. Volatile day swaps where locking the ETH to BTC rate is worth the fixed rate premium.
 
 **Tradeoffs:** Lower partner count. Compare on Swapzone first.
+
+**What users say**
+
+**Positive**
+> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+>
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+
+**Critical**
+> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+>
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+
 
 ### SideShift
 
@@ -137,6 +193,11 @@ Swap experience feedback from ETH and BTC pair users on Swapzone.
 > "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly…" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+ETH-to-BTC swap discussions on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=ETH+BTC+swap&sort=top) follow a similar pattern to BTC-ETH: users ask which service to use, and experienced commenters advise checking an aggregator rather than going directly to a single provider. The secondary advice is to use fixed-rate mode if the market is volatile.
 
 > **Coinwy Editorial Team -- My take:** Mason Frosty's wrong-network-send story matters: non-custodial swaps have no automatic safeguard for network errors. Support intervening and refunding is above baseline -- many services would not. Stan's "$30 overall, kind of expensive" likely includes Ethereum mainnet gas on the send side, which runs $5 to $20 at standard congestion and is separate from the swap margin. On BEP20 ETH the same swap costs under $2 in gas. Network choice is the most under-discussed cost driver on ETH-side swaps.
 

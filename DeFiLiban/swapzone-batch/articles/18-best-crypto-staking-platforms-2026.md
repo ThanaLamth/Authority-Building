@@ -54,6 +54,10 @@ This is the cleanest risk model: you are earning protocol-native rewards for pro
 
 ### Mechanism 2: Liquid staking
 
+
+![Lido liquid staking dashboard July 2026](../media/18-lido-dashboard.png)
+*Lido staking dashboard reviewed July 2026 -- 3.7% APY liquid ETH staking.*
+
 Liquid staking lets users deposit ETH (or other PoS assets) and receive a derivative token (stETH, rETH, cbETH, ankrETH) that appreciates as validators earn rewards. The derivative trades on secondary markets, which creates a second risk layer beyond the validator layer.
 
 Because stETH is a separate token from the staked ETH, it can trade at a discount or premium to peg. During the May 2022 market stress, stETH briefly traded at 0.94 ETH  holders incurred a 6% loss on paper even though underlying validators were earning normally. This is the depegging risk that is specific to liquid staking derivatives and does not exist in native staking.
@@ -64,6 +68,10 @@ Because the derivative token is composable with DeFi protocols (stETH is usable 
 
 ### Mechanism 3: CeFi staking and yield (Nexo, CoinRabbit)
 
+
+![Nexo earn and staking interface July 2026](../media/18-nexo-earn.png)
+*Nexo Earn reviewed July 2026 -- 18.9% APR CeFi staking.*
+
 CeFi yield platforms pay returns on deposited crypto through their own lending, trading, or investment activities. The platform holds your asset, deploying it to generate yield, and pays you a portion of that yield as APR.
 
 The risk model is completely different from protocol staking. There is no smart contract risk because the assets are off-chain. There is no validator slashing risk. But there is platform solvency risk  if the platform's lending book develops bad debt, if its counterparties default, or if a bank run occurs, depositor funds may be at risk. Celsius and BlockFi demonstrated in 2022 what platform failure looks like for CeFi yield depositors.
@@ -72,7 +80,19 @@ Nexo holds its own reserves and has not experienced a default event as of this r
 
 The 18.9% APR from Nexo and 34.8% APR from P2P via Swapzone's staking aggregator are CeFi yield figures, not protocol staking yields. The source of that yield  lending margins, structured products, counterparty relationships  determines its sustainability and risk profile. These are not ETH validator rewards.
 
+**What users say**
+
+**Positive**
+> "I have been able to use several of your services—especially the savings options, which provide detailed information on how to use your instruments to generate returns based on available capital, all without friction. Thank you for the specific details regarding the wide range of options you offer."
+>
+> -- Alejandro, [Trustpilot](https://www.trustpilot.com/reviews/6a7368dea5685f13d0a1c235) (★★★★★, 2026-08)
+
+
 ### Mechanism 4: Swapzone Staking (aggregator model)
+
+
+![Rocket Pool decentralized ETH staking homepage July 2026](../media/18-rocketpool-dashboard.png)
+*Rocket Pool homepage reviewed July 2026 -- decentralized liquid staking alternative.*
 
 Swapzone aggregates staking providers in a single interface  P2P (34.8% APR), Nexo (18.9% APR), CoinRabbit (5% APR), and ANKR (0.92% APR)  and allows comparison before committing. The aggregator layer routes deposits to the selected provider.
 
@@ -144,6 +164,11 @@ Users who participate in both swapping and staking describe what they look for i
 > "I was skeptical at first to use this website because I had never heard of it before, but I decided to regardless. It was super fast and efficient. Cost me $30 overall kind of expensive but was the fastest method. Highly…" — [Stan](https://www.trustpilot.com/reviews/627ceee9166eb7ecbf44b061) (★★★★★, 2022-05)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+Liquid staking discussions dominate [r/ethfinance](https://www.reddit.com/r/ethfinance/) and appear regularly on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/). The community is broadly pro-Lido for accessibility but genuinely concerned about its validator centralization (Lido controls ~30% of staked ETH). Rocket Pool is consistently cited as the more decentralized option, at the cost of a higher ETH minimum for node operators.
 
 > **DeFiLiban Editorial -- My take:** Scott's issues and Andrew's 11-hour resolution are both swap-side experiences, not staking-side -- expected given Swapzone's Trustpilot base. Stan's "$30, kind of expensive" points to swap cost as the friction point when moving assets into a staking position. At 34.8% APR from P2P, a $30 entry cost on a $1,000 position is recovered in days. At ANKR's 0.92% APY, that same entry cost takes three months to recoup. Entry cost is not neutral -- it changes which APR tiers are worth accessing.
 

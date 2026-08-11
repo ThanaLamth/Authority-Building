@@ -94,6 +94,10 @@ Changelly supports EUR by card with instant processing. SEPA is available but wi
 
 ### ChangeNOW
 
+
+![ChangeNOW EUR to BTC exchange flow July 2026](../media/15-changenow-eur-btc.png)
+*ChangeNOW EUR to BTC reviewed July 2026.*
+
 **Our pick for:** EUR to BTC with rare KYC triggering and both fixed and floating rate options.
 
 ChangeNOW supports EUR by card and bank transfer. SEPA is available without Instant integration. KYC triggers at threshold amounts, making it accessible without verification for standard retail sizes. Both fixed and floating rate available.
@@ -102,7 +106,24 @@ ChangeNOW supports EUR by card and bank transfer. SEPA is available without Inst
 
 **Not recommended for:** Large amounts where KYC threshold may apply.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### Kraken
+
+
+![Kraken cryptocurrency exchange homepage July 2026](../media/15-kraken-homepage.png)
+*Kraken homepage reviewed July 2026 -- SEPA-connected European exchange.*
 
 **Our pick for:** EUR to BTC for users who need regulatory certainty, SEPA Instant, and a MiCA-licensed platform.
 
@@ -111,6 +132,19 @@ Kraken holds MiCA licensing for EU operations, meaning it is a regulated CASP un
 **Best for:** Large EUR to BTC amounts. Regulatory certainty. SEPA Instant access.
 
 **Not recommended for:** Users who need no-KYC access or prefer non-custodial execution.
+
+**What users say**
+
+**Positive**
+> "Kraken gives me a strong sense of security and peace of mind. I feel comfortable using the platform, especially because the app is clear, easy to use, and reliable when depositing, withdrawing, and transferring Bitcoin."
+>
+> -- Osama Aboud alkaraz, [Trustpilot](https://www.trustpilot.com/reviews/6a76d09b73c5ae15b0b33b50) (★★★★, 2026-08)
+
+**Critical**
+> "I am so frustrated right now. My account has been blocked for 10 days straight and the AI bot keeps saying a specialist will come back to me soon, but nothing has happened. It’s been 10 days with zero reaction from support. My deposit of 7293 eur is still pending and just sitting there doing nothing."
+>
+> -- Sahtoe Ingrid, [Trustpilot](https://www.trustpilot.com/reviews/6a79d1dd9f3c7bd34ecff3b0) (★, 2026-08)
+
 
 ### Coinbase
 
@@ -170,6 +204,11 @@ European users and those using fiat on-ramps share their Swapzone experience.
 > "Awesome, as other exchange bridges charges so much amount but Swapzone is just amazing, with very minimal charges it swapped and convert my USDT from BNB exchange to USDT ERC20. Just Love it." — [muzzemmil](https://www.trustpilot.com/reviews/66c4e36dafe8e003c133eaf7) (★★★★★, 2024-08)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+Buying BTC with EUR via SEPA is a recurring question on [r/eupersonalfinance](https://www.reddit.com/r/eupersonalfinance/) and [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/). The standard advice is to use a regulated exchange for the EUR-to-crypto leg (Kraken, Bitstamp, or Coinbase for SEPA), then optionally move to a non-custodial swap service for any conversion to other assets.
 
 > **Nakamura Haruto -- My take:** Raul Ginematic's "I'll check Swapzone's fiat rate first" is the right starting habit. muzzemmil's comment on minimal charges for network bridging is a reminder that SEPA fees near zero but card fees on fiat-to-crypto run 1.5 to 3.5%. The practical point for EUR-region users: verify whether Swapzone's partner for your fiat pair supports SEPA or card only, because the cost difference is significant on amounts above EUR 200.
 

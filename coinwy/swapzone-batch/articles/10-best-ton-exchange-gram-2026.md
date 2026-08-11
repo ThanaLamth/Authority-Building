@@ -85,6 +85,19 @@ ChangeNOW lists TON as "Toncoin" and completes standard swaps in 2 to 5 minutes.
 
 **Tradeoffs:** KYC threshold exists. Single provider rate.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### SimpleSwap
 
 **Our pick for:** Cleanest no-registration TON swap experience, particularly for Telegram users encountering external swap services for the first time.
@@ -94,6 +107,19 @@ SimpleSwap lists TON by the TON ticker. The interface is minimal and direct. No 
 **Best for:** First external TON swap. Clean no-registration flow.
 
 **Tradeoffs:** Single provider rate.
+
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
 
 ### StealthEX
 
@@ -105,7 +131,24 @@ StealthEX handles TON with no upper limit and no registration. For users swappin
 
 **Tradeoffs:** Slower than ChangeNOW. Rate comparison via Swapzone is the better first step.
 
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
+
 ### Telegram Wallet (native)
+
+
+![Telegram Wallet TON interface July 2026](../media/10-telegram-wallet-ton.png)
+*Telegram Wallet TON reviewed July 2026 -- native small-amount swaps.*
 
 **Our pick for:** Small TON amounts within the Telegram ecosystem where convenience outweighs rate optimization.
 
@@ -144,6 +187,11 @@ Feedback from users swapping TON and less-common altcoin pairs through aggregato
 > "It is good, but rates vary sometimes, some partners do it fast and other take some time. The support is very fast to respond. Had a problem, was solved when I wrote the support. It is a good platform to swap your…" — [Vini Pooh](https://www.trustpilot.com/reviews/61124ccbf9f487044c56a6ed) (★★★★★, 2021-08)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+TON exchange discussions on [r/Toncoin](https://www.reddit.com/r/Toncoin/) reflect the network's growth into a top-10 asset: the primary question is no longer whether exchanges carry TON, but which ones offer the best non-custodial access. Telegram Wallet is the most cited option for self-custody within the Telegram ecosystem, while for external swaps, community members point toward aggregators that include TON pairs rather than single-provider exchanges.
 
 > **Coinwy Editorial Team -- My take:** The naming confusion -- "Gram," "Toncoin," "TON" -- is the first real friction point on this pair, and it is not trivial: sending to the wrong asset on the wrong network is a loss that support cannot reverse. Vini Pooh's observation that some partners run fast and others take time is especially relevant for TON, where Telegram Wallet settles instantly for small native amounts but external swaps depend on provider liquidity and Toncoin confirmation time. For small amounts already in a Telegram wallet, skip the aggregator. For larger amounts or cross-chain swaps, running Swapzone's multi-provider query first is worth it.
 

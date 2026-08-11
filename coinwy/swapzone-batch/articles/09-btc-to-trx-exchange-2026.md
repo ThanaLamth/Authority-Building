@@ -62,6 +62,19 @@ ChangeNOW processes the exchange side in 2 to 5 minutes. The total swap time add
 
 **Tradeoffs:** KYC threshold exists. Single provider rate.
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### SimpleSwap
 
 **Our pick for:** Straightforward BTC to TRX without registration.
@@ -72,6 +85,19 @@ SimpleSwap handles the pair cleanly, no account required, fixed and floating rat
 
 **Tradeoffs:** Single provider rate.
 
+**What users say**
+
+**Positive**
+> "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned."
+>
+> -- Jeff Love, [Trustpilot](https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43) (★★★★★, 2026-08)
+
+**Critical**
+> "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues."
+>
+> -- Mahmoud, [Trustpilot](https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750) (★, 2026-08)
+
+
 ### StealthEX
 
 **Our pick for:** BTC to TRX at larger amounts without KYC ceiling.
@@ -81,6 +107,19 @@ StealthEX carries no upper limit for most pairs and requires no account. For use
 **Best for:** Large BTC to TRX amounts. No-KYC priority.
 
 **Tradeoffs:** Not the fastest. Compare on Swapzone first.
+
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
 
 ### LetsExchange
 
@@ -119,6 +158,11 @@ Users who moved BTC and altcoin pairs like TRX through Swapzone describe swap ti
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+
+**What Reddit says**
+
+TRX exchange discussion on [r/Tronix](https://www.reddit.com/r/Tronix/) and [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) focuses on TRX's primary use case: funding USDT-TRC20 gas fees. Most people buying TRX are not speculating on Tron itself -- they are getting a small TRX position to enable fee-free USDT transfers on the Tron network. The community advice for this use case is to use a no-KYC swap service for small TRX amounts rather than a CEX that requires identity verification for what is functionally a gas purchase.
+
 > **Coinwy Editorial Team -- My take:** ArdhyansyaA's "0% fee" reflects how the non-custodial swap industry presents pricing: the margin is in the rate spread, not a visible line item. Swapzone shows the provider's rate directly so you can verify it against alternatives. The real warning on BTC to TRX is the same as any cross-network swap: TRX runs on the Tron network. Sending BTC to a Tron deposit address is a permanent loss. Confirm the network before you send.
 
 
@@ -133,3 +177,11 @@ Tron uses a resource model where transactions consume bandwidth and energy. TRX 
 
 **Can I swap BTC to TRX without registration?**
 Yes. Swapzone, SimpleSwap, StealthEX, and LetsExchange all support BTC to TRX without account creation. ChangeNOW also works without registration for standard amounts.
+
+**What users say**
+
+**Positive**
+> "Gotta say these guys really excel as XMR-swappers - with good rates and middlish execution-times as per Trocador - and THEN they warn they may await 150 confirmations - but actually complete the swap after just 5 - so that's "exceeding customer-expectations" - and you can nicely track your swap even when you start it elsewhere, e.g. on Trocador."
+>
+> -- Martin Anantharaman, [Trustpilot](https://www.trustpilot.com/reviews/6a43e2d3c82ecb5f5482d41b) (★★★★★, 2026-06)
+

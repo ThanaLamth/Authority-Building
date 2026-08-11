@@ -70,6 +70,10 @@ This is the most reliable way to confirm which services actually have XMR liquid
 
 ### StealthEX: Our Pick for Large Amounts No KYC
 
+
+![StealthEX BTC to XMR swap results July 2026](../media/05-stealthex-btc-xmr.png)
+*StealthEX BTC to XMR reviewed July 2026 -- no upper limit on XMR pairs.*
+
 [StealthEX](https://stealthex.io/) offers BTC to XMR without registration and without a publicly stated upper limit. It holds a 4.7 grade within the Swapzone partner network, placing it among the better-rated providers. Fixed rate available.
 
 For users swapping large amounts where KYC would otherwise be triggered at ChangeNOW or similar services, StealthEX is the cleanest option. No email required, no account, no ID. Just wallet addresses.
@@ -79,6 +83,19 @@ Speed is 20-35 minutes given XMR's confirmation requirements. That is normal for
 **Verdict:** Best for high-value BTC to XMR swaps with confirmed no-KYC. Solid rating and no limit.
 
 ---
+
+**What users say**
+
+**Positive**
+> "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
+>
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+
+**Critical**
+> "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
+>
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+
 
 ### ChangeNOW: Our Pick for Speed When Amount Is Below Threshold
 
@@ -92,6 +109,19 @@ Fixed rate available. Solid coin coverage.
 
 ---
 
+**What users say**
+
+**Positive**
+> "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
+>
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+
+**Critical**
+> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+>
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+
+
 ### Exolix: Our Pick for Fixed Rate Guarantee
 
 [Exolix](https://exolix.com/) is a fixed rate specialist. For BTC to XMR specifically, where the confirmation window is 20-40 minutes and XMR price can move noticeably during that time, fixed rate is a meaningful protection.
@@ -104,7 +134,24 @@ Exolix handles fewer pairs than ChangeNOW or StealthEX but does the core pairs w
 
 ---
 
+**What users say**
+
+**Positive**
+> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+>
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+
+**Critical**
+> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+>
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+
+
 ### Godex: Our Pick for Floating Rate Without Account
+
+
+![Godex BTC to XMR exchange interface July 2026](../media/05-godex-btc-xmr.png)
+*Godex BTC to XMR reviewed July 2026.*
 
 [Godex](https://godex.io/) operates with no account required and no KYC, floating rate only. The limitation compared to StealthEX or Exolix is the lower upper limit on XMR pairs. Very large swaps are not well-suited to Godex.
 
@@ -115,6 +162,19 @@ The floating-only policy means your final XMR amount is calculated at execution,
 **Verdict:** Fine for small-to-medium BTC to XMR swaps if you accept floating rate. Not for large amounts.
 
 ---
+
+**What users say**
+
+**Positive**
+> "Let me first start by saying I don't usually leave reviews for businesses as most are mediocre. However, Godex.io have gone above and beyond with their customer service. I was looking to swap ETH for XMR but had stupidly sent the ETH via the wrong network but to the correct address."
+>
+> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (★★★★★, 2026-05)
+
+**Critical**
+> "I did a transfer of xmr to usdt , I was able to lock it in fixed rate at 543 xmr , godex not only took a week to respond and not action the transfer, but also said this and I quote "Unfortunately, due to the significant rate change, the system was unable to perform the swap at the fixed rate."
+>
+> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (★, 2026-06)
+
 
 ### SideShift: Our Pick If You Only Have BTC and Need Basic XMR
 
@@ -185,6 +245,18 @@ Users who have completed BTC to XMR swaps on Swapzone describe the experience di
 > "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" — [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (★★★★★, 2022-04)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
+
+
+**What Reddit says**
+
+> "Aaaaand XMR withdrawal suspended on Binance. God damn it. Been waiting for a low fee BTC txn to confirm to be able to withdraw the XMR I traded it for. F. Hopefully it’s restored soon."
+>
+> -- u/nsg_vwap, [r/Monero](https://reddit.com/r/Monero/comments/nf9bwd/get_your_xmr_off_exchanges_asap/gykrcfc/)
+
+> "There will be a renewed focus by the NSA etc. on xmr now , I believe the "qubic" hashrate takeover was a state actor"
+>
+> -- u/mord_fustang115, [r/Monero](https://reddit.com/r/Monero/comments/1v6amu1/iran_has_listed_monero_on_every_exchange_in_the/ozqdzu3/)
+
 
 > **Coinwy Editorial Team -- My take:** Marcin's experience -- failed swap on a small amount, support resolved it, Monero arrived after 1.5 hours -- is a realistic baseline for XMR pairs. Fewer providers carry XMR than BTC/ETH, and XMR confirmation itself adds 20 to 40 minutes to the total. Paul's "much cheaper than Exodus wallet" holds up: in-wallet swap margins on non-standard pairs run 2 to 4% above market. Lower provider competition than mainstream pairs, slower total time, but genuinely no better no-KYC alternative for this specific swap.
 
