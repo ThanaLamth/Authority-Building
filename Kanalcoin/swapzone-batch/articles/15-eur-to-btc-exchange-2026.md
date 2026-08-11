@@ -171,6 +171,9 @@ European users and those using fiat on-ramps share their Swapzone experience.
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Nakamura Haruto -- My take:** Raul Ginematic's "I'll check Swapzone's fiat rate first" is the right starting habit. muzzemmil's comment on minimal charges for network bridging is a reminder that SEPA fees near zero but card fees on fiat-to-crypto run 1.5 to 3.5%. The practical point for EUR-region users: verify whether Swapzone's partner for your fiat pair supports SEPA or card only, because the cost difference is significant on amounts above EUR 200.
+
+
 
 ## Frequently asked questions
 

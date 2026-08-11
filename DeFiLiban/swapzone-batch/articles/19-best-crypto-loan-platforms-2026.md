@@ -179,6 +179,9 @@ Users managing crypto liquidity — including those who have needed quick swaps 
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **DeFiLiban Editorial -- My take:** Andrew's 11-hour swap resolution illustrates the time-risk that CeFi loan users rarely account for: if you are posting collateral urgently during a market dip, a swap sitting for hours is not a neutral delay. Stan's "$30 overall" entry cost matters here: for a $500 loan position, that is 6% of notional before the first interest payment. On YouHodler's 12% APR, you have paid two and a half months of interest just to open the position. Loan utility improves dramatically at higher principal amounts where the fixed entry cost becomes a smaller fraction of the total.
+
+
 
 ## Frequently asked questions
 

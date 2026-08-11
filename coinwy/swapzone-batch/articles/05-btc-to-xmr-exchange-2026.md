@@ -186,6 +186,9 @@ Users who have completed BTC to XMR swaps on Swapzone describe the experience di
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** Marcin's experience -- failed swap on a small amount, support resolved it, Monero arrived after 1.5 hours -- is a realistic baseline for XMR pairs. Fewer providers carry XMR than BTC/ETH, and XMR confirmation itself adds 20 to 40 minutes to the total. Paul's "much cheaper than Exodus wallet" holds up: in-wallet swap margins on non-standard pairs run 2 to 4% above market. Lower provider competition than mainstream pairs, slower total time, but genuinely no better no-KYC alternative for this specific swap.
+
+
 
 ## FAQ
 

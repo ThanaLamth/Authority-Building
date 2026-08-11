@@ -138,6 +138,9 @@ The fixed vs floating rate decision shows up clearly in user feedback — often 
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** Peter's "3.1% less than initially calculated" is the exact floating-rate failure mode: swap stuck for hours, market moved, no compensation. Fixed rate would have cost a small premium upfront and protected the full amount. Stan's fast result reflects a different session -- calm market, fast confirmation. These outcomes are not contradictory; they reflect different conditions on different days. Volatile session with a slow chain: use fixed. Calm market with fast confirmation: floating is fine and cheaper.
+
+
 ## FAQ
 
 **Can I switch from floating to fixed after sending funds?**

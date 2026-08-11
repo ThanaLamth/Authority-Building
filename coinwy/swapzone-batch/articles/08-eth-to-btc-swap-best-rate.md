@@ -138,6 +138,9 @@ Swap experience feedback from ETH and BTC pair users on Swapzone.
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** Mason Frosty's wrong-network-send story matters: non-custodial swaps have no automatic safeguard for network errors. Support intervening and refunding is above baseline -- many services would not. Stan's "$30 overall, kind of expensive" likely includes Ethereum mainnet gas on the send side, which runs $5 to $20 at standard congestion and is separate from the swap margin. On BEP20 ETH the same swap costs under $2 in gas. Network choice is the most under-discussed cost driver on ETH-side swaps.
+
+
 
 ## Frequently asked questions
 

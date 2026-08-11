@@ -177,6 +177,9 @@ Privacy-conscious users explain why no-KYC access was the deciding factor in the
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Nakamura Haruto -- My take:** Roxy Wars's "7 minutes, no KYC, wallet to wallet" is the realistic ceiling for fast-confirmation pairs. Bob Stanley's "less common cryptos with no KYC" is the stronger signal for SEA users: for coins that local licensed exchanges do not carry -- or where local KYC requirements are more onerous than users want to navigate -- no-KYC aggregators fill a gap that regulation will not close anytime soon. The caution is the same one regulators raise: threshold triggers exist, and they differ by provider. Swapzone shows the KYC level per partner before you commit.
+
+
 
 ## Frequently asked questions
 

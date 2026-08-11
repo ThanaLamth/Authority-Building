@@ -156,6 +156,9 @@ Users swapping fiat-to-crypto pairs share their experiences with aggregator plat
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Nakamura Haruto -- My take:** Raul Ginematic's "I'll check Swapzone's fiat rate first" is the right starting point. The question is what you do when Swapzone's AUD partner is card-only and running 1.5 to 3% above the rate you would get via a direct AUSTRAC-registered exchange with bank transfer. For amounts above AUD 500, a local exchange with direct bank deposit will almost always win on effective rate. Swapzone's AUD pair is most useful for users who want a no-registration path and are willing to pay the card premium for that convenience.
+
+
 
 ## Frequently asked questions
 

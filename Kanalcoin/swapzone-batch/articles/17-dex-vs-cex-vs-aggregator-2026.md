@@ -133,6 +133,9 @@ Users who made the choice between DEX, CEX, and aggregator explain their reasoni
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Nakamura Haruto -- My take:** Mike's reaction -- "frightened by choice, liked everything in one place" -- is the aggregator value in a sentence. For SEA users specifically, the three-way comparison has a local dimension: IDR, THB, and PHP on-ramps require a licensed CEX with full KYC. The aggregator enters the picture only after you have already converted fiat to crypto. Vini Pooh's speed variance note is the honest caveat: in this region, local provider liquidity affects execution time in ways that quoted rates do not predict.
+
+
 
 ## Frequently asked questions
 

@@ -168,6 +168,9 @@ Users who swapped BTC and ETH through aggregators report on rate outcomes and ti
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** Paul's "much cheaper than Exodus wallet" is consistent with typical in-wallet swap margins, which run 2 to 4% above market on BTC/ETH. Asta Sonner's swap completing despite being "hesitant and desperate" is the common first-use experience -- most users reach for an aggregator under time pressure. The rate difference between best and worst provider on Swapzone for BTC to ETH at a given moment is typically 0.5 to 1.5%. On a 0.1 BTC swap at $60k, that is $30 to $90 real difference. Two minutes of comparison is worth it.
+
+
 
 ## FAQ
 

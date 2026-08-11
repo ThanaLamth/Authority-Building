@@ -119,6 +119,9 @@ Users who moved BTC and altcoin pairs like TRX through Swapzone describe swap ti
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** ArdhyansyaA's "0% fee" reflects how the non-custodial swap industry presents pricing: the margin is in the rate spread, not a visible line item. Swapzone shows the provider's rate directly so you can verify it against alternatives. The real warning on BTC to TRX is the same as any cross-network swap: TRX runs on the Tron network. Sending BTC to a Tron deposit address is a permanent loss. Confirm the network before you send.
+
+
 
 ## Frequently asked questions
 

@@ -145,6 +145,9 @@ Users who participate in both swapping and staking describe what they look for i
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **DeFiLiban Editorial -- My take:** Scott's issues and Andrew's 11-hour resolution are both swap-side experiences, not staking-side -- expected given Swapzone's Trustpilot base. Stan's "$30, kind of expensive" points to swap cost as the friction point when moving assets into a staking position. At 34.8% APR from P2P, a $30 entry cost on a $1,000 position is recovered in days. At ANKR's 0.92% APY, that same entry cost takes three months to recoup. Entry cost is not neutral -- it changes which APR tiers are worth accessing.
+
+
 
 ## Frequently asked questions
 

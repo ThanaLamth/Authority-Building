@@ -230,6 +230,9 @@ For this article, we reviewed the live public surfaces of all 8 platforms — in
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** JepettO's "a little extra compared to other platforms" is accurate in mechanism -- Swapzone's rate competition pushes partners to tighten spreads. Vini Pooh's complaint about rate variability between partners is also accurate, and it is not a bug: you are seeing real market spread differences across providers. The point of an aggregator is to show you those differences, not eliminate them. Pick the provider with the rate you want, and lock it in with fixed rate if the market is moving.
+
+
 
 ## Frequently asked questions
 

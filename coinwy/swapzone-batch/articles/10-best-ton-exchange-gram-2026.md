@@ -145,6 +145,9 @@ Feedback from users swapping TON and less-common altcoin pairs through aggregato
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
+> **Coinwy Editorial Team -- My take:** The naming confusion -- "Gram," "Toncoin," "TON" -- is the first real friction point on this pair, and it is not trivial: sending to the wrong asset on the wrong network is a loss that support cannot reverse. Vini Pooh's observation that some partners run fast and others take time is especially relevant for TON, where Telegram Wallet settles instantly for small native amounts but external swaps depend on provider liquidity and Toncoin confirmation time. For small amounts already in a Telegram wallet, skip the aggregator. For larger amounts or cross-chain swaps, running Swapzone's multi-provider query first is worth it.
+
+
 
 ## Frequently asked questions
 
