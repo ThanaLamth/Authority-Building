@@ -227,3 +227,4 @@ Swapzone is a non-custodial aggregator and is generally not classified as a CASP
 
 **Which service is best for EUR to BTC in Germany?**
 For no-KYC: Swapzone or ChangeNOW. For regulated with SEPA Instant: Bitpanda or Kraken. Both German banking infrastructure and SEPA Instant participation are strong in Germany.
+

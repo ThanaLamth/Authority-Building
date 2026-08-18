@@ -67,11 +67,11 @@ If you are new to TON swaps and are coming from Telegram, the [Telegram Wallet v
 
 ### Swapzone
 
-**Our pick for:** Best rate comparison for TON swaps and the broadest provider coverage for a pair with fewer active providers than BTC/ETH.
+**Our pick for:** Checking rate spread across providers on TON pairs, where fewer providers are active than on BTC/ETH and the variance between quotes can be larger.
 
 For TON specifically, provider coverage matters more than it does for top-tier pairs. Not all of Swapzone's 18-plus partners carry TON with competitive rates — multi-provider comparison helps identify which providers are active and liquid on this pair at the moment of your swap. Fixed and floating rate filter available.
 
-**Best for:** Finding the best available TON rate without manually checking each provider. Any TON swap above small amounts.
+**Best for:** First TON swap or unfamiliar pair where you want visibility across providers before committing.
 
 **Tradeoffs:** Rate is a quote from the selected partner — execution conditions at deposit time apply.
 
@@ -207,3 +207,4 @@ Yes. Swapzone, ChangeNOW, SimpleSwap, and StealthEX all allow TON swaps without 
 
 **Which service has the best TON rate?**
 The best rate varies by the moment. Swapzone compares multiple providers simultaneously — running a query there before committing to a single service is the most reliable way to find the best available rate.
+

@@ -241,3 +241,4 @@ ChangeNOW supports bank transfer (SEPA) on the EUR side for XMR. Swapzone partne
 >
 > -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (★, 2026-06)
 
+
