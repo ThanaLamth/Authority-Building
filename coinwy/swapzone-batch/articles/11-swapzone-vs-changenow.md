@@ -86,19 +86,39 @@ We reviewed the public interfaces and partner documentation for both Swapzone an
 
 ## What users actually say
 
-> "Everything went as expected for my first time with this service, specifically via ChangeNOW. Got the full exchange of funds to my wallet! A+" -- [Daniel](https://www.trustpilot.com/reviews/69d477f4840236f1a5963fb5) (5-star, 2026-04)
+**Swapzone**
 
-> "I was scammed by simpleswap before, but with Changenow over simpleswap it worked." -- [Arne Kranzlein](https://www.trustpilot.com/reviews/696e9409fe29ae8a6b8a2743) (5-star, 2026-01)
+**What users say**
 
-> "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms" -- [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (5-star, 2022-11)
+**Positive**
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform."
+>
+> -- Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
 
-*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot](https://www.trustpilot.com/review/swapzone.io)*
+**Critical**
+> "I cannot recommend Swapzone as long as n.exchange is used as one of its CEX partners for swap execution. Transactions routed through n.exchange can become subject to lengthy AML/compliance reviews."
+>
+> -- Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
 
-**What Reddit says**
+> **Coinwy Editorial -- My take:** Marcin's support resolution -- failed swap corrected, Monero arrived in 1.5 hours -- is Swapzone doing its job: routing to a partner and coordinating when something goes wrong. Omer's n.exchange complaint is legitimate, but it is about one specific partner in Swapzone's network, not the aggregator itself. You can filter that partner out.
 
-ChangeNOW threads on [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/search/?q=ChangeNOW&sort=top) show a consistent split: users who compare via aggregator first report choosing ChangeNOW roughly 30-40% of the time as the best-rate result. Users who go direct to ChangeNOW are generally satisfied on common pairs, with friction appearing mainly on KYC threshold triggers for larger amounts.
 
-> **Coinwy Editorial Team -- My take:** Both services are reputable. Arne's "scammed by SimpleSwap, worked with ChangeNOW" is a useful signal -- ChangeNOW's track record on execution is solid. What the Swapzone layer adds is not better execution, it is rate visibility before you commit. If you already know ChangeNOW is your provider of choice, that visibility has limited value. If you do not know which provider will give you the best rate on your specific pair today, Swapzone's comparison step is worth the extra minute.
+**ChangeNOW**
+
+**What users say**
+
+**Positive**
+> "Reliable and honest swap service -- great customer support. I accidentally sent an ATOM transaction without a memo when the field glitched out. Reached out to support, and even though it took a couple of hours to process manually, they had it sorted and credited to my wallet well within their 4-hour timeframe."
+>
+> -- Jonathan B, [Trustpilot](https://www.trustpilot.com/reviews/6a83070692d5b9770ea69a95)
+
+**Critical**
+> "My transaction has been held by the Compliance Department for an extended period. I completed KYC, provided every document requested, including proof of funds and source of income, yet my case keeps getting escalated with no resolution."
+>
+> -- Roman, [Trustpilot](https://www.trustpilot.com/reviews/6a69d669e73d29b57b2ffe18)
+
+> **Coinwy Editorial -- My take:** Jonathan B's ATOM memo recovery is the clearest signal for this comparison: ChangeNOW has real support that resolves real mistakes. Roman's compliance hold at scale is the honest trade-off -- ChangeNOW markets no-KYC but will freeze large transactions pending review. For typical amounts, the execution track record is solid.
+
 
 ## Frequently asked questions
 

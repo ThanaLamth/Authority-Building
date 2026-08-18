@@ -45,7 +45,7 @@ Scored out of 10. Total out of 50.
 | ChangeNOW | 8 | 8 | 7 | 9 | 8 | **40** |
 | Exolix | 5 | 8 | 10 | 7 | 7 | **37** |
 
-![Swapzone BTC to XMR query results — July 2026](../media/16-swapzone-eur-xmr-results.png)
+![Swapzone BTC to XMR query results -- July 2026](../media/16-swapzone-eur-xmr-results.png)
 *EUR→XMR typically routes via BTC or ETH intermediate on most aggregators. Swapzone shows available paths in one query.*
 
 | Godex | 0 | 8 | 10 | 7 | 5 | **30** |
@@ -54,9 +54,9 @@ Scored out of 10. Total out of 50.
 
 ## 5 EUR to XMR Services Reviewed (2026 List)
 
-If you are specifically looking at EUR to BTC rather than XMR, see the [EUR to BTC exchange breakdown](./15-eur-to-btc-exchange-2026.md) — that pair has significantly wider service availability.
+If you are specifically looking at EUR to BTC rather than XMR, see the [EUR to BTC exchange breakdown](./15-eur-to-btc-exchange-2026.md) -- that pair has significantly wider service availability.
 
-[Compare EUR to XMR rates across available providers on Swapzone — before they change.](https://swapzone.io/)
+[Compare EUR to XMR rates across available providers on Swapzone -- before they change.](https://swapzone.io/)
 
 ### Swapzone
 
@@ -69,6 +69,21 @@ No KYC is required at the Swapzone aggregator level. Individual partners in the 
 **Best for:** Finding the best available EUR to XMR rate without manually checking each remaining service.
 
 **Not recommended for:** Users who need the largest possible XMR output without any fiat processing step. StealthEX's direct crypto route may offer cleaner execution if EUR is first converted to USDT via SEPA.
+
+
+**What users say**
+
+**Positive**
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform."
+>
+> -- Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
+
+**Critical**
+> "I cannot recommend Swapzone as long as n.exchange is used as one of its CEX partners for swap execution. Transactions routed through n.exchange can become subject to lengthy AML/compliance reviews."
+>
+> -- Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
+
+> **Kanalcoin Editorial -- My take:** EUR to XMR is one of the hardest pairs to find. Marcin's resolved XMR swap confirms the routing works. Omer's n.exchange complaint is extra relevant here: fiat-to-XMR routes are exactly where compliance-heavy partners are more likely to appear. Filter aggressively when selecting providers for this pair.
 
 ### StealthEX
 
@@ -84,19 +99,19 @@ For users who cannot or do not want to use Swapzone's fiat partner flow, Stealth
 
 **Best for:** EUR to XMR at larger amounts. Users prioritizing no-KYC ceiling over SEPA rate efficiency.
 
-**Not recommended for:** Users who want SEPA-rate EUR efficiency — StealthEX's EUR acceptance is card-only, not SEPA bank transfer.
+**Not recommended for:** Users who want SEPA-rate EUR efficiency -- StealthEX's EUR acceptance is card-only, not SEPA bank transfer.
 
 **What users say**
 
 **Positive**
 > "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
 >
-> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (, 2026-01)
 
 **Critical**
 > "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
 >
-> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (, 2026-03)
 
 
 ### ChangeNOW
@@ -114,12 +129,12 @@ ChangeNOW accepts EUR by card and bank transfer for XMR. Swap completion is 2 to
 **Positive**
 > "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
 >
-> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (, 2026-08)
 
 **Critical**
-> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+> "My raven coin still hasn't been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
 >
-> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (, 2026-08)
 
 
 ### Exolix
@@ -130,7 +145,7 @@ ChangeNOW accepts EUR by card and bank transfer for XMR. Swap completion is 2 to
 
 **Our pick for:** EUR to XMR with floating rate and no-KYC, for users prioritizing clean no-registration execution.
 
-Exolix accepts EUR via card on the send side. Floating rate only — no fixed rate option for XMR on Exolix. No account, no identity verification. A functional option when Swapzone or StealthEX are not returning competitive quotes.
+Exolix accepts EUR via card on the send side. Floating rate only -- no fixed rate option for XMR on Exolix. No account, no identity verification. A functional option when Swapzone or StealthEX are not returning competitive quotes.
 
 **Best for:** No-KYC EUR to XMR at standard amounts. Floating rate preference.
 
@@ -139,14 +154,14 @@ Exolix accepts EUR via card on the send side. Floating rate only — no fixed ra
 **What users say**
 
 **Positive**
-> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+> "Listen, I had a change of heart. I didn't realize the support team is on TG. I was upset because I couldn't figure out how to reach support, and my tokens were hanging on a platform labeled expired. I'm going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
 >
-> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (, 2026-04)
 
 **Critical**
-> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+> "Hey everyone! I'm interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
 >
-> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (, 2026-04)
 
 
 ### Godex
@@ -163,7 +178,7 @@ This adds a step and a second swap fee, but remains a functional path when direc
 
 ## Why XMR is disappearing from European services
 
-FATF Travel Rule implementation requires exchanges to collect and transmit sender and receiver information for transfers above threshold amounts. Monero's privacy design — specifically, its use of stealth addresses and ring signatures — is structurally incompatible with collecting this information at the blockchain level.
+FATF Travel Rule implementation requires exchanges to collect and transmit sender and receiver information for transfers above threshold amounts. Monero's privacy design -- specifically, its use of stealth addresses and ring signatures -- is structurally incompatible with collecting this information at the blockchain level.
 
 MiCA Article 76 creates additional pressure: CASPs must be able to identify asset controllers and freeze funds on regulatory order. This is not technically possible on Monero for service providers who are not custodying the asset.
 
@@ -173,9 +188,9 @@ How EU regulators will classify non-custodial services in the next MiCA review i
 
 ## EUR to XMR workflow options
 
-**Option A — Direct EUR to XMR via card:** EUR (card) to Swapzone or StealthEX or ChangeNOW to XMR. One step, card fee applies (1.5 to 2.5%).
+**Option A -- Direct EUR to XMR via card:** EUR (card) to Swapzone or StealthEX or ChangeNOW to XMR. One step, card fee applies (1.5 to 2.5%).
 
-**Option B — SEPA to USDT, then USDT to XMR:** EUR (SEPA) to a regulated exchange (Kraken) for USDT. Then USDT to XMR via Swapzone, StealthEX, or ChangeNOW. Two steps, lower fee on the EUR leg, standard swap fee on the XMR leg.
+**Option B -- SEPA to USDT, then USDT to XMR:** EUR (SEPA) to a regulated exchange (Kraken) for USDT. Then USDT to XMR via Swapzone, StealthEX, or ChangeNOW. Two steps, lower fee on the EUR leg, standard swap fee on the XMR leg.
 
 Option B is more efficient for amounts above EUR 1,000 where SEPA fee savings on the EUR leg outweigh the additional step.
 
@@ -183,7 +198,7 @@ Option B is more efficient for amounts above EUR 1,000 where SEPA fee savings on
 
 All five services in this comparison are accessible from Germany, France, Netherlands, Spain, Austria, and the UK (post-Brexit, GBP not EUR). No geo-restriction specific to EU countries has been identified at time of review.
 
-UK users: the same services are available with GBP pairs in some cases. Swapzone lists GBP as a fiat pair — verify GBP to XMR availability directly.
+UK users: the same services are available with GBP pairs in some cases. Swapzone lists GBP as a fiat pair -- verify GBP to XMR availability directly.
 
 ## The regulatory tension this article cannot resolve
 
@@ -198,11 +213,11 @@ We confirmed that all 5 services listed offer XMR pairs on their public swap int
 
 Users who completed privacy-coin swaps including Monero pairs describe the process.
 
-> "I xchanged BTC for ETH much cheaper than doing it in my Exodus wallet. just as simple and was much faster then the time advertised. Very happy with the service." — [Paul](https://www.trustpilot.com/reviews/61aaec4d2b49257fe2947746) (★★★★★, 2021-12)
+> "I xchanged BTC for ETH much cheaper than doing it in my Exodus wallet. just as simple and was much faster then the time advertised. Very happy with the service." -- [Paul](https://www.trustpilot.com/reviews/61aaec4d2b49257fe2947746) (, 2021-12)
 
-> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform." — [Marcin](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a) (★★★★★, 2026-07)
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform." -- [Marcin](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a) (, 2026-07)
 
-> "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" — [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (★★★★★, 2022-04)
+> "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" -- [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (, 2022-04)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
@@ -227,18 +242,18 @@ Swapping EUR to XMR via non-custodial services is not prohibited in EU member st
 StealthEX has no stated upper limit. Swapzone's limit depends on which partner is selected for the fiat-to-XMR pair. Both are accessible without identity verification at the service level.
 
 **Is there a SEPA option for EUR to XMR without card fees?**
-ChangeNOW supports bank transfer (SEPA) on the EUR side for XMR. Swapzone partners may include SEPA options — verify the specific partner before initiating. Direct SEPA-to-XMR without card fees is available but limited to services that carry both SEPA integration and XMR pair coverage.
+ChangeNOW supports bank transfer (SEPA) on the EUR side for XMR. Swapzone partners may include SEPA options -- verify the specific partner before initiating. Direct SEPA-to-XMR without card fees is available but limited to services that carry both SEPA integration and XMR pair coverage.
 
 **What users say**
 
 **Positive**
 > "Let me first start by saying I don't usually leave reviews for businesses as most are mediocre. However, Godex.io have gone above and beyond with their customer service. I was looking to swap ETH for XMR but had stupidly sent the ETH via the wrong network but to the correct address."
 >
-> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (★★★★★, 2026-05)
+> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (, 2026-05)
 
 **Critical**
 > "I did a transfer of xmr to usdt , I was able to lock it in fixed rate at 543 xmr , godex not only took a week to respond and not action the transfer, but also said this and I quote "Unfortunately, due to the significant rate change, the system was unable to perform the swap at the fixed rate."
 >
-> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (★, 2026-06)
+> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (, 2026-06)
 
 

@@ -83,19 +83,39 @@ We reviewed the public partner counts, coin inventories, fiat availability claim
 
 ## What users actually say
 
-> "i wasn't sure if the transaction would go through as it is my 1st time using such transaction system but everything worked like a charm and i received my tokens (SOL), with a little extra compared to other platforms" -- [JepettO](https://www.trustpilot.com/reviews/6385f7cb252cba2c02e74f56) (5-star, 2022-11)
+**Swapzone**
 
-> "I'm new to cryptocurrency, and I'm always frightened by the choice of services. I really liked that everything is in one place here, and you can choose from familiar names and compare prices between them." -- [Mike](https://www.trustpilot.com/reviews/68ef7c304e1dc26394c71c1f) (5-star, 2025-10)
+**What users say**
 
-> "It is good, but rates vary sometimes, some partners do it fast and other take some time. The support is very fast to respond. Had a problem, was solved when I wrote the support." -- [Vini Pooh](https://www.trustpilot.com/reviews/61124ccbf9f487044c56a6ed) (5-star, 2021-08)
+**Positive**
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform."
+>
+> -- Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
 
-*Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot](https://www.trustpilot.com/review/swapzone.io)*
+**Critical**
+> "I cannot recommend Swapzone as long as n.exchange is used as one of its CEX partners for swap execution. Transactions routed through n.exchange can become subject to lengthy AML/compliance reviews."
+>
+> -- Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
 
-**What Reddit says**
+> **Coinwy Editorial -- My take:** Marcin's resolved swap confirms the aggregator coordination works. The n.exchange problem is real -- but SwapSpace has the same risk: it also routes through third-party partners, and Sam's complaint shows the exact same dynamic. Both platforms are only as good as the partner they route you through on any given swap.
 
-SwapSpace and Swapzone appear together in [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) threads about aggregators. The common community take is that both cover most major pairs and both are non-custodial. Users swapping mainstream pairs report similar experiences. Users on niche coins tend to favor SwapSpace for its broader inventory.
 
-> **Coinwy Editorial Team -- My take:** Vini Pooh's "rates vary sometimes, some partners fast, others take time" is an honest description of how aggregators work -- the rate you get depends on which partner wins the query, and partner quality varies. That is true on both Swapzone and SwapSpace. The difference between them is inventory size and fiat access, not execution quality. If your coin is in Swapzone's 1,600+ list and fiat matters, Swapzone is fine. If you need one of the 2,200+ coins SwapSpace adds, you already know where to go.
+**SwapSpace**
+
+**What users say**
+
+**Positive**
+> "Love SwapSpace! Truly convenient and yet the least expensive."
+>
+> -- Cryptoristical, [Trustpilot](https://www.trustpilot.com/reviews/6a62e81e8c33a3966a0de045)
+
+**Critical**
+> "A partner deliberately slowed my transaction so the rate dropped at completion, then delivered 410 XLM less than quoted. SwapSpace support did not intervene."
+>
+> -- Sam, [Trustpilot](https://www.trustpilot.com/reviews/6a3e1834bf530da86f73d742)
+
+> **Coinwy Editorial -- My take:** Cryptoristical's 'least expensive' claim is backed by SwapSpace's wider coin coverage -- more partners means more rate competition. Sam's complaint is the mirror of Omer's Swapzone complaint: a bad partner ruined the swap, and the aggregator didn't stop it. SwapSpace's partner count advantage doesn't help if you select the wrong one.
+
 
 ## Frequently asked questions
 

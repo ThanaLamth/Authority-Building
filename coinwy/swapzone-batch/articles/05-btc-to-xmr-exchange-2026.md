@@ -26,23 +26,23 @@ This article compares those six on rate, KYC requirements, upper limits, and fix
 | Godex | None | No (float only) | Lower limits | 20-40 min | Float only, watch limits |
 | SideShift | Email only | No (float only) | Lower limits | 15-30 min | Bitcoin-focused, lower XMR limits |
 
-![Swapzone BTC to XMR query results showing StealthEX, Exolix, and other providers with rates — July 2026](../media/05-swapzone-btc-xmr-results.png)
-*Swapzone BTC→XMR query, July 2026. StealthEX appeared in top position across multiple queries. Provider availability and rates change — verify directly.*
+![Swapzone BTC to XMR query results showing StealthEX, Exolix, and other providers with rates -- July 2026](../media/05-swapzone-btc-xmr-results.png)
+*Swapzone BTC→XMR query, July 2026. StealthEX appeared in top position across multiple queries. Provider availability and rates change -- verify directly.*
 
 
-**Live Screenshot — Swapzone BTC to XMR Live Query (July 2026)**
+**Live Screenshot -- Swapzone BTC to XMR Live Query (July 2026)**
 File: `../media/live-swapzone-btc-xmr-query.png`
 Alt text: `Swapzone BTC to XMR live query results showing provider rates and availability, July 2026`
-Caption: `Swapzone BTC to XMR live query captured July 2026 — provider availability and rates at time of capture. Run your own query to verify current conditions.`
+Caption: `Swapzone BTC to XMR live query captured July 2026 -- provider availability and rates at time of capture. Run your own query to verify current conditions.`
 
 ![Swapzone BTC to XMR live query results showing provider rates and availability, July 2026](../media/live-swapzone-btc-xmr-query.png)
 
 *Swapzone BTC to XMR live query, July 2026.*
 
-**Live Screenshot — Swapzone BTC to XMR Live Query (July 2026)**
+**Live Screenshot -- Swapzone BTC to XMR Live Query (July 2026)**
 File: `../media/live-swapzone-btc-xmr-query.png`
 Alt text: `Swapzone BTC to XMR live query results showing provider rates and availability, July 2026`
-Caption: `Swapzone BTC to XMR live query captured July 2026 — provider availability and rates at time of capture. Run your own query to verify current conditions.`
+Caption: `Swapzone BTC to XMR live query captured July 2026 -- provider availability and rates at time of capture. Run your own query to verify current conditions.`
 
 ![Swapzone BTC to XMR live query results showing provider rates and availability, July 2026](../media/live-swapzone-btc-xmr-query.png)
 
@@ -65,6 +65,21 @@ No Swapzone registration required. The rate you see is from the underlying partn
 This is the most reliable way to confirm which services actually have XMR liquidity on a given day. XMR pairs get paused or limited more often than mainstream pairs. Swapzone shows you what is live right now.
 
 **Verdict:** Useful for checking which providers have XMR liquidity on a given day, since provider availability for XMR fluctuates. Not the starting point for users who already know StealthEX or Exolix covers their amount -- go direct and save the aggregator step.
+
+
+**What users say**
+
+**Positive**
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform."
+>
+> -- Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
+
+**Critical**
+> "I cannot recommend Swapzone as long as n.exchange is used as one of its CEX partners for swap execution. Transactions routed through n.exchange can become subject to lengthy AML/compliance reviews."
+>
+> -- Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
+
+> **Coinwy Editorial -- My take:** Marcin's failed swap resolved in 1.5 hours is the realistic baseline for non-standard pairs. Omer's complaint is about a specific partner (n.exchange), not Swapzone's own routing. You can filter that partner out. For XMR specifically the aggregator view matters more than usual because provider availability fluctuates day to day.
 
 ---
 
@@ -89,12 +104,12 @@ Speed is 20-35 minutes given XMR's confirmation requirements. That is normal for
 **Positive**
 > "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them"
 >
-> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (★★★★★, 2026-01)
+> -- Tyler Boss, [Trustpilot](https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2) (, 2026-01)
 
 **Critical**
 > "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories..."
 >
-> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (★, 2026-03)
+> -- Salvatore, [Trustpilot](https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5) (, 2026-03)
 
 
 ### ChangeNOW: Our Pick for Speed When Amount Is Below Threshold
@@ -114,12 +129,12 @@ Fixed rate available. Solid coin coverage.
 **Positive**
 > "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification."
 >
-> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (★★★★★, 2026-08)
+> -- RT, [Trustpilot](https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df) (, 2026-08)
 
 **Critical**
-> "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
+> "My raven coin still hasn't been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z"
 >
-> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (★, 2026-08)
+> -- Star seed galaxy, [Trustpilot](https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2) (, 2026-08)
 
 
 ### Exolix: Our Pick for Fixed Rate Guarantee
@@ -137,14 +152,14 @@ Exolix handles fewer pairs than ChangeNOW or StealthEX but does the core pairs w
 **What users say**
 
 **Positive**
-> "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
+> "Listen, I had a change of heart. I didn't realize the support team is on TG. I was upset because I couldn't figure out how to reach support, and my tokens were hanging on a platform labeled expired. I'm going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service."
 >
-> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (★★★★★, 2026-04)
+> -- Kendall Oliver Sr., [Trustpilot](https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b) (, 2026-04)
 
 **Critical**
-> "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
+> "Hey everyone! I'm interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed."
 >
-> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (★, 2026-04)
+> -- orinate bob, [Trustpilot](https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01) (, 2026-04)
 
 
 ### Godex: Our Pick for Floating Rate Without Account
@@ -168,12 +183,12 @@ The floating-only policy means your final XMR amount is calculated at execution,
 **Positive**
 > "Let me first start by saying I don't usually leave reviews for businesses as most are mediocre. However, Godex.io have gone above and beyond with their customer service. I was looking to swap ETH for XMR but had stupidly sent the ETH via the wrong network but to the correct address."
 >
-> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (★★★★★, 2026-05)
+> -- Nevets, [Trustpilot](https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728) (, 2026-05)
 
 **Critical**
 > "I did a transfer of xmr to usdt , I was able to lock it in fixed rate at 543 xmr , godex not only took a week to respond and not action the transfer, but also said this and I quote "Unfortunately, due to the significant rate change, the system was unable to perform the swap at the fixed rate."
 >
-> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (★, 2026-06)
+> -- Clive Bixby, [Trustpilot](https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a) (, 2026-06)
 
 
 ### SideShift: Our Pick If You Only Have BTC and Need Basic XMR
@@ -238,18 +253,18 @@ For smaller amounts below $500 equivalent where the absolute loss is manageable,
 
 Users who have completed BTC to XMR swaps on Swapzone describe the experience directly.
 
-> "I xchanged BTC for ETH much cheaper than doing it in my Exodus wallet. just as simple and was much faster then the time advertised. Very happy with the service." — [Paul](https://www.trustpilot.com/reviews/61aaec4d2b49257fe2947746) (★★★★★, 2021-12)
+> "I xchanged BTC for ETH much cheaper than doing it in my Exodus wallet. just as simple and was much faster then the time advertised. Very happy with the service." -- [Paul](https://www.trustpilot.com/reviews/61aaec4d2b49257fe2947746) (, 2021-12)
 
-> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform." — [Marcin](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a) (★★★★★, 2026-07)
+> "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform." -- [Marcin](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a) (, 2026-07)
 
-> "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" — [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (★★★★★, 2022-04)
+> "I was Hesitant at first but desperate to swap btc for sol to buy a NFT im happy to say that it actually came through (Bookmarking this site)" -- [asta sonner](https://www.trustpilot.com/reviews/62564ecb2b3c3c43cfd12166) (, 2022-04)
 
 *Based on 460 verified Trustpilot reviews. [See all Swapzone reviews on Trustpilot →](https://www.trustpilot.com/review/swapzone.io)*
 
 
 **What Reddit says**
 
-> "Aaaaand XMR withdrawal suspended on Binance. God damn it. Been waiting for a low fee BTC txn to confirm to be able to withdraw the XMR I traded it for. F. Hopefully it’s restored soon."
+> "Aaaaand XMR withdrawal suspended on Binance. God damn it. Been waiting for a low fee BTC txn to confirm to be able to withdraw the XMR I traded it for. F. Hopefully it's restored soon."
 >
 > -- u/nsg_vwap, [r/Monero](https://reddit.com/r/Monero/comments/nf9bwd/get_your_xmr_off_exchanges_asap/gykrcfc/)
 
