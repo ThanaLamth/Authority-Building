@@ -17,14 +17,14 @@ If the answer is IDR, THB, or PHP, the path through a licensed local exchange (C
 
 | Dimension | DEX (e.g., [Uniswap](https://app.uniswap.org/)) | CEX (e.g., [Binance](https://www.binance.com/), [Bitkub](https://www.bitkub.com/)) | Aggregator (Swapzone) |
 
-![Swapzone aggregator interface showing multi-provider rate results in a single query -- July 2026](../media/17-swapzone-aggregator-results.png)
+![Swapzone aggregator interface showing multi-provider rate results in a single query , July 2026](../media/17-swapzone-aggregator-results.png)
 *[Swapzone](https://swapzone.io/) aggregator: one query, rates from 18+ providers. Contrast with CEX (single platform rate) and DEX (on-chain liquidity pool).*
 
 |-----------|--------------------|-----------------------------|----------------------|
-| Fiat on-ramp | No | Yes -- IDR/THB/PHP available on licensed SEA exchanges | EUR/GBP/AUD/CAD/USD only |
+| Fiat on-ramp | No | Yes , IDR/THB/PHP available on licensed SEA exchanges | EUR/GBP/AUD/CAD/USD only |
 | KYC | None | Full (OJK/SEC TH/BSP required) | None |
 | Swap rate | AMM price with slippage | Exchange spread | Best of 18+ providers |
-| Gas fee | Yes -- ETH: $5-20; BNB Chain: $0.50-2 | None | None (depends on chain) |
+| Gas fee | Yes , ETH: $5-20; BNB Chain: $0.50-2 | None | None (depends on chain) |
 | Registration | None | Required | None |
 | Custody | Self-custodial | Custodial | Non-custodial (routes to provider) |
 | Local IDR/THB/PHP | No | Yes (via P2P or bank) | No |
@@ -33,11 +33,11 @@ If the answer is IDR, THB, or PHP, the path through a licensed local exchange (C
 **Live Screenshot (July 2026)**
 File: `../media/live-swapzone-btc-eth-query.png`
 Alt text: `Swapzone aggregator querying DEX and CEX providers July 2026`
-Caption: `Swapzone aggregator reviewed July 2026 -- bridges DEX and CEX provider rates in a single query interface.`
+Caption: `Swapzone aggregator reviewed July 2026 , bridges DEX and CEX provider rates in a single query interface.`
 
 ![Swapzone aggregator querying DEX and CEX providers July 2026](../media/live-swapzone-btc-eth-query.png)
 
-*Swapzone aggregator reviewed July 2026 -- bridges DEX and CEX provider rates in a single query interface.*
+*Swapzone aggregator reviewed July 2026 , bridges DEX and CEX provider rates in a single query interface.*
 
 ## DEX in Southeast Asia: where it works and where it does not
 
@@ -47,7 +47,7 @@ Caption: `Swapzone aggregator reviewed July 2026 -- bridges DEX and CEX provider
 
 A DEX like Uniswap, [PancakeSwap](https://pancakeswap.finance/), or similar requires no registration and no KYC. You connect a wallet, approve the token swap, and transact on-chain. The swap rate is determined by the AMM (automated market maker) pricing formula, which includes slippage based on pool depth.
 
-The friction for SEA users is the gas fee and the fiat gap. A $5-20 ETH gas fee on Uniswap during network congestion is 1-4% overhead on a $500 swap -- before factoring in the AMM spread. For users on BNB Chain (PancakeSwap), gas is $0.50 to $2, which is more manageable.
+The friction for SEA users is the gas fee and the fiat gap. A $5-20 ETH gas fee on Uniswap during network congestion is 1-4% overhead on a $500 swap , before factoring in the AMM spread. For users on BNB Chain (PancakeSwap), gas is $0.50 to $2, which is more manageable.
 
 The fiat gap is fundamental: DEX does not accept IDR, THB, or PHP. To use a DEX, a user must already have crypto. That crypto typically came from a licensed CEX, which required full KYC. For first-time buyers, DEX is not the starting point.
 
@@ -59,7 +59,7 @@ DEX works well for SEA users who:
 
 ### A note on "AMM" for readers new to the term
 
-AMM stands for Automated Market Maker. Instead of matching buy and sell orders between users, an AMM uses a mathematical formula (typically x multiplied by y equals k) to price swaps based on the ratio of two assets in a shared liquidity pool. The more of one asset you buy relative to pool depth, the worse your price -- this is slippage.
+AMM stands for Automated Market Maker. Instead of matching buy and sell orders between users, an AMM uses a mathematical formula (typically x multiplied by y equals k) to price swaps based on the ratio of two assets in a shared liquidity pool. The more of one asset you buy relative to pool depth, the worse your price , this is slippage.
 
 ## CEX in Southeast Asia: the necessary entry point
 
@@ -94,7 +94,7 @@ An aggregator is the right tool for:
 - Non-custodial workflow (no exchange holds your funds between swaps)
 - No-KYC access for subsequent swaps after the initial CEX onboarding
 
-[Check live crypto-to-crypto rates on Swapzone -- no account, no KYC.](https://swapzone.io/)
+[Check live crypto-to-crypto rates on Swapzone , no account, no KYC.](https://swapzone.io/)
 
 ## Real cost comparison by scenario
 
@@ -102,7 +102,7 @@ An aggregator is the right tool for:
 Required tool: OJK-licensed CEX (Indodax, Tokocrypto, Reku, or Pintu). Full KYC required. IDR to BTC via bank transfer, low fee. No alternative path exists for this use case.
 
 **Scenario 2: Indonesian user with [USDT](https://tether.to/) wanting to swap to ETH**
-Best tool: Swapzone (no KYC, best rate from 18+ providers, no gas fee) or a DEX (no KYC, on-chain, gas fee applies). Swapzone wins on total cost for most amounts -- no gas overhead.
+Best tool: Swapzone (no KYC, best rate from 18+ providers, no gas fee) or a DEX (no KYC, on-chain, gas fee applies). Swapzone wins on total cost for most amounts , no gas overhead.
 
 **Scenario 3: Thai user wanting to rebalance from BTC to ETH**
 Best tool: Swapzone (no KYC, rate comparison). DEX is an alternative if the user already has an Ethereum wallet and can absorb gas.
@@ -122,7 +122,7 @@ Best tool: Swapzone or [StealthEX](https://stealthex.io/) (no KYC, XMR-carrying 
 
 Swapzone and most non-custodial aggregators do not support IDR, THB, or PHP. This is the practical gap for SEA retail users who work entirely in local fiat. Until aggregators integrate local payment rails for SEA currencies, the CEX-first workflow remains necessary for the on-ramp step.
 
-Watch for: regional payment rail integrations from Swapzone or competitors in the 2026 to 2027 period. OJK, BSP, and Bank of Thailand have been expanding digital payment infrastructure -- whether this connects to non-custodial aggregators is an open question.
+Watch for: regional payment rail integrations from Swapzone or competitors in the 2026 to 2027 period. OJK, BSP, and Bank of Thailand have been expanding digital payment infrastructure , whether this connects to non-custodial aggregators is an open question.
 
 ## What we checked
 
@@ -138,14 +138,14 @@ We reviewed the public fee structures, KYC policies, and regional availability o
 **Positive**
 > "Support helped me with failed swap (because I sent small amount of Litecoin). After 1,5 hours I got my Monero (XMR). I recommend this platform."
 >
-> -- Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
+> , Marcin, [Trustpilot](https://www.trustpilot.com/reviews/6a591e93a253790283802d7a)
 
 **Critical**
 > "I cannot recommend Swapzone as long as n.exchange is used as one of its CEX partners for swap execution. Transactions routed through n.exchange can become subject to lengthy AML/compliance reviews."
 >
-> -- Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
+> , Omer Onat, [Trustpilot](https://www.trustpilot.com/reviews/6a6f80f806aa7388e54514b5)
 
-> **Kanalcoin Editorial -- My take:** Marcin's resolved XMR swap through the aggregator shows the coordination layer working -- the partner made an error, Swapzone helped resolve it. Omer's n.exchange problem is a good example of what distinguishes a good aggregator from a bad one. A good aggregator lets you filter problematic partners; Swapzone does, but it requires deliberate action.
+> **Kanalcoin Editorial , My take:** Marcin's resolved XMR swap through the aggregator shows the coordination layer working , the partner made an error, Swapzone helped resolve it. Omer's n.exchange problem is a good example of what distinguishes a good aggregator from a bad one. A good aggregator lets you filter problematic partners; Swapzone does, but it requires deliberate action.
 
 
 **ChangeNOW (direct)**
@@ -153,27 +153,27 @@ We reviewed the public fee structures, KYC policies, and regional availability o
 **What users say**
 
 **Positive**
-> "Reliable and honest swap service -- great customer support. I accidentally sent an ATOM transaction without a memo when the field glitched out. Reached out to support, and even though it took a couple of hours to process manually, they had it sorted and credited to my wallet well within their 4-hour timeframe."
+> "Reliable and honest swap service , great customer support. I accidentally sent an ATOM transaction without a memo when the field glitched out. Reached out to support, and even though it took a couple of hours to process manually, they had it sorted and credited to my wallet well within their 4-hour timeframe."
 >
-> -- Jonathan B, [Trustpilot](https://www.trustpilot.com/reviews/6a83070692d5b9770ea69a95)
+> , Jonathan B, [Trustpilot](https://www.trustpilot.com/reviews/6a83070692d5b9770ea69a95)
 
 **Critical**
 > "My transaction has been held by the Compliance Department for an extended period. I completed KYC, provided every document requested, including proof of funds and source of income, yet my case keeps getting escalated with no resolution."
 >
-> -- Roman, [Trustpilot](https://www.trustpilot.com/reviews/6a69d669e73d29b57b2ffe18)
+> , Roman, [Trustpilot](https://www.trustpilot.com/reviews/6a69d669e73d29b57b2ffe18)
 
-> **Kanalcoin Editorial -- My take:** Jonathan B's ATOM recovery is actually a case for aggregator-model platforms over pure CEX: ChangeNOW's support was more responsive than what you'd expect from a large centralized exchange. That's the aggregator advantage -- smaller surface, more accountable support.
+> **Kanalcoin Editorial , My take:** Jonathan B's ATOM recovery is actually a case for aggregator-model platforms over pure CEX: ChangeNOW's support was more responsive than what you'd expect from a large centralized exchange. That's the aggregator advantage , smaller surface, more accountable support.
 
 
 ## Frequently asked questions
 
 **Can I use a DEX in Indonesia without KYC?**
-Yes. DEX platforms like Uniswap and PancakeSwap do not require registration or KYC. However, you must already have crypto to use a DEX -- the IDR on-ramp requires a licensed OJK exchange with full KYC.
+Yes. DEX platforms like Uniswap and PancakeSwap do not require registration or KYC. However, you must already have crypto to use a DEX , the IDR on-ramp requires a licensed OJK exchange with full KYC.
 
 **Is Swapzone available in Thailand?**
-Yes. Swapzone is accessible from Thailand without geo-restriction and without registration or KYC. It does not support THB as a fiat pair -- the THB fiat on-ramp requires a Thai-licensed exchange.
+Yes. Swapzone is accessible from Thailand without geo-restriction and without registration or KYC. It does not support THB as a fiat pair , the THB fiat on-ramp requires a Thai-licensed exchange.
 
-**Which is cheapest for crypto-to-crypto swaps in SEA -- DEX, CEX, or aggregator?**
+**Which is cheapest for crypto-to-crypto swaps in SEA , DEX, CEX, or aggregator?**
 For most crypto-to-crypto pairs, an aggregator like Swapzone is cheapest: no gas fee, best rate from 18-plus providers, no spread markup from a single exchange. DEX adds gas overhead. CEX adds exchange spread without multi-provider comparison.
 
 **Does Swapzone have IDR or THB support?**
