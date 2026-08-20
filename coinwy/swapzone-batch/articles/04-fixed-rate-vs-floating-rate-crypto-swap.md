@@ -125,6 +125,7 @@ See both fixed and floating rates side by side on [Swapzone](https://swapzone.io
 - Floating rate execution timing based on documented chain confirmation times: BTC (~10 min per confirmation), XMR (~2 min per block, 10 confirmations), ETH (~15 sec per block, 12 confirmations)
 - Provider fixed rate availability confirmed: ChangeNOW, StealthEX, SimpleSwap, Exolix all offer fixed rate
 - [SideShift.ai](https://sideshift.ai/) confirmed float-only via platform documentation
+- Swapzone filter functionality confirmed via live site review
 
 ---
 

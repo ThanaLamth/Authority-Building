@@ -19,6 +19,7 @@ The 10 services below are tiered by KYC level, from zero to full.
 
 | Service | KYC level | Type | Region access | No-KYC limit | Fiat |
 |---------|-----------|------|---------------|--------------|------|
+| [Swapzone](https://swapzone.io/) | 0 , none | Aggregator | Global | No stated limit | EUR/GBP/AUD/CAD/USD |
 | [StealthEX](https://stealthex.io/) | 0 , none | Single provider | Global | No upper limit | No |
 | [Exolix](https://exolix.com/) | 0 , none | Single provider | Global | Medium | No |
 | [SimpleSwap](https://simpleswap.io/) | 0 , none | Single provider | Global | Low-medium | Limited |
@@ -35,6 +36,7 @@ Scored out of 10. Total out of 50.
 
 | Service | No-KYC policy | Accessibility SEA | Upper limit | Coin coverage | Fiat | Total |
 |---------|-------------|------------------|-------------|---------------|------|-------|
+| Swapzone | 10 | 10 | 9 | 8 | 10 | **47** |
 | StealthEX | 10 | 10 | 10 | 7 | 0 | **37** |
 | ChangeNOW | 7 | 10 | 8 | 8 | 4 | **37** |
 | SimpleSwap | 10 | 10 | 7 | 7 | 3 | **37** |

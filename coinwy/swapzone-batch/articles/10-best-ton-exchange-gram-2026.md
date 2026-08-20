@@ -17,6 +17,7 @@ Swapzone lists TON as "Gram (ex TON)" in its footer, reflecting the original Tel
 
 | Service | Lists as | Fixed rate | KYC | Notable |
 |---------|----------|------------|-----|---------|
+| Swapzone | Gram (ex TON) | Filter | None (aggregator) | Multi-provider query |
 | ChangeNOW | Toncoin | Yes | Threshold | Fastest option |
 | SimpleSwap | TON | Yes | None | Cleanest UX |
 | StealthEX | TON | Yes | None | No upper limit |
@@ -37,6 +38,7 @@ Scored out of 10. Total out of 50.
 
 | Service | Rate breadth | No-KYC | Fixed rate | UX simplicity | TON coverage | Total |
 |---------|-------------|--------|------------|---------------|--------------|-------|
+| Swapzone | 10 | 10 | 10 | 8 | 9 | **47** |
 | StealthEX | 7 | 10 | 10 | 8 | 8 | **43** |
 | ChangeNOW | 7 | 7 | 9 | 8 | 9 | **40** |
 | SimpleSwap | 7 | 10 | 9 | 10 | 8 | **44** |

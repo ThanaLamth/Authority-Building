@@ -135,6 +135,7 @@ The scores confirm the argument: these are complementary tools. An aggregator sc
 
 ## What We Checked
 
+- Swapzone partner count and supported coins verified via site: 18+ partners, 1,600+ coins
 - KYC policies for [ChangeNOW](https://changenow.io/), [StealthEX](https://stealthex.io/), [SimpleSwap](https://simpleswap.io/), and [Exolix](https://exolix.com/) checked via terms and community reports
 - Fiat on-ramp availability across aggregators confirmed: none offer direct bank transfer without third-party processor
 - Rate spread methodology: aggregator vs single exchange documented in third-party swap comparisons

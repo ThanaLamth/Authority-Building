@@ -19,6 +19,7 @@ TRX network confirmation is fast. The bottleneck in this swap is the BTC confirm
 
 | Service | Speed | Fixed rate | Min BTC | KYC |
 |---------|-------|------------|---------|-----|
+| Swapzone | Varies by provider | Filter | Provider-set | None (aggregator) |
 | ChangeNOW | 2-5 min + BTC confirm | Yes | Low | Threshold |
 | SimpleSwap | 5-30 min | Yes | Low | None |
 | StealthEX | 5-15 min | Yes | Low | None |

@@ -28,6 +28,7 @@ Caption: `Swapzone USDT to BTC query reviewed July 2026 , multiple provider rate
 
 | Service | USDT Networks | Rate Type | KYC | Speed | Note |
 |---|---|---|---|---|---|
+| Swapzone | ERC20, TRC20, BEP20 | Fixed + Float | None | 10-30 min | Aggregator, best rate comparison |
 | ChangeNOW | ERC20, TRC20, BEP20 | Fixed + Float | Threshold | 5-20 min | Fast, KYC threshold risk |
 
 ![Swapzone USDT to BTC query showing provider list with rates and estimated completion time , July 2026](../media/06-swapzone-usdt-btc-results.png)

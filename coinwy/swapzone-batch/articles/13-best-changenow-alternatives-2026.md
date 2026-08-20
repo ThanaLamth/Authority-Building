@@ -17,6 +17,7 @@ That said, there are legitimate reasons to want a specific single-provider alter
 
 | Alternative | Type | Fixed rate | KYC | Fiat | Best for |
 |------------|------|------------|-----|------|---------|
+| Swapzone | Aggregator | Yes | None | EUR/GBP/AUD/CAD/USD | Rate comparison across 18+ providers |
 | [SwapSpace](https://swapspace.co/) | Aggregator | Yes | None | Limited | 3,800+ coins, 32+ partners |
 | [StealthEX](https://stealthex.io/) | Single | Yes | None | No | No upper limit, no-KYC |
 | [SimpleSwap](https://simpleswap.io/) | Single | Yes | None | Limited | Simplest UX |
@@ -39,6 +40,7 @@ Scored out of 10. Total out of 50.
 
 | Alternative | Rate breadth | No-KYC | Fixed rate | Coin coverage | Fiat | Total |
 |------------|-------------|--------|------------|---------------|------|-------|
+| Swapzone | 10 | 10 | 10 | 7 | 10 | **47** |
 | SwapSpace | 10 | 10 | 10 | 10 | 3 | **43** |
 | StealthEX | 7 | 10 | 10 | 7 | 0 | **34** |
 | SimpleSwap | 7 | 10 | 9 | 7 | 3 | **36** |

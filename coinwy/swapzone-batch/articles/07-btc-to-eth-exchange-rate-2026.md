@@ -28,6 +28,7 @@ Caption: `Swapzone BTC to ETH query reviewed July 2026 , provider rates captured
 
 | Service | Fixed Rate | Min BTC | KYC | Speed | Note |
 |---|---|---|---|---|---|
+| Swapzone | Yes (via providers) | Varies | None | 5-30 min | Aggregator, best rate selection |
 | ChangeNOW | Yes | ~0.0002 BTC | Threshold | 5-20 min | Fastest on common pairs |
 | Changelly | Yes | ~0.0002 BTC | Sometimes | 10-30 min | Long track record |
 | SimpleSwap | Yes | ~0.0003 BTC | None | 10-20 min | Consistent, no KYC |

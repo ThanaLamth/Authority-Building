@@ -21,6 +21,7 @@ The local AUD path , [Independent Reserve](https://www.independentreserve.com/),
 | CoinSpot | Yes (POLi / BPAY / card) | Yes | Full | Exchange rate | Widest coin selection, simplest UX |
 | Swyftx | Yes (bank / card) | Yes | Full | Exchange rate | Low maker/taker fees |
 | BTC Markets | Yes (bank) | Yes | Full | Exchange rate | High-volume and OTC |
+| Swapzone | AUD fiat pair (verify) | Not applicable | None | Aggregated | Crypto-to-crypto post on-ramp |
 
 **Live Screenshot (July 2026)**
 File: `../media/live-swapzone-aud-btc-query.png`
@@ -45,6 +46,7 @@ Scored out of 10. Total out of 50.
 *Swapzone AUD?BTC, July 2026. AUD fiat support routed through select partners , verify availability at swapzone.io before initiating.*
 
 | BTC Markets | 8 | 10 | 8 | 6 | 0 | **32** |
+| Swapzone | 4 | N/A | 10 | 8 | 10 | **32** |
 
 **Scoring notes.** Swyftx and CoinSpot tie at the top for different reasons: Swyftx wins on fee competitiveness, CoinSpot wins on coin coverage. Independent Reserve leads on institutional depth and OTC capability. Swapzone scores highest on no-KYC and rate competitiveness for the crypto-to-crypto layer but scores low on AUD access because direct AUD fiat pairs on Swapzone are limited and should be verified before use. BTC Markets is the preferred platform for high-volume and OTC transactions.
 

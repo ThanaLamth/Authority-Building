@@ -17,6 +17,7 @@ The six services that handle EUR to BTC in 2026 are [Swapzone](https://swapzone.
 
 | Service | EUR payment method | SEPA | SEPA Instant | KYC | Rate type | MiCA licensed |
 |---------|-------------------|------|--------------|-----|-----------|--------------|
+| Swapzone | SEPA + card (via partners) | Yes (partners) | Some partners | None (aggregator level) | Both | Not applicable |
 | Changelly | Card + SEPA | Yes | No | Sometimes | Float | No |
 | ChangeNOW | Card + SEPA | Yes | No | Rare | Both | No |
 | Kraken | SEPA + wire | Yes | Yes (EU) | Full KYC | Exchange rate | MiCA licensed |
@@ -38,6 +39,7 @@ Scored out of 10. Total out of 50.
 
 | Service | EUR access | SEPA quality | Rate competitiveness | No-KYC | Regulatory trust | Total |
 |---------|-----------|-------------|---------------------|--------|------------------|-------|
+| Swapzone | 8 | 7 | 9 | 10 | 6 | **40** |
 | Kraken | 10 | 10 | 8 | 0 | 10 | **38** |
 | Coinbase | 9 | 9 | 7 | 0 | 10 | **35** |
 | Bitpanda | 8 | 10 | 8 | 0 | 9 | **35** |

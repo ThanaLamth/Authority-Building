@@ -32,6 +32,7 @@ Caption: `Swapzone homepage reviewed July 2026 , no account, no email, no KYC re
 *Swapzone swap start: no account, no login prompt. Destination wallet address is the only required input.*
 
 |---|---|---|---|---|---|
+| Swapzone | 5-30 min (varies by provider) | None | Yes (via providers) | Varies by pair | None |
 | StealthEX | 5-20 min | None | Yes | ~$10-20 equiv | None |
 | ChangeNOW | 2-5 min (common pairs) | None | Yes | ~$2 equiv | Threshold-triggered |
 | SimpleSwap | 5-15 min | None | Yes | ~$10 equiv | None |

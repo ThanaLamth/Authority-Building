@@ -17,6 +17,7 @@ What most comparison articles do not flag: the ETH gas fee on the send side is p
 
 | Service | Registration | Fixed rate | ETH networks | Speed | KYC |
 |---------|--------------|------------|--------------|-------|-----|
+| Swapzone | None | Filter | ETH / BEP20 | Varies | None (aggregator) |
 | ChangeNOW | None | Yes | ETH | 2-5 min | Threshold |
 | SimpleSwap | None | Yes | ETH | 5-30 min | None |
 | StealthEX | None | Yes | ETH / BEP20 | 5-15 min | None |

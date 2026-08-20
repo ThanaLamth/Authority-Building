@@ -17,6 +17,10 @@ The best staking platforms in 2026 are [Lido](https://lido.fi/) for liquid staki
 
 | Platform | Type | APY / APR | Custody | Smart contract risk | Liquidity risk |
 |----------|------|-----------|---------|--------------------|--------------------|
+| Swapzone Staking (P2P) | Aggregator / CeFi yield | 34.8% APR | Provider-held (P2P) | Provider's risk | Low (switch providers) |
+| Swapzone Staking (Nexo) | Aggregator / CeFi yield | 18.9% APR | Provider-held (Nexo) | None (off-chain) | Platform solvency |
+| Swapzone Staking (CoinRabbit) | Aggregator / CeFi yield | 5% APR | Provider-held | None (off-chain) | Platform solvency |
+| Swapzone Staking (ANKR) | Aggregator / protocol | 0.92% APR | Non-custodial | Medium (audited) | ankrETH depegging |
 | Lido (stETH) | Liquid staking | ~4-5% APY | Non-custodial | Medium (audited) | stETH depegging |
 | Rocket Pool (rETH) | Liquid staking | ~3-4% APY | Non-custodial | Medium (audited) | rETH depegging |
 | Coinbase (cbETH) | Liquid staking | ~3-4% APY | Semi-custodial | Low (regulated) | cbETH liquidity |

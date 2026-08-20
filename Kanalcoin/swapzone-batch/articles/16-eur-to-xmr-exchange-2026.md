@@ -17,6 +17,7 @@ Five services still offer EUR to XMR access as of this review. All are non-custo
 
 | Service | EUR accepted | XMR available | KYC | Rate type | EU accessible |
 |---------|-------------|--------------|-----|-----------|--------------|
+| [Swapzone](https://swapzone.io/) | Yes (via fiat partners) | Yes | None (aggregator) | Both | Yes |
 | [StealthEX](https://stealthex.io/) | Card / crypto | Yes | None | Both | Yes |
 | [ChangeNOW](https://changenow.io/) | Card / bank | Yes | Rare | Both | Yes |
 | [Exolix](https://exolix.com/) | Card / crypto | Yes | None | Float | Yes |
@@ -39,6 +40,7 @@ Scored out of 10. Total out of 50.
 
 | Service | EUR fiat access | XMR coverage | No-KYC | Rate type | Upper limit | Total |
 |---------|----------------|-------------|--------|-----------|-------------|-------|
+| Swapzone | 9 | 9 | 10 | 10 | 8 | **46** |
 | StealthEX | 6 | 9 | 10 | 10 | 10 | **45** |
 | ChangeNOW | 8 | 8 | 7 | 9 | 8 | **40** |
 | Exolix | 5 | 8 | 10 | 7 | 7 | **37** |

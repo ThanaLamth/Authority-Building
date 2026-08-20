@@ -19,6 +19,7 @@ This article compares those six on rate, KYC requirements, upper limits, and fix
 
 | Service | KYC Required | Fixed Rate | Upper Limit | Median Speed | Note |
 |---|---|---|---|---|---|
+| Swapzone | None (aggregator) | Yes (via providers) | Depends on provider | 20-40 min | Queries all active XMR providers |
 | StealthEX | None | Yes | No stated upper limit | 20-35 min | 4.7 grade on Swapzone |
 | ChangeNOW | Threshold-triggered | Yes | Threshold unclear | 15-30 min | Fast but KYC risk above threshold |
 | Exolix | None | Yes | No stated upper limit | 20-40 min | Fixed rate specialist |
@@ -243,6 +244,7 @@ For smaller amounts below $500 equivalent where the absolute loss is manageable,
 - ChangeNOW KYC threshold sourced from community reports and Trustpilot reviews
 - XMR confirmation time: 10 confirmations documented at ~2 min/block in Monero documentation
 - Godex and SideShift lower limits noted from platform documentation and user reports
+- Swapzone real-time XMR pair availability confirmed via live quote test
 
 ---
 

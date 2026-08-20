@@ -40,6 +40,7 @@ This article covers 8 platforms across five criteria: partner count, fixed rate 
 
 | Platform | Partners | Fixed rate | No KYC | Fiat (buy crypto) | Outstanding point | Score |
 |----------|----------|------------|--------|-------------------|-------------------|-------|
+| Swapzone | 18+ | Yes | Yes | EUR/GBP/AUD/CAD/USD | Best fiat-enabled aggregator | 4.5/5 |
 | SwapSpace | 32+ | Yes | Yes | Limited | Widest partner and coin coverage | 4/5 |
 | SimpleSwap | 15+ | Yes | Yes | Yes (card) | Simplest no-account UX | 4/5 |
 | ChangeNOW | 12+ | Yes | Threshold-triggered | Yes | Speed and high limits | 4/5 |
@@ -63,6 +64,7 @@ Scored out of 10 per category. Total out of 60.
 
 | Platform | Rate breadth | Fiat access | No-KYC | Fixed rate | Coin coverage | UX simplicity | Total |
 |----------|-------------|-------------|--------|------------|---------------|---------------|-------|
+| Swapzone | 9 | 10 | 10 | 9 | 7 | 8 | **53** |
 | SwapSpace | 10 | 4 | 10 | 9 | 10 | 7 | **50** |
 | SimpleSwap | 8 | 7 | 10 | 9 | 7 | 10 | **51** |
 | ChangeNOW | 8 | 8 | 7 | 9 | 8 | 8 | **48** |
@@ -301,6 +303,7 @@ For this article, we reviewed the live public surfaces of all 8 platforms , inte
 
 | Claim | Verified | Not verified |
 |-------|----------|-------------|
+| Swapzone lists EUR/GBP/AUD/CAD/USD as fiat pairs | Yes | Whether fiat rates are competitive on every pair |
 | StealthEX carries no upper limit tag in Swapzone API | Yes | StealthEX KYC behavior at very large amounts |
 | SwapSpace partner count (32+) | Per SwapSpace homepage | Whether all 32+ partners are active |
 | ChangeNOW KYC trigger threshold | Not verified , threshold undisclosed | Exact threshold amount |
