@@ -76,6 +76,15 @@ What the article does not tell you upfront: Bitkub charges a 0.25% maker and tak
 
 Bitkub has also been mentioned in multiple Thai Reddit and crypto forum discussions as the first place Thai users go when converting THB to crypto, not because it is the cheapest per trade, but because the THB path feels the most predictable. In a [Thai crypto community thread about local exchange reliability after the 2022 market events](https://www.reddit.com/r/ThailandInvestment/comments/xoqt5w/bitkub_experience/), users consistently named Bitkub as the local exchange they trusted for straightforward THB conversion, even while moving assets offshore for active trading.
 
+**Live Screenshot -- Bitkub Homepage (July 2026)**
+File: `../media/live-bitkub-homepage.png`
+Alt text: `Bitkub Thailand crypto exchange homepage showing THB trading pairs and SEC licensing, July 2026`
+Caption: `Bitkub homepage reviewed July 2026 -- Thailand's most widely used SEC-licensed exchange showing Thai language interface, THB pairs, and domestic brand positioning.`
+
+![Bitkub Thailand crypto exchange homepage showing THB trading pairs and SEC licensing, July 2026](../media/live-bitkub-homepage.png)
+
+*Bitkub homepage, July 2026. Thailand's leading SEC-licensed exchange, reviewed as part of our Thailand crypto exchange guide.*
+
 ---
 
 ### Binance TH
