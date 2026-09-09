@@ -69,11 +69,11 @@ The swap ID generated at step one allows users to monitor transaction status thr
 ---
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW swap interface — July 2026"
-Caption: "ChangeNOW's swap interface showing the CeFi routing model, July 2026."
-![ChangeNOW swap interface](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface showing the CeFi routing model, July 2026.*
+File: `../media/live-changenow-swap-widget.png.png`
+Alt text: "ChangeNOW swap widget showing BTC-to-ETH custodial routing flow — July 2026"
+Caption: "ChangeNOW's swap execution interface demonstrating custodial routing mechanics, captured July 2026."
+![ChangeNOW swap interface](../media/live-changenow-swap-widget.png)
+*ChangeNOW's swap execution interface demonstrating custodial routing mechanics, captured July 2026.*
 
 ---
 

@@ -36,6 +36,13 @@ ChangeNOW and Changelly are both established non-custodial swap services. The co
 | API | Direct, widely integrated | Yes |
 | Settlement | 5-20 min | 5-30 min |
 
+**Screenshot**
+File: `../media/live-changelly-homepage.png`
+Alt text: "Changelly homepage — interface comparison July 2026"
+Caption: "Changelly's homepage as captured in July 2026."
+![Changelly homepage — interface comparison July 2026](../media/live-changelly-homepage.png)
+*Changelly's homepage as captured in July 2026.*
+
 ---
 
 ## Where ChangeNOW wins

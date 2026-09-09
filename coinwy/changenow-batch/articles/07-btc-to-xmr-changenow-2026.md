@@ -37,6 +37,13 @@ BTC to XMR remains one of the more sensitive swap routes: many exchanges have de
 | [Trocador](https://trocador.app/) | Aggregator | Yes | 15-40 min | No limit | Yes | **Yes** |
 | [Exolix](https://exolix.com/) | Single | Yes | 15-35 min | Yes | Yes | No |
 
+**Screenshot**
+File: `../media/live-changenow-btc-xmr.png`
+Alt text: "ChangeNOW BTC to XMR swap — live rate and XMR recipient field, July 2026"
+Caption: "ChangeNOW's BTC-to-XMR swap form showing 157 XMR rate with recipient address field, captured July 2026."
+![ChangeNOW BTC to XMR swap — live rate and XMR recipient field, July 2026](../media/live-changenow-btc-xmr.png)
+*ChangeNOW's BTC-to-XMR swap form showing 157 XMR rate with recipient address field, captured July 2026.*
+
 ---
 
 ## ChangeNOW for BTC to XMR

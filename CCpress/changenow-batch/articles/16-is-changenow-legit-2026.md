@@ -49,11 +49,11 @@ ChangeNOW has operated continuously from this base since 2017 — nine years as 
 | Supported currencies | 850+ |
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's live swap interface as captured in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's live swap interface as captured in July 2026.*
+File: `../media/live-changenow-trustpilot.png.png`
+Alt text: "ChangeNOW Trustpilot page — 4.6 stars, 14K reviews, July 2026"
+Caption: "ChangeNOW's Trustpilot profile showing 4.6/5 rating and 14K+ reviews, captured July 2026."
+![ChangeNOW homepage](../media/live-changenow-trustpilot.png)
+*ChangeNOW's Trustpilot profile showing 4.6/5 rating and 14K+ reviews, captured July 2026.*
 
 ## The Trustpilot Picture: What 450,000 Reviews Actually Show
 

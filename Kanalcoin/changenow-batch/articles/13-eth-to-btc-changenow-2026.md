@@ -37,11 +37,11 @@ ChangeNOW offers two rate modes for ETH→BTC:
 For most users making a routine ETH→BTC conversion, the floating rate is fine and usually delivers a marginally better outcome. If you are swapping to match an exact BTC amount for a payment or purchase, the fixed rate is worth the slight premium.
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's swap interface as tested in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface as tested in July 2026.*
+File: `../media/live-changenow-eth-btc.png.png`
+Alt text: "ChangeNOW ETH to BTC swap — live estimated rate July 2026"
+Caption: "ChangeNOW's ETH-to-BTC swap form with live estimated rate, captured July 2026."
+![ChangeNOW homepage](../media/live-changenow-eth-btc.png)
+*ChangeNOW's ETH-to-BTC swap form with live estimated rate, captured July 2026.*
 
 ## Step-by-Step: ETH to BTC on ChangeNOW
 

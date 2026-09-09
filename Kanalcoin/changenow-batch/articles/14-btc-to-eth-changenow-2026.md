@@ -34,11 +34,11 @@ This is worth stating plainly because it trips up newcomers. Uniswap is an Ether
 ChangeNOW collapses this into a single swap. Send BTC, receive ETH. No Ethereum needed in advance, no bridge risk, no multi-step routing.
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's swap interface as tested in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface as tested in July 2026.*
+File: `../media/live-changenow-btc-eth.png.png`
+Alt text: "ChangeNOW BTC to ETH swap — live estimated rate July 2026"
+Caption: "ChangeNOW's BTC-to-ETH swap form with live estimated rate, captured July 2026."
+![ChangeNOW homepage](../media/live-changenow-btc-eth.png)
+*ChangeNOW's BTC-to-ETH swap form with live estimated rate, captured July 2026.*
 
 ## Step-by-Step: BTC to ETH on ChangeNOW
 

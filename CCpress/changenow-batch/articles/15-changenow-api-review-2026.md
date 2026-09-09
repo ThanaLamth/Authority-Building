@@ -44,11 +44,11 @@ The ChangeNOW API is a REST-based interface that provides swap creation, rate re
 The fixed-rate endpoint is particularly significant for wallets targeting retail users: it allows applications to present a guaranteed output amount before the user commits funds, substantially reducing "I received less than expected" support tickets. Changelly has offered a similar facility for years; SimpleSwap's fixed-rate offering is more recent and narrower in pair coverage.
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's live swap interface as captured in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's live swap interface as captured in July 2026.*
+File: `../media/live-changenow-api-page.png.png`
+Alt text: "ChangeNOW API documentation page — July 2026"
+Caption: "ChangeNOW's public API documentation page as captured in July 2026."
+![ChangeNOW homepage](../media/live-changenow-api-page.png)
+*ChangeNOW's public API documentation page as captured in July 2026.*
 
 ## Who Integrates the ChangeNOW API
 

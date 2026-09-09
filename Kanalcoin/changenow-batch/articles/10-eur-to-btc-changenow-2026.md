@@ -42,11 +42,11 @@ ChangeNOW's fiat buy feature is powered by third-party on-ramp providers — com
 The minimum EUR purchase amount varies by provider but commonly starts around €30–€50. Daily limits also depend on the provider and your verification tier.
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's swap interface as tested in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface as tested in July 2026.*
+File: `../media/live-changenow-eur-btc.png.png`
+Alt text: "ChangeNOW EUR to BTC buy form — Banxa and Guardarian providers shown, July 2026"
+Caption: "ChangeNOW's EUR-to-BTC buy form showing Banxa and Guardarian as fiat providers, captured July 2026."
+![ChangeNOW homepage](../media/live-changenow-eur-btc.png)
+*ChangeNOW's EUR-to-BTC buy form showing Banxa and Guardarian as fiat providers, captured July 2026.*
 
 ## SEPA and Card Buy: What European Users Should Know
 

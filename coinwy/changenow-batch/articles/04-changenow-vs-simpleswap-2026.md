@@ -36,6 +36,13 @@ ChangeNOW leads on coin coverage, fiat support, API maturity, and verified Trust
 | API | Direct, widely integrated | Available |
 | Settlement (common pairs) | 5-20 min | 5-25 min |
 
+**Screenshot**
+File: `../media/live-simpleswap-homepage.png`
+Alt text: "SimpleSwap homepage — interface comparison July 2026"
+Caption: "SimpleSwap's interface captured in July 2026 for direct comparison with ChangeNOW."
+![SimpleSwap homepage — interface comparison July 2026](../media/live-simpleswap-homepage.png)
+*SimpleSwap's interface captured in July 2026 for direct comparison with ChangeNOW.*
+
 ---
 
 ## Where ChangeNOW wins

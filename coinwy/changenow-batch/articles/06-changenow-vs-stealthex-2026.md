@@ -35,6 +35,13 @@ Both ChangeNOW and StealthEX are non-custodial, no-registration crypto swap serv
 | Trustpilot | **4.6/5 (~450K reviews)** | 4.8/5 (~10K reviews) |
 | Settlement | 5-20 min | 5-30 min |
 
+**Screenshot**
+File: `../media/live-stealthex-homepage.png`
+Alt text: "StealthEX homepage — interface comparison July 2026"
+Caption: "StealthEX's homepage as captured in July 2026."
+![StealthEX homepage — interface comparison July 2026](../media/live-stealthex-homepage.png)
+*StealthEX's homepage as captured in July 2026.*
+
 ---
 
 ## Where ChangeNOW wins

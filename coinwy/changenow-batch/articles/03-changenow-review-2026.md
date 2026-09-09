@@ -43,6 +43,13 @@ ChangeNOW is a non-custodial crypto exchange that has processed swaps since 2017
 | **Best for** | Standard no-KYC swaps, fiat on-ramp, repeat workflows |
 | **Worst for** | Very large amounts (KYC risk), obscure pairs needing multi-provider comparison |
 
+**Screenshot**
+File: `../media/live-changenow-homepage.png`
+Alt text: "ChangeNOW homepage — swap interface July 2026"
+Caption: "ChangeNOW's swap interface showing BTC-to-ETH rate, captured July 2026."
+![ChangeNOW homepage — swap interface July 2026](../media/live-changenow-homepage.png)
+*ChangeNOW's swap interface showing BTC-to-ETH rate, captured July 2026.*
+
 ---
 
 ## What ChangeNOW actually is

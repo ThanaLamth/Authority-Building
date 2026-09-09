@@ -35,6 +35,13 @@ USDT to BTC is one of the highest-volume crypto swap pairs. Provider rates on th
 | StealthEX | Competitive | 5-20 min | No upper limit | Yes |
 | SimpleSwap | Near-competitive | 5-25 min | Standard amounts | Yes |
 
+**Screenshot**
+File: `../media/live-changenow-usdt-btc.png`
+Alt text: "ChangeNOW USDT to BTC swap — live estimated rate July 2026"
+Caption: "ChangeNOW's USDT-to-BTC swap form with live rate, captured July 2026."
+![ChangeNOW USDT to BTC swap — live estimated rate July 2026](../media/live-changenow-usdt-btc.png)
+*ChangeNOW's USDT-to-BTC swap form with live rate, captured July 2026.*
+
 ---
 
 ## ChangeNOW for USDT to BTC

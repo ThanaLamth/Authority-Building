@@ -34,11 +34,11 @@ ChangeNOW's fiat buy feature is not a native payment processor — it aggregates
 The infrastructure model also means compliance sits at the provider layer. ChangeNOW's no-KYC promise applies to its crypto-to-crypto swap engine. When you buy crypto with fiat, the card processor (MoonPay, Banxa, or similar) operates under their own KYC requirements — typically email verification and, for larger purchases, a government-issued ID. This is standard for any regulated fiat on-ramp globally.
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW homepage — swap interface July 2026"
-Caption: "ChangeNOW's swap interface as tested in July 2026."
-![ChangeNOW homepage](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface as tested in July 2026.*
+File: `../media/live-changenow-fiat-buy.png.png`
+Alt text: "ChangeNOW fiat buy crypto page — Buy/Sell tab July 2026"
+Caption: "ChangeNOW's Buy/Sell Crypto tab showing fiat on-ramp flow, captured July 2026."
+![ChangeNOW homepage](../media/live-changenow-fiat-buy.png)
+*ChangeNOW's Buy/Sell Crypto tab showing fiat on-ramp flow, captured July 2026.*
 
 ## Supported Fiat Currencies and SEA Options
 

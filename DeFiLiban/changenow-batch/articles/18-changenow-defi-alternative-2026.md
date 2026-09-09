@@ -59,11 +59,11 @@ This architectural difference cascades into every dimension of the comparison th
 ---
 
 **Screenshot**
-File: `../media/live-changenow-homepage.png`
-Alt text: "ChangeNOW swap interface — July 2026"
-Caption: "ChangeNOW's swap interface showing the CeFi routing model, July 2026."
-![ChangeNOW swap interface](../media/live-changenow-homepage.png)
-*ChangeNOW's swap interface showing the CeFi routing model, July 2026.*
+File: `../media/live-1inch-dex.png.png`
+Alt text: "1inch DEX aggregator interface — on-chain swap comparison, July 2026"
+Caption: "1inch DEX aggregator interface for comparison with ChangeNOW's CeFi model, captured July 2026."
+![ChangeNOW swap interface](../media/live-1inch-dex.png)
+*1inch DEX aggregator interface for comparison with ChangeNOW's CeFi model, captured July 2026.*
 
 ---
 
