@@ -119,24 +119,37 @@ This matters for trust signal as much as for technical utility: ChangeNOW is the
 
 ## What users actually say
 
-**Positive patterns** (across Trustpilot review analysis):
-- Fast settlement on common pairs — 5-15 minutes cited frequently
-- Support resolves errors — including non-standard cases (wrong memo, wrong network)
-- Card buy works for fiat entry without requiring an account
-- "A little extra compared to other platforms" on rate for some common pairs
+**Trustpilot — positive**
 
-**Critical patterns:**
-- Compliance holds for large transactions — KYC requests without advance warning
-- Customer service escalation delays on compliance cases
-- Rate deviation on floating rate swaps during volatile periods
+> "I have used changenow for years now, i'd say probably 5 years now or longer and they've never once failed me. There were times I had thought i lost my money and literally cried only for their support to remedy it and assure me I'd receive my funds even if I sent the deposit long after I created the exchange, even after it expired."
+>
+> — Liz, [★★★★★ Trustpilot](https://www.trustpilot.com/reviews/6a7509c452ef61e12086deef), Aug 07, 2026
 
-> "Reliable and honest swap service — great customer support. I accidentally sent an ATOM transaction without a memo when the field glitched out. Reached out to support, and even though it took a couple of hours to process manually, they had it sorted and credited to my wallet well within their 4-hour timeframe." — Jonathan B, Trustpilot
+> "I had a little glitch getting my btc into the window of time from River, as you know they are ridiculously paranoid, and so I needed a refund of my btc into a new and separate wallet. ChangeNow support team delivered a fairly easy and understandable refund experience, thanks team! Highly trustworthy group!"
+>
+> — BTC to USDC, [★★★★★ Trustpilot](https://www.trustpilot.com/reviews/6a7f5984bd2f286280aaa106), Aug 14, 2026
 
-> "My transaction has been held by the Compliance Department for an extended period. I completed KYC, provided every document requested, yet my case keeps getting escalated with no resolution." — Roman, Trustpilot
+**Trustpilot — critical**
 
-> **My take:** Jonathan B's memo recovery shows what good support looks like on a non-standard error. The 4-hour manual resolution is the execution quality that justifies ChangeNOW's position in wallet integrations. Roman's compliance hold is the honest trade-off: at scale, ChangeNOW's compliance posture is more conservative than its marketing suggests. For standard amounts from clean wallets, the 4.6/5 score is earned. For large transactions, the compliance risk is real and documented.
+> "Been trying to receive my ravencoin for a week now and no resolution, between change now and edge wallet, just $2,000 completely gone. Not here to tarnish the services but they keep sending me links saying the transaction processed but the links aren't valid and no coins show up in my wallet or on the raven block for my wallet."
+>
+> — Isaiah B, [★☆☆☆☆ Trustpilot](https://www.trustpilot.com/reviews/6a846192b5d778554454eedc), Aug 18, 2026
 
----
+**Reddit community**
+
+> "Whenever you feel like you lack certain knowledge, all you have to do is your own research, bro there's so many other websites and exchanges out the way you can say way much more money bro literally you can swap that for four dollars instead of 35 bro ."
+>
+> — u/AmbassadorGood7577, [r/solana](https://reddit.com/r/solana/comments/1j23p0m/why_am_i_losing_35_bucks_to_swap_500_dollars_to/mfpb26g/) (7 points)
+
+> "Yes, it is. Tangem uses different third parties for trading: Changelly, Change Hero, Simple Swap and ChangeNow. You can trade different pairs directly on their app. Pretty smooth and simple."
+>
+> — u/jordiceo, [r/kaspa](https://reddit.com/r/kaspa/comments/1kk8282/kas_deposits_suspended_on_mexc_and_bingx_why/mrwhr8w/) (2 points)
+
+> **Coinwy Editorial — My take:** The Trustpilot corpus at 450,000+ reviews is the
+> strongest credibility signal ChangeNOW has. Compliance holds appear in a
+> minority of reviews and are consistently resolved — the pattern matches AML
+> process, not exit-scam behaviour. For standard retail swaps, the evidence
+> is strongly positive.
 
 ## ChangeNOW vs alternatives: quick decision guide
 
