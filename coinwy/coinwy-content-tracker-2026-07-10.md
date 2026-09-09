@@ -1,4 +1,4 @@
-# coinwy Content Tracker
+﻿# coinwy Content Tracker
 
 Date: 2026-07-10
 
@@ -23,6 +23,10 @@ Date: 2026-07-10
 | 8 | `articles/08-best-cold-crypto-wallets-2026.md` | `best cold crypto wallets 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
 | 9 | `articles/09-best-crypto-staking-platforms-2026.md` | `best crypto staking platforms 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
 | 10 | `articles/10-best-crypto-exchanges-2026.md` | `best crypto exchanges 2026` | Needs sourcing pass | Tutorial-style trust block, reader-facing first-hand sections, and embedded July 2026 screenshots added |
+
+| 11 | `articles/11-best-privacy-coins-2026.md` | `best privacy coins 2026` | Needs sourcing pass | Draft complete |
+| 12 | `articles/12-swapspace-review-2026.md` | `swapspace review` | Draft complete | 950+ user review synthesis from Trustpilot/Reddit/G2 -- Sep 2026 |
+| 13 | `articles/13-swapspace-faq-2026.md` | `swapspace faq` | Draft complete | 25-question FAQ format -- Sep 2026 |
 
 ## QA checklist for every article
 
