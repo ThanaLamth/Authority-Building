@@ -102,9 +102,9 @@ ChangeNOW's partner program includes a revenue share mechanism: integrating part
 
 ## What Users Report
 
-**Jonathan B (Trustpilot):** Encountered an ATOM memo error — a technically common failure mode for Cosmos-ecosystem transactions where a destination tag or memo field is omitted or incorrect. ChangeNOW support resolved the issue within four hours. In the context of API-integrated swaps, this suggests ChangeNOW's support infrastructure extends to transactions originating from partner integrations, not only those placed through changenow.io directly.
+**[Jonathan B (Trustpilot)](https://www.trustpilot.com/reviews/6a83070692d5b9770ea69a95):** Encountered an ATOM memo error, a technically common failure mode for Cosmos-ecosystem transactions where a destination tag or memo field is omitted or incorrect. ChangeNOW support resolved the issue within four hours. In the context of API-integrated swaps, this suggests ChangeNOW's support infrastructure extends to transactions originating from partner integrations, not only those placed through changenow.io directly.
 
-**Roman (Trustpilot, critical):** Reported a large-transaction compliance hold escalating to an extended KYC process. This is the compliance hold pattern described above, manifesting at the user level. From an API perspective, this event propagates upstream to whatever interface the user transacted through — the hold appears as a stalled transaction status in the `/by-id` endpoint response, without detailed explanation available to the integrating application.
+**[Roman (Trustpilot, critical)](https://www.trustpilot.com/review/changenow.io):** Reported a large-transaction compliance hold escalating to an extended KYC process. This is the compliance hold pattern described above, manifesting at the user level. From an API perspective, this event propagates upstream to whatever interface the user transacted through, the hold appears as a stalled transaction status in the `/by-id` endpoint response, without detailed explanation available to the integrating application.
 
 ## What the Evidence Shows
 

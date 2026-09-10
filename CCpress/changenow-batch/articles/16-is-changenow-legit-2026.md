@@ -89,13 +89,13 @@ This is the honest middle ground: a regulated VASP operating with genuine compli
 
 ## What Users Report
 
-**Jonathan B (Trustpilot, positive):** An ATOM memo error — a recoverable technical failure — was resolved by ChangeNOW support within four hours. This is consistent with a platform that has invested in support infrastructure.
+**[Jonathan B (Trustpilot, positive)](https://www.trustpilot.com/reviews/6a83070692d5b9770ea69a95):** An ATOM memo error, a recoverable technical failure, was resolved by ChangeNOW support within four hours. This is consistent with a platform that has invested in support infrastructure.
 
-**Daniel (Trustpilot, 2026):** "Everything went as expected, first time, A+" — a concise summary of the majority user experience.
+**Daniel (Trustpilot, 2026):** "Everything went as expected, first time, A+", a concise summary of the majority user experience.
 
 **JepettO (Trustpilot):** Reported receiving "a little extra compared to other platforms," attributable to favorable rate execution on a floating-rate swap.
 
-**Roman (Trustpilot, critical):** A large-amount transaction triggered an escalating compliance review with extended KYC requirements. The process was slow and stressful. This is the clearest documented case of ChangeNOW's compliance architecture creating a difficult user experience — and also the clearest documented case of that architecture doing what it is designed to do.
+**[Roman (Trustpilot, critical)](https://www.trustpilot.com/review/changenow.io):** A large-amount transaction triggered an escalating compliance review with extended KYC requirements. The process was slow and stressful. This is the clearest documented case of ChangeNOW's compliance architecture creating a difficult user experience, and also the clearest documented case of that architecture doing what it is designed to do.
 
 ## What the Evidence Shows
 
