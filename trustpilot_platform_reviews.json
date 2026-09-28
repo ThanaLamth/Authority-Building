@@ -1,0 +1,934 @@
+{
+  "changenow": [
+    {
+      "text": "My raven coin still hasn’t been sent to my wallet. The transaction says complete, but my wallet is zero. I need to recover this is a lot of money z",
+      "reviewer": "Star seed galaxy",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a77fbc0cd6157248b48b2",
+      "platform": "changenow"
+    },
+    {
+      "text": "I did not received the swap from USDC (Base Chain) to USDT (BNB chain). Im very frustrated. Updated: I traced it and waiting for the refund. Thanks ChangeNOW for the clarification.",
+      "reviewer": "RT",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a77ac36337348b14a51f5df",
+      "platform": "changenow"
+    },
+    {
+      "text": "How do I buy 35€ of LTC and you guys take 10€ from it and I receive only 25€? Crazy never using again",
+      "reviewer": "Francisco Tavares",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7670ceb814b2b2b0677b5c",
+      "platform": "changenow"
+    },
+    {
+      "text": "use if u want safity and no headache but they need to support more countries in fiat,, why iraq not supported",
+      "reviewer": "Mohammedali Shafeeq Abbas Al-M",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a73b9fc6db7cdec5e4460aa",
+      "platform": "changenow"
+    },
+    {
+      "text": "Just the sheer amount of patience and professionalism whole dealing with questions. Great customer service, keep it up. Shout out to Nell!",
+      "reviewer": "nikolabozic",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a735a717fb46c427c0aeb1d",
+      "platform": "changenow"
+    },
+    {
+      "text": "Always had a good service from this website, no issues yet. Website is easy to use",
+      "reviewer": "K E",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a70fdd0f8247d7a594d7aa3",
+      "platform": "changenow"
+    },
+    {
+      "text": "Godex.io is trash. They stole my whole transaction $500. But this place here is amazing. Never a single problem. Change.io is the goat",
+      "reviewer": "Chauncey Porter",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a706601f57ac61e953cac9d",
+      "platform": "changenow"
+    }
+  ],
+  "stealthex": [
+    {
+      "text": "Great platform, made a fast transfer (USDC/LTC), with no problems! Strongly recommend.",
+      "reviewer": "Cryptic",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a65712e5390dc23b6e5af4e",
+      "platform": "stealthex"
+    },
+    {
+      "text": "Fast, private, and flawless swap! Just used StealthEX and the experience was perfect. The transfer was incredibly fast and the process was simple to follow. I didn’t need to contact support at all. It’s still hands-down a great anonymous swapping platform. A++++!",
+      "reviewer": "coininstant",
+      "rating": 5,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/6a150bfda822d691391a4ca5",
+      "platform": "stealthex"
+    },
+    {
+      "text": "I've used these guys for swaps a few times now and always been fine. One time I messed up the swap amount and therefore sent too small an amount and the swap hung - support fixed this for me quickly.",
+      "reviewer": "Mark",
+      "rating": 5,
+      "date": "2026-03",
+      "permalink": "https://www.trustpilot.com/reviews/69c3e35cafad314831e35c93",
+      "platform": "stealthex"
+    },
+    {
+      "text": "The first time I used it, swapping a was easy. But after sending more, they locked my funds and asked for ID verification. I verified and now they are asking endless questions about where the money came from. My funds are still locked, will update when I know more. That funds would have given me a bigger boost on #GoIdbIoom # Iaboratories... They are honest and withdrawing money is so much easier.",
+      "reviewer": "Salvatore",
+      "rating": 1,
+      "date": "2026-03",
+      "permalink": "https://www.trustpilot.com/reviews/69aadb82786a5236e3380bf5",
+      "platform": "stealthex"
+    },
+    {
+      "text": "I have not seen my money since yesterday, please how long does it take to come, this is too bad to use, seems like it’s taking a week to reach me",
+      "reviewer": "Becky Shaw",
+      "rating": 1,
+      "date": "2026-02",
+      "permalink": "https://www.trustpilot.com/reviews/699d44cf60c6b345b947d65f",
+      "platform": "stealthex"
+    },
+    {
+      "text": "My exchange has been frozen, and they are holding my funds while deliberately delaying the process. I have completed KYC and provided all the information they requested. They have simply taken my money.",
+      "reviewer": "Muhammad",
+      "rating": 1,
+      "date": "2026-02",
+      "permalink": "https://www.trustpilot.com/reviews/699c88bc35beb0f13d354af2",
+      "platform": "stealthex"
+    },
+    {
+      "text": "Did an exchange with StealthEX. I received almost 1.25% slippage from the quoted exchange when the market only moved at most 0.5%. I don't mind the float if in line with the market but taking what appears to be more than double the amount the market moved in terms of slippage is not good business and I can't see me using or recommending them to any others.",
+      "reviewer": "mikey",
+      "rating": 1,
+      "date": "2026-02",
+      "permalink": "https://www.trustpilot.com/reviews/6991fd6a5b2255353a163c91",
+      "platform": "stealthex"
+    },
+    {
+      "text": "Liquidity is very less on XMR pairs, be prepared to pay 6-9% slippage for large amounts.",
+      "reviewer": "cyber Hunter",
+      "rating": 2,
+      "date": "2026-02",
+      "permalink": "https://www.trustpilot.com/reviews/697f326454de9b64171e6977",
+      "platform": "stealthex"
+    },
+    {
+      "text": "I had a swap from 5k usdt to eth. Apparently my risk level was too high for their liking, so they rejected my transfer and refunded me. I am giving 5 stars because at the same time they could have frozen my 5k and i would have to go through a rollercoaster to get it back and they were very honest. would recommend them",
+      "reviewer": "Tyler Boss",
+      "rating": 5,
+      "date": "2026-01",
+      "permalink": "https://www.trustpilot.com/reviews/69769d8d67cca1053666b2c2",
+      "platform": "stealthex"
+    }
+  ],
+  "simpleswap": [
+    {
+      "text": "SimpleSwap took my funds, delayed for days, and never delivered my coins. Only after taking my money did they demand a surprise KYC verification to hold my crypto hostage. Support offered zero help, hiding behind robotic responses and fake technical issues. This is a predatory bait and switch scheme and by far the most dishonest crypto exchange platform I have ever used. Avoid them completely.",
+      "reviewer": "Mahmoud",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a76c53360be275f4bc80750",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "I've found them to be very trustworthy. I made a mistake with a transaction and their service team were very responsive and did get my refunded sorted. It took a bit of time but I do understand they are busy people. The most important thing is, the money was safe and returned. I have no problem whatsoever in saying they are a legit company and you are very safe in using them.",
+      "reviewer": "Jeff Love",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a763f7b4f1dae8cb071ed43",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Simpleswap has been by far the simplest and most cost-effective crypto exchange platform I've used over the last 5 yrs.",
+      "reviewer": "Ken Francis",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7166da40deaf6bb4001680",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Simple Swap is fast and easy way to convert coins over different networks or chains.",
+      "reviewer": "Bitcoin Ace",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a70a92a1b274a223b95e4e6",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Had a few small tax get stuck and they were quick to help. Otherwise flawless service.",
+      "reviewer": "Mario",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a6e79880596092af697f962",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "It's been 2 time to contact a clients services and i just say it's perfect when you ask why or what it respond in a short delay under 5 minutes to have a responce . PS i speak frenglish",
+      "reviewer": "A random user",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6ce31020afc26188f4443e",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Easy and straightforward swap exchange back to experience love how they give you an option to add a refund address just in case, though payment don’t go through which it almost always goes through",
+      "reviewer": "Kevin Cabrera",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6c02ad33bf2d435ff4def7",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Great, no issues, works fine. I can't comment on customer support because I've never had the need to contact anyone. It just works.",
+      "reviewer": "I R",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6b83d1c8f3e573c9d705ef",
+      "platform": "simpleswap"
+    },
+    {
+      "text": "Fast , low fees and had the pair I wanted unlike some other platforms…,totally decentralized",
+      "reviewer": "Brent",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6ad0f836137632ea3f77f7",
+      "platform": "simpleswap"
+    }
+  ],
+  "swapspace": [
+    {
+      "text": "They are very responsible for the service. I highly recommend using it rather than any other bridging solutions.",
+      "reviewer": "Leon Cosby",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a653a0dad08e39bfb731b",
+      "platform": "swapspace"
+    },
+    {
+      "text": "Support was super helpful and rescued my USDC I had sent to a USDT address! Wow!",
+      "reviewer": "Pouya Rismansanj",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a5f6ca17f17270351bcffb7",
+      "platform": "swapspace"
+    },
+    {
+      "text": "The swap did not go through at first because Lizex exchange LPs withheld the funds, but support took care of it immediately and within 20minutes I received my funds as expected. Thank you Julia -- give her a raise!",
+      "reviewer": "Käptn Kook",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a5bac6ef96f0e604cfdcaa9",
+      "platform": "swapspace"
+    },
+    {
+      "text": "Exchanged my 15.98 ltc to usdt, no scams or anything. I also do other exchanges daily but thats the highest amount I've ever exchanged here, thanks so much.",
+      "reviewer": "zk",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a5a5419033b1c274ce2fd34",
+      "platform": "swapspace"
+    },
+    {
+      "text": "Great service, finds you the best exchange rates and works flawlessly. 24/7 support team which replies instantly if you have any issues with your exchange.",
+      "reviewer": "ethereal",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a57924fff52e27ced7c4cd4",
+      "platform": "swapspace"
+    },
+    {
+      "text": "5 stars all the way!! I love this service!!! They make exchanging crypto easy for dumbasses like myself! Simple, Fast and reliable! You don't have to have an account, login, give your personal info or anything. Love it!",
+      "reviewer": "Richie Rich",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a514e79ebbd79bf33601548",
+      "platform": "swapspace"
+    },
+    {
+      "text": "Very smooth and easy exchange You just have to be patient for few minutes and boom your transaction is done",
+      "reviewer": "Ollie Dimex",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a46efa1537ec92984faa916",
+      "platform": "swapspace"
+    },
+    {
+      "text": "swap space is really a good exchange platform to swap coins. It really helps much, and it's user friendly to use. And their support team is nice",
+      "reviewer": "Jai Dharshan",
+      "rating": 4,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a46c226f91683f433e097cd",
+      "platform": "swapspace"
+    }
+  ],
+  "exolix": [
+    {
+      "text": "I used Exolix twice for crypto swaps and it was super smooth, fast and reliable fees wise comparing to other dex’s, highly recommended",
+      "reviewer": "GEOO",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a4252f5af4fe8cfe7d17f1c",
+      "platform": "exolix"
+    },
+    {
+      "text": "I sent money to exchange bitcoin for xmr and havent got my money says its waiting for confirmation but on my side its already confirmed",
+      "reviewer": "Piotr Kolasa",
+      "rating": 1,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/69ff3848403b5f1084580f73",
+      "platform": "exolix"
+    },
+    {
+      "text": "the mobile app is simple enough to use without registering, exchanged sol to btc without any problems. good exchange",
+      "reviewer": "Dax Sparks",
+      "rating": 5,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/69f9e7ecc3a351ed691105d6",
+      "platform": "exolix"
+    },
+    {
+      "text": "I have used them several times it's only this last time it just took a while longer than before.",
+      "reviewer": "customer",
+      "rating": 4,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/69f475dd39ae0a66a02a46a6",
+      "platform": "exolix"
+    },
+    {
+      "text": "Used them a few times for xmr swaps. no kyc is great. rates are okay, took about 15 mins to get my coins.. overall decent service",
+      "reviewer": "Gavin Hetr",
+      "rating": 5,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69ef6206ea40dd787bbec07a",
+      "platform": "exolix"
+    },
+    {
+      "text": "Hey everyone! I’m interested in swapping $PEPE on Ethereum and $BONK on Solana. Are these memecoins already available on Exolix? If not, it would be great to see them listed.",
+      "reviewer": "orinate bob",
+      "rating": 1,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69e499609be90af39c9ecc01",
+      "platform": "exolix"
+    },
+    {
+      "text": "I arranged a swap from USDT to DCR. Sent the USDT but the swap timed out and I had to contact support via the website. They were quick to respond, confirming they had resolved my issue with the DCR being sent to me at the correct price. 4 stars due to having a delay, but it was 5 star support. I've done many other swaps with Exolix without any problem at all.",
+      "reviewer": "Ross",
+      "rating": 4,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69e1f8619583389d2ace5cf1",
+      "platform": "exolix"
+    },
+    {
+      "text": "I had a failed outgoing transfer of Qubic. Two days later, the transaction hash indicated the transfer completed successfully, but the swap was long overdue, and I had not received the expected ETH, or a refund. Exolix's agent helped complete the transaction successfully for me. Great job! I highly recommend them.",
+      "reviewer": "Crypto Rooster",
+      "rating": 5,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69e0e83565826b03af409cc9",
+      "platform": "exolix"
+    },
+    {
+      "text": "Listen, I had a change of heart. I didn’t realize the support team is on TG. I was upset because I couldn’t figure out how to reach support, and my tokens were hanging on a platform labeled expired. I’m going to first shout out the marketing team for Exolix for pointing me in the right direction that lead to excellent service. Thank you Exolix for exemplifying greatness.",
+      "reviewer": "Kendall Oliver Sr.",
+      "rating": 5,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69cfba3c23871d7c627c590b",
+      "platform": "exolix"
+    }
+  ],
+  "fixedfloat": [
+    {
+      "text": "ff.io claims they never freeze funds without a reason. Then answer for Order ID: G2UEYJ which has been stuck for over 3 months. What is the exact compliance or regulatory reason for this hold? Provide the evidence publicly so everyone can see why you are holding my money. Stop stalling. I've never run into limitations trying to access my holdings on #TRADE GOVERNANCE#. No matter where I am, they r",
+      "reviewer": "Marius Jakobsen",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a75e702d6c4053c8889ed91",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "As a first time crypto user, I have to say that the whole process of swapping BTC to XMR was so easy with Fixed Float - the whole process was simple and from start to finshed confirmation was less than an hour using a mid-range fee selector. Looking forward to trading again!",
+      "reviewer": "Hugh",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a71fba081db604fe5feb49e",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "I used the Polygon network instead of BSC, and I reported the issue to support. They told me the process would be completed within 7 days, but it's been 8 days now, and they keep saying it will be completed later today. Nothing has happened so far. It feels like the support team has no communication with the technical team. Overall, it's been a terrible experience.",
+      "reviewer": "Kaxser",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a71efa13afc09eb73265dac",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "Great exchange service! I exchanged LTC for SOL at a fixed rate-everything went perfectly. The transaction was completed in just 12 minutes, and the funds are already in my wallet. I'll definitely use them again!",
+      "reviewer": "Noah Johnson",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a57efe92e9a033a2375098f",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "Honestly this is a very good exchange website i really recommend using this website for crypto exchanges!!",
+      "reviewer": "VLS Zxro",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a4cad7b2675ceee481a19cd",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "The exchange was processed without any issues, and the entire process was quite straightforward. The interface is simple to understand, and tracking the transaction status is very convenient. It's a stable and comfortable service to use for quick swaps.",
+      "reviewer": "Florenciaa",
+      "rating": 4,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a3298287dc6e1bfaf35dbd2",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "good service, fast and reliable, would be scared to move more than 20k+ because of freezing",
+      "reviewer": "blazinek",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a22bed8a37197c97b54d66f",
+      "platform": "fixedfloat"
+    },
+    {
+      "text": "One of the best in my more than a decade of experience in this field - Automatic Crypto Exchange -. The online customer support is almost always available online and solving the reported issues in friendly attitude available in many contact methods including email, live chat, Telegram and X platforms. Hight recommended!",
+      "reviewer": "Hassan",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a1ff103e7f0de2c3866e50f",
+      "platform": "fixedfloat"
+    }
+  ],
+  "godex": [
+    {
+      "text": "The service is honest, got my money in full. Swapped Dash to card, the process took about twenty minutes. Lowering the score only because of support: no one replied in the web chat for fifteen minutes when I wanted to check my order status. Other than that, everything is fine, the rate was locked in nicely",
+      "reviewer": "Mabal",
+      "rating": 4,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a4a47ab6287b95634e886dd",
+      "platform": "godex"
+    },
+    {
+      "text": "I did a transfer of xmr to usdt , I was able to lock it in fixed rate at 543 xmr , godex not only took a week to respond and not action the transfer, but also said this and I quote \"Unfortunately, due to the significant rate change, the system was unable to perform the swap at the fixed rate. We can perform a full refund or complete the swap with the current rate. Please let us know what option yo",
+      "reviewer": "Clive Bixby",
+      "rating": 1,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a3706ed6d75fb7002f8974a",
+      "platform": "godex"
+    },
+    {
+      "text": "Let me first start by saying I don't usually leave reviews for businesses as most are mediocre. However, Godex.io have gone above and beyond with their customer service. I was looking to swap ETH for XMR but had stupidly sent the ETH via the wrong network but to the correct address. This meant my crypto was effectively lost but Godex were able to retrieve this ETH for me and send it back to my wal",
+      "reviewer": "Nevets",
+      "rating": 5,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/6a1483b0937a81f0ab953728",
+      "platform": "godex"
+    },
+    {
+      "text": "2 big order No response from support Btc to usdt The payment from my side is done and it confirmed on blockchain still they keep saying waiting for 1 confirmation They are scamming for sure, it's a huge transaction",
+      "reviewer": "Kev",
+      "rating": 1,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/6a07769f114aa591a1835fd1",
+      "platform": "godex"
+    },
+    {
+      "text": "I send 0.01 btc and received no monero. It says contact support. I send support a mail but they dont respond.",
+      "reviewer": "hit",
+      "rating": 1,
+      "date": "2025-12",
+      "permalink": "https://www.trustpilot.com/reviews/6954ece34960a968c54e6a09",
+      "platform": "godex"
+    },
+    {
+      "text": "I Go to Web site and use the converter to see how many Monero i would get for 1 BTC, it says 250 approx, I Go To Google and check How Many MONERO For 1 BTC and Says 259, RIGHT THERE I Would SAY They Are Doing something WRONG, when another SITE Says They Are 9 NO a FULL 10 MONERO DIFFERENCE Just About it was a Little Less but 1% off 10 MONERO DAM WHAT A RIP OFF Thats Near 6000 Dollars to Exchange. ",
+      "reviewer": "After Burner",
+      "rating": 1,
+      "date": "2025-11",
+      "permalink": "https://www.trustpilot.com/reviews/6915a0044a96f2ef1c7650d7",
+      "platform": "godex"
+    },
+    {
+      "text": "My exchange is stuck on waiting for deposit and its been around an hour its toncoin to ltc it says my time has expired hope i havent lost £400 for nothing They fixed my exchange so sorry for bad review amazing customer service",
+      "reviewer": "Caine",
+      "rating": 5,
+      "date": "2025-11",
+      "permalink": "https://www.trustpilot.com/reviews/69148462b19cd883058d36a6",
+      "platform": "godex"
+    },
+    {
+      "text": "I have paid for my Godex order, but the system doesn’t detect my payment. The transaction is confirmed on the blockchain. Support is not responding. Order c68ed771d182af",
+      "reviewer": "John",
+      "rating": 1,
+      "date": "2025-10",
+      "permalink": "https://www.trustpilot.com/reviews/68ed849fc73c9d0ca34235ac",
+      "platform": "godex"
+    }
+  ],
+  "letsexchange": [
+    {
+      "text": "Already voted in the past but a click on the followup message sent me here again. And again 5 stars no less to every aspect of their service. I do really like it",
+      "reviewer": "Яннис Ливасов",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7189735e65f2ef278c83e1",
+      "platform": "letsexchange"
+    },
+    {
+      "text": "Great team—attentive and responsive; the problem was resolved very quickly, and the whole experience was incredibly friendly. A big thank you.",
+      "reviewer": "jean COUDERC",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6692735875fe71b54a6904",
+      "platform": "letsexchange"
+    },
+    {
+      "text": "Even though i made the mistake by typing in the wrong wallet id they still helped me out at 11pm on a saturday I highly recommend let's exchange . io if you have to switch your bitcoins etc in other currencies",
+      "reviewer": "F A K E I D E N T I T Y",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a5bec86fa0deae441077f6e",
+      "platform": "letsexchange"
+    },
+    {
+      "text": "Gotta say these guys really excel as XMR-swappers - with good rates and middlish execution-times as per Trocador - and THEN they warn they may await 150 confirmations - but actually complete the swap after just 5 - so that's \"exceeding customer-expectations\" - and you can nicely track your swap even when you start it elsewhere, e.g. on Trocador.",
+      "reviewer": "Martin Anantharaman",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a43e2d3c82ecb5f5482d41b",
+      "platform": "letsexchange"
+    },
+    {
+      "text": "They were prompt to sort a refund when liquidity was low for a swap. Great comms throughout, thanks!",
+      "reviewer": "Aries Freeman",
+      "rating": 5,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69ecc1113896d1dde7f5f9d9",
+      "platform": "letsexchange"
+    }
+  ],
+  "coinspot": [
+    {
+      "text": "Just learning how to use coinspot and so far so good it seems to be working well for me overall",
+      "reviewer": "Chanteeee",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a6f3662125657b355850515",
+      "platform": "coinspot"
+    },
+    {
+      "text": "Really easy to navigate and I'm totally new at this. Definitely recommend for Aussies and Kiwis.",
+      "reviewer": "customer",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6ab11aaac788e261449ddc",
+      "platform": "coinspot"
+    },
+    {
+      "text": "Its easy to upload money and navigate the sites. Easy to find crypto to invest in and easy to invest and keep track of investments.",
+      "reviewer": "Leigh",
+      "rating": 4,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6aa0034ce99f65301cf72f",
+      "platform": "coinspot"
+    },
+    {
+      "text": "The ease of setting up the account was simple and intuitive. The vast range of options to transfer funds was helpful and easy to process. And the app design and user experience made everything clear and straightforward. Relative to some of the large Australian bank app user interfaces which lack key information and useful dashboards, CoinSpot definitely has thought and user experience front of min",
+      "reviewer": "Mattew van Blerk",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a69a94727702090f37ee085",
+      "platform": "coinspot"
+    },
+    {
+      "text": "Very easy to setup and great communication getting security and account running, highly recommended",
+      "reviewer": "Garry Hilton",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a697d32a28022649e28648f",
+      "platform": "coinspot"
+    },
+    {
+      "text": "Signing up was super easy and fast to get verified. Trading through the mobile app is easy and simple. Withdrawal process was way faster to do compared to other platforms.",
+      "reviewer": "Cooper",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a696c4a68c9033ee7fca390",
+      "platform": "coinspot"
+    },
+    {
+      "text": "CoinSpot is easy to use, reliable, and secure. Deposits and withdrawals have always been smooth, and the platform makes buying and selling crypto simple. Overall, I’ve had a great experience and would definitely recommend it.",
+      "reviewer": "Herina Darmawaty",
+      "rating": 2,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a69591bba03aaa10e17a2e6",
+      "platform": "coinspot"
+    },
+    {
+      "text": "It’s a very good app, it’s very safe and easy to use and pick what you want to purchase, I highly recommend",
+      "reviewer": "Paige C",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a695897b0cc125d7dfb50df",
+      "platform": "coinspot"
+    },
+    {
+      "text": "First time user and received a phone call guiding me through setup, confirmation and general help. Greatful for the assistance and recommend this service",
+      "reviewer": "Jesse",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a695231f8c6e9fe5b2d8efb",
+      "platform": "coinspot"
+    }
+  ],
+  "swyftx": [
+    {
+      "text": "Daniel my account manager helped me with all the set up & got me active as soon as possible- seemless setup & now I am trading - Could not have asked for better service",
+      "reviewer": "Simon Davis",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a2391703ff30153777ed2",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Daniel was incredibly helpful with setting up my account. Thanks to him, the onboarding process was fast and completely hassle-free!",
+      "reviewer": "Jolz",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a794363ba993c69c8096596",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Daniel was so knowledgeable and helpful in getting everything set up. He was always there if I needed help and was easy to contact.",
+      "reviewer": "Lisa Cook",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a79373fe1601711b7c6ce9a",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Expert knowledge, great advice, professional, easy to discuss all relevant topics and genuinely friendly and helpful.",
+      "reviewer": "Shane",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7553866536404645f35f52",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Great experience so far. Meeting some of the Swyftx team in person at NZ CryptoCon gave me a lot of confidence in the platform. Their local New Zealand representative has also been incredibly helpful over the phone. I look forward to executing more trades with Swyftx in the future. Cheers!",
+      "reviewer": "Richard Kirkwood",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7290422d14d3c971b11472",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Easy to sign-up, easy to use interface and prompt payment into your bank account when drawing down NZ$. Great leaning resources. Recommended.",
+      "reviewer": "Mark Barlow",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a728c4b3282e8ccf9738b73",
+      "platform": "swyftx"
+    },
+    {
+      "text": "We had a wonderful experience with Swyftx, especially with their employee Adam. I was having trouble with my Trezor and had to urgently make a large SMSF BTC deposit into my personal Swyftx account. Adam sorted it out for me step by step and was very patient with me, in an extremely stressful situation - thank you Adam and Swyftx.",
+      "reviewer": "Joanna Fowler",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a717daaf23a7db2d65bbb6f",
+      "platform": "swyftx"
+    },
+    {
+      "text": "I tried several times to withdraw my money, but I kept running into one obstacle after another. I spent hours trying to complete everything, only to get stuck waiting for an email verification that never arrived. It was incredibly frustrating. After switching to #𝐺casc𝗈# I finally stopped worrying every time I requested a withdrawal. The process has been smooth in my experience.",
+      "reviewer": "Jesse Boyle",
+      "rating": 1,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6bf3b269207a174092c981",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Excellent trustworthy no problems at all. The one time I had to engage with help desk it was all very easy",
+      "reviewer": "Angus Jowitt",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a6bde6ab0818a3f264a959a",
+      "platform": "swyftx"
+    },
+    {
+      "text": "They lure you to invest and once they noticed you are making profits with your trade they block your access to withdraw and when you contact their support they won't respond to you. This was my experience with them and I hope it helps someone. Being with #Vine## Hash# is absolutely different, support are always active and withdrawals seamless.",
+      "reviewer": "Jerome Simpson",
+      "rating": 1,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a69671dce62e9d1623336bf",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Customer service was really good, they cleared up a problem I had very quickly and professionally. Thank you",
+      "reviewer": "Meryl Butler",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a644fca0bdde7c954279d34",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Excellent and prompt customer service, especially if you are feeling a bit stressed! I am confident using this platform and know that local help is just a click away.",
+      "reviewer": "Melinda Chapman",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a63437324a096bd02404ac4",
+      "platform": "swyftx"
+    },
+    {
+      "text": "Easy platform to work with. Prompt service with good follow up. Cheap rates and great layout, making it easy to monitor your coin performances",
+      "reviewer": "Johannes H Creemers",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a5c850c7758806c7b928e22",
+      "platform": "swyftx"
+    }
+  ],
+  "nexo": [
+    {
+      "text": "I've been an active user and I never had any issue with NEXO. Customer Service is excellent, the app is well designed and my personal experience with NEXO is positive. I highly recommend it.",
+      "reviewer": "customer",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a79ae436f54bddb7c38fc01",
+      "platform": "nexo"
+    },
+    {
+      "text": "I feel very much okay with your services. I think that's all I can say for now. Thank you for the opportunity.",
+      "reviewer": "Nathaniel Nii Kwei Kotey",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a773c911f51e0d9efb40861",
+      "platform": "nexo"
+    },
+    {
+      "text": "Very trusted and reliable platform, easy transactions and big support services. Easy loans request and then instant exchange. Yet, try add weekly or monthly mining or staking. Good 👍 and great platform ever!",
+      "reviewer": "Bernard Benson Sarfo",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a74d2d37b6b93e8db781443",
+      "platform": "nexo"
+    },
+    {
+      "text": "I have been able to use several of your services—especially the savings options, which provide detailed information on how to use your instruments to generate returns based on available capital, all without friction. Thank you for the specific details regarding the wide range of options you offer.",
+      "reviewer": "Alejandro",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7368dea5685f13d0a1c235",
+      "platform": "nexo"
+    },
+    {
+      "text": "Very cautious about what I might do with my money I think they may have saved me from getting badly scammed",
+      "reviewer": "Alastair Forbes",
+      "rating": 4,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a72cb42f2d8c8f07ac4dc55",
+      "platform": "nexo"
+    },
+    {
+      "text": "So far I am very happy with Nexo. they made it easy to understand how to make transactions. I would recommend to everyone.",
+      "reviewer": "Jamie",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a72297b1a7d7ab699879766",
+      "platform": "nexo"
+    },
+    {
+      "text": "very easy platform to use and quite high yields and specially if using nexo I would recommend any day especially for Hodlers",
+      "reviewer": "Aleksander Canchaya",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7209e031a7239f5d392315",
+      "platform": "nexo"
+    }
+  ],
+  "youhodler": [
+    {
+      "text": "The staff assisted me professionally and efficiently to resolve the technical issues of my account. Truly helpful and trustable. Cool website 👍👍👍",
+      "reviewer": "customer",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a688e7cb66b59ff610ad3da",
+      "platform": "youhodler"
+    },
+    {
+      "text": "Totally scam. They are just busy stealing your money, there is no question of any serious and reliable company.",
+      "reviewer": "Alakbar Mammad",
+      "rating": 1,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a67ba3e4e4c3c5cf58b0153",
+      "platform": "youhodler"
+    },
+    {
+      "text": "Hey there! I really didn't write recommendations on any platforms so far. You know, excuses are for example being too lazy, it makes no difference and so on... At this time I want to give youhodler a shoutout. Many many suppliers got rekt over the last years in crypto. Youhodler is different, at this time I think they actually know what they are doing. Excellent and fast customer support out of th",
+      "reviewer": "Hans Fischer",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a4bff87529926ea99ae7131",
+      "platform": "youhodler"
+    },
+    {
+      "text": "So far, I’ve found a really excellent support team. Fast, incredibly polite, and—above all—very knowledgeable!",
+      "reviewer": "Andrea Palombarini",
+      "rating": 5,
+      "date": "2026-07",
+      "permalink": "https://www.trustpilot.com/reviews/6a451a7abd90a7e15ed3fd89",
+      "platform": "youhodler"
+    },
+    {
+      "text": "used youhodler from 2021 for sepa deposits and withdrawals, never had any issue.",
+      "reviewer": "trustpilot",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a3d64e15c422f0e0f1ec2df",
+      "platform": "youhodler"
+    },
+    {
+      "text": "The platform is very easy to navigate, fees are very little to zero, like everything with YouHodler is just perfect",
+      "reviewer": "B R A I N",
+      "rating": 5,
+      "date": "2026-06",
+      "permalink": "https://www.trustpilot.com/reviews/6a1ef23ec17bc92ca25f8ab6",
+      "platform": "youhodler"
+    },
+    {
+      "text": "I had trouble signing in due to a 2FA issue as well that the first link YouHodler sent expired within hours, all stressed me greatly, YouHodler stayed by my side and resolved the issue. I find them a decent company and am aware that I shouldn’t get carried away with trading.",
+      "reviewer": "Gloria Hammond",
+      "rating": 5,
+      "date": "2026-05",
+      "permalink": "https://www.trustpilot.com/reviews/6a1bdf9dbfa675b676d2fd0a",
+      "platform": "youhodler"
+    },
+    {
+      "text": "Fast and efficent even if it was Sunday when I asked for an info, I got a response il less than An hour",
+      "reviewer": "MAURIZIO BREDA",
+      "rating": 5,
+      "date": "2026-04",
+      "permalink": "https://www.trustpilot.com/reviews/69f00ad546a29c5fdb212c64",
+      "platform": "youhodler"
+    }
+  ],
+  "rocketpool": [
+    {
+      "text": "Been using it to stake but rewards are low compared to others like ProtonYields platform that pays 5% daily with instant withdrawals",
+      "reviewer": "Joshua M",
+      "rating": 4,
+      "date": "2024-05",
+      "permalink": "https://www.trustpilot.com/reviews/663e0367214bd0d9f8b2d350",
+      "platform": "rocketpool"
+    }
+  ],
+  "kraken": [
+    {
+      "text": "Was totally scammed by a crypto fraud operation, and Kraken refused to do anything about it saying it happens all the timer amd thats just how it goes. They do not care one bit about protecting their customers. Stay Away!",
+      "reviewer": "KHorak",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a4bc50c52fd7878845bdd",
+      "platform": "kraken"
+    },
+    {
+      "text": "Looking for confirmation of wire transfer made on August 5,2026 from Landmark CU to Dart Bank Florida",
+      "reviewer": "MARK WEGMAN",
+      "rating": 3,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a09503ad4120d4c77ad94",
+      "platform": "kraken"
+    },
+    {
+      "text": "I knew nothing about crypto until I started buying with Kraken. They give every detail you can imagine about each stock and crypto and the app is easy to navigate.",
+      "reviewer": "Dustin",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a7a077b0ed416398533837a",
+      "platform": "kraken"
+    },
+    {
+      "text": "I am so frustrated right now. My account has been blocked for 10 days straight and the AI bot keeps saying a specialist will come back to me soon, but nothing has happened. It’s been 10 days with zero reaction from support. My deposit of 7293 eur is still pending and just sitting there doing nothing. hope support will pay attention this time and help my case because this is ridiculous. I am y just",
+      "reviewer": "Sahtoe Ingrid",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a79d1dd9f3c7bd34ecff3b0",
+      "platform": "kraken"
+    },
+    {
+      "text": "After funding a new account with them, they blocked it and gave me a ticket number informing me I would hear back from them very soon. Now more that 23 days and not one single reply to my numureous emails asking why my account is still blocked. It is causing me prejudice now! They claim 24 hrs support service, you cannot get to talk to a human. This is the worst customer service I have experienced",
+      "reviewer": "Charlot Pierre",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a78b3f3b1b24a13bdaef065",
+      "platform": "kraken"
+    },
+    {
+      "text": "Trust pilot blocks the truth about the Kraken! Abandon the Kraken! I'm still waiting for justice from Kraken even after 30 days from the application!",
+      "reviewer": "Dzemil Novalic",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a787f135f0bf1f8371dd20a",
+      "platform": "kraken"
+    },
+    {
+      "text": "one of the best exchange i used ever. Best card service and best fiat service and best buy, sell service, best trading service.Just one thing, don't ban and suspend account anonymously, It's a little trouble moment for a regular user. Otherwise, my krak and kraken using experience is great. Thanks kraken team for providing the best service.",
+      "reviewer": "SANIUL BASHAR SAIM",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a777cd49de220823c769836",
+      "platform": "kraken"
+    },
+    {
+      "text": "I've learned so much since downloading this Trading app. It's simple and easy to use, everything you nd in one place, buy,sell,trade. Whatever kind of trading your into right here in the palm of your hands",
+      "reviewer": "Anthony Mccallister",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a774283f9b78380ef2a1763",
+      "platform": "kraken"
+    },
+    {
+      "text": "Kraken gives me a strong sense of security and peace of mind. I feel comfortable using the platform, especially because the app is clear, easy to use, and reliable when depositing, withdrawing, and transferring Bitcoin. For me, security and trust are the most important things when dealing with crypto, and Kraken has given me confidence that my assets are in a secure and trustworthy place. Great ex",
+      "reviewer": "Osama Aboud alkaraz",
+      "rating": 4,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a76d09b73c5ae15b0b33b50",
+      "platform": "kraken"
+    },
+    {
+      "text": "I have the same experience as many users here, my money is blocked and nobody is contacting me to unblock and not reply replying to my messages. Extremely unhappy with them what a wasters they are! Definitely avoid them there better options out there",
+      "reviewer": "Stanislavs Melnis",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a76207cf47f6917732618ba",
+      "platform": "kraken"
+    },
+    {
+      "text": "Truly unbelievable service, I made a self inflicted error, they fixed it sorted it out before I had asked - let that sink in thanks Kraken",
+      "reviewer": "John Donjerkovic",
+      "rating": 5,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a75d1e403019a318845f266",
+      "platform": "kraken"
+    },
+    {
+      "text": "Kraken is still holding my money. My funds have been locked since July 17. Kraken told me my account would be closed and gave me 10 days to withdraw my money. I added the same bank account I used to deposit funds, requested the withdrawal, and I still have not received my money. I have followed every instruction, but Kraken continues delaying the return of my funds. I will continue reporting this ",
+      "reviewer": "Pedro",
+      "rating": 1,
+      "date": "2026-08",
+      "permalink": "https://www.trustpilot.com/reviews/6a75c27c18f9facdc05a5c53",
+      "platform": "kraken"
+    }
+  ]
+}

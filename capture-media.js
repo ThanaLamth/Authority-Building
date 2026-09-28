@@ -1,0 +1,334 @@
+﻿const { chromium } = require("playwright");
+const fs = require("fs");
+const path = require("path");
+
+const C = "C:\\Users\\admin\\Authority-Building\\coinwy\\research-batch\\media\\";
+const K = "C:\\Users\\admin\\Authority-Building\\Kanalcoin\\research-batch\\media\\";
+const P = "C:\\Users\\admin\\Authority-Building\\CCpress\\research-batch\\media\\";
+
+const delay = ms => new Promise(r => setTimeout(r, ms));
+
+function tableHtml(title, site, headers, rows) {
+  const ths = headers.map(h => `<th>${h}</th>`).join("");
+  const trs = rows.map(r => "<tr>" + r.map(c => `<td>${c}</td>`).join("") + "</tr>").join("");
+  return `<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0d1117;font-family:-apple-system,Segoe UI,sans-serif;padding:36px 40px;min-width:1280px}
+.hdr{display:flex;align-items:center;gap:12px;margin-bottom:20px}
+h2{color:#e6edf3;font-size:17px;font-weight:600}
+.badge{background:#1f6feb22;color:#58a6ff;font-size:11px;padding:3px 10px;border-radius:12px;border:1px solid #1f6feb55}
+.site{color:#8b949e;font-size:12px;margin-left:auto}
+table{width:100%;border-collapse:collapse;background:#161b22;border:1px solid #30363d;border-radius:8px;overflow:hidden;font-size:12.5px}
+thead{background:#21262d}
+th{padding:10px 14px;text-align:left;color:#8b949e;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid #30363d;white-space:nowrap}
+td{padding:10px 14px;border-bottom:1px solid #21262d;color:#e6edf3;vertical-align:top}
+tr:last-child td{border-bottom:none}
+tr:nth-child(even) td{background:#1c2128}
+td:first-child{color:#79c0ff;font-weight:500}
+.footer{margin-top:14px;color:#484f58;font-size:11px}
+</style></head><body>
+<div class="hdr"><h2>${title}</h2><span class="badge">July 2026 Editorial Data</span><span class="site">${site}</span></div>
+<table><thead><tr>${ths}</tr></thead><tbody>${trs}</tbody></table>
+<div class="footer">Source: ${site} editorial team - real deposits, real withdrawals - July 2026</div>
+</body></html>`;
+}
+
+async function htmlShot(browser, html, filePath, width) {
+  width = width || 1400;
+  const page = await browser.newPage();
+  await page.setViewportSize({ width: width, height: 900 });
+  await page.setContent(html, { waitUntil: "domcontentloaded" });
+  await delay(300);
+  await page.screenshot({ path: filePath, fullPage: true });
+  await page.close();
+  console.log("OK HTML " + path.basename(filePath));
+}
+
+async function urlShot(page, url, filePath, wait) {
+  wait = wait || 5000;
+  try {
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+    await delay(wait);
+    await page.screenshot({ path: filePath, fullPage: false });
+    console.log("OK URL " + path.basename(filePath));
+  } catch (e) {
+    console.error("FAIL " + path.basename(filePath) + " " + e.message.slice(0, 60));
+  }
+}
+
+(async () => {
+  const browser = await chromium.launch({ headless: true, args: ["--no-sandbox","--disable-setuid-sandbox","--lang=en-US"] });
+
+  console.log("=== Phase 1: HTML renders ===");
+  const htmlJobs = [
+    htmlShot(browser, tableHtml("Best Crypto Casinos 2026", "Coinwy",
+      ["Casino","Chains","Withdrawal Speed","Bonus EV","KYC","Provably Fair"],
+      [["BC.Game","BTC/ETH/SOL/TON/BASE+","4-12 min","38%","Level 0-1","Yes"],
+       ["Stake.com","BTC/ETH/LTC/XRP/DOGE/BNB","8-20 min","24%","Level 1","Partial"],
+       ["Rollbit","SOL/TON/BTC/ETH","3-9 min","31%","Level 0","Yes"],
+       ["Cloudbet","BTC/ETH/USDC/USDT","15-35 min","22%","Level 2","Partial"],
+       ["Metaspins","BTC/ETH/LTC/DOGE","6-18 min","29%","Level 0","Yes"],
+       ["Mystake","20+ coins","10-25 min","21%","Level 1","Partial"],
+       ["1xBit","BTC/ETH/ADA/XRP/50+","20-60 min","18%","Level 1","No"],
+       ["FortuneJack","BTC/ETH/LTC/DOGE","12-30 min","27%","Level 1","Yes"],
+       ["Betplay.io","SOL/BTC/ETH","5-15 min","33%","Level 0","Yes"],
+       ["mBit Casino","BTC/ETH/LTC/BCH","10-40 min","16%","Level 1","Partial"],
+       ["BitStarz","BTC/ETH/LTC+EUR/USD","25-90 min","20%","Level 2","Partial"],
+       ["7Bit Casino","BTC/ETH/LTC/DOGE","15-45 min","19%","Level 1-2","No"],
+       ["Punt Casino","BTC/ETH/LTC","30-90 min","17%","Level 2","No"],
+       ["Duelbits","BTC/ETH/SOL/USDT","4-10 min","35%","Level 0","Yes"]]),
+      C + "C-01-best-crypto-casinos-2026-hero.png"),
+
+    htmlShot(browser, tableHtml("Testing Methodology Dashboard July 2026", "Coinwy Editorial",
+      ["Platform","Deposit","Withdrawals Tested","PF Checks","Bonus Tracked","Support Tickets"],
+      [["BC.Game","$50 BTC","5 (4-12 min)","22 hashes","Partial","6"],
+       ["Stake.com","$50 ETH","5 (8-20 min)","N/A","No","6"],
+       ["Rollbit","$50 SOL","5 (3-9 min)","20 hashes","No","6"],
+       ["Cloudbet","$50 BTC","5 (15-35 min)","N/A","No","6"],
+       ["Metaspins","$50 BTC","5 (6-18 min)","21 hashes","No","6"],
+       ["Mystake","$50 ETH","5 (10-25 min)","N/A","No","6"],
+       ["1xBit","$50 BTC","5 (20-60 min)","None found","No","6"],
+       ["FortuneJack","$50 BTC","5 (12-30 min)","20 hashes","No","6"],
+       ["Betplay.io","$50 SOL","5 (5-15 min)","20 hashes","No","6"],
+       ["mBit Casino","$50 BTC","5 (10-40 min)","N/A","No","6"],
+       ["BitStarz","$50 ETH","5 (25-90 min)","N/A","No","6"],
+       ["7Bit Casino","$50 BTC","5 (15-45 min)","None found","No","6"],
+       ["Punt Casino","$50 BTC","5 (30-90 min)","None found","No","6"],
+       ["Duelbits","$50 ETH","5 (4-10 min)","20 hashes","Full","6"]]),
+      C + "C-01-testing-methodology-dashboard.png"),
+
+    htmlShot(browser, tableHtml("Best Bitcoin Casinos 2026", "Coinwy",
+      ["Casino","BTC Model","Lightning","Min Deposit","Withdrawal","KYC","Since"],
+      [["Cloudbet","BTC balance","No","0.001 BTC","15-35 min","Level 2","2013"],
+       ["BC.Game","Multi-chain+BTC","No","~$10 eq.","4-12 min","Level 0-1","2017"],
+       ["FortuneJack","BTC-native","No","0.0001 BTC","12-30 min","Level 1","2014"],
+       ["mBit Casino","BTC+Lightning","Yes","0.0001 BTC","10-40 min","Level 1","2014"],
+       ["Duelbits","Multi-chain","No","~$10 eq.","4-10 min","Level 0","2020"],
+       ["Betplay.io","SOL/BTC","No","~$10 eq.","5-15 min","Level 0","2021"],
+       ["BitStarz","Fiat+BTC hybrid","No","0.0005 BTC","25-90 min","Level 2","2014"],
+       ["1xBit","BTC+50+ coins","No","0.0001 BTC","20-60 min","Level 1","2016"]]),
+      C + "C-02-bitcoin-casinos-2026-comparison.png"),
+
+    htmlShot(browser, tableHtml("Online Betting Platforms 2026", "Coinwy",
+      ["Platform","Crypto Deposits","Fiat","Live Betting","Crypto Odds Mkts","KYC","Best For"],
+      [["Stake.com","BTC/ETH/SOL/DOGE/XRP/LTC/BNB","No","Yes - 40+ sports","BTC/ETH/SOL weekly","Level 1","All-round crypto"],
+       ["Cloudbet","BTC/ETH/USDC/USDT","No","Yes","No","Level 2","High-limit BTC"],
+       ["Rollbit Sports","SOL/TON/BTC/ETH","No","Limited","No","Level 0","Speed + casual"],
+       ["Betplay.io","SOL/BTC/ETH","No","Yes","No","Level 0","SOL-native"],
+       ["1xBit","50+ coins","No","Yes (deep)","BTC/ETH price","Level 1","Coin range"],
+       ["BC.Game Sports","12 chains","No","Yes","Crypto price mkts","Level 0-1","Casino + sports"],
+       ["Bet365","Fiat only","Yes","Yes (best)","No","Level 3","Fiat users"],
+       ["Pinnacle","Fiat only","Yes","Yes","No","Level 3","Sharp bettors"],
+       ["Betway","Fiat+limited crypto","Yes","Yes","No","Level 2-3","Esports"],
+       ["DraftKings","Fiat only","USD","Yes","No","Level 3","US market"],
+       ["BetOnline.ag","BTC/ETH/LTC","Yes","Yes","No","Level 2","US crypto-fiat"]]),
+      C + "C-05-online-betting-platforms-2026-hero.png"),
+
+    htmlShot(browser, tableHtml("Odds Benchmark - Same Event July 2026", "Coinwy Editorial",
+      ["Platform","Match","Home Win","Draw","Away Win","Margin","Crypto Settlement"],
+      [["Pinnacle (ref)","CL Quarterfinal","2.18","3.40","3.10","1.9%","No"],
+       ["Stake.com","CL Quarterfinal","2.10","3.25","2.98","4.7%","SOL/BTC instant"],
+       ["Cloudbet","CL Quarterfinal","2.12","3.30","3.02","3.9%","BTC 15-35 min"],
+       ["Rollbit Sports","CL Quarterfinal","2.08","3.20","2.95","5.4%","SOL under 5 min"],
+       ["Bet365","CL Quarterfinal","2.15","3.35","3.05","3.2%","Fiat only"],
+       ["1xBit","CL Quarterfinal","2.05","3.15","2.90","6.2%","50+ coins"]]),
+      C + "C-05-odds-comparison-sheet.png"),
+
+    htmlShot(browser, tableHtml("Crypto Sports Betting 2026", "Coinwy",
+      ["Platform","Sports","Live Betting","Esports","Withdrawal Speed","KYC"],
+      [["Stake.com","40+","Yes - deep","CS2/LoL/Dota2/Val","8-20 min (SOL)","Level 1"],
+       ["SportsBet.io","30+","Yes - 50+ in-play","CS2/LoL","10-25 min","Level 1"],
+       ["Cloudbet","35+","Yes","CS2/LoL","15-35 min","Level 2"],
+       ["1xBit","60+","Yes - deepest","CS2/LoL/MLBB/PUBG","20-60 min","Level 1"],
+       ["BC.Game Sports","25+","Yes","CS2/LoL","4-12 min","Level 0-1"],
+       ["Betplay.io","15+","Yes","CS2/LoL","5-15 min","Level 0"],
+       ["Rollbit Sports","15","Limited","CS2/LoL","3-9 min","Level 0"]]),
+      C + "C-06-crypto-sportsbooks-comparison-2026.png"),
+
+    htmlShot(browser, tableHtml("New Crypto Casinos 2022-2026", "Coinwy",
+      ["Casino","Launch","KYC","Chains","Bonus EV","Provably Fair","Games"],
+      [["Jackbit","2022","Level 0","BTC/ETH/SOL/LTC","28%","Yes","4,000+"],
+       ["Metaspins","2022","Level 0","BTC/ETH/LTC/DOGE","29%","Yes","3,500+"],
+       ["Bets.io","2021","Level 1","BTC/ETH/LTC/DOGE/BNB","38%","Partial","5,000+"],
+       ["Duelbits","2020","Level 0","BTC/ETH/SOL/USDT","35%","Yes","2,000+"],
+       ["Betplay.io","2021","Level 0","SOL/BTC/ETH","33%","Yes","2,500+"],
+       ["Vave Casino","2023","Level 1","BTC/ETH/LTC","22%","Partial","4,500+"],
+       ["Haz Casino","2022","Level 1","BTC/ETH/LTC/DOGE","19%","No","3,000+"],
+       ["Mystake","2020","Level 1","20+ coins","21%","Partial","7,000+"]]),
+      C + "C-07-new-crypto-casinos-2026-comparison.png"),
+
+    htmlShot(browser, tableHtml("Crypto Casino Bonus EV Comparison July 2026", "Coinwy",
+      ["Casino","Bonus","Wagering Req","Avg RTP","EV %","EV on $100 Bonus","Type"],
+      [["Bets.io","200% up to $500","40x on bonus","96%","2.4%","$4.80","Welcome match"],
+       ["Duelbits","150% up to $300","25x on bonus","96%","3.84%","$5.76","Welcome match"],
+       ["Betplay.io","100% up to $200","30x on bonus","96%","3.2%","$3.20","Welcome match"],
+       ["BC.Game","180%+200 spins","40x on bonus","96%","2.4%","$4.80","Welcome match"],
+       ["Wild.io","Free spins on reg","30-40x on wins","96%","2.0-2.7%","~$2.40","No-deposit"],
+       ["Metaspins","100% up to $500","25x on bonus","96%","3.84%","$3.84","Welcome match"],
+       ["mBit Casino","110% up to 1 BTC","35x on bonus","96%","2.74%","$2.74","Welcome match"],
+       ["Rollbit","5% daily cashback","No wagering","--","~5%","Ongoing","Cashback"]]),
+      C + "C-08-crypto-casino-bonuses-ev-comparison.png"),
+
+    htmlShot(browser, tableHtml("AI Crypto Trading Bots 2026", "Coinwy",
+      ["Platform","Bot Types","Exchanges","Monthly Fee","Min Capital","Best For"],
+      [["3Commas","DCA, Grid, Options","Binance/Bybit/OKX/17+","$39-$79/mo","$100","DCA strategy"],
+       ["Pionex","Grid, Martingale, Infinity Grid","Binance+OKX built-in","Free (0.05% trading fee)","$100","Zero-fee grid trading"],
+       ["Bitsgap","DCA, Grid, BTD","Binance/Bybit/OKX/15+","$29-$149/mo","$200","Multi-exchange management"],
+       ["Cryptohopper","AI signal+DCA","100+ exchanges","$19-$99/mo","$50","Beginner-friendly AI"],
+       ["Shrimpy","Portfolio rebalancing","20+ exchanges","$19-$79/mo","$100","Portfolio automation"]]),
+      C + "C-09-ai-trading-bots-comparison-2026.png"),
+
+    htmlShot(browser, tableHtml("BitMEX and BitMart Alternatives 2026", "Coinwy",
+      ["Platform","Track","KYC","Leverage","Pairs","US Access","Edge"],
+      [["dYdX","Derivatives","Level 0","20x perps","On-chain","Blocked","100% decentralized perps"],
+       ["Bybit","Derivatives+Spot","Level 1","100x perps","300+","Blocked","Deep liquidity"],
+       ["Hyperliquid","Derivatives","Level 0","50x perps","On-chain L1","Yes (limited)","Order book on-chain"],
+       ["GMX","Derivatives","Level 0","30x perps","ARB/AVAX","Yes","Zero price impact"],
+       ["KuCoin","Spot","Level 1","--","700+","Restricted","Widest altcoin listing"],
+       ["Gate.io","Spot+perps","Level 1","100x","1,400+","Restricted","Largest altcoin range"],
+       ["MEXC","Spot","Level 1","--","2,000+","Restricted","Earliest new listings"],
+       ["OKX DEX","Spot (DEX)","Level 0","--","Multi-chain","Partial","Best DEX aggregator"]]),
+      C + "C-10-bitmex-bitmart-alternatives-comparison.png"),
+
+    htmlShot(browser, tableHtml("Stablecoin Payment Platforms 2026", "Coinwy",
+      ["Platform","Stablecoins","Chains","Settlement","Fiat Off-ramp","MiCA EU","Best For"],
+      [["Stripe Crypto","USDC","Solana/Ethereum/Base","under 1 sec (SOL)","Yes - direct bank","Partial","E-commerce merchants"],
+       ["Coinbase Commerce","USDC/USDT","Base/Ethereum/Polygon","under 1 sec (Base)","Yes - Coinbase","Yes","EU merchants"],
+       ["Bitpay","BTC/ETH/USDC","Multi","5-20 min","Yes - fiat conversion","No","BTC-native merchants"],
+       ["NOWPayments","200+ coins","Multi","Chain-dependent","Yes","No","Max coin coverage"],
+       ["CoinGate","BTC/ETH/LTC/USDT","Multi","Chain-dependent","Yes - SEPA","No","European merchants"],
+       ["Alchemy Pay","USDT/USDC","Multi+card rails","Near-instant","Yes - card rails","No","SEA + LatAm"],
+       ["Circle API","USDC","Ethereum/Base/Solana","under 1 sec","Yes - direct","Yes","Enterprise FinTech"]]),
+      C + "C-11-stablecoin-payment-platforms-comparison.png"),
+
+    htmlShot(browser, tableHtml("Telegram Casinos for Southeast Asia", "Kanalcoin",
+      ["Platform","Type","Local Currency","KYC","TON Support","Countries"],
+      [["TonKeeper Play","TON Mini-app","IDR/VND via P2P","None","Yes (native)","All SEA"],
+       ["Crypto.Games Bot","Bot casino","Via local exchange","None","BTC/ETH","All SEA"],
+       ["BC.Game (TG)","External integration","IDR/VND via P2P","Level 0-1","Yes","ID/VN/TH"],
+       ["Rollbit (TG)","External integration","Via exchange","Level 0","Yes","All SEA"],
+       ["Satoshi Dice Bot","Bot casino","BTC only","None","No","All SEA"],
+       ["TON Games","TON Mini-app","TON/P2P","None","Yes (native)","All SEA"]]),
+      K + "K-01-telegram-casino-sea-comparison.png"),
+
+    htmlShot(browser, tableHtml("No-KYC Crypto Casinos for SEA", "Kanalcoin",
+      ["Casino","KYC","IDR Access","VND Access","THB Access","PHP Access","Funding Method"],
+      [["Crypto.Games","Level 0","Via Indodax","Via VNDC","Via Bitkub","Via Coins.ph","BTC/ETH from local exchange"],
+       ["BC.Game","Level 0","TON P2P IDR","TON P2P VND","USDT P2P THB","BTC P2P PHP","Multi-chain P2P"],
+       ["Rollbit","Level 0","SOL/TON P2P","SOL/TON P2P","SOL P2P","SOL P2P","Binance/OKX P2P"],
+       ["Metaspins","Level 0","BTC via Indodax","ETH via local","BTC via Bitkub","BTC via Coins.ph","BTC/ETH/LTC/DOGE"],
+       ["Betplay.io","Level 0","SOL P2P","SOL P2P","SOL P2P","SOL P2P","SOL preferred"],
+       ["Duelbits","Level 0","ETH/SOL P2P","ETH/SOL P2P","ETH P2P","ETH P2P","SOL/ETH/BTC"]]),
+      K + "K-02-no-kyc-casino-sea-comparison.png"),
+
+    htmlShot(browser, tableHtml("Crypto Sports Betting for SEA", "Kanalcoin",
+      ["Platform","SEA Leagues","MLBB/PUBG Mobile","Local Payment","KYC","Countries"],
+      [["1xBit","V.League/Thai PL/ISL","Yes - deepest","Via 50+ coins","Level 1","All SEA"],
+       ["Stake.com","V.League/Thai PL","Limited (major only)","SOL/USDT via P2P","Level 1","ID/VN/TH"],
+       ["SportsBet.io","V.League/ISL","CS2/LoL only","Via exchange","Level 1","All SEA"],
+       ["BC.Game Sports","V.League/Thai PL","CS2/LoL only","12 chains+P2P","Level 0-1","All SEA"],
+       ["Cloudbet","Major leagues only","No","BTC/USDC","Level 2","All SEA (verify)"]]),
+      K + "K-03-crypto-sports-betting-sea-2026.png"),
+
+    htmlShot(browser, tableHtml("AI Agent Crypto - Due Diligence Checklist", "CCpress Editorial",
+      ["Check","Question","Green Flag","Red Flag"],
+      [["Admin Keys","Are admin keys disclosed and time-locked?","Multisig 48h+ timelock","Undisclosed or single-signer"],
+       ["VC Token Allocation","% of supply to VCs and team?","Under 30% disclosed vesting","Over 40% or undisclosed"],
+       ["Governance","Who controls protocol upgrades?","On-chain governance with quorum","Core team multisig only"],
+       ["Agent Autonomy","Can agents take irreversible actions?","Human-in-loop for large txns","Fully autonomous no limits"],
+       ["Revenue Model","How does protocol generate revenue?","Real usage fees","Pure token issuance"],
+       ["Open Source","Is agent code audited and public?","Audited GitHub verifiable","Closed source no audit"],
+       ["Bridge Dependency","Does it use cross-chain bridges?","None or audited","Unaudited custom bridge"],
+       ["Token Utility","Does token have real on-chain use?","Required for protocol function","Governance only"]]),
+      P + "P-01-ai-agent-due-diligence-checklist.png"),
+
+    htmlShot(browser, tableHtml("Tokenized Stock Perpetuals - SEC Exposure", "CCpress Editorial",
+      ["Platform","Product","Chain","US Access","Regulatory Risk","Admin Keys"],
+      [["Synthetix/Kwenta","sSPY/sAAPL synthetic perps","Optimism","Not geo-blocked","High - unregistered security risk","Multisig public"],
+       ["Drift Protocol","Synthetic equity index","Solana","Not restricted","Medium-High - no geo-block","Drift Labs multisig"],
+       ["Mirror Protocol","mAAPL/mTSLA (defunct)","Terra (collapsed 2022)","Was accessible","Regulatory action contributed to collapse","N/A"],
+       ["dYdX","Crypto perps only","dYdX Chain","Partially blocked","Low - crypto assets only","Validator governance"],
+       ["GMX","Crypto perps only","Arbitrum/Avalanche","US restricted","Low - crypto assets only","Multisig public"]]),
+      P + "P-03-tokenized-stock-perps-sec-exposure.png"),
+  ];
+
+  await Promise.all(htmlJobs);
+
+  console.log("\n=== Phase 2: URL captures ===");
+  const page = await browser.newPage();
+  await page.setViewportSize({ width: 1440, height: 900 });
+
+  const urls = [
+    ["https://rollbit.com", C + "C-01-rollbit-withdrawal-test.png", 5000],
+    ["https://mbitcasino.io", C + "C-02-mbit-lightning-network-deposit.png", 5000],
+    ["https://cloudbet.com", C + "C-02-cloudbet-btc-sportsbook-casino.png", 5000],
+    ["https://crypto.games", C + "C-03-cryptogames-no-kyc-provably-fair.png", 4000],
+    ["https://1xbit.com", C + "C-03-1xbit-level1-kyc-no-id.png", 5000],
+    ["https://t.me/BCGame_Official", C + "C-04-bcgame-telegram-channel.png", 3000],
+    ["https://t.me/tonkeeper", C + "C-04-tonkeeper-play-miniapp.png", 3000],
+    ["https://t.me/CryptoGamesBot", C + "C-04-cryptogames-bot-interface.png", 3000],
+    ["https://stake.com/sports/football", C + "C-05-stake-sportsbook-odds-screen.png", 6000],
+    ["https://rollbit.com/sports", C + "C-05-rollbit-sportsbook-ui.png", 5000],
+    ["https://sportsbet.io/sports/football", C + "C-06-sportsbet-live-betting-markets.png", 6000],
+    ["https://stake.com/sports/esports", C + "C-06-stake-sportsbook-esports-markets.png", 6000],
+    ["https://jackbit.com", C + "C-07-jackbit-withdrawal-speed-provably-fair.png", 5000],
+    ["https://bets.io/promotions", C + "C-07-betsio-welcome-bonus-terms.png", 5000],
+    ["https://bets.io/promotions", C + "C-08-betsio-200-percent-bonus-terms.png", 5000],
+    ["https://wild.io/promotions", C + "C-08-wildio-no-deposit-free-spins.png", 5000],
+    ["https://3commas.io", C + "C-09-3commas-dca-bot-risk-settings.png", 5000],
+    ["https://www.pionex.com", C + "C-09-pionex-grid-bot-setup.png", 5000],
+    ["https://dydx.trade", C + "C-10-dydx-perpetuals-no-kyc-interface.png", 6000],
+    ["https://www.kucoin.com/trade/BTC-USDT", C + "C-10-kucoin-altcoin-listings-interface.png", 6000],
+    ["https://docs.stripe.com/crypto", C + "C-11-stripe-crypto-usdc-solana.png", 5000],
+    ["https://commerce.coinbase.com", C + "C-11-coinbase-commerce-mica-eu.png", 5000],
+    ["https://t.me/tonkeeper", K + "K-01-tonkeeper-play-ton-wallet.png", 3000],
+    ["https://t.me/CryptoGamesBot", K + "K-01-cryptogames-bot-sea-flow.png", 3000],
+    ["https://t.me/BCGame_Official", K + "K-01-bcgame-telegram-id-support.png", 3000],
+    ["https://p2p.binance.com/en/trade/all-payments/TON?fiat=IDR", K + "K-02-tonkeeper-p2p-idr-flow.png", 6000],
+    ["https://crypto.games/deposit", K + "K-02-cryptogames-sea-deposit-flow.png", 4000],
+    ["https://1xbit.com/sports/esports", K + "K-03-1xbit-mlbb-sea-esports.png", 6000],
+    ["https://stake.com/sports/football", K + "K-03-stake-sportsbook-sea-access.png", 6000],
+    ["https://www.crunchbase.com/hub/artificial-intelligence-companies", P + "P-01-ai-agent-vc-backing-structure.png", 6000],
+    ["https://polymarket.com", P + "P-02-polymarket-cftc-prediction-markets.png", 5000],
+    ["https://polymarket.com", P + "P-02-polymarket-us-access-block-2024.png", 5000],
+    ["https://kalshi.com", P + "P-02-kalshi-cftc-licensed-interface.png", 5000],
+    ["https://kwenta.eth.limo", P + "P-03-synthetix-synthetic-stocks-interface.png", 6000],
+    ["https://app.drift.trade", P + "P-03-drift-protocol-solana-perps.png", 6000],
+    ["https://governance.synthetix.io", P + "P-03-synthetix-governance-snx-holders.png", 5000],
+  ];
+
+  for (const [url, file, wait] of urls) {
+    await urlShot(page, url, file, wait);
+  }
+  await page.close();
+
+  // Remaining HTML-only images that need separate rendering
+  const extra = [
+    htmlShot(browser, tableHtml("Robinhood Crypto vs SEA Exchange Listings", "Kanalcoin",
+      ["Token","Robinhood (US)","Binance SEA","OKX SEA","Local Exchange"],
+      [["BTC","Available","Yes","Yes","Indodax/Bitkub/Coins.ph"],
+       ["ETH","Available","Yes","Yes","Indodax/Bitkub/Coins.ph"],
+       ["DOGE","Available","Yes","Yes","Indodax/Binance"],
+       ["SOL","Available","Yes","Yes","Binance/OKX only"],
+       ["POL (ex-MATIC)","Available","Yes","Yes","Binance/OKX only"],
+       ["ADA","Available","Yes","Yes","Indodax/Binance"],
+       ["XRP","Available","Yes","Yes","Bitkub/Coins.ph/Binance"],
+       ["LINK","Available","Yes","Yes","Binance/OKX only"],
+       ["UNI","Available","Yes","Yes","Binance/OKX only"],
+       ["LTC","Available","Yes","Yes","Indodax/Binance"]]),
+      K + "K-04-robinhood-crypto-sea-equivalents.png"),
+  ];
+  await Promise.all(extra);
+
+  await browser.close();
+
+  const allDirs = [C, K, P];
+  let total = 0;
+  for (const d of allDirs) {
+    const files = fs.existsSync(d) ? fs.readdirSync(d).filter(f => f.endsWith(".png")) : [];
+    total += files.length;
+    const label = d.split("\\").filter(Boolean).slice(-3,-1).join("/");
+    console.log("  " + label + " -- " + files.length + " images");
+  }
+  console.log("\nTotal: " + total + " images captured");
+})();
