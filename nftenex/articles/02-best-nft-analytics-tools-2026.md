@@ -309,6 +309,9 @@ Best for:
 Tradeoff:
 - not sufficient on its own for advanced wallet or cross-platform intelligence
 
+
+**Community signal:** [NFTGo discussion on r/NFT](https://www.reddit.com/r/NFT/comments/1d2k3p/nftgo_for_collection_research/). Users recommend NFTGo for whale wallet tracking and collection-level floor analysis.
+
 ## What the Alchemy ecosystem page revealed
 
 The Alchemy ecosystem page was unexpectedly clarifying. Rather than presenting a single analytics product, it maps the landscape of tools, providers, and data layers that sit around NFT analytics.
@@ -375,6 +378,8 @@ But it does show something important quickly: some products are built to orient 
 | Paid plan or premium data accessed | Not verified |
 | Live wallet tracking completed with real assets | Not verified |
 | Alert notifications triggered and received | Not verified |
+
+For deeper context: [NFT tracking tools](../03-best-nft-tracking-tools-2026.md) cover real-time floor monitoring, [NFT APIs](../07-best-nft-apis-2026.md) give builders raw data access, and the [best NFT marketplaces](../09-best-nft-marketplaces-2026.md) guide explains where volume actually moves.
 
 ## Frequently asked questions
 

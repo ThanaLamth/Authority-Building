@@ -18,7 +18,9 @@ status: "Drafted"
 
 # Best NFT Tracking Tools in 2026
 
-The best NFT tracking tools in 2026 are DappRadar, NFTGo, Nansen, Zerion, OpenSea watchlists, Blur-native monitoring, Discord alert bots, and custom dashboard setups. DappRadar is the cleanest daily starting point. NFTGo goes deeper on collection-level signals. Nansen is the right choice when wallet flows are the core signal.
+The best NFT tracking tools in 2026 are DappRadar, NFTGo, Nansen, Zerion, OpenSea watchlists, Blur-native monitoring, Discord alert bots, and custom dashboard setups.
+
+DappRadar is the cleanest daily starting point. NFTGo goes deeper on collection-level signals. Nansen is the right choice when wallet flows are the core signal.
 
 Tracking is different from analytics. Analytics helps you understand a market. Tracking helps you stay on top of one, noticing meaningful movement early without turning every floor-price twitch into a false alarm.
 
@@ -92,7 +94,9 @@ Most readers want to know which tool supports which alert type before choosing. 
 | Discord bots | Configurable | Configurable | Configurable | Configurable | Configurable | Some bots yes |
 | Custom dashboards | Full | Full | Full | Full | Full | Full |
 
-DappRadar is the weakest on alerts. It shows you the market but does not push notifications when something specific changes. OpenSea watchlists are the easiest free option for sale and listing alerts on specific collections. Nansen covers the most alert types, but most are behind the paid plan.
+DappRadar is the weakest on alerts. It shows you the market but does not push notifications when something specific changes. OpenSea watchlists are the easiest free option for sale and listing alerts on specific collections.
+
+Nansen covers the most alert types, but most are behind the paid plan.
 
 ## How to set up your first NFT floor alert (free, no wallet required)
 
@@ -216,7 +220,9 @@ Caption: `icy.tools market view, July 2026. NFT market trends and collection mom
 
 [Nansen](https://www.nansen.ai/) becomes the right tracking tool when wallet flows matter more than simple price motion. If the real question is "who is moving first?", Nansen is closer to the right answer.
 
-Nansen's homepage is deliberately premium-feeling. It does not try to orient casual researchers. It signals from the first scroll that this is a tool for users who think in wallet flows and smart-money patterns. That framing is either immediately compelling or immediately alienating, depending on what you need.
+Nansen's homepage is deliberately premium-feeling. It does not try to orient casual researchers. It signals from the first scroll that this is a tool for users who think in wallet flows and smart-money patterns.
+
+That framing is either immediately compelling or immediately alienating, depending on what you need.
 
 Best for:
 - smart-money and whale wallet tracking
@@ -240,7 +246,9 @@ Caption: `Nansen homepage, July 2026. Wallet-intelligence and smart-money tracki
 
 [Zerion](https://zerion.io/) is a strong fit when the tracking job is portfolio management, not collection obsession. Users who hold NFTs alongside tokens and other onchain assets will often prefer a broader tracking environment.
 
-From the public product surface we reviewed, Zerion felt less like a pure NFT tracker and more like an ownership command center. That is a strength if your NFT decisions sit inside a larger crypto portfolio. It is a weakness if all you want is fast collection alerts.
+From the public product surface we reviewed, Zerion felt less like a pure NFT tracker and more like an ownership command center. That is a strength if your NFT decisions sit inside a larger crypto portfolio.
+
+It is a weakness if all you want is fast collection alerts.
 
 Best for:
 - integrated portfolio tracking
@@ -352,7 +360,7 @@ Tradeoff:
 
 The most serious users often end up with a hybrid workflow: a market dashboard, a wallet intelligence layer, a watchlist, and a custom alert channel. This is the least beginner-friendly approach, but often the best long-term one.
 
-It is worth noting that the Alchemy ecosystem page makes this fragmentation visible: NFT tracking is not one product. It is several layers that different products cover in different ways.
+notably that the Alchemy ecosystem page makes this fragmentation visible: NFT tracking is not one product. It is several layers that different products cover in different ways.
 
 Best for:
 - researchers and power users
@@ -360,6 +368,9 @@ Best for:
 
 Tradeoff:
 - highest setup cost; needs ongoing maintenance as data sources change
+
+
+**Community signal:** [DappRadar NFT section discussion on r/NFT](https://www.reddit.com/r/NFT/comments/1c9vq8e/dappradar_is_shutting_down/). Community noted shutdown plans; verify current availability.
 
 ## What signals are actually worth tracking
 
@@ -422,6 +433,8 @@ But it shows clearly which products are built for broad orientation, which are s
 | Paid-plan features accessed (Nansen, NFTGo) | Not verified |
 | Live alert received for floor-price or wallet movement | Not verified |
 | Wallet connected on any platform | Not verified |
+
+For deeper context: [NFT analytics tools](../02-best-nft-analytics-tools-2026.md) cover market-level signals, [NFT storage tools](../05-best-nft-storage-tools-2026.md) cover on-chain permanence, and [NFT marketplaces](../09-best-nft-marketplaces-2026.md) are where tracked floors turn into trades.
 
 ## Frequently asked questions
 
