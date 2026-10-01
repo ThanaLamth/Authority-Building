@@ -8,19 +8,20 @@ Suggested slug: /crypto-reviews/remittix-rtx-review-2026
 
 Primary keyword: Remittix review 2026
 
-Meta description: Remittix (RTX) review 2026. Crypto-to-fiat payments presale token on Ethereum. Full breakdown of the use case, tokenomics, roadmap, risks, and whether RTX belongs in your portfolio.
+Meta description: Remittix (RTX) review 2026 based on live Trustpilot data, Reddit community sentiment, and on-chain verification. Score 4.5/10. Full breakdown of the use case, real user opinions, red flags, and whether RTX belongs in your portfolio.
 
 ---
 
 ## What Remittix is and what problem it targets
 
-Remittix is a crypto-to-fiat payment protocol built on Ethereum. The core pitch is direct: a crypto holder sends digital assets, the recipient receives local fiat currency via regional banking networks. No exchange account required on the receiving end.
+Remittix is a crypto-to-fiat payment protocol on Ethereum. The pitch: a crypto holder sends digital assets, the recipient receives local fiat currency via regional banking networks. No exchange account needed on the receiving end.
 
-The remittance market is the target. World Bank data consistently puts global remittance flows above $700 billion per year. The pain points are real -- bank wires are slow, fees average 6-7%, and rural recipients often lack bank accounts. Crypto solutions have tried to solve this for a decade; most hit the same wall: the last mile from crypto to spendable local cash.
+The global remittance market runs above $700 billion per year. Pain points are well-documented: bank wires average 6-7% in fees, rural recipients often lack accounts, and settlement takes days. Remittix positions itself specifically on the last mile from crypto to spendable local cash.
 
-Remittix positions itself specifically on that last mile. The protocol claims integration with local payment rails in over 100 countries, enabling RTX token holders to initiate fiat payouts without manual currency conversion steps.
+RTX launched as a presale token in December 2024. As of October 2026, it remains pre-CEX listing on major exchanges. The website still shows an active "Join Presale" button and a banner advertising "RTX LAUNCH BONUS: GET 500% ON YOUR NEXT PURCHASE USING CODE BINANCE500."
 
-RTX launched as a presale token in December 2024 on the Ethereum network. As of October 2026, the token remains in an early post-presale stage and is not yet listed on major centralised exchanges.
+![Remittix homepage showing "The Future of Global Payments" with presale CTA, October 2026](../media/remittix-oct26/remittix-homepage.png)
+*Remittix homepage, October 2026. The site still shows a "Join Presale" CTA and a "500% launch bonus" banner. The token had not listed on a major CEX as of this review date.*
 
 ---
 
@@ -31,133 +32,163 @@ RTX launched as a presale token in December 2024 on the Ethereum network. As of 
 | Token name | Remittix |
 | Ticker | RTX |
 | Blockchain | Ethereum (ERC-20) |
-| Contract address | 0xe7654694ec16F3163084eC559193e10c7ABA17CB |
+| Contract | 0xe7654694ec16F3163084eC559193e10c7ABA17CB |
 | Total supply | 1,500,000,000 RTX |
 | Presale start | December 2024 |
-| CMC listing date | January 2025 |
-| Presale amount | 750,000,000 RTX (50% of total supply) |
-| Status (Oct 2026) | Post-presale, pre-major-exchange listing |
+| CMC listing | January 2025 (preview/untracked) |
+| CMC reported holders | 1 (as of October 2026) |
+| CMC market cap | $0 (untracked) |
+| CMC watchlist | 7,380 users |
 | Official website | remittix.io |
 | Whitepaper | remittix-organization.gitbook.io/remittix |
-| Telegram | t.me/remittix_Portal |
-| Twitter / X | twitter.com/remittix |
+
+![Remittix on CoinMarketCap showing Total Holders = 1 and Market Cap = $0, October 2026](../media/remittix-oct26/remittix-cmc.png)
+*Remittix CMC page, October 2026. Total on-chain holders shown as 1 and market cap as $0, reflecting the token's pre-listing status. The social panel shows community posts asking about an exchange listing in November 2026.*
+
+The CMC data confirms the token has not yet entered active secondary market trading. "Total Holders = 1" on the holder chart indicates the token contract has not distributed to a broad holder base through public DEX or CEX liquidity as of this review.
 
 ---
 
 ## The use case: crypto-to-fiat payments
 
-The Remittix protocol targets three user groups.
+Remittix targets three user groups.
 
-**Crypto holders sending money abroad.** Someone holding ETH, BTC, or other assets initiates a payment. The protocol converts the crypto input and routes the equivalent fiat to the recipient through local payment infrastructure -- bank transfer, mobile money, or cash pickup depending on the destination country.
+**Crypto holders sending money abroad.** Someone holding ETH, BTC, or other assets initiates a payment. The protocol converts the crypto input and routes the equivalent fiat to the recipient through local payment infrastructure — bank transfer, mobile money, or cash pickup.
 
-**Businesses processing international payroll or vendor payments.** Companies with distributed teams or cross-border supply chains can use the protocol to pay staff or suppliers in local currency without setting up local banking entities.
+**Businesses with cross-border payroll or vendor payments.** Companies can pay staff or suppliers in local currency without setting up local banking entities.
 
-**Workers receiving remittances.** The recipient receives funds in local currency to a standard bank account or mobile wallet. They do not need to understand or hold cryptocurrency.
+**Workers receiving remittances.** The recipient receives funds in local currency to a standard bank account or mobile wallet. No crypto knowledge required.
 
-This positioning is different from DeFi yield protocols or NFT platforms. Remittix is not competing with Uniswap or Aave. It is competing with Western Union, Wise, and traditional bank wire transfer services -- which is a larger and more regulated market.
+This positioning competes directly with Western Union, Wise, and bank wire transfer services — not with DeFi yield protocols or NFT platforms. That is a larger and more regulated market than most crypto presales target.
 
 ---
 
-## How the payment flow works
+## Trustpilot: 4.2/5 with significant review quality concerns
 
-Based on the public whitepaper and product documentation reviewed on 2026-10-01:
+![Remittix Trustpilot page showing 4.2/5 from 135 reviews, October 2026](../media/remittix-oct26/remittix-trustpilot.png)
+*Remittix Trustpilot page, October 2026. The profile was claimed in June 2026. Trustpilot's own sidebar notes "No recent history of asking for reviews" and states the company takes over 1 month to reply to negative reviews.*
 
-1. Sender connects a wallet holding RTX or other accepted crypto assets.
-2. The Remittix protocol converts the input into the required fiat equivalent using integrated liquidity sources.
-3. The protocol routes the fiat payout through a local payment network partner in the destination country.
-4. The recipient receives local currency via bank transfer, mobile money network, or alternative payout method available in their region.
+Remittix holds a 4.2/5 TrustScore from 135 reviews on Trustpilot (as of October 2026). The claimed profile was registered in June 2026.
 
-RTX token holders receive fee discounts on outgoing transactions. The token is also described as a utility and governance instrument within the protocol, though governance mechanics were not fully live as of this review.
+**What the positive reviews say:**
 
-**What we verified directly:** The Ethereum contract address is live and verifiable on Etherscan. The token metadata and total supply match CMC and whitepaper figures. The website and Telegram community were accessible as of this review date.
+The bulk of 5-star reviews describe smooth cross-border transfer experiences with clear fee structures and fast settlement. Representative sample:
 
-**What we did not verify directly:** Live cross-border payment execution, actual fee rates on completed transactions, or the status of live banking partnerships in specific countries.
+> "Handled a cross-border exchange earlier today and the processing speed was solid. The conversion rate stayed locked during setup, so there were no frustrating surprises on arrival." — Frankie King, September 2026
+
+> "Exchange rates remain remarkably consistent during transfers. It solves the friction of moving funds across borders without surprising fees at the final step. Extremely straightforward operational flow." — Joann Jaramillo, August 2026
+
+**The review quality problem:**
+
+A cluster of 5-star reviews posted on 2026-08-18 (eight reviews on the same date) shows near-identical phrasing patterns around "cross-chain," "conversion rates held steady," "settlement posted within minutes," and "without hidden fees or slippage." This pattern is consistent with coordinated review activity.
+
+Trustpilot's own sidebar flags: "No recent history of asking for reviews — This company hasn't invited customers recently, so reviews may not be representative."
+
+**What the critical reviews say:**
+
+> "Complete scam. All the positive reviews on here are almost verbatim. They have been in 'launch mode' for almost a year but keep stringing people along." — Timothy Schimick, September 2026 (1 star)
+
+> "No regulation: The operating company is based in the Marshall Islands, the team is completely anonymous, and there is no licence from European financial authorities (such as BaFin or FINMA). Fake figures: The claimed pre-sale figures in the tens of millions..." — Chris, August 2026 (1 star)
+
+> "I looked into the crypto project Remittix (RTX) and found major red flags. When I asked them a fair but critical question, their response was extremely suspicious." — 1-star review, r/CryptoScams
+
+**Editorial assessment:** The 4.2 headline score should be read with significant caution. The cluster of same-day identical reviews, the lack of verified payment screenshots in positive reviews, and the critical reviews specifically calling out fake review patterns reduce the credibility of the aggregate score.
+
+---
+
+## Reddit community sentiment
+
+Reddit discussions about Remittix skew sharply negative across high-signal subreddits.
+
+**r/CryptoScams — multiple threads flagging concern:**
+
+> "Remittix on Solana Scam. Watch out for remittix on Solana. It is pumping now but untradable. Also, when I checked the number of holders it is a low number. I bet this is a pump and dump." — r/CryptoScams
+
+> "Remittix (RTX): Using multiple fake reviews about how good the RTX coin is. The coin isn't even released yet." — r/CryptoScams, February 2026
+
+> "WARNING: Remittix (RTX) Might Be a SCAM! I looked into the crypto project Remittix (RTX) and found major red flags. When I asked them a fair but critical question, their response was extremely suspicious." — r/CryptoScams
+
+**r/CryptoScams — genuine user experience:**
+
+> "Not sure if I can include screenshots here. Been into crypto since 2017 and never ventured into presale tokens. Remittix sounds GOOD so I dropped a few grand. Hesitant to do more. Their team seems legit but the lack of transparency is concerning." — r/CryptoScams, thread: "Remittix Presale fact or fiction"
+
+**Neutral or skeptical coverage:**
+
+A community review thread on r/TheHolyCoins noted: "Remittix (RTX) launched its crypto presale in December with no MVP, no product, and raised $15M — but transparency is still missing." A separate post confirmed the $32M presale raise figure and mentioned an RTX launch date confirmation.
+
+**r/XRP comparison post:** "Can't decide whether to invest in XRP or RTX long-term" — the comparison signals RTX is being marketed to XRP-style payment token narratives, though the project's stage and risk profile are not comparable.
+
+The Reddit signal is clear: organic community sentiment is dominated by scam warnings and transparency concerns. The positive posts are largely low-engagement marketing content.
 
 ---
 
 ## Tokenomics
 
-The RTX total supply is 1,500,000,000 (1.5 billion) tokens.
-
-| Allocation | Amount | Percentage |
+| Allocation | Amount | % |
 |---|---|---|
 | Presale | 750,000,000 RTX | 50% |
-| Liquidity & exchanges | Undisclosed | -- |
-| Team & advisors | Undisclosed | -- |
-| Ecosystem & development | Undisclosed | -- |
-| Marketing | Undisclosed | -- |
+| Remaining (team, liquidity, ecosystem) | 750,000,000 RTX | 50% |
+| Full breakdown | Not independently verified | — |
 
-The 50% presale allocation is large. In most token launches, a presale-heavy allocation creates structured sell pressure at listing: early buyers who acquired at presale prices have an incentive to take profit when the token reaches centralised exchange liquidity.
+The 50% presale allocation is large. Early presale buyers acquired at discounted prices relative to any future listing price, creating structured sell pressure at listing. Without confirmed vesting data for the non-presale 50%, the risk cannot be quantified independently.
 
-The full tokenomics breakdown beyond the presale share was not publicly verified at review time. The whitepaper references vesting schedules but specific lock periods for team and advisor allocations were not confirmed independently.
-
-This is a material limitation for investors. Full allocation and vesting data should be confirmed directly via the whitepaper and team communications before any purchase decision.
+**Presale raise figures:** Community posts reference figures ranging from $15M to $32M raised in presale. Neither figure was verified against audited or on-chain data for this review.
 
 ---
 
 ## Roadmap assessment
 
-Remittix published a multi-phase roadmap in its whitepaper. Key phases as described publicly:
+Based on public documentation reviewed on 2026-10-01:
 
-- **Phase 1 (Completed):** Token development, presale launch, initial community building, Ethereum deployment.
-- **Phase 2:** Payment gateway development, local payment rail integrations, beta testing with pilot corridors.
-- **Phase 3:** Centralised exchange listings, expanded country coverage, full protocol launch.
-- **Phase 4:** Governance activation, business API access, scaling to institutional clients.
+| Phase | Status (Oct 2026) |
+|---|---|
+| Phase 1 — Token launch, presale, Ethereum deployment | Completed |
+| Phase 2 — Payment gateway, local rail integrations, beta | Claimed in progress |
+| Phase 3 — CEX listings, expanded country coverage | Pending |
+| Phase 4 — Governance, business API, institutional scaling | Future |
 
-As of October 2026, the project appears to be in or approaching Phase 2-3 territory based on the presale completion and CMC listing. No major Tier-1 CEX listing has been confirmed publicly as of this review date.
+The CMC social panel shows community members asking "on which exchange is it going to launch in November 2026?" — suggesting CEX listing has not been confirmed officially as of this review.
 
-**The critical question for Phase 2-3:** Building and maintaining live payment rail integrations in 100-plus countries requires licensed payment partners, regulatory compliance in each jurisdiction, and significant operational infrastructure. This is not purely a smart contract problem -- it is a fintech operations and compliance problem. Progress on this front is harder to verify from public sources than onchain data.
-
----
-
-## What makes Remittix different from existing crypto payment solutions
-
-The remittance-via-crypto space has several established players:
-
-| Competitor | Approach | Key difference from Remittix |
-|---|---|---|
-| Ripple (XRP) | Bank and institution-focused settlement | Institutional, not end-user focused |
-| Stellar (XLM) | Open network for cross-border fiat rails | More established, broader institutional adoption |
-| BitSo | Mexico-focused crypto-to-fiat exchange | Regional, not a protocol |
-| Wise | Fiat-to-fiat bank transfer | No crypto input |
-| Western Union | Cash and bank wire | Legacy infrastructure, high fees |
-
-Remittix's stated advantage is the combination of crypto input flexibility (accept any major asset, not just one native coin) with direct-to-fiat local payout. This is a real gap in the market -- most crypto payment tools either require the recipient to hold crypto or route through an exchange first.
-
-The risk is execution. Wise and Ripple have years of banking relationships and regulatory licences. A newer protocol needs to demonstrate those relationships are real and operational before they become a genuine competitive advantage.
+Building live payment rail integrations in 100+ countries requires licensed payment partners, AML/KYC compliance, and significant operational infrastructure. This is a fintech operations and regulatory problem, not purely a smart contract problem. Public evidence of active licensed partnerships was not found in this review.
 
 ---
 
-## Risks and red flags to consider
+## Risks and red flags
 
-**Risk 1: Unproven live payment infrastructure.**
-The core product claim -- fiat payout in 100-plus countries via local payment networks -- is ambitious. As of this review, live payment execution in specific corridors was not independently verified. The business is in early operational stage.
+**Risk 1 — No live CEX listing after ~10 months post-launch.**
+The token has been in presale or post-presale status since December 2024. As of October 2026, no major exchange listing has been confirmed.
 
-**Risk 2: Presale tokenomics concentration.**
-50% of supply was sold in the presale. Without confirmed vesting data for team/advisor allocations, there is no way to independently assess when large token holders can sell.
+**Risk 2 — CMC reports Total Holders = 1.**
+On-chain holder data from CMC shows effectively one holder as of this review. This is consistent with tokens that have not yet distributed via DEX or CEX liquidity.
 
-**Risk 3: Regulatory exposure.**
-Operating cross-border payment services across multiple jurisdictions requires licences. Money transmission licences, AML/KYC compliance, and local banking partnerships are legally required in most target markets. How far Remittix has progressed on this front is not fully transparent from public sources.
+**Risk 3 — Review integrity concerns on Trustpilot.**
+The cluster of identical 5-star reviews on 2026-08-18 and the pattern noted by multiple critical reviewers ("all the positive reviews on here are almost verbatim") is a material concern for trusting the headline 4.2 score.
 
-**Risk 4: No major CEX listing yet.**
-Without a confirmed listing on a Tier-1 exchange, liquidity remains limited and price discovery is difficult. This cuts both ways: early buyers at presale prices may see gains on a listing, but the timing and terms of any listing are not guaranteed.
+**Risk 4 — Multiple r/CryptoScams threads.**
+Three separate threads on r/CryptoScams have flagged Remittix. This does not confirm a scam, but it is a signal that warrants independent research before any investment.
 
-**Risk 5: Early-stage team transparency.**
-The team behind Remittix is not fully publicly doxed at the level of, say, a publicly incorporated fintech company. This is common for presale-stage crypto projects but is a risk factor relative to regulated payment companies.
+**Risk 5 — Anonymous team in a regulated sector.**
+Cross-border payment services require regulated entities with identifiable responsible persons. One critical reviewer noted "the operating company is based in the Marshall Islands, the team is completely anonymous." This was not independently verified but is consistent with limited public disclosures.
+
+**Risk 6 — Pre-sale marketing tactics.**
+The homepage banner "RTX LAUNCH BONUS: GET 500% ON YOUR NEXT PURCHASE USING CODE BINANCE500" is an aggressive marketing claim. "500% on your next purchase" without clear explanation of the mechanism is a common presale hype tactic.
 
 ---
 
-## Who Remittix is best suited for
+## What this review verified and what it did not
 
-**Suitable for:**
-- Investors with a specific thesis on crypto-to-fiat payments who understand early-stage token risk.
-- Holders willing to wait for Phase 2-3 milestones (exchange listing, live corridor proof).
-- Those who have already done their own whitepaper and team research and are sizing a speculative position accordingly.
-
-**Not suitable for:**
-- Conservative or risk-averse investors expecting predictable returns.
-- Anyone needing confirmed live product functionality before investing.
-- Portfolios where illiquid or pre-listing positions are inappropriate.
+| Claim | Status |
+|---|---|
+| Remittix homepage accessible at remittix.io | Verified — screenshot captured 2026-10-01 |
+| Ethereum contract 0xe765...A17CB exists on Etherscan | Verified — contract confirmed live |
+| Trustpilot profile exists with 135 reviews, score 4.2 | Verified — screenshot captured 2026-10-01 |
+| CMC page shows Total Holders = 1, Market Cap = $0 | Verified — screenshot captured 2026-10-01 |
+| Reddit threads in r/CryptoScams flagging RTX | Verified — posts retrieved via Pullpush API |
+| Live cross-border payment completed | Not verified |
+| Presale raise figures ($15M–$32M) confirmed on-chain | Not verified |
+| Licensed payment partners in specific countries | Not verified |
+| Team identities or company incorporation | Not verified |
+| CEX listing confirmed | Not verified — community asking, no official confirmation found |
 
 ---
 
@@ -165,28 +196,26 @@ The team behind Remittix is not fully publicly doxed at the level of, say, a pub
 
 | Dimension | Score | Notes |
 |---|---|---|
-| Use case clarity | 8 / 10 | Problem is real and large; the pitch is clear and differentiated |
-| Tokenomics transparency | 4 / 10 | 50% presale allocation confirmed; full team/vesting breakdown not independently verified |
-| Product maturity | 4 / 10 | Pre-CEX listing; payment rail partnerships not independently verified live |
-| Roadmap credibility | 6 / 10 | Phases are logical; Phase 2-3 execution depends on fintech compliance progress |
-| Community and traction | 6 / 10 | Active Telegram; 7,380 CMC watchlist additions; no Reddit or Trustpilot presence |
-| Risk level | High | Typical early-stage presale risks plus regulatory complexity of cross-border payments |
-| **Overall** | **5.5 / 10** | Strong use case thesis, meaningful execution risk, not yet independently verifiable |
+| Use case clarity | 7.5 / 10 | Problem is real and large; positioning against Western Union and Wise is credible |
+| Tokenomics transparency | 3 / 10 | 50% presale, no verified team vesting, no audited raise figures |
+| Product maturity | 2 / 10 | No CEX listing, CMC holders = 1, homepage still in presale mode after 10 months |
+| Community trust | 3 / 10 | Multiple CryptoScams warnings; TP score inflated by suspected fake reviews |
+| Team transparency | 2 / 10 | Anonymous team in a regulated sector; company reportedly registered in Marshall Islands |
+| Roadmap credibility | 4 / 10 | Phase structure is logical; no live corridor evidence found |
+| **Overall** | **3.5 / 10** | Strong use case framing, significant execution and integrity concerns |
 
 ---
 
-## What we checked before writing this review
+## Who this suits and who should avoid it
 
-For this review we checked:
+**Higher risk tolerance, speculative position only:**
+If you have a specific thesis on crypto-to-fiat payment infrastructure and are sizing a small speculative position with money you can afford to lose entirely, Remittix is in that category of early presale tokens. The use case is real. The execution is unproven.
 
-- CoinMarketCap listing page for RTX (status: untracked, self-reported data)
-- Etherscan token contract 0xe7654694ec16F3163084eC559193e10c7ABA17CB (verified live)
-- Remittix official website (remittix.io) -- accessible
-- Remittix Gitbook whitepaper (remittix-organization.gitbook.io/remittix) -- accessible
-- Remittix Telegram community (t.me/remittix_Portal) -- accessible
-- Remittix Twitter/X (@remittix) -- accessible
-
-We did not complete a live cross-border payment. We did not connect a wallet or acquire RTX. We did not verify active banking partnerships in specific corridors through independent sources. Claims about country coverage and payment rail integrations are drawn from project documentation and were not confirmed through third-party fintech regulatory databases.
+**Avoid if:**
+- You need a live, verified product before investing.
+- You rely on Trustpilot scores as primary due diligence.
+- You are comparing RTX to established payment tokens like XRP or XLM on a comparable risk basis.
+- You are putting in more than a speculative allocation.
 
 ---
 
@@ -194,24 +223,24 @@ We did not complete a live cross-border payment. We did not connect a wallet or 
 
 **Is Remittix a scam?**
 
-We cannot confirm it is a scam and we cannot confirm it is fully legitimate. It is an early-stage presale project with a real Ethereum contract, a clear product thesis, and public documentation. It has not yet demonstrated live payment operations at scale. Treat it as a high-risk speculative investment, not a proven product.
+We cannot confirm either way. Multiple r/CryptoScams threads have raised concerns. The Trustpilot review cluster suggests possible coordinated reviews. The team is reportedly anonymous. None of these individually confirm a scam, but they are material due diligence flags. Treat this as high-risk until the product launches publicly, the team is identified, and a legitimate exchange listing occurs.
 
 **Where can I buy RTX?**
 
-As of October 2026, RTX is available through the Remittix presale site and may be available on decentralised exchanges with Ethereum liquidity. It is not listed on major centralised exchanges. Always verify the contract address (0xe7654694ec16F3163084eC559193e10c7ABA17CB) before buying to avoid scam tokens.
+As of October 2026, RTX is available through the Remittix presale site. No major centralised exchange listing has been confirmed. Always verify the contract address (0xe7654694ec16F3163084eC559193e10c7ABA17CB on Ethereum) before buying on any DEX to avoid impersonator tokens.
+
+**Why does CMC show Total Holders = 1?**
+
+This reflects the token's pre-listing status. When a token contract has not yet distributed via exchange liquidity, CMC often shows holder counts close to zero or one (the deployer address). It does not necessarily mean the presale did not distribute tokens — but it does confirm there is no active secondary market as of this review.
 
 **What is the RTX token used for?**
 
-RTX is described as a utility and governance token within the Remittix protocol. Token holders reportedly receive fee discounts on cross-border payment transactions. Governance rights are planned but not yet activated.
+RTX is described as a utility and governance token giving fee discounts on cross-border payment transactions within the Remittix protocol. Governance rights are planned but not yet active.
 
-**How does Remittix compare to Stellar or Ripple?**
+**How does Remittix compare to Stellar (XLM) or Ripple (XRP)?**
 
-Stellar and Ripple have multi-year head starts, active institutional banking partnerships, and significant regulatory groundwork completed. Remittix is earlier-stage and targets a slightly different angle -- direct consumer-facing crypto-to-fiat payout rather than bank-to-bank settlement. The comparison is legitimate as a market category, but the operational maturity gap is significant.
-
-**Is there a Remittix app?**
-
-A consumer-facing application was referenced in the roadmap. As of this review, the primary interface is the web-based protocol. A dedicated mobile application status was not confirmed from public sources.
+XRP and XLM have institutional banking partnerships, years of regulatory groundwork, and active secondary markets. Remittix is at an incomparably earlier stage. The use case comparison is legitimate; the risk profile comparison is not.
 
 ---
 
-*This review is editorial commentary based on publicly available information reviewed on 2026-10-01. It is not financial advice. Crypto investments, especially presale tokens, carry significant risk including total loss of capital. Always conduct your own research before investing.*
+*This review is editorial commentary based on publicly available information, on-chain data, Trustpilot scraped reviews, and Reddit posts retrieved via Pullpush.io API, all reviewed on 2026-10-01. It is not financial advice. Crypto presale tokens carry significant risk including total loss of capital. Conduct your own research before investing.*
