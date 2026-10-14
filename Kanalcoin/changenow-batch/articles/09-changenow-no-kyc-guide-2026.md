@@ -72,6 +72,63 @@ Live homepage data confirmed: 1000+ assets supported, 98% Triumph Rate (swaps co
 
 ChangeNOW leads on fiat integration and trust signal volume. StealthEX edges ahead on coin count but has a smaller review base. Trocador is purpose-built for privacy coin routing and takes a harder no-KYC stance, useful for Monero or Zcash users, but lacks ChangeNOW's breadth and reliability signal.
 
+## Current Rate: BTC to XMR on ChangeNOW (October 2026)
+
+As of October 14, 2026, live rates on ChangeNOW:
+- **1 BTC = 157.66 XMR** (floating rate at time of writing)
+- BTC price: ~$83,377 (-2.56% past 7 days)
+- XMR price: ~$528.85 (-5.76% past 7 days)
+- Floating rate: executes at market price at settlement (can move ±1–3%)
+- Fixed rate: locked at initiation, slightly wider spread but price-certain
+
+Rate comparison with alternatives:
+
+| Service | BTC/XMR rate | Fee structure | Settlement |
+|---|---|---|---|
+| ChangeNOW | ~157.66 XMR per BTC | ~0.5% service fee | 15–30 min |
+| StealthEX | Slightly lower typically | ~1% | 5–20 min |
+| Trocador | Aggregates XMR routes | Varies | 10–30 min |
+
+**Rate tip:** ChangeNOW's 98% Triumph Rate means the rate displayed is the rate executed in 98 out of 100 swaps. For XMR specifically — a privacy coin with a wider spread — fixed rate is worth considering if you are swapping more than $500 equivalent. The slightly lower base rate is usually worth the price certainty.
+
+## How to Swap BTC to XMR on ChangeNOW: Step by Step
+
+**Step 1: Go to changenow.io**
+Open changenow.io in your browser — no app download or account creation required. The swap interface loads immediately with two currency fields. ChangeNOW supports 1000+ coins across all major chains; no wallet connection is needed to browse rates or initiate a swap.
+
+**Step 2: Select your currency pair**
+Select BTC in the FROM field and XMR in the TO field. The interface displays the current floating rate and estimated XMR output. If you prefer a guaranteed rate, toggle the Fixed Rate option in the widget header before entering your amount.
+
+**Step 3: Enter the amount**
+The minimum swap is $2 equivalent (approximately 0.000024 BTC at current prices). There is no published upper limit for standard swaps; very large amounts are better handled through ChangeNOW's OTC desk. Enter your BTC amount and review the XMR output shown before proceeding.
+
+**Step 4: Enter your Monero receiving wallet address**
+Paste your XMR wallet address into the receiving address field. Triple-check this address — Monero addresses are 95 characters long and ChangeNOW cannot reverse a completed swap. If you do not yet have a Monero wallet, Cake Wallet (mobile) and Feather Wallet (desktop) are well-regarded non-custodial options compatible with ChangeNOW deposits.
+
+**Step 5: Send the deposit**
+ChangeNOW generates a unique BTC deposit address for your swap. Send your BTC from your wallet to this address within the time window shown (typically 20 minutes for floating rate; shorter for fixed rate). Do not let the window expire — if it does, a new deposit address is required. Note that Monero swaps require block confirmations on both the sending (BTC) and receiving (XMR) networks.
+
+**Step 6: Receive your XMR**
+Settlement time for BTC/XMR typically runs 15–30 minutes. Monero's privacy architecture means incoming transactions do not appear on a standard public block explorer. Track your swap status via ChangeNOW's swap-tracking page using the unique swap ID generated at initiation.
+
+**Common mistakes to avoid:**
+- Sending BTC on a non-native network (e.g. BEP-20 WBTC instead of mainnet Bitcoin)
+- Address typos: XMR addresses cannot be recovered if entered incorrectly — always copy-paste, never type manually
+- Letting the deposit window expire on fixed rate swaps — the rate lock is time-bound
+- Using a custodial exchange deposit address as your XMR destination — some exchanges restrict incoming Monero from external swap services
+
+## Using ChangeNOW in Southeast Asia: Indonesia, Thailand, Philippines
+
+For users in Indonesia (regulated by OJK), Thailand (SEC TH), and the Philippines (BSP), ChangeNOW's no-KYC model addresses a structural gap in the local crypto landscape that domestic exchanges cannot fill.
+
+Local centralised exchanges in all three countries — Indodax (Indonesia), Bitkub (Thailand), Coins.ph (Philippines) — are required by their respective regulators to collect full government-issued ID before allowing trading. This is appropriate for the regulated domestic market, but it creates friction for users who want to access coins not listed on local platforms, move value cross-border, or convert between cryptocurrencies without maintaining yet another account with another exchange.
+
+ChangeNOW fills that gap as a non-custodial swap layer. You are not depositing funds into a ChangeNOW account: you send crypto to a routing swap address and receive the converted coin directly in your own self-custody wallet. ChangeNOW never holds your funds, which places it outside the scope of exchange licensing requirements in most SEA jurisdictions.
+
+Practically speaking: ChangeNOW is accessible via web browser in Indonesia, Thailand, and the Philippines without a VPN. The platform is not blocked by local ISPs as of October 2026, and requires no app store installation — important in markets where crypto app availability is restricted by platform content policies. Users in these countries can also access ChangeNOW's fiat on-ramp to convert IDR, THB, or PHP directly to crypto via Visa or Mastercard, subject to the card issuer's limits and the integrated on-ramp provider's KYC requirements.
+
+A note on legality: in Indonesia, Thailand, and the Philippines, using a non-custodial crypto swap service for personal asset conversion falls outside the scope of exchange regulations that target custodial trading platforms. You remain responsible for any applicable personal income or capital gains tax obligations in your jurisdiction. If in doubt about your specific situation, consult a local tax or legal advisor.
+
 ## What Happens If Your Swap Gets Flagged
 
 If your transaction is paused for compliance review, ChangeNOW will reach out via support. The process typically involves:
@@ -81,6 +138,20 @@ If your transaction is paused for compliance review, ChangeNOW will reach out vi
 3. A review period, after which the swap is processed or, in rare cases where the funds are determined to be from illicit sources, returned.
 
 Funds are not confiscated arbitrarily. The outcome is either completion or return. Users who have legitimately sourced funds typically clear review without issue. This is consistent with how regulated swap services globally manage AML obligations without demanding blanket KYC.
+
+## Troubleshooting Common ChangeNOW Issues
+
+**Transaction stuck / not arriving:**
+Check the ChangeNOW swap tracking page using your swap ID (generated when you initiated the swap). If the status shows "Confirming," the swap is waiting for network confirmations — BTC typically requires 1–3 confirmations (10–30 minutes), and XMR requires 10 confirmations (~20 minutes). If there is no progress after 60 minutes, contact ChangeNOW support via live chat or submit a support ticket at changenow.io/support with your swap ID included. First response via live chat averages under 15 minutes during business hours.
+
+**Wrong network sent:**
+If you sent an asset on the wrong network (e.g. USDT on TRC-20 instead of the expected ERC-20), contact ChangeNOW support immediately with your swap ID and the transaction hash from the blockchain explorer. ChangeNOW's policy is to attempt recovery if the asset is supported on the erroneously used network. Recovery is not guaranteed but has been successfully resolved in documented user cases.
+
+**Rate changed from what was quoted:**
+On floating rate swaps, the execution rate may differ from the quote shown at initiation due to market movement in the interval. If the final output differs materially from the estimate, ChangeNOW's interface will prompt you to confirm the updated amount before the swap finalises. To avoid rate uncertainty entirely, select Fixed Rate at initiation — the rate is locked regardless of market movement, though the base rate is slightly less favourable.
+
+**Support not responding:**
+ChangeNOW operates 24/7 live chat support accessible from the main site. If live chat is experiencing high volume, submit a support ticket at changenow.io/support with your swap ID, transaction hash, and a clear description of the issue. Ticket response times are typically 1–4 hours. All escalation is handled through the support portal — there is no separate phone or social media support channel.
 
 ## What users say
 
@@ -105,6 +176,7 @@ Funds are not confiscated arbitrarily. The outcome is either completion or retur
 ## My take
 
 > **Nakamura Haruto — My take:** The Ok-Pea-6054 case shows $2,600 USDC→XMR triggered a freeze — meaning the no-KYC claim is accurate for most pairs but XMR routes specifically carry more compliance friction than advertised. For mainstream pairs and retail-sized amounts, ChangeNOW's no-KYC track record is solid. If you're routing through Monero at meaningful size, factor in that extra friction and have a plan B.
+
 ## Verdict
 
 ChangeNOW does not require KYC for standard crypto swaps, no account, no ID, no registration. Compliance checks are threshold-triggered and AML-driven, not routine. With 1000+ coins, 4.6/5 on Trustpilot, and consistent fast settlement, it remains the most trusted no-KYC swap platform for users in Southeast Asia and beyond. If your swap volume is normal and your funds are legitimately sourced, you are extremely unlikely to encounter any friction.
@@ -130,3 +202,18 @@ ChangeNOW does not publish a hard public limit because thresholds are dynamic an
 
 **Is ChangeNOW safer than fully anonymous options like Trocador?**
 ChangeNOW offers a better trust signal, 450,000+ Trustpilot reviews, a long operational history since 2017, and a transparent compliance policy. Trocador prioritises privacy-coin routing but has a smaller user base and less operational history. For most users, ChangeNOW's balance of privacy and reliability is the stronger choice.
+
+**Can I use ChangeNOW in Indonesia?**
+Yes. ChangeNOW is accessible via web browser in Indonesia without a VPN. The platform is not a regulated Indonesian exchange and does not require OJK registration from users. Indonesians using ChangeNOW for crypto-to-crypto conversion retain full custody of their assets throughout the swap. You remain responsible for any applicable Indonesian income or capital gains tax obligations on your crypto activity.
+
+**What is the no-KYC limit in USD on ChangeNOW?**
+ChangeNOW does not publish a fixed USD threshold. In practice, swaps up to several thousand USD equivalent on mainstream pairs (BTC, ETH, USDT) proceed without KYC for the vast majority of users. Privacy coin swaps — particularly XMR in larger amounts — carry a higher chance of triggering review at lower thresholds. For swaps above $10,000 equivalent, consider ChangeNOW's OTC service or expect the possibility of a compliance check.
+
+**Does ChangeNOW share transaction data with governments?**
+ChangeNOW is incorporated in Estonia and operates under EU AML regulations. It does not proactively share individual transaction data with foreign governments. Like any EU-registered service, ChangeNOW is subject to legal process from EU authorities and may be required to provide records in the context of a legitimate investigation. The platform does not collect personal identity data for standard swaps, so there is limited data to share in the first instance.
+
+**Can I use ChangeNOW with a VPN?**
+Yes. ChangeNOW does not block VPN traffic at the platform level. Users in regions with restricted internet access commonly use VPNs to reach changenow.io, and no account or geo-verified identity is required for a standard swap. VPN use does not in itself trigger compliance holds.
+
+**Is ChangeNOW legal in Thailand?**
+Crypto-to-crypto swaps via non-custodial services like ChangeNOW are not explicitly regulated under Thailand's Digital Asset Business Act, which targets licensed exchanges and custodial operators. Individual use of swap services for personal asset conversion is not prohibited. Thai users are responsible for reporting any capital gains from crypto under Thai personal income tax rules. For business-scale activity, consult a Thai legal advisor.

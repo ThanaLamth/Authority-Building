@@ -34,10 +34,10 @@ ChangeNOW's fiat buy feature is not a native payment processor, it aggregates mu
 The infrastructure model also means compliance sits at the provider layer. ChangeNOW's no-KYC promise applies to its crypto-to-crypto swap engine. When you buy crypto with fiat, the card processor (MoonPay, Banxa, or similar) operates under their own KYC requirements, typically email verification and, for larger purchases, a government-issued ID. This is standard for any regulated fiat on-ramp globally.
 
 **Screenshot**
-File: `../media/live-changenow-fiat-buy.png.png`
+File: `../media/live-changenow-fiat-buy.png`
 Alt text: "ChangeNOW fiat buy crypto page, Buy/Sell tab July 2026"
 Caption: "ChangeNOW's Buy/Sell Crypto tab showing fiat on-ramp flow, captured July 2026."
-![ChangeNOW homepage](../media/live-changenow-fiat-buy.png)
+![ChangeNOW fiat buy](../media/live-changenow-fiat-buy.png)
 *ChangeNOW's Buy/Sell Crypto tab showing fiat on-ramp flow, captured July 2026.*
 
 ## Supported Fiat Currencies and SEA Options
@@ -68,17 +68,61 @@ Live homepage data confirmed: 1000+ assets supported, 98% Triumph Rate, $2 minim
 
 ChangeNOW's aggregated fiat on-ramp is price-competitive with direct MoonPay use while offering a broader coin selection through the connected swap layer. The advantage over Changelly and SimpleSwap is primarily ChangeNOW's trust track record (4.6/5 on Trustpilot, 450,000+ reviews).
 
-## Step-by-Step: Buying Crypto with Fiat on ChangeNOW
+## Current Rate: BTC via Fiat Buy on ChangeNOW (October 2026)
 
-1. Navigate to **changenow.io** and click the **Buy** tab (distinct from the Exchange/Swap tab).
-2. Select your fiat currency (e.g. THB, EUR, USD) and the crypto you want to receive (e.g. BTC, ETH, USDT).
-3. Enter the fiat amount, ChangeNOW displays the crypto you will receive after fees.
-4. Enter your **crypto wallet address** for the receiving currency.
-5. Click **Buy Now**, you are directed to the fiat provider's checkout page.
-6. Enter card details, verify email, complete any ID step if required.
-7. Upon payment confirmation, crypto is sent to your wallet, typically within 15–30 minutes.
+As of October 14, 2026, reference rates for crypto purchases via fiat on ChangeNOW:
+- BTC price: ~$83,377 (-2.56% past 7 days)
+- ETH price: ~$2,513 (-6.84% past 7 days)
+- Minimum buy: ~$30–50 USD equivalent (varies by provider and currency)
+- Card fee (added to market price): ~2–4% depending on provider and currency
 
-Minimum amounts vary by currency and provider. For most major pairs, the effective minimum is around $30–50 USD equivalent.
+Rate comparison for a $100 card buy:
+
+| Service | BTC received (approx.) | Fee structure | Settlement |
+|---|---|---|---|
+| ChangeNOW | ~0.001147–0.001169 BTC | ~2–4% provider fee | 15–30 min |
+| MoonPay (direct) | ~0.001128–0.001147 BTC | ~3.5–4.5% | 15–30 min |
+| Swapzone | Aggregates 18+ providers | Varies | 10–30 min |
+
+**Rate tip:** ChangeNOW's aggregated provider approach means you often see a slightly better rate than going to MoonPay directly, because the interface surfaces the best available quote across its integrated pool. Always confirm the total BTC amount shown at checkout before proceeding.
+
+## How to Buy Crypto with Card on ChangeNOW: Step by Step
+
+**Step 1: Go to changenow.io**
+Open changenow.io in your browser — no account required. Click the "Buy" tab at the top of the swap widget to enter fiat-to-crypto mode. The interface switches to a simplified buy flow.
+
+**Step 2: Select your currency pair**
+In the FROM field, select your fiat currency (USD, EUR, THB, IDR, PHP, etc.). In the TO field, select the crypto you want to receive (BTC, ETH, USDT, or any of 1000+ supported coins). ChangeNOW will show available provider quotes and the estimated crypto amount.
+
+**Step 3: Enter the amount**
+Enter your fiat amount. The minimum buy is typically around $30–50 equivalent depending on the provider and currency. The interface displays the full breakdown including the provider fee and the estimated crypto output after fees.
+
+**Step 4: Enter your receiving wallet address**
+Paste the wallet address for the crypto you are buying. Triple-check this address before proceeding. ChangeNOW cannot reverse a completed transaction, and crypto sent to a wrong address cannot be recovered. Use a self-custody wallet address (hardware or software wallet) rather than an exchange deposit address where possible.
+
+**Step 5: Send the deposit**
+Click "Buy Now." You are redirected to the provider's (MoonPay or Banxa) checkout page. Enter your payment card details, verify your email address, and submit any required identity documentation. This is the provider's KYC process — typically email verification for small amounts and a photo ID for larger purchases.
+
+**Step 6: Receive your crypto**
+After card payment is confirmed, the provider dispatches the crypto to your wallet address. Card purchases typically complete within 15–30 minutes. You will receive a confirmation email from the provider. Track the status using the order ID on ChangeNOW's tracker.
+
+**Common mistakes to avoid:**
+- Selecting the wrong network for tokens like USDT (ERC-20 vs TRC-20 vs BEP-20 — confirm with your wallet)
+- Entering an exchange deposit address as the destination — some exchanges add extra requirements for external incoming transfers
+- Starting a session and walking away before completing checkout — quote timers expire
+- Using a prepaid or virtual card — some providers decline these; use a standard Visa or Mastercard
+
+## Using ChangeNOW in Southeast Asia: Indonesia, Thailand, Philippines
+
+For users in Indonesia (regulated by OJK), Thailand (SEC TH), and the Philippines (BSP), ChangeNOW's fiat on-ramp offers a practical entry point for crypto purchases that complements — and in some cases replaces — the local exchange on-boarding process.
+
+Local regulated exchanges in Indonesia (Indodax), Thailand (Bitkub), and the Philippines (Coins.ph) require full KYC — government ID, selfie, sometimes proof of address — before you can deposit fiat or trade. That process can take days. ChangeNOW's fiat buy uses the provider's KYC (typically faster, email + ID within minutes), and delivers crypto directly to your wallet without an exchange account.
+
+For IDR users: card buy in Indonesian Rupiah is supported via ChangeNOW's integrated providers. In practice, most Indonesian Visa/Mastercard holders will be billed in USD at their bank's exchange rate, with the crypto arriving in your wallet. The process works on Indonesian-issued cards as long as the card is enabled for international online transactions. If your card is blocked for international use, stablecoin-to-crypto swaps (e.g. buying USDT via a local exchange, then swapping USDT to BTC on ChangeNOW's crypto-to-crypto layer) provide a workaround.
+
+For THB users: Thai Baht card buy is supported. Thai users have also found the crypto-to-crypto swap route useful — buying USDT or BNB on Bitkub (a regulated Thai exchange) and then swapping to other coins via ChangeNOW's KYC-free exchange layer. This two-step approach avoids the coin listing limitations of local Thai exchanges while keeping the fiat on-ramp through a regulated domestic channel.
+
+For PHP users: Philippine Peso support is available via card. Coins.ph and PDAX are the dominant local exchanges; ChangeNOW's fiat on-ramp provides an alternative for coins not listed locally and for users who prefer not to maintain additional exchange accounts.
 
 ## ChangeNOW Fiat Buy vs Binance P2P and Local Exchanges
 
@@ -89,6 +133,20 @@ For SEA users, Binance P2P and local exchanges (Indodax in Indonesia, Bitkub in 
 - **ChangeNOW fiat buy**, No ChangeNOW account needed; fast (15–30 min); card fee applies; KYC at provider level only; better for occasional or small purchases without wanting to maintain another exchange account.
 
 ChangeNOW's fiat buy is strongest for users who want a one-time or infrequent on-ramp without committing to an exchange relationship. For regular high-volume fiat-to-crypto, local regulated exchanges remain more cost-effective.
+
+## Troubleshooting Common ChangeNOW Issues
+
+**Transaction stuck / not arriving:**
+Check the ChangeNOW order tracker using your order ID. If the payment was confirmed but crypto has not arrived after 30 minutes, contact ChangeNOW support via live chat or submit a ticket at changenow.io/support with your order ID. First response via live chat is typically under 15 minutes during business hours.
+
+**Wrong network sent:**
+If you selected the wrong network for a token (e.g. USDT on TRC-20 when your wallet expected ERC-20), contact ChangeNOW support immediately with your swap ID and transaction hash. ChangeNOW's policy is to attempt recovery if the asset is supported on the erroneously used network. Contact the on-ramp provider (MoonPay or Banxa) separately if the issue is on the payment side.
+
+**Rate changed from what was quoted:**
+The fiat buy rate shown at checkout is the rate that applies. Complete the checkout in a single session — if you leave and return after the quote timer expires, the rate will refresh (and may be higher or lower). For crypto-to-crypto conversions, use Fixed Rate at initiation to avoid floating rate movement.
+
+**Support not responding:**
+ChangeNOW operates 24/7 live chat. If live chat is experiencing high volume, submit a support ticket at changenow.io/support with your order ID, transaction details, and a description. Ticket response times average 1–4 hours. For fiat payment issues, contact the on-ramp provider (MoonPay or Banxa) directly in parallel, as they control the payment processing side.
 
 ## What users say
 
@@ -113,6 +171,7 @@ ChangeNOW's fiat buy is strongest for users who want a one-time or infrequent on
 ## My take
 
 > **Nakamura Haruto — My take:** The 47+ fiat currency claim holds on the live interface. Yuan's USDT/USDD mixup story is directly relevant here — ChangeNOW's support caught and resolved a user error in real time. That's what separates a fiat on-ramp from a DEX: when something goes sideways, there's a human on the other end who can actually help.
+
 ## Verdict
 
 ChangeNOW's fiat on-ramp delivers 47+ currency support, card buy via Visa/Mastercard, and optional bank transfer (SEPA region), all without a ChangeNOW account. Fee rates of 2–4% sit at the competitive end of the on-ramp market. The provider-side KYC step is required (standard for all regulated fiat-to-crypto globally) and separate from ChangeNOW's no-KYC swap infrastructure. For SEA users seeking a low-friction first crypto purchase, it is among the best options available in 2026.
@@ -138,3 +197,18 @@ Card buy (Visa/Mastercard) is the most universally available option for SEA user
 
 **How does ChangeNOW fiat buy compare to buying directly through MoonPay?**
 The rates are comparable. ChangeNOW's advantage is the integrated swap layer, you can buy fiat-to-USDT and then immediately swap to any of 1000+ coins. Direct MoonPay limits you to its own coin list, which is smaller.
+
+**Which fiat currencies does ChangeNOW support for SEA buyers?**
+ChangeNOW's fiat on-ramp supports IDR (Indonesian Rupiah), THB (Thai Baht), PHP (Philippine Peso), MYR (Malaysian Ringgit), and SGD (Singapore Dollar) among its 47+ currencies. Availability may vary by provider at the time of purchase. Check the live interface at changenow.io for the most current currency list.
+
+**What is the fiat minimum buy on ChangeNOW?**
+The minimum fiat purchase on ChangeNOW varies by currency and provider, but is typically around $30–50 USD equivalent. For THB this is approximately 1,100–1,800 THB; for IDR approximately Rp450,000–750,000. The exact minimum is shown dynamically in the interface when you select your currency pair.
+
+**Is card buying on ChangeNOW safe?**
+Yes. ChangeNOW routes card payments through regulated on-ramp providers (MoonPay, Banxa) who are licensed in multiple jurisdictions and use industry-standard payment security (PCI-DSS compliance). ChangeNOW itself does not handle or store your card details. The platform has 450,000+ Trustpilot reviews at 4.6/5, providing a strong operational track record signal.
+
+**Does buying crypto with fiat on ChangeNOW require ID?**
+ChangeNOW itself does not require identity documents. However, the fiat on-ramp provider (MoonPay, Banxa) requires at minimum email verification, and for purchases above certain thresholds (typically $150–500 depending on the provider), a government-issued photo ID. This is a regulatory requirement applicable to all fiat-to-crypto providers globally, not a ChangeNOW-specific policy.
+
+**ChangeNOW vs MoonPay for fiat buy: which is better?**
+ChangeNOW aggregates MoonPay and other providers behind a unified interface, so in many cases you get MoonPay rates with the additional benefit of ChangeNOW's 1000+ coin swap layer. If you want to buy USDT and immediately swap to a less common coin, ChangeNOW is the better integrated solution. For a simple one-time BTC or ETH purchase with full MoonPay support options, going directly to MoonPay is equivalent but has a smaller coin selection.
