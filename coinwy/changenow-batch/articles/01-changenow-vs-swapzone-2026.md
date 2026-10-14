@@ -58,6 +58,63 @@ Caption: `ChangeNOW homepage reviewed July 2026, direct swap interface, no regis
 
 ---
 
+## Step-by-step: ChangeNOW direct vs Swapzone
+
+The practical difference between these two services shows up in the actual click paths. Walking through both flows reveals where the time gap comes from.
+
+### Using ChangeNOW directly (4 steps, 5-15 min total)
+
+**Step 1 — Select your pair and amount.** Open changenow.io. The swap widget is front and center with no login prompt. Set BTC as the send coin and ETH as the receive coin. Enter your amount. At current prices (BTC $83,377, ETH $2,513), sending 0.1 BTC shows approximately 3.317 ETH at the floating rate. Toggle to fixed rate if you want the exact output locked in before sending.
+
+**Step 2 — Enter your receiving wallet address.** Paste your ETH destination address. No registration prompt appears. ChangeNOW does not ask for an email, account, or any personal information for standard crypto-to-crypto swaps.
+
+**Step 3 — Generate the deposit address.** ChangeNOW generates a unique BTC deposit address for your swap instantly. If you selected fixed rate, it locks at this point. Your exchange ID is created here — save it for tracking and support.
+
+**Step 4 — Send and track.** Transfer BTC to the deposit address from your wallet. The tracking page updates automatically through four stages: awaiting deposit, confirming on-chain, exchanging, sending ETH to your address. BTC to ETH under normal conditions: 5-15 minutes from first network confirmation.
+
+### Using Swapzone (5-6 steps, 10-30 min total)
+
+**Step 1 — Open Swapzone and set the pair.** Go to swapzone.io, select BTC to ETH, enter 0.1 BTC.
+
+**Step 2 — Wait for the provider query.** Swapzone queries 18+ providers simultaneously. Results populate in 5-15 seconds. ChangeNOW typically appears alongside competitors showing rates and estimated settlement times.
+
+**Step 3 — Review and select a provider.** This step does not exist in the direct ChangeNOW flow. You compare ChangeNOW against alternatives by rate, speed, and provider rating. Decision time varies from 10 seconds to several minutes.
+
+**Step 4 — Proceed through provider terms.** Swapzone forwards you to the selected provider's interface. If you chose ChangeNOW, you are now at ChangeNOW's own deposit flow anyway.
+
+**Step 5 — Enter your receiving address.** Identical to ChangeNOW direct from this point.
+
+**Step 6 — Send and track.** Settlement time depends on the provider selected. ChangeNOW: 5-15 min. Other providers: 10-30 min typical.
+
+**The overhead:** The aggregator query, provider selection, and routing step add a realistic 5-10 minutes of elapsed time compared to going direct. For users who have already verified that ChangeNOW delivers competitive rates on their pair, the Swapzone steps add process friction without adding value.
+
+---
+
+## Live rate comparison (October 14, 2026)
+
+At time of writing: BTC at $83,377, ETH at $2,513, XMR at $528.85. Live ChangeNOW widget data:
+
+| Swap | ChangeNOW rate | Approximate output |
+|---|---|---|
+| 0.1 BTC to ETH (floating) | 1 BTC = 33.17 ETH | ~3.317 ETH |
+| 1 BTC to XMR (floating) | 1 BTC = 157.66 XMR | 157.66 XMR |
+| 0.1 BTC to ETH via Swapzone (best provider) | Up to 0.8% above ChangeNOW | ~3.32-3.34 ETH best case |
+| 0.1 BTC to ETH via Swapzone (ChangeNOW selected) | Same ChangeNOW rate | ~3.317 ETH |
+
+On common pairs like BTC to ETH, the spread across Swapzone's 18+ providers on a typical day runs 0.1-0.8%. On a 0.1 BTC swap at current prices ($8,337), a 0.5% difference is about $41. Worth checking for large swaps; marginal for small retail amounts.
+
+**When to check Swapzone first:**
+- Uncommon pairs (BTC to ATOM, ETH to AVAX) where niche providers may undercut ChangeNOW
+- Large swaps above $5,000 where a 0.5% rate difference becomes material
+- First swap on a new pair to establish a rate baseline before committing to a workflow
+
+**When to go direct to ChangeNOW:**
+- Common pairs (BTC, ETH, USDT, XMR) at standard retail amounts
+- Speed is the primary constraint
+- API integration or repeat workflows where ChangeNOW is already confirmed as competitive
+
+---
+
 ## When ChangeNOW is the better choice
 
 ### Speed advantage
@@ -89,6 +146,26 @@ Caption: `ChangeNOW swap interface reviewed July 2026, no registration, fixed an
 
 ---
 
+## API and integration comparison
+
+### ChangeNOW API
+
+ChangeNOW's API is a direct swap provider relationship. Applications call ChangeNOW, receive a rate quote, generate a deposit address, and track settlement. No aggregator overhead, no third-party routing after the API call. Documented integrations include:
+
+- **Hardware wallets:** Ledger Live, Trezor Suite, Tangem — the three most widely used hardware wallet interfaces
+- **Mobile wallets:** NOW Wallet, Trust Wallet, and multiple others embedding in-app swap functionality
+- **DeFi dashboards and portfolio apps** surfacing swap access alongside holdings tracking
+
+In October 2026, ChangeNOW announced MCP (Model Context Protocol) client support, enabling AI agents and automation tools to execute swaps programmatically via the same API layer. This is the standard direct provider relationship: the application integrates ChangeNOW, users swap without leaving the host interface.
+
+### Swapzone API
+
+Swapzone's API is an aggregator layer rather than a direct provider. Applications call Swapzone, which queries multiple providers, returns ranked results, and routes users to the selected provider. This adds value for apps where rate comparison across providers is itself the product feature. The trade-offs: one extra routing layer between the app and settlement, provider availability is not guaranteed for every pair at all times, and settlement reliability is provider-dependent after routing.
+
+**Builder verdict:** ChangeNOW for production wallet integrations where reliability and direct settlement predictability matter. Swapzone's API for apps where showing rate comparison is the core user experience.
+
+---
+
 ## When Swapzone gives you a better outcome
 
 **First-time swaps on unfamiliar pairs.** On pairs where you have no rate baseline, Swapzone's multi-provider query surfaces differences of 0.3 to 0.8% across providers on a typical day. On a $5,000 swap that is $15 to $40. The comparison takes 10 seconds and is worth doing before committing to any single provider.
@@ -113,6 +190,23 @@ Caption: `ChangeNOW appears in Swapzone query results alongside other providers.
 Swapzone's 18+ partners are solid for mainstream pairs. But provider availability is not static, partners suspend specific pairs, adjust limits, or temporarily drop from query results. On a given day, Swapzone may return fewer active providers for a specific pair than expected.
 
 Swapzone also does not aggregate every available provider. ChangeNOW's direct fiat rails, Binance Convert, and OTC desks do not appear in Swapzone results. The partner set is curated, not exhaustive.
+
+---
+
+## When each service wins
+
+| Scenario | Best choice | Reason |
+|---|---|---|
+| BTC to ETH, standard retail amount | ChangeNOW direct | 5-15 min settlement, competitive rate, no routing overhead |
+| BTC to XMR swap | ChangeNOW direct | Established XMR liquidity, 15-30 min typical |
+| First swap on an unfamiliar altcoin pair | Swapzone | Rate comparison across 18+ providers worth the 30-second check |
+| Large swap above $5,000 | Check Swapzone first | 0.5% rate difference = $25+ at this size |
+| Fiat to crypto via Visa or Mastercard | ChangeNOW direct | 47+ fiat currencies, direct card rails, established MoonPay/Banxa integration |
+| Building a wallet or dApp with swap | ChangeNOW API | Hardware wallet standard, no aggregator overhead, direct settlement |
+| Repeat workflow on a verified pair | ChangeNOW direct | Already confirmed competitive; Swapzone step is unnecessary friction |
+| Niche altcoin with uncertain ChangeNOW liquidity | Swapzone | May surface a specialist provider with better rate or availability |
+| Speed is a hard constraint | ChangeNOW direct | Eliminates the 5-10 min aggregator routing delay |
+| Comparing fixed vs floating across providers | Swapzone | Multi-provider filter shows both rate types simultaneously in one query |
 
 ---
 
@@ -152,6 +246,22 @@ Swapzone also does not aggregate every available provider. ChangeNOW's direct fi
 
 > **Coinwy Editorial — My take:** Django_McFly's "masterful SEO" criticism is a real observation, but it's an argument about marketing, not product quality. The 98% Triumph Rate is a verifiable completion metric — 98 out of 100 swaps settle at or within 0.5% of the quoted rate. For small-to-medium swaps, that's the number that matters.
 
+## Troubleshooting
+
+### Rate drift between Swapzone query and ChangeNOW execution
+
+Swapzone's rate query and ChangeNOW's deposit address generation happen at different timestamps. In volatile markets, the rate shown on Swapzone may not match ChangeNOW's live quote when you arrive on their interface. This is expected behavior, not an error. Always confirm the rate on the ChangeNOW widget directly before sending funds. If you selected a fixed rate, ChangeNOW locks it at deposit address generation — not at Swapzone query time.
+
+### Stuck swaps on ChangeNOW
+
+If your ChangeNOW swap shows "confirming" longer than expected, first check the on-chain transaction using your sending transaction hash on a block explorer. If the blockchain transaction confirmed but ChangeNOW has not progressed, contact ChangeNOW support via live chat with your exchange ID. Review patterns suggest support resolves standard delays within 1-2 hours during business hours. Keep access to the sending wallet address until the swap fully settles.
+
+### Stuck swaps on Swapzone-routed transactions
+
+If a swap is stuck after Swapzone routed to a provider, the resolution path depends on which provider was selected. Contact that provider directly using the exchange ID from Swapzone's confirmation page. Swapzone support can escalate but cannot intervene in provider execution directly. This is one concrete reason to prefer going direct to ChangeNOW: a single support contact point instead of a two-party coordination problem.
+
+---
+
 ## Verdict: which to use
 
 **Use ChangeNOW if:**
@@ -188,3 +298,21 @@ Swapzone lists 1,600+ coins by aggregating providers. ChangeNOW has 1000+ coins 
 
 **Is ChangeNOW legit?**
 Yes. ChangeNOW has been operating since 2017, has 450,000+ Trustpilot ratings (4.6/5), and is integrated into major crypto wallets and products. It is one of the most established non-custodial swap services available.
+
+**Is Swapzone better than ChangeNOW?**
+They serve different purposes. Swapzone is an aggregator that includes ChangeNOW as one of 18+ providers — it is not a direct exchange. For standard swaps on common pairs, ChangeNOW direct is faster and simpler. Swapzone adds value when comparing rates across providers on unfamiliar pairs. The practical workflow for most users: use Swapzone for first-time pair exploration, then go direct to ChangeNOW for repeat swaps once you have confirmed it is competitive.
+
+**Does Swapzone include ChangeNOW?**
+Yes. ChangeNOW is one of Swapzone's 18+ exchange partners. For BTC, ETH, and USDT pairs, ChangeNOW consistently appears in Swapzone query results. When ChangeNOW is the best-rate provider for your pair, the swap executes through ChangeNOW's infrastructure regardless — the Swapzone layer is purely routing.
+
+**Which gives better rates, ChangeNOW or Swapzone?**
+Swapzone may occasionally surface a provider with a marginally better rate than ChangeNOW direct. On common pairs, the spread across providers typically runs 0.1-0.8%. On a $1,000 swap, the difference is usually $1-$8. For swaps above $5,000, the Swapzone comparison check is worth 30 seconds. For smaller retail amounts, going direct to ChangeNOW is usually the faster and equivalent-rate choice.
+
+**Is Swapzone safe?**
+Swapzone itself is a routing layer that does not hold user funds. Safety depends on which provider handles the swap after routing. Swapzone's listed providers include established services like ChangeNOW (4.6/5 Trustpilot, 450K+ reviews) and others with track records. Standard best practice: verify the deposit address before sending, keep your exchange ID, and maintain access to the sending wallet until the swap confirms.
+
+**ChangeNOW vs Swapzone for large amounts?**
+For swaps above $5,000, run the Swapzone comparison first. A 0.3-0.5% rate difference represents $15-$25 per $5,000 swapped, which is worth the 30-second check. If ChangeNOW returns the best rate, proceed direct. For amounts above $20,000, note that ChangeNOW's compliance review threshold may apply. StealthEX has no published upper limit for no-KYC swaps if that is a specific requirement.
+
+**Which is faster, ChangeNOW or Swapzone?**
+ChangeNOW is faster. Direct swaps on common pairs settle in 5-15 minutes. Swapzone adds an aggregator routing step plus provider selection overhead, typically adding 5-10 minutes before settlement even begins. If ChangeNOW is selected through Swapzone, total time runs 10-25 minutes. Going direct to ChangeNOW eliminates the routing step entirely.
