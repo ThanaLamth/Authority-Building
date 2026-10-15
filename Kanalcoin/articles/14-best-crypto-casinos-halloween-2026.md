@@ -90,7 +90,7 @@ Gamdom's Spooky Hill Weekend Leaderboard is the largest Halloween prize pool cur
 >
 > — r/AR15QandA, [Best Crypto Casino Rails](https://www.reddit.com/r/AR15QandA/comments/1x3wwc4/best_crypto_casino_rails_which_casino_is_actually/), October 12, 2026
 
-**Trustpilot (Gamdom):** 3.9 / 5 from 5,001+ reviews — rated "Great" according to Coinstats, October 2026.
+**Trustpilot (Gamdom):** Rating unavailable as of October 15, 2026 — Trustpilot flagged the page for guideline breach (fake review removal). See [trustpilot.com/review/gamdom.com](https://www.trustpilot.com/review/gamdom.com) for individual reviews.
 
 | Detail | Value |
 |---|---|
@@ -169,6 +169,9 @@ Wild.io's Halloween 2026 promotion is the most structured and beginner-accessibl
 - $2,500 + 2,500 free spins for 13 top finishers
 - Bet on Wild.io Original games — runs right through Halloween itself
 
+![Wild.io homepage - October 15 2026 - Fortune Lab 50000 active](https://raw.githubusercontent.com/ThanaLamth/Authority-Building/main/images/wildio-halloween-promo.png)
+*Wild.io homepage captured October 15, 2026. Sidebar: Fortune Lab $50,000 promotion active. Welcome offer up to $5,000 + 200 Free Spins. Trustpilot Rated Excellent, 650+ reviews.*
+
 **Wagering requirement:** Every bonus carries **40x wagering** — meaning bonus funds must be bet 40 times before withdrawing. Free spin winnings have no cap. This is standard (and on the lower end) for the industry.
 
 > **Beginner note on wagering requirements:** If you receive a $10 bonus with 40x wagering, you need to place $400 in bets before you can withdraw bonus-derived winnings. This doesn't mean you need to deposit $400 — you're betting with your casino balance and the bonus-derived funds work through as you play.
@@ -189,6 +192,9 @@ Wild.io's Halloween 2026 promotion is the most structured and beginner-accessibl
 ### 4. BC.Game — October Multiplier Challenge + Halloween Slots
 
 **What's running:**
+![BC.Game homepage captured October 15 2026](https://raw.githubusercontent.com/ThanaLamth/Authority-Building/main/images/bcgame-halloween-promo.png)
+*BC.Game homepage captured October 15, 2026. BC Game Masters esports banner active. Note: geo-detection served Vietnamese interface.*
+
 BC.Game's October 2026 promotion is the Multiplier Challenge: play Croco games (BC.Game's in-house game provider), hit a **100x multiplier**, and you receive free spins. A $50+ wager on eligible Croco games also qualifies for a **$1,300 cash drop** — a proportional distribution to all qualifying players.
 
 This is a smaller event than Gamdom's or Rollbit's, but it has a key advantage: **it runs all October** with no time pressure, and the cash drop format means even players who don't win the leaderboard receive something back proportionally.
@@ -350,9 +356,19 @@ Players who want to enjoy Halloween slot gaming over a long session without burn
 
 ---
 
-## Trustpilot Signals — Verified September–October 2026
+## Trustpilot Status — Live Capture October 15, 2026
 
-**BC.Game (Trustpilot sample, Sept–Oct 2026):**
+**Update October 15, 2026:** Both BC.Game and Gamdom have been flagged by Trustpilot for guideline breaches. Trustpilot states it has removed fake reviews from both pages. The aggregate star rating is no longer displayed on either profile.
+
+![Trustpilot BC.Game page - October 15 2026 - Rating unavailable fake reviews removed](https://raw.githubusercontent.com/ThanaLamth/Authority-Building/main/images/trustpilot-bcgame.png)
+*Trustpilot BC.Game profile — captured October 15, 2026. "Breach of guidelines: We have removed a number of fake reviews for this company." Rating shown as unavailable.*
+
+![Trustpilot Gamdom page - October 15 2026 - Rating unavailable fake reviews removed](https://raw.githubusercontent.com/ThanaLamth/Authority-Building/main/images/trustpilot-gamdom.png)
+*Trustpilot Gamdom profile — captured October 15, 2026. Same breach of guidelines notice. Individual reviews still visible.*
+
+**What this means for players:** The previously cited 3.9/5 aggregate scores for both platforms are no longer valid. Individual reviews (verified by Trustpilot's link authentication) remain readable. Both positive and critical experiences are represented. Treat the platforms as unrated on Trustpilot until the issue resolves.
+
+**BC.Game individual reviews (verified links, Sept–Oct 2026):**
 
 > "Great platform with an excellent customer support. They also provide very nice promotions for new and VIP players. All in all, definitely 5 ⭐!"
 >
@@ -362,7 +378,15 @@ Players who want to enjoy Halloween slot gaming over a long session without burn
 >
 > — Anonymine, [★ Trustpilot](https://www.trustpilot.com/reviews/6ab96fc614a692101339d6a6), September 27, 2026
 
-**Gamdom (Trustpilot): 3.9/5 from 5,001+ reviews** — rated "Great" (Coinstats, October 2026).
+**Gamdom individual reviews (captured from live Trustpilot page, October 2026):**
+
+> "Just sign up last week to be uneast i had very good experience no issue with s Deposit and withdraw mostly withdraw was very fast only 5 minutes I got in crypto wallet I would recommend any one loo..."
+>
+> — mehmet Polat, [★★★★★ Trustpilot](https://www.trustpilot.com/review/gamdom.com), July 26, 2026
+
+> "This is the most scammi casino out there, it's not possible to deposit a lot of money and never win something back.. their games are directly scams without rtp wrote on website..."
+>
+> — B Alex, [★ Trustpilot](https://www.trustpilot.com/review/gamdom.com), October 2026
 
 ---
 
