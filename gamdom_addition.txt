@@ -1,0 +1,17 @@
+﻿
+**⚠️ User experience warning — honest disclosures from Reddit (Oct 2026):**
+
+> "I've been using Gamdom for a while, making real deposits, playing fairly, and honestly losing more often than winning. No bots, no VPNs, no tricks — just a regular player. One day, someone in the chat randomly tipped me... I got lucky and ended up winning around **$1,700**. Then, completely out of nowhere, they confiscated my entire balance — without giving me a real explanation."
+>
+> — u/Persik333, [Gamdom Confiscated My Legit Balance](https://www.reddit.com/r/onlinegambling/comments/1k91yqq/gamdom_confiscated_my_legit_balance/), r/onlinegambling
+
+> "For the last 4 months, I've been testing Gamdom's Originals, specifically Keno... Every time I reach the daily $5,000 wager limit, I suddenly start losing heavily. Not just a normal losing streak, but a complete collapse where I lose everything I've built up. I'm down roughly **$12,000 on Keno alone** because of this."
+>
+> — u/AdTop8820, [Gamdom Originals are scam](https://www.reddit.com/r/gamdom/comments/1tzikk1/gamdom_originals_are_scam_my_experience_after_4/), r/gamdom, June 2026
+
+**What this means for new players:** Gamdom's Spooky Hill is a real event with a real $50,000 prize pool. However, you should know: (1) tips received from other users can be reverted if the sender was flagged for abuse — and Gamdom has confirmed this policy applies even when the recipient did nothing wrong; (2) Gamdom Originals games use proprietary RNG, not standard third-party provably-fair systems. Play external provider slots (Pragmatic, Hacksaw, etc.) if you want standard RTP and independent verification.
+
+**Gamdom also runs a BONUS third Halloween event (Oct 31–Nov 4):**
+The **$50K Exclusive High Roller Promotion** runs from October 31 to November 4, featuring a **$35,000 Leaderboard Tournament** for elite players. This is separate from the Spooky Hill and targets high-volume players with larger bankrolls.
+> Source: gamdom.com/promotions/the-50k-exclusive-high-roller-promotion (accessible via VPN/eligible regions)
+
