@@ -83,8 +83,8 @@ SITES = {
     "TrustsCrypto": {
         "next_num": 21,
         "author": "TrustsCrypto Editorial Team",
-        "slug_gambling": "best-crypto-casinos-halloween-2026",
-        "slug_swap": "best-crypto-swap-aggregators-christmas-2026",
+        "slug_gambling": "",
+        "slug_swap": "",
         "category_gambling": "/gambling/",
         "category_swap": "/defi/",
         "internal_casino": ["/top-crypto-exchanges-2026", "/top-10-crypto-by-market-cap-2026"],

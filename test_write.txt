@@ -1,0 +1,2 @@
+﻿Line 1 with 'single quotes' inside
+Line 2 fine
